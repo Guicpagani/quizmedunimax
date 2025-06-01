@@ -1,5 +1,4 @@
 import Image from "next/image";
-
 export default function Home() {
   return (
     <main className="min-h-screen p-8 flex flex-col items-center justify-center text-center">
@@ -18,4 +17,3 @@ export default function Home() {
     </main>
   );
 }
-
