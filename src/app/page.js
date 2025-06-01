@@ -27,7 +27,7 @@ export default function Home() {
         {/* Logo com fundo branco */}
         <div className="mb-8">
           <Image
-            src="/logo-medico-fundo-branco.png"
+            src="/logo-medico-atualizado.png"
             alt="Logo QuizMedUnimax"
             width={300}
             height={300}
