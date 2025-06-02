@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { getAuth, onAuthStateChanged } from "firebase/auth";
-import "../firebase"; // ou ajuste o caminho do firebase.js conforme seu projeto
+import "@/firebase"; // Certifique-se que o firebase.js esteja em src/firebase.js
 
 export default function Home() {
   const [user, setUser] = useState(null);
@@ -17,7 +17,15 @@ export default function Home() {
     return () => unsubscribe();
   }, []);
 
-  const isAdmin = user?.email === "guilherme.pagani449@al.unieduk.com.br";
+  const isAdmin = !!user && user.email === "guilherme.pagani449@al.unieduk.com.br";
+
+  if (user === null) {
+    return (
+      <div className="min-h-screen flex items-center justify-center text-gray-600 text-lg">
+        Carregando...
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-white text-gray-900 flex flex-col">
