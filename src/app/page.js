@@ -42,9 +42,8 @@ export default function Home() {
       <main className="flex flex-col items-center justify-center flex-1 px-4 pt-32 pb-10">
         <h2 className="text-3xl font-bold mb-2 text-center">Bem-vindo</h2>
         <p className="text-sm italic text-gray-500 text-center mb-6">
-          Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed.
-          Não se iluda, você foi mais preguiçoso que o cara que fez a bandeira do Japão. Lembre-se: Estude para aprender, não só para passar.
-        </p>
+  &quot;Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed&quot;. Não se iluda, você foi mais preguiçoso que o cara que fez a bandeira do Japão. Lembre-se: Estude para aprender, não só para passar.
+</p>
 
         <div className="mb-8">
           <Image
