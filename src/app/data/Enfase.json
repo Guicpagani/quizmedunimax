@@ -1,0 +1,28 @@
+{
+  "id": 4,
+  "title": "Enfase",
+  "questions": [
+    {
+      "id": 1,
+      "enunciado": "Como se enfatiza texto em negrito no Markdown?",
+      "alternatives": {
+        "A": "*saila*",
+        "B": "sim",
+        "C": "**nao**",
+        "D": "~~talvez~~"
+      },
+      "answer": "C"
+    },
+    {
+      "id": 2,
+      "enunciado": "Qual tag HTML enfatiza texto (itálico)?",
+      "alternatives": {
+        "A": "<b>nao</b>",
+        "B": "<i>sim</i>",
+        "C": "<strong>mds</strong>",
+        "D": "<em>aloha</em>"
+      },
+      "answer": "B"
+    }
+  ]
+}

@@ -1,58 +1,84 @@
-'use client';
-import { useState } from 'react';
-import { signInWithEmailAndPassword } from 'firebase/auth';
-import { auth, db } from '@/firebase';
-import { doc, getDoc } from 'firebase/firestore';
-import { useRouter } from 'next/navigation';
+'use client'
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+import { signInWithEmailAndPassword } from "firebase/auth";
+import { auth } from "../../firebase";
+import Image from "next/image";
 
 export default function LoginPage() {
-  const [email, setEmail] = useState('');
-  const [senha, setSenha] = useState('');
-  const [erro, setErro] = useState('');
+  const [email, setEmail] = useState("");
+  const [senha, setSenha] = useState("");
+  const [erro, setErro] = useState("");
+  const [carregando, setCarregando] = useState(false);
   const router = useRouter();
 
   const handleLogin = async (e) => {
     e.preventDefault();
+    setErro("");
+    setCarregando(true);
     try {
-      const cred = await signInWithEmailAndPassword(auth, email, senha);
-      const userDoc = await getDoc(doc(db, 'usuarios', cred.user.uid));
-
-      if (!userDoc.exists() || !userDoc.data().aprovado) {
-        setErro('Seu acesso ainda não foi aprovado.');
-        return;
-      }
-
-      router.push('/area-restrita');
-    } catch (error) {
-      setErro('E-mail ou senha inválidos.');
+      await signInWithEmailAndPassword(auth, email, senha);
+      router.push("/area-restrita");
+    } catch (err) {
+      setErro("Usuário ou senha inválidos.");
     }
+    setCarregando(false);
   };
 
   return (
-    <div className="p-6 max-w-md mx-auto">
-      <h1 className="text-xl font-bold mb-4">Login</h1>
-      <form onSubmit={handleLogin} className="flex flex-col gap-4">
-        <input
-          type="email"
-          placeholder="E-mail"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          required
-          className="border p-2 rounded"
+    <div className="flex min-h-screen">
+      {/* Esquerda - Imagem lateral */}
+      <div className="w-1/2 hidden md:block relative">
+        <Image
+          src="/sua-foto.png" // Coloque sua imagem na pasta /public e use o nome correto aqui!
+          alt="Foto Lateral"
+          fill
+          style={{ objectFit: 'cover' }}
+          priority
         />
-        <input
-          type="password"
-          placeholder="Senha"
-          value={senha}
-          onChange={(e) => setSenha(e.target.value)}
-          required
-          className="border p-2 rounded"
-        />
-        <button type="submit" className="bg-blue-600 text-white py-2 rounded">
-          Entrar
-        </button>
-        {erro && <p className="text-red-500 text-sm">{erro}</p>}
-      </form>
+      </div>
+
+      {/* Direita - Formulário de Login */}
+      <div className="flex flex-col justify-center items-center w-full md:w-1/2 p-8 bg-white">
+        {/* Seu logo */}
+        <div className="mb-8">
+          <Image
+            src="/logo-quizmedmax.png"
+            alt="Quizmedmax Logo"
+            width={180}
+            height={60}
+            priority
+          />
+        </div>
+
+        <form className="w-full space-y-4" onSubmit={handleLogin}>
+          <input
+            type="text"
+            placeholder="Username or email"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            className="w-full px-4 py-2 border rounded focus:outline-none focus:ring-2"
+            required
+          />
+          <input
+            type="password"
+            placeholder="Password"
+            value={senha}
+            onChange={(e) => setSenha(e.target.value)}
+            className="w-full px-4 py-2 border rounded focus:outline-none focus:ring-2"
+            required
+          />
+          <button
+            type="submit"
+            className="w-full py-2 rounded bg-blue-600 text-white font-semibold text-lg"
+            disabled={carregando}
+          >
+            {carregando ? "Entrando..." : "Entrar"}
+          </button>
+          {erro && <p className="text-red-500 text-sm mt-2">{erro}</p>}
+        </form>
+      </div>
     </div>
   );
 }
+

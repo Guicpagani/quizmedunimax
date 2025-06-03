@@ -1,0 +1,34 @@
+[
+  {
+    "pergunta": "O que significa SDC?",
+    "alternativas": [
+      "Sistema de Controle",
+      "Sistemas Digitais e Computadores",
+      "Software de Desenvolvimento",
+      "Semântica de Dados"
+    ],
+    "correta": 1
+  },
+  {
+    "pergunta": "Qual linguagem é mais usada em automação industrial?",
+    "alternativas": [
+      "Java",
+      "Python",
+      "Ladder",
+      "Ruby"
+    ],
+    "correta": 3
+  },
+  {
+    "pergunta": "O que faz um CLP?",
+    "alternativas": [
+      "Controla processos lógicos",
+      "Processa imagens",
+      "Gerencia bancos de dados",
+      "Executa aplicações web"
+    ],
+    "correta": 1
+  }
+]
+
+

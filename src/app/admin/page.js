@@ -3,7 +3,7 @@ import { useState } from "react";
 import { useRouter } from "next/navigation";
 import { getAuth } from "firebase/auth";
 import { collection, addDoc } from "firebase/firestore";
-import { db } from "@/firebase";
+import { auth, db } from '../../firebase';
 
 export default function AdminPage() {
   const router = useRouter();
