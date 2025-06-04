@@ -1,17 +1,30 @@
 'use client';
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import { useRouter } from "next/navigation";
 import { getQuizByTitle } from "../utils/getQuizData";
 
-export default function Quiz({ quizTitle }) {
-  const quizData = getQuizByTitle(quizTitle);
+// >>>>> ADICIONE ESSES TIPOS NO TOPO <<<<<
+type Questao = {
+  pergunta: string;
+  alternativas: string[];
+  correta: number;
+  imagem?: string;
+};
+type QuizData = {
+  title: string;
+  data: Questao[];
+};
+
+export default function Quiz({ quizTitle }: { quizTitle: string }) {
+  // >>>> DEFINA O TIPO DO RETORNO <<<<
+  const quizData: QuizData | undefined = getQuizByTitle(quizTitle);
   const router = useRouter();
 
   // Estados para quiz
   const [questaoAtual, setQuestaoAtual] = useState(0);
-  const [resposta, setResposta] = useState(null);
+  const [resposta, setResposta] = useState<number | null>(null);
   const [respondido, setRespondido] = useState(false);
-  const [acertou, setAcertou] = useState(null);
+  const [acertou, setAcertou] = useState<boolean | null>(null);
   const [acertos, setAcertos] = useState(0);
 
   // Estados do painel IA
@@ -19,6 +32,7 @@ export default function Quiz({ quizTitle }) {
   const [loadingPainel, setLoadingPainel] = useState(false);
   const [respostaPainel, setRespostaPainel] = useState("");
 
+  // >>>> CORRIJA A CONDICIONAL DE EXISTÊNCIA <<<<
   if (!quizData || !quizData.data || quizData.data.length === 0) {
     return (
       <div className="bg-white p-8 rounded-xl shadow text-center text-lg">
@@ -29,7 +43,7 @@ export default function Quiz({ quizTitle }) {
 
   const questao = quizData.data[questaoAtual];
 
-  function handleResponder(idx) {
+  function handleResponder(idx: number) {
     setResposta(idx);
     setRespondido(true);
     const correta = idx === (questao.correta - 1);
