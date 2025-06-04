@@ -23,22 +23,22 @@ export default function AdminPage() {
 
   if (!authenticated) {
     return (
-      <div className="min-h-screen flex items-center justify-center">
+      <div className="min-h-screen flex items-center justify-center bg-gray-50">
         <div className="bg-white p-6 rounded shadow-md w-full max-w-sm text-center">
-          <h2 className="text-xl font-bold mb-4">Login do Administrador</h2>
+          <h2 className="text-xl font-bold mb-4 text-gray-800">Login do Administrador</h2>
           <input
             type="email"
             placeholder="E-mail"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            className="w-full px-4 py-2 border rounded mb-3"
+            className="w-full px-4 py-2 border border-gray-400 rounded mb-3 text-gray-800 placeholder-gray-600 bg-white"
           />
           <input
             type="password"
             placeholder="Senha"
             value={password}
             onChange={(e) => setPassword(e.target.value)}
-            className="w-full px-4 py-2 border rounded mb-3"
+            className="w-full px-4 py-2 border border-gray-400 rounded mb-3 text-gray-800 placeholder-gray-600 bg-white"
           />
           <button
             onClick={handleLogin}
@@ -52,11 +52,10 @@ export default function AdminPage() {
     );
   }
 
-  // ✅ Painel administrativo com acesso aos quizzes
   return (
-    <div className="min-h-screen p-6 flex flex-col items-center">
-      <h1 className="text-2xl font-bold mb-4">Painel do Administrador</h1>
-      <p className="mb-6 text-center">Você tem acesso total às funcionalidades do sistema.</p>
+    <div className="min-h-screen p-6 flex flex-col items-center bg-white">
+      <h1 className="text-2xl font-bold mb-4 text-gray-800">Painel do Administrador</h1>
+      <p className="mb-6 text-center text-gray-700">Você tem acesso total às funcionalidades do sistema.</p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 w-full max-w-md">
         <Link
@@ -87,4 +86,3 @@ export default function AdminPage() {
     </div>
   );
 }
-
