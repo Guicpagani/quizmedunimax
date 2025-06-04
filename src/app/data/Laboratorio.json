@@ -1,28 +1,46 @@
 {
-  "id": 3,
-  "title": "SFC",
-  "questions": [
+  "title": "LABORATORIO",
+  "data": [
     {
-      "id": 1,
-      "enunciado": "O que significa SFC em controle e automação?",
-      "alternatives": {
-        "A": "Sequential Function Chart",
-        "B": "Simple Flow Control",
-        "C": "System Fault Check",
-        "D": "Signal Frequency Control"
-      },
-      "answer": "A"
+      "pergunta": "Qual a capital do Brasil?",
+      "alternativas": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correta": 1
     },
     {
-      "id": 2,
-      "enunciado": "Num diagrama SFC, o que representa um retângulo em forma de degraus?",
-      "alternatives": {
-        "A": "Transição",
-        "B": "Ação",
-        "C": "Passo",
-        "D": "Fluxo"
-      },
-      "answer": "C"
+      "pergunta": "O que é ATP?",
+      "alternativas": [
+        "Proteína",
+        "Energia",
+        "Enzima",
+        "Vitamina"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual a 2 capital do Brasil?",
+      "alternativas": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correta": 0,
+      "imagem": "/imagens/2.png"
+    },
+    {
+      "pergunta": "O que é ATP?",
+      "alternativas": [
+        "Proteína",
+        "Energia",
+        "Enzima",
+        "Vitamina"
+      ],
+      "correta": 2
     }
   ]
 }

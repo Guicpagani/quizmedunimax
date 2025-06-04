@@ -1,28 +1,46 @@
 {
-  "id": 4,
-  "title": "Enfase",
-  "questions": [
+  "title": "ENFASE",
+  "data": [
     {
-      "id": 1,
-      "enunciado": "Como se enfatiza texto em negrito no Markdown?",
-      "alternatives": {
-        "A": "*saila*",
-        "B": "sim",
-        "C": "**nao**",
-        "D": "~~talvez~~"
-      },
-      "answer": "C"
+      "pergunta": "Qual a capital do Brasil?",
+      "alternativas": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correta": 1
     },
     {
-      "id": 2,
-      "enunciado": "Qual tag HTML enfatiza texto (itálico)?",
-      "alternatives": {
-        "A": "<b>nao</b>",
-        "B": "<i>sim</i>",
-        "C": "<strong>mds</strong>",
-        "D": "<em>aloha</em>"
-      },
-      "answer": "B"
+      "pergunta": "O que é ATP?",
+      "alternativas": [
+        "Proteína",
+        "Energia",
+        "Enzima",
+        "Vitamina"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual a 2 capital do Brasil?",
+      "alternativas": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correta": 0,
+      "imagem": "/imagens/2.png"
+    },
+    {
+      "pergunta": "O que é ATP?",
+      "alternativas": [
+        "Proteína",
+        "Energia",
+        "Enzima",
+        "Vitamina"
+      ],
+      "correta": 2
     }
   ]
 }
