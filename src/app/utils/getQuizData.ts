@@ -16,4 +16,5 @@ export function getQuizByTitle(title: string) {
     (q) => q.title && q.title.toLowerCase() === title.toLowerCase()
   );
 }
-"// foráar build" 
+
+// for√ßar build
