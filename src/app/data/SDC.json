@@ -1,34 +1,46 @@
-[
-  {
-    "pergunta": "O que significa SDC?",
-    "alternativas": [
-      "Sistema de Controle",
-      "Sistemas Digitais e Computadores",
-      "Software de Desenvolvimento",
-      "Semântica de Dados"
-    ],
-    "correta": 1
-  },
-  {
-    "pergunta": "Qual linguagem é mais usada em automação industrial?",
-    "alternativas": [
-      "Java",
-      "Python",
-      "Ladder",
-      "Ruby"
-    ],
-    "correta": 3
-  },
-  {
-    "pergunta": "O que faz um CLP?",
-    "alternativas": [
-      "Controla processos lógicos",
-      "Processa imagens",
-      "Gerencia bancos de dados",
-      "Executa aplicações web"
-    ],
-    "correta": 1
-  }
-]
-
-
+{
+  "title": "SDC",
+  "data": [
+    {
+      "pergunta": "Qual a capital do Brasil?",
+      "alternativas": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "O que é ATP?",
+      "alternativas": [
+        "Proteína",
+        "Energia",
+        "Enzima",
+        "Vitamina"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual a 2 capital do Brasil?",
+      "alternativas": [
+        "São Paulo",
+        "Brasília",
+        "Rio de Janeiro",
+        "Salvador"
+      ],
+      "correta": 0,
+      "imagem": "/imagens/2.png"
+    },
+    {
+      "pergunta": "O que é ATP?",
+      "alternativas": [
+        "Proteína",
+        "Energia",
+        "Enzima",
+        "Vitamina"
+      ],
+      "correta": 2
+    }
+  ]
+}
