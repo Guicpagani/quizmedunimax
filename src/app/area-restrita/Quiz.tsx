@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import React, { useState } from "react";
 import { useRouter } from "next/navigation";
@@ -42,7 +42,6 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       setScore(score + 1);
     }
 
-    // Habilita o botão de avançar
     setCanAdvance(true);
   };
 
@@ -62,7 +61,6 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
     router.push("/area-restrita");
   };
 
-  // 📊 Cálculo da pontuação final
   const total = quizData.length;
   const acertos = score;
   const erros = total - score;
@@ -71,7 +69,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const status = percentualAcerto >= 60 ? "✅ Aprovado" : "❌ Reprovado";
 
   return (
-    <div className="bg-white p-6 rounded-lg shadow-md max-w-2xl mx-auto">
+    <div className="bg-white p-6 rounded-xl shadow-lg max-w-2xl mx-auto">
       {showScore ? (
         <div className="text-center">
           <h2 className="text-2xl font-semibold mb-4">Resultado Final</h2>
@@ -98,7 +96,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       ) : (
         <>
           <div className="mb-4">
-            <h2 className="text-xl font-semibold">
+            <h2 className="text-xl font-semibold text-gray-800">
               {currentQuestion.pergunta}
             </h2>
             {currentQuestion.imagem && (
@@ -115,12 +113,12 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
                 key={index}
                 onClick={() => handleAnswerOptionClick(index)}
                 disabled={selectedOption !== null}
-                className={`w-full text-left px-4 py-2 border rounded ${
+                className={`w-full text-left px-4 py-2 border rounded font-medium transition ${
                   selectedOption === index
                     ? index === currentQuestion.correta
-                      ? "bg-green-300"
-                      : "bg-red-300"
-                    : "bg-gray-100 hover:bg-gray-200"
+                      ? "bg-green-500 text-white"
+                      : "bg-red-500 text-white"
+                    : "bg-gray-200 hover:bg-gray-300 text-gray-900"
                 }`}
               >
                 {option}
@@ -128,7 +126,9 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
             ))}
           </div>
           {respostaPainel && (
-            <div className="mt-4 text-center font-medium">{respostaPainel}</div>
+            <div className="mt-4 text-center font-medium text-gray-800">
+              {respostaPainel}
+            </div>
           )}
           {canAdvance && (
             <div className="mt-6 text-center">
