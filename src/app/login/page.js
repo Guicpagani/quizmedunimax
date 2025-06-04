@@ -26,11 +26,11 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="flex min-h-screen">
+    <div className="flex min-h-screen bg-gray-50">
       {/* Esquerda - Imagem lateral */}
       <div className="w-1/2 hidden md:block relative">
         <Image
-          src="/sua-foto.png" // Coloque sua imagem na pasta /public e use o nome correto aqui!
+          src="/sua-foto.png"
           alt="Foto Lateral"
           fill
           style={{ objectFit: 'cover' }}
@@ -57,7 +57,7 @@ export default function LoginPage() {
             placeholder="Username or email"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
-            className="w-full px-4 py-2 border rounded focus:outline-none focus:ring-2"
+            className="w-full px-4 py-2 border border-gray-400 rounded text-gray-800 placeholder-gray-600 bg-white focus:outline-none focus:ring-2"
             required
           />
           <input
@@ -65,12 +65,12 @@ export default function LoginPage() {
             placeholder="Password"
             value={senha}
             onChange={(e) => setSenha(e.target.value)}
-            className="w-full px-4 py-2 border rounded focus:outline-none focus:ring-2"
+            className="w-full px-4 py-2 border border-gray-400 rounded text-gray-800 placeholder-gray-600 bg-white focus:outline-none focus:ring-2"
             required
           />
           <button
             type="submit"
-            className="w-full py-2 rounded bg-blue-600 text-white font-semibold text-lg"
+            className="w-full py-2 rounded bg-blue-600 text-white font-semibold text-lg hover:bg-blue-700 transition"
             disabled={carregando}
           >
             {carregando ? "Entrando..." : "Entrar"}
@@ -81,4 +81,3 @@ export default function LoginPage() {
     </div>
   );
 }
-
