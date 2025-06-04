@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { onAuthStateChanged } from "firebase/auth";
-import { auth } from "../firebase"; // Caminho correto!
+import { auth } from "../firebase"; // Caminho correto
 
 export default function Home() {
   const [user, setUser] = useState(null);
@@ -19,10 +19,7 @@ export default function Home() {
     return () => unsubscribe();
   }, []);
 
-  const isAdmin = !!user && user.email === "guilherme.pagani449@al.unieduk.com.br";
-
   if (!userChecked) {
-    // Agora só fica "Carregando..." enquanto Firebase não respondeu
     return (
       <div className="min-h-screen flex items-center justify-center text-gray-600 text-lg">
         Carregando...
@@ -62,15 +59,16 @@ export default function Home() {
           Developed by <span className="font-semibold">G. Pagani</span>
         </p>
 
-        {isAdmin && (
-          <Link
-            href="/admin"
-            className="mt-6 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
-          >
-            Admin
-          </Link>
-        )}
+        {/* Botão Admin visível abaixo do rodapé */}
+        <Link
+          href="/admin"
+          className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+        >
+          Admin
+        </Link>
       </main>
     </div>
   );
 }
+
+
