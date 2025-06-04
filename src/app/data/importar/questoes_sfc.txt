@@ -1,0 +1,29 @@
+PERGUNTA: Qual a capital do Brasil?
+A) São Paulo
+B) Brasília
+C) Rio de Janeiro
+D) Salvador
+CORRETA: B
+
+PERGUNTA: O que é ATP?
+A) Proteína
+B) Energia
+C) Enzima
+D) Vitamina
+CORRETA: B
+
+PERGUNTA: Qual a 2 capital do Brasil?
+A) São Paulo
+B) Brasília
+C) Rio de Janeiro
+D) Salvador
+CORRETA: A
+IMAGEM: /imagens/2.png
+
+PERGUNTA: O que é ATP?
+A) Proteína
+B) Energia
+C) Enzima
+D) Vitamina
+CORRETA: C
+
