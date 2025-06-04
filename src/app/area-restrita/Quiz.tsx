@@ -6,8 +6,9 @@ import { getQuizByTitle } from "../utils/getQuizData";
 import { Questao } from "../types/types";
 
 export default function Quiz({ quizTitle }: { quizTitle: string }) {
-  const quizWrapper = getQuizByTitle(quizTitle);
-  const quizData: Questao[] | undefined = quizWrapper?.data;
+  const quizDataWrapper = getQuizByTitle(quizTitle);
+const quizData: Questao[] | undefined = quizDataWrapper?.data?.data;
+
 
   const router = useRouter();
 
