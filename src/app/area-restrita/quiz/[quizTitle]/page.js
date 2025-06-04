@@ -1,9 +1,10 @@
 'use client';
+import { use } from 'react';
 import { useEffect } from 'react';
 import Quiz from '../../Quiz';
 
-export default function QuizPage({ params }) {
-  const quizTitle = params.quizTitle;
+export default function QuizPage(props) {
+  const { quizTitle } = use(props.params);
 
   useEffect(() => {
     // 🔒 Bloquear cópia, clique direito e seleção de texto
