@@ -1,29 +1,7 @@
-PERGUNTA: Qual a capital do Brasil?
-A) São Paulo
-B) Brasília
-C) Rio de Janeiro
-D) Salvador
-CORRETA: B
-
-PERGUNTA: O que é ATP?
-A) Proteína
-B) Energia
-C) Enzima
-D) Vitamina
-CORRETA: B
-
-PERGUNTA: Qual a 2 capital do Brasil?
-A) São Paulo
-B) Brasília
-C) Rio de Janeiro
-D) Salvador
-CORRETA: A
-IMAGEM: /imagens/2.png
-
-PERGUNTA: O que é ATP?
-A) Proteína
-B) Energia
-C) Enzima
-D) Vitamina
+PERGUNTA: Criança de 7 anos foi picada por escorpião no dorso do pé direito enquanto brincava descalça em local com entulho. Apresenta dor intensa no local, vômitos, sudorese e irritabilidade. Qual deve ser a conduta inicial mais adequada?
+A) Administrar analgésico simples e observar em domicílio por 12 horas
+B) Encaminhar para hospital terciário e iniciar antibiótico endovenoso
+C) Avaliar a gravidade, iniciar analgesia e observar em unidade com suporte, considerando uso de soro antiescorpiônico
+D) Realizar limpeza local, aplicar pomada tópica e liberar com orientação
 CORRETA: C
 

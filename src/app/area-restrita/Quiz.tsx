@@ -69,7 +69,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const status = percentualAcerto >= 60 ? "✅ Aprovado" : "❌ Reprovado";
 
   return (
-    <div className="bg-white p-6 rounded-xl shadow-lg max-w-2xl mx-auto">
+    <div className="bg-white p-6 pb-20 rounded-xl shadow-lg w-full max-w-[95rem] mx-auto px-4 sm:px-8">
       {showScore ? (
         <div className="text-center">
           <h2 className="text-2xl font-semibold mb-4">Resultado Final</h2>
@@ -96,7 +96,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       ) : (
         <>
           <div className="mb-4">
-            <h2 className="text-xl font-semibold text-gray-800">
+            <h2 className="text-sm md:text-base font-medium text-gray-800 leading-relaxed text-justify">
               {currentQuestion.pergunta}
             </h2>
             {currentQuestion.imagem && (
@@ -107,13 +107,15 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
               />
             )}
           </div>
-          <div className="space-y-2">
+
+          <div className="space-y-2 flex flex-col items-center">
             {currentQuestion.alternativas.map((option, index) => (
               <button
                 key={index}
                 onClick={() => handleAnswerOptionClick(index)}
                 disabled={selectedOption !== null}
-                className={`w-full text-left px-4 py-2 border rounded font-medium transition ${
+                className={`w-full max-w-md text-left px-4 py-2 border rounded font-medium transition text-sm md:text-base
+                ${
                   selectedOption === index
                     ? index === currentQuestion.correta
                       ? "bg-green-500 text-white"
@@ -125,11 +127,13 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
               </button>
             ))}
           </div>
+
           {respostaPainel && (
             <div className="mt-4 text-center font-medium text-gray-800">
               {respostaPainel}
             </div>
           )}
+
           {canAdvance && (
             <div className="mt-6 text-center">
               <button

@@ -1,4 +1,5 @@
 'use client';
+
 import { use } from 'react';
 import { useEffect } from 'react';
 import Quiz from '../../Quiz';
@@ -10,7 +11,9 @@ export default function QuizPage(props) {
     // 🔒 Bloquear cópia, clique direito e seleção de texto
     const blockCopy = (e) => e.preventDefault();
     const blockContext = (e) => e.preventDefault();
-    const blockSelect = () => document.body.style.userSelect = "none";
+    const blockSelect = () => {
+      document.body.style.userSelect = "none";
+    };
 
     document.addEventListener("copy", blockCopy);
     document.addEventListener("contextmenu", blockContext);
@@ -42,8 +45,8 @@ export default function QuizPage(props) {
   }, []);
 
   return (
-    <div className="min-h-screen flex flex-col items-center justify-start bg-[#f5f7fa] py-8">
-      <div className="bg-white shadow-lg rounded-2xl p-8 max-w-2xl w-full">
+    <div className="min-h-screen flex flex-col items-center justify-start bg-[#f5f7fa] py-8 px-4">
+      <div className="bg-white shadow-lg rounded-2xl p-6 pb-20 w-full max-w-[95rem] sm:px-8">
         <Quiz quizTitle={quizTitle} />
       </div>
     </div>
