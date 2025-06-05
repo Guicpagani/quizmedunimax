@@ -36,7 +36,7 @@ for (const bloco of blocos) {
 }
 
 const jsonFinal = {
-  title: "LABORATORIO",
+  title: "Laboratorio",
   data: questoes
 };
 

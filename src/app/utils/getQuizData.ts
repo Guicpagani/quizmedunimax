@@ -1,13 +1,13 @@
 import SDC from '../data/SDC.json';
 import SFC from '../data/SFC.json';
-import ENFASE from '../data/ENFASE.json';
-import LABORATORIO from '../data/LABORATORIO.json';
+import Enfase from '../data/Enfase.json';
+import Laboratorio from '../data/Laboratorio.json';
 
 const quizzes = [
   { title: 'SDC', data: SDC },
   { title: 'SFC', data: SFC },
-  { title: 'ENFASE', data: ENFASE },
-  { title: 'LABORATORIO', data: LABORATORIO },
+  { title: 'Enfase', data: Enfase },
+  { title: 'Laboratorio', data: Laboratorio },
 ];
 
 export function getQuizByTitle(title: string) {
