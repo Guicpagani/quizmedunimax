@@ -2,43 +2,12 @@
   "title": "SDC",
   "data": [
     {
-      "pergunta": "Qual a capital do Brasil?",
+      "pergunta": "Criança de 7 anos foi picada por escorpião no dorso do pé direito enquanto brincava descalça em local com entulho. Apresenta dor intensa no local, vômitos, sudorese e irritabilidade. Qual deve ser a conduta inicial mais adequada?",
       "alternativas": [
-        "São Paulo",
-        "Brasília",
-        "Rio de Janeiro",
-        "Salvador"
-      ],
-      "correta": 1
-    },
-    {
-      "pergunta": "O que é ATP?",
-      "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
-      ],
-      "correta": 1
-    },
-    {
-      "pergunta": "Qual a 2 capital do Brasil?",
-      "alternativas": [
-        "São Paulo",
-        "Brasília",
-        "Rio de Janeiro",
-        "Salvador"
-      ],
-      "correta": 0,
-      "imagem": "/imagens/2.png"
-    },
-    {
-      "pergunta": "O que é ATP?",
-      "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
+        "Administrar analgésico simples e observar em domicílio por 12 horas",
+        "Encaminhar para hospital terciário e iniciar antibiótico endovenoso",
+        "Avaliar a gravidade, iniciar analgesia e observar em unidade com suporte, considerando uso de soro antiescorpiônico",
+        "Realizar limpeza local, aplicar pomada tópica e liberar com orientação"
       ],
       "correta": 2
     }
