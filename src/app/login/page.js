@@ -1,86 +1,75 @@
 'use client';
-
 import { useState } from 'react';
-import { useRouter } from 'next/navigation';
 import { signInWithEmailAndPassword } from 'firebase/auth';
-import { auth, db } from '../../firebase';
 import { doc, getDoc } from 'firebase/firestore';
+import { auth, db } from '../../firebase';
+import { useRouter } from 'next/navigation';
 
 export default function LoginPage() {
-  const router = useRouter();
   const [email, setEmail] = useState('');
   const [senha, setSenha] = useState('');
   const [erro, setErro] = useState('');
   const [carregando, setCarregando] = useState(false);
+  const router = useRouter();
 
-  const handleLogin = async (e: React.FormEvent) => {
+  const handleLogin = async (e) => {
     e.preventDefault();
     setCarregando(true);
     setErro('');
 
     try {
       const userCredential = await signInWithEmailAndPassword(auth, email, senha);
-      const uid = userCredential.user.uid;
+      const userDocRef = doc(db, 'usuarios', userCredential.user.uid);
+      const userDocSnap = await getDoc(userDocRef);
 
-      // Verificar no Firestore se o usuário está autorizado
-      const userDoc = await getDoc(doc(db, "usuarios", uid));
-
-      if (!userDoc.exists()) {
-        setErro("Usuário não autorizado.");
-        setCarregando(false);
-        return;
+      if (userDocSnap.exists()) {
+        const userData = userDocSnap.data();
+        if (userData.aprovado) {
+          router.push('/area-restrita');
+        } else {
+          setErro('Usuário ainda não aprovado pelo administrador.');
+        }
+      } else {
+        setErro('Dados do usuário não encontrados.');
       }
-
-      const data = userDoc.data();
-      if (!data.autorizado) {
-        setErro("Aguardando autorização do administrador.");
-        setCarregando(false);
-        return;
-      }
-
-      router.push("/area-restrita");
-    } catch (err) {
-      setErro("Usuário ou senha inválidos.");
-      setCarregando(false);
+    } catch (error) {
+      setErro('Erro ao fazer login: ' + error.message);
     }
+
+    setCarregando(false);
   };
 
   return (
-    <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4">
-      <div className="bg-white shadow-md rounded px-8 py-6 w-full max-w-md">
-        <h2 className="text-2xl font-semibold text-center mb-4">Login</h2>
-        <form onSubmit={handleLogin}>
-          <div className="mb-4">
-            <label className="block text-gray-700 text-sm font-bold mb-2">Email</label>
-            <input
-              type="email"
-              value={email}
-              onChange={(e) => setEmail(e.target.value)}
-              className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              required
-            />
-          </div>
-          <div className="mb-4">
-            <label className="block text-gray-700 text-sm font-bold mb-2">Senha</label>
-            <input
-              type="password"
-              value={senha}
-              onChange={(e) => setSenha(e.target.value)}
-              className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
-              required
-            />
-          </div>
-          {erro && <p className="text-red-500 text-sm mb-4">{erro}</p>}
-          <button
-            type="submit"
-            disabled={carregando}
-            className="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
-          >
-            {carregando ? "Entrando..." : "Entrar"}
-          </button>
-        </form>
-      </div>
+    <div className="p-6 max-w-md mx-auto">
+      <h1 className="text-xl font-bold mb-4">Login</h1>
+      <form onSubmit={handleLogin} className="flex flex-col gap-4">
+        <input
+          type="email"
+          placeholder="E-mail institucional"
+          value={email}
+          onChange={(e) => setEmail(e.target.value)}
+          required
+          className="border p-2 rounded"
+        />
+        <input
+          type="password"
+          placeholder="Senha"
+          value={senha}
+          onChange={(e) => setSenha(e.target.value)}
+          required
+          className="border p-2 rounded"
+        />
+        <button
+          type="submit"
+          className="bg-blue-600 text-white py-2 rounded"
+          disabled={carregando}
+        >
+          {carregando ? 'Entrando...' : 'Entrar'}
+        </button>
+        {erro && <p className="text-red-500 text-sm">{erro}</p>}
+      </form>
     </div>
   );
 }
+
 
