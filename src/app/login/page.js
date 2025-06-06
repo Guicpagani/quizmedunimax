@@ -4,6 +4,7 @@ import { signInWithEmailAndPassword } from 'firebase/auth';
 import { doc, getDoc } from 'firebase/firestore';
 import { auth, db } from '../../firebase';
 import { useRouter } from 'next/navigation';
+import Image from 'next/image';
 
 export default function LoginPage() {
   const [email, setEmail] = useState('');
@@ -40,36 +41,59 @@ export default function LoginPage() {
   };
 
   return (
-    <div className="p-6 max-w-md mx-auto">
-      <h1 className="text-xl font-bold mb-4">Login</h1>
-      <form onSubmit={handleLogin} className="flex flex-col gap-4">
-        <input
-          type="email"
-          placeholder="E-mail institucional"
-          value={email}
-          onChange={(e) => setEmail(e.target.value)}
-          required
-          className="border p-2 rounded"
+    <div className="flex min-h-screen bg-gray-50">
+      {/* Imagem lateral esquerda */}
+      <div className="w-1/2 hidden md:block relative">
+        <Image
+          src="/sua-foto.png" // ✅ Nome corrigido
+          alt="Imagem lateral"
+          fill
+          className="object-cover"
+          priority
         />
-        <input
-          type="password"
-          placeholder="Senha"
-          value={senha}
-          onChange={(e) => setSenha(e.target.value)}
-          required
-          className="border p-2 rounded"
-        />
-        <button
-          type="submit"
-          className="bg-blue-600 text-white py-2 rounded"
-          disabled={carregando}
-        >
-          {carregando ? 'Entrando...' : 'Entrar'}
-        </button>
-        {erro && <p className="text-red-500 text-sm">{erro}</p>}
-      </form>
+      </div>
+
+      {/* Formulário login à direita */}
+      <div className="flex flex-col justify-center items-center w-full md:w-1/2 p-8 bg-white">
+        <div className="mb-6">
+          <Image
+            src="/logo-quizmedmax.png" // Atualize se o nome for diferente
+            alt="Logo"
+            width={180}
+            height={60}
+            priority
+          />
+        </div>
+
+        <h1 className="text-xl font-bold mb-4"></h1>
+        <form onSubmit={handleLogin} className="flex flex-col gap-4 w-full max-w-sm">
+          <input
+            type="email"
+            placeholder="E-mail institucional"
+            value={email}
+            onChange={(e) => setEmail(e.target.value)}
+            required
+            className="border p-2 rounded"
+          />
+          <input
+            type="password"
+            placeholder="Senha"
+            value={senha}
+            onChange={(e) => setSenha(e.target.value)}
+            required
+            className="border p-2 rounded"
+          />
+          <button
+            type="submit"
+            className="bg-blue-600 text-white py-2 rounded"
+            disabled={carregando}
+          >
+            {carregando ? 'Entrando...' : 'Entrar'}
+          </button>
+          {erro && <p className="text-red-500 text-sm">{erro}</p>}
+        </form>
+      </div>
     </div>
   );
 }
-
 
