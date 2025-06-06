@@ -1,46 +1,155 @@
 {
-  "title": "LABORATORIO",
+  "title": "Laboratorio",
   "data": [
     {
-      "pergunta": "Qual a capital do Brasil?",
+      "pergunta": "Sobre a localização do pâncreas na cavidade abdominal, é correto afirmar que:",
       "alternativas": [
-        "São Paulo",
-        "Brasília",
-        "Rio de Janeiro",
-        "Salvador"
+        "Está localizado retroperitonealmente, transversalmente aos corpos das vértebras L1 e L2",
+        "Está situado anteriormente ao estômago e inferior ao fígado",
+        "Encontra-se no mediastino posterior, entre o esôfago e a aorta",
+        "Situa-se entre o cólon ascendente e o rim direito"
       ],
-      "correta": 1
+      "correta": 0
     },
     {
-      "pergunta": "O que é ATP?",
+      "pergunta": "O ducto pancreático principal (ducto de Wirsung):",
       "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
-      ],
-      "correta": 1
-    },
-    {
-      "pergunta": "Qual a 2 capital do Brasil?",
-      "alternativas": [
-        "São Paulo",
-        "Brasília",
-        "Rio de Janeiro",
-        "Salvador"
-      ],
-      "correta": 0,
-      "imagem": "/imagens/2.png"
-    },
-    {
-      "pergunta": "O que é ATP?",
-      "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
+        "Se inicia na cabeça do pâncreas e termina no cólon transverso",
+        "Se comunica sempre com o ducto pancreático acessório",
+        "Une-se ao ducto colédoco para formar a ampola hepatopancreática (de Vater)",
+        "Desemboca na papila menor do duodeno, independentemente do colédoco"
       ],
       "correta": 2
+    },
+    {
+      "pergunta": "Sobre a organização histológica do pâncreas, é correto afirmar:",
+      "alternativas": [
+        "As ilhotas de Langerhans formam a porção exócrina do pâncreas, responsável pela secreção de enzimas digestivas",
+        "Os ácinos pancreáticos estão organizados em lóbulos, responsáveis pela secreção de hormônios no sangue",
+        "As células beta dos ácinos pancreáticos são responsáveis pela produção de insulina",
+        "Os ácinos pancreáticos compõem a porção exócrina, enquanto as ilhotas de Langerhans representam a porção endócrina da glândula"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A drenagem venosa do pâncreas ocorre principalmente para:",
+      "alternativas": [
+        "Veia cava inferior",
+        "Veia porta hepática, por meio das veias esplênica e mesentérica superior",
+        "Veia jugular interna",
+        "Veia subclávia esquerda"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação à drenagem venosa do corpo do pâncreas, é correto afirmar que:",
+      "alternativas": [
+        "É feita predominantemente pelas veias mesentéricas inferior e gástrica esquerda",
+        "As veias do corpo pancreático drenam para a veia porta diretamente",
+        "O sangue do corpo do pâncreas drena principalmente para a veia esplênica",
+        "O corpo pancreático não apresenta drenagem venosa significativa, apenas linfática"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Em um paciente com pancreatite aguda grave, observa-se coloração azulada nos flancos do abdome. A origem desse achado está relacionada a:",
+      "alternativas": [
+        "Acúmulo de bilirrubina sob a pele por colestase",
+        "Inflamação das glândulas suprarrenais com extravasamento linfático",
+        "Sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores",
+        "Vasoconstrição periférica por choque distributivo"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Durante o exame físico de um paciente com pancreatite aguda grave, observou-se uma equimose ao redor do umbigo, de coloração violácea. Esse achado deve ser interpretado como:",
+      "alternativas": [
+        "Extravasamento biliar com pigmentação subcutânea",
+        "Reação alérgica cutânea com púrpura localizada",
+        "Indício de hemorragia retroperitoneal por necrose pancreática grave",
+        "Manifestação típica de insuficiência hepática terminal"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um paciente de 24 anos previamente hígido, procura atendimento ambulatorial com queixa de dor em flanco esquerdo, intermitente, tipo peso, associada a hematúria microscópica persistente e varicocele à esquerda não redutível. Ao exame físico, não há sinais sistêmicos, mas confirma-se a presença de varicocele grau III. A ultrassonografia mostra veia renal esquerda dilatada antes de se estreitar ao passar entre a artéria mesentérica superior e a aorta abdominal. diagnóstico mais provável é:",
+      "alternativas": [
+        "Glomerulonefrite aguda com síndrome nefrítica clássica",
+        "Urolitíase com obstrução parcial de ureter esquerdo",
+        "Compressão da veia renal esquerda entre a aorta e artéria mesentérica superior (Síndrome do Quebra-nozes)",
+        "Trombose aguda de veia cava inferior com congestão renal secundária"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Uma mulher de 36 anos previamente saudável, procura atendimento com queixa de febre alta há dois dias, dor lombar à direita e calafrios. Refere dor que piora com a movimentação e que se irradia discretamente para o flanco. Ao exame físico, encontra-se febril (38,8 °C), com sinal de Giordano positivo à direita. Urina tipo I mostra piúria e bacteriúria, e a urocultura está em andamento.Com base nesse achado, qual estrutura anatômica está sendo avaliada diretamente pelo sinal clínico descrito?",
+      "alternativas": [
+        "Córtex suprarrenal",
+        "Cálice menor do rim",
+        "Parênquima renal",
+        "Ureter distal"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um homem de 48 anos, hipertenso de longa data, foi encaminhado ao setor de imagem para investigação de hipertensão renovascular. Durante o exame de angiotomografia, observou-se que a artéria renal direita é mais longa que a esquerda, atravessando posteriormente à veia cava inferior antes de alcançar o hilo renal.Esse achado anatômico é considerado:",
+      "alternativas": [
+        "Patológico, pois normalmente ambas as artérias têm o mesmo comprimento",
+        "Compatível com a anatomia normal, já que a artéria renal direita é mais longa",
+        "Indicativo de anomalia congênita das artérias renais",
+        "Associado à duplicação do sistema pielocalicial à direita"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Durante uma cirurgia laparoscópica para colecistectomia, o cirurgião residente observa uma estrutura retroperitoneal ao nível das vértebras T12 a L3, parcialmente recoberta pelo fígado e situada medialmente à flexura cólica direita. O assistente afirma tratar-se do rim direito. Com base na topografia anatômica descrita, qual das seguintes alternativas está correta em relação ao rim direito?",
+      "alternativas": [
+        "Situa-se mais superiormente que o rim esquerdo e está em contato direto com o baço",
+        "Encontra-se posterior ao pâncreas e medial à vesícula biliar",
+        "Localiza-se mais inferiormente que o rim esquerdo devido à posição do fígado",
+        "É anterior à aorta abdominal e recoberto completamente pelo mesocólon"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um paciente de 39 anos dá entrada no pronto-socorro com dor lombar intensa irradiando para a região inguinal, acompanhada de hematúria microscópica. A tomografia computadorizada sem contraste revela litíase obstruindo o ureter no ponto em que ele cruza os vasos ilíacos. Com base nos locais anatômicos onde o ureter apresenta constrições fisiológicas, assinale a alternativa correta:",
+      "alternativas": [
+        "As constrições ocorrem apenas na pelve renal e na entrada na bexiga",
+        "O cruzamento com os vasos ilíacos é um dos três estreitamentos naturais do ureter",
+        "Não existem constrições ureterais em indivíduos hígidos; todas são patológicas",
+        "A única constrição relevante do ureter está ao nível do hiato urogenital"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Durante uma nefrectomia parcial direita, o residente pergunta sobre os cuidados com a irrigação do ureter ao longo de seu trajeto. O cirurgião alerta que a vascularização ureteral é segmentar e que sua interrupção pode causar isquemia e estenose. Sabendo disso, qual das alternativas descreve corretamente a irrigação arterial do ureter?",
+      "alternativas": [
+        "É feita exclusivamente pela artéria renal ao longo de todo o seu trajeto",
+        "Recebe irrigação segmentar das artérias renal, gonadal e ilíaca comum",
+        "A única fonte de irrigação é a artéria mesentérica inferior",
+        "O ureter é avascular até sua entrada na bexiga, onde passa a ser irrigado pela artéria pudenda interna"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente de 60 anos, hipertenso crônico, apresenta piora progressiva da função renal. Em uma biópsia renal, observa-se dano tubular e glomerular predominantemente cortical, enquanto a medula renal encontra-se relativamente preservada. O nefrologista explica que os segmentos histológicos comprometidos estão relacionados às funções de filtração inicial e reabsorção de eletrólitos.Com base nas estruturas envolvidas, qual das seguintes afirmações é correta?",
+      "alternativas": [
+        "O córtex renal abriga as pirâmides renais, responsáveis pela drenagem urinária final",
+        "A medula renal contém os glomérulos, túbulos e corpúsculos renais",
+        "O córtex renal é a região mais externa do parênquima e abriga os glomérulos",
+        "A medula renal participa da filtração glomerular e secreção hormonal"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Durante uma esplenectomia por trauma, a equipe cirúrgica nota uma estrutura retroperitoneal",
+      "alternativas": [
+        "Está localizado em posição mais inferior que o rim direito",
+        "Situa-se retroperitonealmente e relaciona-se com o baço, pâncreas, estômago e flexura esplênica",
+        "Encontra-se anteriormente ao fígado e medial à vesícula biliar",
+        "Está em contato direto com o reto e o útero por sua face posterior"
+      ],
+      "correta": 1
     }
   ]
 }

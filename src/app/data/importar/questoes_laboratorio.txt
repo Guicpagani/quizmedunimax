@@ -1,29 +1,106 @@
-PERGUNTA: Qual a capital do Brasil?
-A) São Paulo
-B) Brasília
-C) Rio de Janeiro
-D) Salvador
-CORRETA: B
-
-PERGUNTA: O que é ATP?
-A) Proteína
-B) Energia
-C) Enzima
-D) Vitamina
-CORRETA: B
-
-PERGUNTA: Qual a 2 capital do Brasil?
-A) São Paulo
-B) Brasília
-C) Rio de Janeiro
-D) Salvador
+PERGUNTA: Sobre a localização do pâncreas na cavidade abdominal, é correto afirmar que:
+A) Está localizado retroperitonealmente, transversalmente aos corpos das vértebras L1 e L2
+B) Está situado anteriormente ao estômago e inferior ao fígado
+C) Encontra-se no mediastino posterior, entre o esôfago e a aorta
+D) Situa-se entre o cólon ascendente e o rim direito
 CORRETA: A
-IMAGEM: /imagens/2.png
 
-PERGUNTA: O que é ATP?
-A) Proteína
-B) Energia
-C) Enzima
-D) Vitamina
+PERGUNTA: O ducto pancreático principal (ducto de Wirsung):
+A) Se inicia na cabeça do pâncreas e termina no cólon transverso
+B) Se comunica sempre com o ducto pancreático acessório
+C) Une-se ao ducto colédoco para formar a ampola hepatopancreática (de Vater)
+D) Desemboca na papila menor do duodeno, independentemente do colédoco
 CORRETA: C
+
+PERGUNTA: Sobre a organização histológica do pâncreas, é correto afirmar:
+A) As ilhotas de Langerhans formam a porção exócrina do pâncreas, responsável pela secreção de enzimas digestivas
+B) Os ácinos pancreáticos estão organizados em lóbulos, responsáveis pela secreção de hormônios no sangue
+C) As células beta dos ácinos pancreáticos são responsáveis pela produção de insulina
+D) Os ácinos pancreáticos compõem a porção exócrina, enquanto as ilhotas de Langerhans representam a porção endócrina da glândula
+CORRETA: D
+
+PERGUNTA: A drenagem venosa do pâncreas ocorre principalmente para:
+A) Veia cava inferior
+B) Veia porta hepática, por meio das veias esplênica e mesentérica superior
+C) Veia jugular interna
+D) Veia subclávia esquerda
+CORRETA: B
+
+PERGUNTA: Em relação à drenagem venosa do corpo do pâncreas, é correto afirmar que:
+A) É feita predominantemente pelas veias mesentéricas inferior e gástrica esquerda
+B) As veias do corpo pancreático drenam para a veia porta diretamente
+C) O sangue do corpo do pâncreas drena principalmente para a veia esplênica
+D) O corpo pancreático não apresenta drenagem venosa significativa, apenas linfática
+CORRETA: C
+
+PERGUNTA: Em um paciente com pancreatite aguda grave, observa-se coloração azulada nos flancos do abdome. A origem desse achado está relacionada a:
+A) Acúmulo de bilirrubina sob a pele por colestase
+B) Inflamação das glândulas suprarrenais com extravasamento linfático
+C) Sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores
+D) Vasoconstrição periférica por choque distributivo
+CORRETA: C
+
+PERGUNTA: Durante o exame físico de um paciente com pancreatite aguda grave, observou-se uma equimose ao redor do umbigo, de coloração violácea. Esse achado deve ser interpretado como:
+A) Extravasamento biliar com pigmentação subcutânea
+B) Reação alérgica cutânea com púrpura localizada
+C) Indício de hemorragia retroperitoneal por necrose pancreática grave
+D) Manifestação típica de insuficiência hepática terminal
+CORRETA: C
+
+PERGUNTA: Um paciente de 24 anos previamente hígido, procura atendimento ambulatorial com queixa de dor em flanco esquerdo, intermitente, tipo peso, associada a hematúria microscópica persistente e varicocele à esquerda não redutível. Ao exame físico, não há sinais sistêmicos, mas confirma-se a presença de varicocele grau III. A ultrassonografia mostra veia renal esquerda dilatada antes de se estreitar ao passar entre a artéria mesentérica superior e a aorta abdominal. diagnóstico mais provável é:
+A) Glomerulonefrite aguda com síndrome nefrítica clássica
+B) Urolitíase com obstrução parcial de ureter esquerdo
+C) Compressão da veia renal esquerda entre a aorta e artéria mesentérica superior (Síndrome do Quebra-nozes)
+D) Trombose aguda de veia cava inferior com congestão renal secundária
+CORRETA: C
+
+PERGUNTA: Uma mulher de 36 anos previamente saudável, procura atendimento com queixa de febre alta há dois dias, dor lombar à direita e calafrios. Refere dor que piora com a movimentação e que se irradia discretamente para o flanco. Ao exame físico, encontra-se febril (38,8 °C), com sinal de Giordano positivo à direita. Urina tipo I mostra piúria e bacteriúria, e a urocultura está em andamento.Com base nesse achado, qual estrutura anatômica está sendo avaliada diretamente pelo sinal clínico descrito?
+A) Córtex suprarrenal
+B) Cálice menor do rim
+C) Parênquima renal
+D) Ureter distal
+CORRETA: C
+
+PERGUNTA: Um homem de 48 anos, hipertenso de longa data, foi encaminhado ao setor de imagem para investigação de hipertensão renovascular. Durante o exame de angiotomografia, observou-se que a artéria renal direita é mais longa que a esquerda, atravessando posteriormente à veia cava inferior antes de alcançar o hilo renal.Esse achado anatômico é considerado:
+A) Patológico, pois normalmente ambas as artérias têm o mesmo comprimento
+B) Compatível com a anatomia normal, já que a artéria renal direita é mais longa
+C) Indicativo de anomalia congênita das artérias renais
+D) Associado à duplicação do sistema pielocalicial à direita
+CORRETA: B
+
+PERGUNTA: Durante uma cirurgia laparoscópica para colecistectomia, o cirurgião residente observa uma estrutura retroperitoneal ao nível das vértebras T12 a L3, parcialmente recoberta pelo fígado e situada medialmente à flexura cólica direita. O assistente afirma tratar-se do rim direito. Com base na topografia anatômica descrita, qual das seguintes alternativas está correta em relação ao rim direito?
+A) Situa-se mais superiormente que o rim esquerdo e está em contato direto com o baço
+B) Encontra-se posterior ao pâncreas e medial à vesícula biliar
+C) Localiza-se mais inferiormente que o rim esquerdo devido à posição do fígado
+D) É anterior à aorta abdominal e recoberto completamente pelo mesocólon
+CORRETA: C
+
+PERGUNTA: Um paciente de 39 anos dá entrada no pronto-socorro com dor lombar intensa irradiando para a região inguinal, acompanhada de hematúria microscópica. A tomografia computadorizada sem contraste revela litíase obstruindo o ureter no ponto em que ele cruza os vasos ilíacos. Com base nos locais anatômicos onde o ureter apresenta constrições fisiológicas, assinale a alternativa correta:
+A) As constrições ocorrem apenas na pelve renal e na entrada na bexiga
+B) O cruzamento com os vasos ilíacos é um dos três estreitamentos naturais do ureter
+C) Não existem constrições ureterais em indivíduos hígidos; todas são patológicas
+D) A única constrição relevante do ureter está ao nível do hiato urogenital
+CORRETA: B
+
+PERGUNTA: Durante uma nefrectomia parcial direita, o residente pergunta sobre os cuidados com a irrigação do ureter ao longo de seu trajeto. O cirurgião alerta que a vascularização ureteral é segmentar e que sua interrupção pode causar isquemia e estenose. Sabendo disso, qual das alternativas descreve corretamente a irrigação arterial do ureter?
+A) É feita exclusivamente pela artéria renal ao longo de todo o seu trajeto
+B) Recebe irrigação segmentar das artérias renal, gonadal e ilíaca comum
+C) A única fonte de irrigação é a artéria mesentérica inferior
+D) O ureter é avascular até sua entrada na bexiga, onde passa a ser irrigado pela artéria pudenda interna
+CORRETA: B
+
+PERGUNTA: Um paciente de 60 anos, hipertenso crônico, apresenta piora progressiva da função renal. Em uma biópsia renal, observa-se dano tubular e glomerular predominantemente cortical, enquanto a medula renal encontra-se relativamente preservada. O nefrologista explica que os segmentos histológicos comprometidos estão relacionados às funções de filtração inicial e reabsorção de eletrólitos.Com base nas estruturas envolvidas, qual das seguintes afirmações é correta?
+A) O córtex renal abriga as pirâmides renais, responsáveis pela drenagem urinária final
+B) A medula renal contém os glomérulos, túbulos e corpúsculos renais
+C) O córtex renal é a região mais externa do parênquima e abriga os glomérulos
+D) A medula renal participa da filtração glomerular e secreção hormonal
+CORRETA: C
+
+PERGUNTA: Durante uma esplenectomia por trauma, a equipe cirúrgica nota uma estrutura retroperitoneal
+profundamente posicionada no quadrante superior esquerdo, entre T11 e L2, em íntimo contato com o baço, estômago, pâncreas e flexura cólica esquerda. O cirurgião residente identifica corretamente essa estrutura como o rim esquerdo. Com base na anatomia topográfica, é correto afirmar sobre o rim esquerdo:
+A) Está localizado em posição mais inferior que o rim direito
+B) Situa-se retroperitonealmente e relaciona-se com o baço, pâncreas, estômago e flexura esplênica
+C) Encontra-se anteriormente ao fígado e medial à vesícula biliar
+D) Está em contato direto com o reto e o útero por sua face posterior
+CORRETA: B
 
