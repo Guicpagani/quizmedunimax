@@ -4,7 +4,11 @@ import { useEffect, useState } from "react";
 import Image from "next/image";
 import Link from "next/link";
 import { onAuthStateChanged } from "firebase/auth";
-import { auth } from "../firebase"; // Caminho correto
+import { auth } from "../firebase";
+
+// Importa a fonte Great Vibes
+import { Great_Vibes } from 'next/font/google';
+const greatVibes = Great_Vibes({ subsets: ['latin'], weight: '400' });
 
 export default function Home() {
   const [user, setUser] = useState(null);
@@ -31,7 +35,7 @@ export default function Home() {
     <div className="min-h-screen bg-white text-gray-900 flex flex-col">
       {/* Barra de navegação fixa */}
       <header className="flex justify-between items-center px-6 py-4 border-b shadow-md bg-white fixed w-full z-10">
-        <h1 className="text-xl font-bold">QuizMed Unimax</h1>
+        <h1 className="text-xl font-bold">QuizMedmax</h1>
         <div className="space-x-4">
           <Link href="/login" className="text-black-600 hover:underline">Login</Link>
           <Link href="/register" className="text-blue-600 hover:underline">Registrar</Link>
@@ -56,7 +60,7 @@ export default function Home() {
         </div>
 
         <p className="text-sm text-gray-600 mt-4">
-          Developed by <span className="font-semibold">G. Pagani</span>
+          Developed by <span className={`${greatVibes.className} text-2xl`}>Guilherme Pagani</span>
         </p>
 
         {/* Botão Admin visível abaixo do rodapé */}
@@ -70,5 +74,4 @@ export default function Home() {
     </div>
   );
 }
-
 
