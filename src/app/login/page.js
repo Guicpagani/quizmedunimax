@@ -1,83 +1,86 @@
-'use client'
-import { useState } from "react";
-import { useRouter } from "next/navigation";
-import { signInWithEmailAndPassword } from "firebase/auth";
-import { auth } from "../../firebase";
-import Image from "next/image";
+'use client';
+
+import { useState } from 'react';
+import { useRouter } from 'next/navigation';
+import { signInWithEmailAndPassword } from 'firebase/auth';
+import { auth, db } from '../../firebase';
+import { doc, getDoc } from 'firebase/firestore';
 
 export default function LoginPage() {
-  const [email, setEmail] = useState("");
-  const [senha, setSenha] = useState("");
-  const [erro, setErro] = useState("");
-  const [carregando, setCarregando] = useState(false);
   const router = useRouter();
+  const [email, setEmail] = useState('');
+  const [senha, setSenha] = useState('');
+  const [erro, setErro] = useState('');
+  const [carregando, setCarregando] = useState(false);
 
-  const handleLogin = async (e) => {
+  const handleLogin = async (e: React.FormEvent) => {
     e.preventDefault();
-    setErro("");
     setCarregando(true);
+    setErro('');
+
     try {
-      await signInWithEmailAndPassword(auth, email, senha);
+      const userCredential = await signInWithEmailAndPassword(auth, email, senha);
+      const uid = userCredential.user.uid;
+
+      // Verificar no Firestore se o usuário está autorizado
+      const userDoc = await getDoc(doc(db, "usuarios", uid));
+
+      if (!userDoc.exists()) {
+        setErro("Usuário não autorizado.");
+        setCarregando(false);
+        return;
+      }
+
+      const data = userDoc.data();
+      if (!data.autorizado) {
+        setErro("Aguardando autorização do administrador.");
+        setCarregando(false);
+        return;
+      }
+
       router.push("/area-restrita");
     } catch (err) {
       setErro("Usuário ou senha inválidos.");
+      setCarregando(false);
     }
-    setCarregando(false);
   };
 
   return (
-    <div className="flex min-h-screen bg-gray-50">
-      {/* Esquerda - Imagem lateral */}
-      <div className="w-1/2 hidden md:block relative">
-        <Image
-          src="/sua-foto.png"
-          alt="Foto Lateral"
-          fill
-          style={{ objectFit: 'cover' }}
-          priority
-        />
-      </div>
-
-      {/* Direita - Formulário de Login */}
-      <div className="flex flex-col justify-center items-center w-full md:w-1/2 p-8 bg-white">
-        {/* Seu logo */}
-        <div className="mb-8">
-          <Image
-            src="/logo-quizmedmax.png"
-            alt="Quizmedmax Logo"
-            width={180}
-            height={60}
-            priority
-          />
-        </div>
-
-        <form className="w-full space-y-4" onSubmit={handleLogin}>
-          <input
-            type="text"
-            placeholder="Username or email"
-            value={email}
-            onChange={(e) => setEmail(e.target.value)}
-            className="w-full px-4 py-2 border border-gray-400 rounded text-gray-800 placeholder-gray-600 bg-white focus:outline-none focus:ring-2"
-            required
-          />
-          <input
-            type="password"
-            placeholder="Password"
-            value={senha}
-            onChange={(e) => setSenha(e.target.value)}
-            className="w-full px-4 py-2 border border-gray-400 rounded text-gray-800 placeholder-gray-600 bg-white focus:outline-none focus:ring-2"
-            required
-          />
+    <div className="min-h-screen flex items-center justify-center bg-gray-100 px-4">
+      <div className="bg-white shadow-md rounded px-8 py-6 w-full max-w-md">
+        <h2 className="text-2xl font-semibold text-center mb-4">Login</h2>
+        <form onSubmit={handleLogin}>
+          <div className="mb-4">
+            <label className="block text-gray-700 text-sm font-bold mb-2">Email</label>
+            <input
+              type="email"
+              value={email}
+              onChange={(e) => setEmail(e.target.value)}
+              className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              required
+            />
+          </div>
+          <div className="mb-4">
+            <label className="block text-gray-700 text-sm font-bold mb-2">Senha</label>
+            <input
+              type="password"
+              value={senha}
+              onChange={(e) => setSenha(e.target.value)}
+              className="shadow appearance-none border rounded w-full py-2 px-3 text-gray-700 leading-tight focus:outline-none focus:shadow-outline"
+              required
+            />
+          </div>
+          {erro && <p className="text-red-500 text-sm mb-4">{erro}</p>}
           <button
             type="submit"
-            className="w-full py-2 rounded bg-blue-600 text-white font-semibold text-lg hover:bg-blue-700 transition"
             disabled={carregando}
+            className="w-full bg-blue-500 hover:bg-blue-600 text-white font-bold py-2 px-4 rounded focus:outline-none focus:shadow-outline"
           >
             {carregando ? "Entrando..." : "Entrar"}
           </button>
-          {erro && <p className="text-red-500 text-sm mt-2">{erro}</p>}
         </form>
       </div>
     </div>
   );
 }
+

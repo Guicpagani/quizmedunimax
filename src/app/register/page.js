@@ -9,10 +9,14 @@ export default function RegisterPage() {
   const [email, setEmail] = useState('');
   const [senha, setSenha] = useState('');
   const [erro, setErro] = useState('');
+  const [sucesso, setSucesso] = useState('');
   const router = useRouter();
 
   const handleRegister = async (e) => {
     e.preventDefault();
+    setErro('');
+    setSucesso('');
+
     if (!email.endsWith('@al.unieduk.com.br')) {
       setErro('Este e-mail não é permitido.');
       return;
@@ -22,12 +26,18 @@ export default function RegisterPage() {
       const userCredential = await createUserWithEmailAndPassword(auth, email, senha);
       await setDoc(doc(db, "usuarios", userCredential.user.uid), {
         email,
-        aprovado: false
+        aprovado: false,
+        criadoEm: new Date()
       });
-      alert('Cadastro realizado. Aguarde aprovação do administrador.');
-      router.push('/login');
+
+      setSucesso('✅ Cadastro realizado com sucesso! Aguarde autorização do administrador.');
+      setEmail('');
+      setSenha('');
+      setTimeout(() => {
+        router.push('/login');
+      }, 2500); // Redireciona após 2,5s
     } catch (error) {
-      setErro(error.message);
+      setErro('Erro ao registrar: ' + error.message);
     }
   };
 
@@ -55,6 +65,7 @@ export default function RegisterPage() {
           Registrar
         </button>
         {erro && <p className="text-red-500 text-sm">{erro}</p>}
+        {sucesso && <p className="text-green-600 text-sm font-medium">{sucesso}</p>}
       </form>
     </div>
   );
