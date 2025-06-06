@@ -27,3 +27,107 @@ C) Enzima
 D) Vitamina
 CORRETA: C
 
+PERGUNTA: Paciente com quadro de dor abdominal em cólica que evolui para dor difusa e contínua, associada à distensão abdominal e parada da eliminação de fezes e flatos. Qual é a principal hipótese diagnóstica?
+A) Apendicite aguda
+B) Abdome agudo obstrutivo
+C) Pancreatite aguda
+D) Peritonite secundária
+CORRETA: B
+
+PERGUNTA: Em relação à classificação do abdome agudo obstrutivo, qual alternativa diferencia corretamente os tipos alto e baixo?
+A) O obstrutivo baixo causa mais vômitos precoces que o alto
+B) A obstrução alta geralmente se localiza no cólon sigmoide
+C) A obstrução baixa está associada à distensão e parada de eliminação de fezes
+D) A obstrução alta se apresenta com distensão intensa desde o início
+CORRETA: C
+
+PERGUNTA: Qual é a principal causa de abdome agudo obstrutivo baixo em adultos?
+A) Doença de Crohn
+B) Bridas congênitas
+C) Tumores colorretais
+D) Intussuscepção intestinal
+CORRETA: C
+
+PERGUNTA: Acerca do íleo paralítico ou adinâmico, assinale a alternativa incorreta.
+A) Refere a dismotilidade do intestino na ausência de obstrução mecânica.
+B) Por definição, é considerado ausência de peristalse por 10 ou mais dias.
+C) Os sinais e sintomas podem simular obstrução intestinal.
+D) É diagnóstico diferencial com brida precoce.
+CORRETA: B
+
+PERGUNTA: Na clínica, como podemos diferenciar uma suboclusão de um abdome agudo obstrutivo?
+A) Presença de vômitos biliosos desde o início do quadro
+B) Dor em pontada localizada no quadrante inferior direito
+C) Presença de diarreia paradoxal com ruídos hidroaéreos aumentados
+D) Ausência de distensão abdominal e ruídos abolidos
+CORRETA: C
+
+PERGUNTA: Qual das seguintes condutas está corretamente indicada como tratamento inicial do abdome agudo obstrutivo alto?
+A) Administração de antieméticos e analgésicos potentes, mantendo alimentação leve por via oral.
+B) Sonda retal para alívio da obstrução, associada à infusão de glicose hipertônica.
+C) Jejum absoluto, hidratação venosa com cristaloides e passagem de sonda nasogástrica.
+D) Início imediato de antibiótico de amplo espectro, sem necessidade de imagem ou avaliação cirúrgica.
+CORRETA: C
+
+PERGUNTA: Qual das seguintes condutas está corretamente indicada como tratamento inicial do abdome agudo obstrutivo baixo?
+A) Jejum absoluto, reposição volêmica com cristaloides e avaliação cirúrgica após exames de imagem.
+B) Realização urgente de colonoscopia terapêutica, seguida de dieta líquida.
+C) Administração imediata de laxantes e antiespasmódicos, com retorno ambulatorial em 72 horas.
+D) Prescrição de antibióticos orais, hidratação por via oral e alta precoce.
+CORRETA: A
+
+PERGUNTA: Paciente de 72 anos dá entrada em pronto socorro com queixa de dor abdominal progressiva há 3 dias, associada a distensão e parada da eliminação de flatos e fezes. Levantada a hipótese diagnóstica de abdome agudo obstrutivo, foi encaminhado para realização de radiografia de abdome que evidenciou distensão apenas de cólon, sem a presença de ar no reto. Com relação ao caso supracitado do paciente com obstrução intestinal baixa, com válvula ileocecal competente, assinale a alternativa correta:
+A) há maior associação com vômitos fecalóides.
+B) há menor risco de isquemia de cólon.
+C) há maior distensão abdominal no exame físico, em comparação ao paciente com válvula ileocecal incompetente
+D) há maior risco de perfuração de ceco.
+CORRETA: D
+
+PERGUNTA: Homem de 25 anos, previamente hígido, apresenta dor abdominal difusa há 48 horas, associada à parada na eliminação de flatos e fezes há aproximadamente 24 horas. Relata constipação crônica, com evacuações a cada 4 a 5 dias, padrão que se agravou nas últimas semanas. Nega febre, emagrecimento, cirurgias prévias ou uso de medicamentos contínuos. Ao exame físico: ruídos hidroaéreos aumentados e distensão abdominal. Radiografia de abdome mostra alças delgadas dilatadas. Qual o diagnóstico mais provável?
+A) Síndrome do intestino irritável em crise constipante, com distensão funcional secundária.
+B) Abdome agudo obstrutivo mecânico alto, com padrão de alças delgadas e empilhamento de moedas.
+C) Pseudo-obstrução intestinal aguda (síndrome de Ogilvie), precipitada por dismotilidade idiopática.
+D) Suboclusão intestinal secundária a disbiose e retardo na progressão colônica.
+CORRETA: B
+
+PERGUNTA: Como é conhecida a condição clínica caracterizada por abdome agudo oclusivo (náuseas, vômitos, dor e distensão abdominal, parada da eliminação de gases e fezes), em que a radiografia simples de abdome revela pneumobilia, alças intestinais distendidas com padrão obstrutivo, e ausência de ar na ampola retal?
+A) Íleo paralítico grave
+B) Vôlvo de sigmoide com perfuração
+C) Síndrome de Bouveret
+D) Síndrome de obstrução intestinal aerobiliar
+CORRETA: D
+
+PERGUNTA: Em relação ao abdome agudo obstrutivo (AAO), assinale a alternativa incorreta:
+A) Neoplasias gástricas ou estenoses antropilóricas não são causas de AAO, pois não provocam parada de eliminação de gases e fezes.
+B) O AAO classifica-se como alto ou baixo, de acordo com o distúrbio metabólico decorrente do quadro de obstrução.
+C) Obstrução intestinal em alça fechada é considerada uma emergência cirúrgica.
+D) Volvo de sigmoide e bridas são causas extrínsecas de obstrução intestinal.
+CORRETA: B
+
+PERGUNTA: Abadia, Bete, Célia e Diogo são pacientes com síndrome de abdome agudo obstrutivo: 1-Abadia, mulher de 52 anos, apresenta obstrução intestinal causada por vólvulo de ceco. 2-Bete, mulher de 59 anos, apresenta obstrução do intestino delgado provocada por íleo biliar. 3-Célia, mulher de 45 anos, desenvolveu obstrução do intestino delgado após cirurgia aberta da vesícula biliar realizada há 20 dias. 4-Diogo, homem de 28 anos, apresenta obstrução parcial do intestino delgado associada à hérnia inguinal encarcerada. Entre os pacientes apresentados, quem tem maior probabilidade de responder ao tratamento não cirúrgico é:
+A) Abadia, pelo caráter transitório do vólvulo de ceco em adultos jovens.
+B) Bete, pois o íleo biliar costuma se resolver com medidas conservadoras.
+C) Célia, uma vez que bridas pós-cirúrgicas recentes tendem a se resolver com repouso intestinal.
+D) Diogo, considerando que hérnias encarceradas geralmente não requerem cirurgia imediata.
+CORRETA: C
+
+PERGUNTA: A tríade de Rigler é o conjunto de sinais que compõem o quadro radiológico sugestivo de íleo biliar, causa intraluminal de obstrução intestinal, sendo constituída por:
+A) pneumobilia, distensão de intestino delgado e cálculo ectópico
+B) sinal do grão de café, dilatação do cólon sigmoide e hemobilia
+C) ampola retal vazia, sinal da dupla bolha e imagem em alvo
+D) cálculo biliar, sinal do empilhamento de moedas e bolha gástrica
+CORRETA: A
+
+PERGUNTA: Qual a principal causa de abdome agudo obstrutivo em adultos?
+A) Aderências
+B) Neoplasia
+C) Hérnias encarceradas
+D) Doenças inflamatórias
+CORRETA: A
+
+PERGUNTA: Um paciente de 30 anos, do sexo masculino, previamente saudável e sem comorbidades conhecidas, dá entrada na sala de emergência com queixa de dor abdominal intensa e desconforto respiratório acentuado. Apresenta saturação de oxigênio de 83% e frequência respiratória de 27 incursões por minuto. Ao exame físico, nota-se distensão abdominal marcada e sinais de irritação peritoneal, levantando a suspeita clínica de abdome agudo obstrutivo. Foi solicitado raio-X de tórax e abdome, o qual evidenciou opacificação significativa no hemitórax esquerdo, com elevação da cúpula diafragmática e presença de níveis hidroaéreos nesta topografia. Diante desses achados, suspeita-se fortemente de uma condição compatível com hérnia diafragmática esquerda com encarceramento de alças intestinais.
+A) Pneumotórax hipertensivo com deslocamento de vísceras abdominais.
+B) Pneumonia lobar esquerda com derrame pleural.
+C) Ruptura de víscera abdominal com peritonite generalizada.
+D) Hérnia diafragmática esquerda com encarceramento de alças intestinais.
+CORRETA: D

@@ -60,7 +60,7 @@ export default function Home() {
         </div>
 
         <p className="text-sm text-gray-600 mt-4">
-          Developed by <span className={`${greatVibes.className} text-2xl`}>Guilherme Pagani</span>
+          Developed by <span className={`${greatVibes.className} text-2xl`}>pagani</span>
         </p>
 
         {/* Botão Admin visível abaixo do rodapé */}
