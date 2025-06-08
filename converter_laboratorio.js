@@ -17,7 +17,11 @@ for (const bloco of blocos) {
     if (linha.startsWith('PERGUNTA:')) {
       pergunta = linha.replace('PERGUNTA:', '').trim();
     } else if (/^[A-D]\)/.test(linha)) {
-      alternativas.push(linha.substring(3).trim());
+      const alternativa = linha
+        .substring(3) // Remove "A) ", "B) ", etc.
+        .replace(/^[a-dA-D][\)\.]\s*/, '') // Remove prefixos como "a)", "B." dentro do texto
+        .trim();
+      alternativas.push(alternativa);
     } else if (linha.startsWith('CORRETA:')) {
       correta = linha.replace('CORRETA:', '').trim().toUpperCase();
     } else if (linha.startsWith('IMAGEM:')) {

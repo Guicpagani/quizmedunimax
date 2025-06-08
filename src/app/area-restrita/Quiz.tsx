@@ -1,22 +1,39 @@
 'use client';
 
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { getQuizByTitle } from "../utils/getQuizData";
 import { Questao } from "../types/types";
 
+function shuffleArray(array: any[]) {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+}
+
 export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const quizDataWrapper = getQuizByTitle(quizTitle);
-  const quizData: Questao[] | undefined = quizDataWrapper?.data?.data;
+  const originalData: Questao[] | undefined = quizDataWrapper?.data?.data;
 
   const router = useRouter();
 
+  const [quizData, setQuizData] = useState<Questao[]>([]);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedOption, setSelectedOption] = useState<number | null>(null);
   const [score, setScore] = useState(0);
   const [showScore, setShowScore] = useState(false);
   const [respostaPainel, setRespostaPainel] = useState("");
   const [canAdvance, setCanAdvance] = useState(false);
+
+  useEffect(() => {
+    if (originalData && originalData.length > 0) {
+      const shuffled = shuffleArray(originalData);
+      setQuizData(shuffled);
+    }
+  }, [originalData]);
 
   if (!quizData || quizData.length === 0) {
     return (
@@ -68,6 +85,8 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const percentualErro = 100 - percentualAcerto;
   const status = percentualAcerto >= 60 ? "✅ Aprovado" : "❌ Reprovado";
 
+  const letras = ['A', 'B', 'C', 'D'];
+
   return (
     <div className="bg-white p-6 pb-20 rounded-xl shadow-lg w-full max-w-[95rem] mx-auto px-4 sm:px-8">
       {showScore ? (
@@ -95,6 +114,10 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
         </div>
       ) : (
         <>
+          <p className="text-sm text-gray-500 text-right mb-2">
+            Questão {currentQuestionIndex + 1} / {total}
+          </p>
+
           <div className="mb-4">
             <h2 className="text-sm md:text-base font-medium text-gray-800 leading-relaxed text-justify">
               {currentQuestion.pergunta}
@@ -123,7 +146,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
                     : "bg-gray-200 hover:bg-gray-300 text-gray-900"
                 }`}
               >
-                {option}
+                {letras[index]}); {option}
               </button>
             ))}
           </div>
@@ -149,4 +172,3 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
     </div>
   );
 }
-
