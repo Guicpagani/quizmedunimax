@@ -42,7 +42,7 @@ export default function Home() {
 
       {/* Conteúdo principal */}
       <main className="flex flex-col items-center justify-center flex-1 px-4 pt-24 pb-10 relative">
-        <h2 className="text-4xl font-bold mb-4 text-center">Bem-vindo ao QuizMedmax</h2>
+        <h2 className="text-4xl font-bold mb-4 text-center">Bem-vindo ao Quizmedmax</h2>
 
         <p className="text-sm italic text-gray-600 text-center max-w-2xl mb-6">
           &quot;Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed&quot;. 
@@ -50,19 +50,19 @@ export default function Home() {
           Lembre-se: Estude para aprender, não só para passar.
         </p>
 
-        <div className="mb-6">
+        <div className="mb-0">
           <Image
             src="/logo-medico-fundo-branco.png"
             alt="Logo QuizMedUnimax"
-            width={300}
-            height={300}
+            width={200}
+            height={200}
             priority
           />
         </div>
 
-        <div className="flex flex-col items-center mb-4">
-          <h3 className="text-xl font-semibold mb-4 text-center">Pronto para testar seus conhecimentos?</h3>
-          <div className="flex flex-col sm:flex-row gap-4">
+        <div className="flex flex-col items-center mb-px">
+          <h3 className="text-xl font-semibold mb-1 text-center">Pronto para testar seus conhecimentos?</h3>
+          <div className="flex flex-col sm:flex-row gap-1">
             <Link href="/login">
               <button className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all">
                 Entrar no Quiz
