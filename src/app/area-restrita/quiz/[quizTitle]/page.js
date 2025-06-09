@@ -2,13 +2,14 @@
 
 import { use } from 'react';
 import { useEffect } from 'react';
+import { useRouter } from 'next/navigation';
 import Quiz from '../../Quiz';
 
 export default function QuizPage(props) {
   const { quizTitle } = use(props.params);
+  const router = useRouter();
 
   useEffect(() => {
-    // 🔒 Bloquear cópia, clique direito e seleção de texto
     const blockCopy = (e) => e.preventDefault();
     const blockContext = (e) => e.preventDefault();
     const blockSelect = () => {
@@ -19,7 +20,6 @@ export default function QuizPage(props) {
     document.addEventListener("contextmenu", blockContext);
     document.addEventListener("selectstart", blockSelect);
 
-    // 🔒 Bloquear teclas comuns de devtools e print
     const blockKeys = (e) => {
       const key = e.key.toLowerCase();
       if (
@@ -47,6 +47,15 @@ export default function QuizPage(props) {
   return (
     <div className="min-h-screen flex flex-col items-center justify-start bg-[#f5f7fa] py-8 px-4">
       <div className="bg-white shadow-lg rounded-2xl p-6 pb-20 w-full max-w-[95rem] sm:px-8">
+
+        {/* Botão de Voltar */}
+        <button
+          onClick={() => router.push('/area-restrita')}
+          className="mb-6 text-sm text-blue-600 hover:underline bg-gray-100 px-4 py-2 rounded-xl shadow"
+        >
+          ← Voltar para o menu principal
+        </button>
+
         <Quiz quizTitle={quizTitle} />
       </div>
     </div>
