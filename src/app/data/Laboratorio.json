@@ -4,702 +4,962 @@
     {
       "pergunta": "Sobre a localização do pâncreas na cavidade abdominal, é correto afirmar que:",
       "alternativas": [
-        "Está localizado retroperitonealmente, transversalmente aos corpos das vértebras L1 e L2",
-        "Está situado anteriormente ao estômago e inferior ao fígado",
-        "Encontra-se no mediastino posterior, entre o esôfago e a aorta",
-        "Situa-se entre o cólon ascendente e o rim direito"
+        "está localizado retroperitonealmente, transversalmente aos corpos das vértebras l1 e l2",
+        "está situado anteriormente ao estômago e inferior ao fígado",
+        "encontra-se no mediastino posterior, entre o esôfago e a aorta",
+        "situa-se entre o cólon ascendente e o rim direito"
       ],
       "correta": 0
     },
     {
       "pergunta": "O ducto pancreático principal (ducto de Wirsung):",
       "alternativas": [
-        "Se inicia na cabeça do pâncreas e termina no cólon transverso",
-        "Se comunica sempre com o ducto pancreático acessório",
-        "Une-se ao ducto colédoco para formar a ampola hepatopancreática (de Vater)",
-        "Desemboca na papila menor do duodeno, independentemente do colédoco"
+        "se inicia na cabeça do pâncreas e termina no cólon transverso",
+        "se comunica sempre com o ducto pancreático acessório",
+        "une-se ao ducto colédoco para formar a ampola hepatopancreática (de vater)",
+        "desemboca na papila menor do duodeno, independentemente do colédoco"
       ],
       "correta": 2
     },
     {
       "pergunta": "Sobre a organização histológica do pâncreas, é correto afirmar:",
       "alternativas": [
-        "As ilhotas de Langerhans formam a porção exócrina do pâncreas, responsável pela secreção de enzimas digestivas",
-        "Os ácinos pancreáticos estão organizados em lóbulos, responsáveis pela secreção de hormônios no sangue",
-        "As células beta dos ácinos pancreáticos são responsáveis pela produção de insulina",
-        "Os ácinos pancreáticos compõem a porção exócrina, enquanto as ilhotas de Langerhans representam a porção endócrina da glândula"
+        "as ilhotas de langerhans formam a porção exócrina do pâncreas, responsável pela secreção de enzimas digestivas",
+        "os ácinos pancreáticos estão organizados em lóbulos, responsáveis pela secreção de hormônios no sangue",
+        "as células beta dos ácinos pancreáticos são responsáveis pela produção de insulina",
+        "os ácinos pancreáticos compõem a porção exócrina, enquanto as ilhotas de langerhans representam a porção endócrina da glândula"
       ],
       "correta": 3
     },
     {
       "pergunta": "A drenagem venosa do pâncreas ocorre principalmente para:",
       "alternativas": [
-        "Veia cava inferior",
-        "Veia porta hepática, por meio das veias esplênica e mesentérica superior",
-        "Veia jugular interna",
-        "Veia subclávia esquerda"
+        "veia cava inferior",
+        "veia porta hepática, por meio das veias esplênica e mesentérica superior",
+        "veia jugular interna",
+        "veia subclávia esquerda"
       ],
       "correta": 1
     },
     {
       "pergunta": "Em relação à drenagem venosa do corpo do pâncreas, é correto afirmar que:",
       "alternativas": [
-        "É feita predominantemente pelas veias mesentéricas inferior e gástrica esquerda",
-        "As veias do corpo pancreático drenam para a veia porta diretamente",
-        "O sangue do corpo do pâncreas drena principalmente para a veia esplênica",
-        "O corpo pancreático não apresenta drenagem venosa significativa, apenas linfática"
+        "é feita predominantemente pelas veias mesentéricas inferior e gástrica esquerda",
+        "as veias do corpo pancreático drenam para a veia porta diretamente",
+        "o sangue do corpo do pâncreas drena principalmente para a veia esplênica",
+        "o corpo pancreático não apresenta drenagem venosa significativa, apenas linfática"
       ],
       "correta": 2
     },
     {
       "pergunta": "Em um paciente com pancreatite aguda grave, observa-se coloração azulada nos flancos do abdome. A origem desse achado está relacionada a:",
       "alternativas": [
-        "Acúmulo de bilirrubina sob a pele por colestase",
-        "Inflamação das glândulas suprarrenais com extravasamento linfático",
-        "Sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores",
-        "Vasoconstrição periférica por choque distributivo"
+        "acúmulo de bilirrubina sob a pele por colestase",
+        "inflamação das glândulas suprarrenais com extravasamento linfático",
+        "sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores",
+        "vasoconstrição periférica por choque distributivo"
       ],
       "correta": 2
     },
     {
       "pergunta": "Durante o exame físico de um paciente com pancreatite aguda grave, observou-se uma equimose ao redor do umbigo, de coloração violácea. Esse achado deve ser interpretado como:",
       "alternativas": [
-        "Extravasamento biliar com pigmentação subcutânea",
-        "Reação alérgica cutânea com púrpura localizada",
-        "Indício de hemorragia retroperitoneal por necrose pancreática grave",
-        "Manifestação típica de insuficiência hepática terminal"
+        "extravasamento biliar com pigmentação subcutânea",
+        "reação alérgica cutânea com púrpura localizada",
+        "indício de hemorragia retroperitoneal por necrose pancreática grave",
+        "manifestação típica de insuficiência hepática terminal"
       ],
       "correta": 2
     },
     {
       "pergunta": "Um paciente de 24 anos previamente hígido, procura atendimento ambulatorial com queixa de dor em flanco esquerdo, intermitente, tipo peso, associada a hematúria microscópica persistente e varicocele à esquerda não redutível. Ao exame físico, não há sinais sistêmicos, mas confirma-se a presença de varicocele grau III. A ultrassonografia mostra veia renal esquerda dilatada antes de se estreitar ao passar entre a artéria mesentérica superior e a aorta abdominal. diagnóstico mais provável é:",
       "alternativas": [
-        "Glomerulonefrite aguda com síndrome nefrítica clássica",
-        "Urolitíase com obstrução parcial de ureter esquerdo",
-        "Compressão da veia renal esquerda entre a aorta e artéria mesentérica superior (Síndrome do Quebra-nozes)",
-        "Trombose aguda de veia cava inferior com congestão renal secundária"
+        "glomerulonefrite aguda com síndrome nefrítica clássica",
+        "urolitíase com obstrução parcial de ureter esquerdo",
+        "compressão da veia renal esquerda entre a aorta e artéria mesentérica superior (síndrome do quebra-nozes)",
+        "trombose aguda de veia cava inferior com congestão renal secundária"
       ],
       "correta": 2
     },
     {
       "pergunta": "Uma mulher de 36 anos previamente saudável, procura atendimento com queixa de febre alta há dois dias, dor lombar à direita e calafrios. Refere dor que piora com a movimentação e que se irradia discretamente para o flanco. Ao exame físico, encontra-se febril (38,8 °C), com sinal de Giordano positivo à direita. Urina tipo I mostra piúria e bacteriúria, e a urocultura está em andamento.Com base nesse achado, qual estrutura anatômica está sendo avaliada diretamente pelo sinal clínico descrito?",
       "alternativas": [
-        "Córtex suprarrenal",
-        "Cálice menor do rim",
-        "Parênquima renal",
-        "Ureter distal"
+        "córtex suprarrenal",
+        "cálice menor do rim",
+        "parênquima renal",
+        "ureter distal"
       ],
       "correta": 2
     },
     {
       "pergunta": "Um homem de 48 anos, hipertenso de longa data, foi encaminhado ao setor de imagem para investigação de hipertensão renovascular. Durante o exame de angiotomografia, observou-se que a artéria renal direita é mais longa que a esquerda, atravessando posteriormente à veia cava inferior antes de alcançar o hilo renal.Esse achado anatômico é considerado:",
       "alternativas": [
-        "Patológico, pois normalmente ambas as artérias têm o mesmo comprimento",
-        "Compatível com a anatomia normal, já que a artéria renal direita é mais longa",
-        "Indicativo de anomalia congênita das artérias renais",
-        "Associado à duplicação do sistema pielocalicial à direita"
+        "patológico, pois normalmente ambas as artérias têm o mesmo comprimento",
+        "compatível com a anatomia normal, já que a artéria renal direita é mais longa",
+        "indicativo de anomalia congênita das artérias renais",
+        "associado à duplicação do sistema pielocalicial à direita"
       ],
       "correta": 1
     },
     {
       "pergunta": "Durante uma cirurgia laparoscópica para colecistectomia, o cirurgião residente observa uma estrutura retroperitoneal ao nível das vértebras T12 a L3, parcialmente recoberta pelo fígado e situada medialmente à flexura cólica direita. O assistente afirma tratar-se do rim direito. Com base na topografia anatômica descrita, qual das seguintes alternativas está correta em relação ao rim direito?",
       "alternativas": [
-        "Situa-se mais superiormente que o rim esquerdo e está em contato direto com o baço",
-        "Encontra-se posterior ao pâncreas e medial à vesícula biliar",
-        "Localiza-se mais inferiormente que o rim esquerdo devido à posição do fígado",
-        "É anterior à aorta abdominal e recoberto completamente pelo mesocólon"
+        "situa-se mais superiormente que o rim esquerdo e está em contato direto com o baço",
+        "encontra-se posterior ao pâncreas e medial à vesícula biliar",
+        "localiza-se mais inferiormente que o rim esquerdo devido à posição do fígado",
+        "é anterior à aorta abdominal e recoberto completamente pelo mesocólon"
       ],
       "correta": 2
     },
     {
       "pergunta": "Um paciente de 39 anos dá entrada no pronto-socorro com dor lombar intensa irradiando para a região inguinal, acompanhada de hematúria microscópica. A tomografia computadorizada sem contraste revela litíase obstruindo o ureter no ponto em que ele cruza os vasos ilíacos. Com base nos locais anatômicos onde o ureter apresenta constrições fisiológicas, assinale a alternativa correta:",
       "alternativas": [
-        "As constrições ocorrem apenas na pelve renal e na entrada na bexiga",
-        "O cruzamento com os vasos ilíacos é um dos três estreitamentos naturais do ureter",
-        "Não existem constrições ureterais em indivíduos hígidos; todas são patológicas",
-        "A única constrição relevante do ureter está ao nível do hiato urogenital"
+        "as constrições ocorrem apenas na pelve renal e na entrada na bexiga",
+        "o cruzamento com os vasos ilíacos é um dos três estreitamentos naturais do ureter",
+        "não existem constrições ureterais em indivíduos hígidos; todas são patológicas",
+        "a única constrição relevante do ureter está ao nível do hiato urogenital"
       ],
       "correta": 1
     },
     {
       "pergunta": "Durante uma nefrectomia parcial direita, o residente pergunta sobre os cuidados com a irrigação do ureter ao longo de seu trajeto. O cirurgião alerta que a vascularização ureteral é segmentar e que sua interrupção pode causar isquemia e estenose. Sabendo disso, qual das alternativas descreve corretamente a irrigação arterial do ureter?",
       "alternativas": [
-        "É feita exclusivamente pela artéria renal ao longo de todo o seu trajeto",
-        "Recebe irrigação segmentar das artérias renal, gonadal e ilíaca comum",
-        "A única fonte de irrigação é a artéria mesentérica inferior",
-        "O ureter é avascular até sua entrada na bexiga, onde passa a ser irrigado pela artéria pudenda interna"
+        "é feita exclusivamente pela artéria renal ao longo de todo o seu trajeto",
+        "recebe irrigação segmentar das artérias renal, gonadal e ilíaca comum",
+        "a única fonte de irrigação é a artéria mesentérica inferior",
+        "o ureter é avascular até sua entrada na bexiga, onde passa a ser irrigado pela artéria pudenda interna"
       ],
       "correta": 1
     },
     {
       "pergunta": "Um paciente de 60 anos, hipertenso crônico, apresenta piora progressiva da função renal. Em uma biópsia renal, observa-se dano tubular e glomerular predominantemente cortical, enquanto a medula renal encontra-se relativamente preservada. O nefrologista explica que os segmentos histológicos comprometidos estão relacionados às funções de filtração inicial e reabsorção de eletrólitos.Com base nas estruturas envolvidas, qual das seguintes afirmações é correta?",
       "alternativas": [
-        "O córtex renal abriga as pirâmides renais, responsáveis pela drenagem urinária final",
-        "A medula renal contém os glomérulos, túbulos e corpúsculos renais",
-        "O córtex renal é a região mais externa do parênquima e abriga os glomérulos",
-        "A medula renal participa da filtração glomerular e secreção hormonal"
+        "o córtex renal abriga as pirâmides renais, responsáveis pela drenagem urinária final",
+        "a medula renal contém os glomérulos, túbulos e corpúsculos renais",
+        "o córtex renal é a região mais externa do parênquima e abriga os glomérulos",
+        "a medula renal participa da filtração glomerular e secreção hormonal"
       ],
       "correta": 2
     },
     {
       "pergunta": "Durante uma esplenectomia por trauma, a equipe cirúrgica nota uma estrutura retroperitoneal",
       "alternativas": [
-        "Está localizado em posição mais inferior que o rim direito",
-        "Situa-se retroperitonealmente e relaciona-se com o baço, pâncreas, estômago e flexura esplênica",
-        "Encontra-se anteriormente ao fígado e medial à vesícula biliar",
-        "Está em contato direto com o reto e o útero por sua face posterior"
+        "está localizado em posição mais inferior que o rim direito",
+        "situa-se retroperitonealmente e relaciona-se com o baço, pâncreas, estômago e flexura esplênica",
+        "encontra-se anteriormente ao fígado e medial à vesícula biliar",
+        "está em contato direto com o reto e o útero por sua face posterior"
       ],
       "correta": 1
     },
     {
       "pergunta": "Qual é o principal mecanismo de ação dos antifúngicos azólicos, como o fluconazol e o cetoconazol?",
       "alternativas": [
-        "INIBIÇÃO DA ENZIMA LANOSTEROL 14-ALFA-DESMETILASE, BLOQUEANDO A SÍNTESE DE ERGOSTEROL.",
-        "INIBIÇÃO DA SÍNTESE DE BETA-(1,3)-GLUCANO, UM COMPONENTE ESSENCIAL DA PAREDE CELULAR FÚNGICA.",
-        "LIGAÇÃO AO ERGOSTEROL, FORMANDO POROS NA MEMBRANA CELULAR FÚNGICA.",
-        "INTERFERÊNCIA COM A FUNÇÃO DOS MICROTÚBULOS, DESFAZENDO O FUSO MITÓTICO DA CÉLULA FÚNGICA."
+        "inibição da enzima lanosterol 14-alfa-desmetilase, bloqueando a síntese de ergosterol.",
+        "inibição da síntese de beta-(1,3)-glucano, um componente essencial da parede celular fúngica.",
+        "ligação ao ergosterol, formando poros na membrana celular fúngica.",
+        "interferência com a função dos microtúbulos, desfazendo o fuso mitótico da célula fúngica."
       ],
       "correta": 0
     },
     {
       "pergunta": "Um paciente imunocomprometido é diagnosticado com aspergilose invasiva. Qual dos seguintes antifúngicos é considerado uma terapia de primeira escolha para esta condição grave?",
       "alternativas": [
-        "VORICONAZOL",
-        "TERBINAFINA",
-        "NISTATINA",
-        "GRISEOFULVINA"
+        "voriconazol",
+        "terbinafina",
+        "nistatina",
+        "griseofulvina"
       ],
       "correta": 0
     },
     {
       "pergunta": "A nefrotoxicidade é a reação adversa mais significativa e limitante da dose de qual dos seguintes antifúngicos?",
       "alternativas": [
-        "FLUCONAZOL",
-        "ANFOTERICINA B",
-        "ITRACONAZOL",
-        "CASPOFUNGINA"
+        "fluconazol",
+        "anfotericina b",
+        "itraconazol",
+        "caspofungina"
       ],
       "correta": 1
     },
     {
       "pergunta": "Qual é o mecanismo de ação da Caspofungina?",
       "alternativas": [
-        "INIBIÇÃO DA DNA-POLIMERASE VIRAL",
-        "CRIAÇÃO DE POROS NA MEMBRANA CELULAR AO SE LIGAR AO COLESTEROL",
-        "INIBIÇÃO DA ESQUALENO EPOXIDASE",
-        "INIBIÇÃO DA SÍNTESE DE BETA-(1,3)-GLUCANO NA PAREDE CELULAR"
+        "inibição da dna-polimerase viral",
+        "criação de poros na membrana celular ao se ligar ao colesterol",
+        "inibição da esqualeno epoxidase",
+        "inibição da síntese de beta-(1,3)-glucano na parede celular"
       ],
       "correta": 3
     },
     {
       "pergunta": "O cetoconazol, um antifúngico imidazólico, é conhecido por causar efeitos adversos endócrinos, como ginecomastia e irregularidades menstruais. Qual é a base farmacológica para esses efeitos?",
       "alternativas": [
-        "SUA BAIXA SELETIVIDADE, INIBINDO TAMBÉM A SÍNTESE DE ESTEROIDES SUPRARRENAIS E GONADAIS HUMANOS.",
-        "SUA CAPACIDADE DE QUELAR ÍONS DE CÁLCIO, AFETANDO A LIBERAÇÃO HORMONAL.",
-        "SUA ALTA AFINIDADE PELA BETA-TUBULINA HUMANA.",
-        "SUA AÇÃO COMO AGONISTA DOS RECEPTORES DE ESTROGÊNIO."
+        "sua baixa seletividade, inibindo também a síntese de esteroides suprarrenais e gonadais humanos.",
+        "sua capacidade de quelar íons de cálcio, afetando a liberação hormonal.",
+        "sua alta afinidade pela beta-tubulina humana.",
+        "sua ação como agonista dos receptores de estrogênio."
       ],
       "correta": 0
     },
     {
       "pergunta": "Para o tratamento de onicomicose causada por dermatófitos como Trichophyton rubrum, qual dos seguintes fármacos orais é frequentemente a terapia de primeira escolha?",
       "alternativas": [
-        "CASPOFUNGINA",
-        "TERBINAFINA",
-        "NISTATINA",
-        "ANFOTERICINA B"
+        "caspofungina",
+        "terbinafina",
+        "nistatina",
+        "anfotericina b"
       ],
       "correta": 1
     },
     {
       "pergunta": "Um paciente com meningite criptocócica (causada por Cryptococcus neoformans) é internado. Qual é a terapia de indução padrão-ouro para esta condição grave?",
       "alternativas": [
-        "FLUCONAZOL EM DOSE ÚNICA",
-        "ANFOTERICINA B ASSOCIADA À FLUCITOSINA",
-        "APENAS GRISEOFULVINA",
-        "ITRACONAZOL ORAL POR 6 MESES"
+        "fluconazol em dose única",
+        "anfotericina b associada à flucitosina",
+        "apenas griseofulvina",
+        "itraconazol oral por 6 meses"
       ],
       "correta": 1
     },
     {
       "pergunta": "Qual é a indicação principal para o uso da Nistatina?",
       "alternativas": [
-        "ONICOMICOSE",
-        "CANDIDÍASE ORAL E VAGINAL (USO TÓPICO)",
-        "TINEA CAPITIS",
-        "ASPERGILOSE PULMONAR INVASIVA"
+        "onicomicose",
+        "candidíase oral e vaginal (uso tópico)",
+        "tinea capitis",
+        "aspergilose pulmonar invasiva"
       ],
       "correta": 1
     },
     {
       "pergunta": "Um paciente desenvolve candidíase vaginal recorrente. Qual esquema terapêutico com Fluconazol é frequentemente recomendado para supressão a longo prazo?",
       "alternativas": [
-        "150 MG, UMA DOSE NOS DIAS 1, 4 E 7, SEGUIDA POR 150 MG UMA VEZ POR SEMANA POR 6 MESES.",
-        "USO DE CREME VAGINAL DE FLUCONAZOL CONTINUAMENTE.",
-        "150 MG EM DOSE ÚNICA, REPETIDA APENAS SE OS SINTOMAS RETORNAREM.",
-        "50 MG DIARIAMENTE POR 14 DIAS."
+        "150 mg, uma dose nos dias 1, 4 e 7, seguida por 150 mg uma vez por semana por 6 meses.",
+        "uso de creme vaginal de fluconazol continuamente.",
+        "150 mg em dose única, repetida apenas se os sintomas retornarem.",
+        "50 mg diariamente por 14 dias."
       ],
       "correta": 0
     },
     {
       "pergunta": "Qual é o mecanismo de ação da Griseofulvina?",
       "alternativas": [
-        "INIBIÇÃO DA FUNÇÃO DOS MICROTÚBULOS E DO FUSO MITÓTICO",
-        "INIBIÇÃO DA SÍNTESE DA PAREDE CELULAR",
-        "INIBIÇÃO DA SÍNTESE DE ERGOSTEROL",
-        "LIGAÇÃO À MEMBRANA CELULAR PARA FORMAR POROS"
+        "inibição da função dos microtúbulos e do fuso mitótico",
+        "inibição da síntese da parede celular",
+        "inibição da síntese de ergosterol",
+        "ligação à membrana celular para formar poros"
       ],
       "correta": 0
     },
     {
       "pergunta": "Um paciente com AIDS desenvolve retinite por citomegalovírus (CMV). Qual dos seguintes antivirais é a terapia de primeira escolha para esta condição?",
       "alternativas": [
-        "GANCICLOVIR",
-        "ACICLOVIR",
-        "PALIVIZUMABE",
-        "OSELTAMIVIR"
+        "ganciclovir",
+        "aciclovir",
+        "palivizumabe",
+        "oseltamivir"
       ],
       "correta": 0
     },
     {
       "pergunta": "Qual é a principal toxicidade dose-limitante associada ao Itraconazol?",
       "alternativas": [
-        "HEPATOTOXICIDADE",
-        "MIELOSSUPRESSÃO (NEUTROPENIA, TROMBOCITOPENIA)",
-        "DISTÚRBIOS VISUAIS",
-        "NEFROTOXICIDADE"
+        "hepatotoxicidade",
+        "mielossupressão (neutropenia, trombocitopenia)",
+        "distúrbios visuais",
+        "nefrotoxicidade"
       ],
       "correta": 0
     },
     {
       "pergunta": "Qual é a indicação para o uso do Palivizumabe?",
       "alternativas": [
-        "TRATAMENTO DA HEPATITE C CRÔNICA.",
-        "PROFILAXIA DA INFECÇÃO PELO VÍRUS SINCICIAL RESPIRATÓRIO (VSR) EM CRIANÇAS DE ALTO RISCO.",
-        "TRATAMENTO DE HERPES-ZÓSTER EM IDOSOS.",
-        "TRATAMENTO DE PNEUMONIA POR INFLUENZA EM ADULTOS."
+        "tratamento da hepatite c crônica.",
+        "profilaxia da infecção pelo vírus sincicial respiratório (vsr) em crianças de alto risco.",
+        "tratamento de herpes-zóster em idosos.",
+        "tratamento de pneumonia por influenza em adultos."
       ],
       "correta": 1
     },
     {
       "pergunta": "O Sofosbuvir é um pilar no tratamento da Hepatite C. Qual é o seu mecanismo de ação?",
       "alternativas": [
-        "INIBIDOR DA RNA POLIMERASE NS5B DEPENDENTE DE RNA",
-        "INIBIDOR DA NEURAMINIDASE",
-        "INIBIDOR DA PROTEÍNA NS5A",
-        "INIBIDOR DA PROTEASE NS3/4A"
+        "inibidor da rna polimerase ns5b dependente de rna",
+        "inibidor da neuraminidase",
+        "inibidor da proteína ns5a",
+        "inibidor da protease ns3/4a"
       ],
       "correta": 0
     },
     {
       "pergunta": "De acordo com as diretrizes atuais para o tratamento da Hepatite C crônica em um paciente sem cirrose e sem tratamento prévio, qual dos seguintes esquemas é considerado uma terapia de primeira linha pangenotípica?",
       "alternativas": [
-        "APENAS ACICLOVIR",
-        "OSELTAMIVIR POR 12 SEMANAS",
-        "SOFOSBUVIR E DACLATASVIR",
-        "ALFAPEGUINTERFERONA E RIBAVIRINA"
+        "apenas aciclovir",
+        "oseltamivir por 12 semanas",
+        "sofosbuvir e daclatasvir",
+        "alfapeguinterferona e ribavirina"
       ],
       "correta": 2
     },
     {
       "pergunta": "Um paciente está em tratamento para herpes genital com aciclovir oral. Que reação adversa comum, embora geralmente leve, pode ser esperada?",
       "alternativas": [
-        "CEFALEIA, DIARREIA, NÁUSEAS E VÔMITOS",
-        "MIELOSSUPRESSÃO SEVERA",
-        "ALUCINAÇÕES VISUAIS E AUDITIVAS",
-        "NEFROTOXICIDADE IRREVERSÍVEL"
+        "cefaleia, diarreia, náuseas e vômitos",
+        "mielossupressão severa",
+        "alucinações visuais e auditivas",
+        "nefrotoxicidade irreversível"
       ],
       "correta": 0
     },
     {
       "pergunta": "Qual é a principal vantagem do Valaciclovir sobre o Aciclovir?",
       "alternativas": [
-        "POSSUI MAIOR BIODISPONIBILIDADE ORAL.",
-        "PODE SER ADMINISTRADO EM DOSE ÚNICA PARA HERPES-ZÓSTER.",
-        "É EFICAZ CONTRA O CITOMEGALOVÍRUS (CMV).",
-        "NÃO CAUSA NEFROTOXICIDADE."
+        "possui maior biodisponibilidade oral.",
+        "pode ser administrado em dose única para herpes-zóster.",
+        "é eficaz contra o citomegalovírus (cmv).",
+        "não causa nefrotoxicidade."
       ],
       "correta": 0
     },
     {
       "pergunta": "O Foscarnet é uma opção para infecções por CMV resistentes ao Ganciclovir. Qual é o seu mecanismo de ação?",
       "alternativas": [
-        "INIBE DIRETAMENTE A DNA-POLIMERASE VIRAL.",
-        "BLOQUEIA A SÍNTESE DE BETA-GLUCANO NA PAREDE CELULAR.",
-        "IMPEDE A FUSÃO DO ENVELOPE VIRAL COM A CÉLULA HOSPEDEIRA.",
-        "INIBE A NEURAMINIDASE VIRAL."
+        "inibe diretamente a dna-polimerase viral.",
+        "bloqueia a síntese de beta-glucano na parede celular.",
+        "impede a fusão do envelope viral com a célula hospedeira.",
+        "inibe a neuraminidase viral."
       ],
       "correta": 0
     },
     {
       "pergunta": "Um paciente está sendo tratado com Anfotericina B. Qual a reação dose-dependente associada a este fármaco?",
       "alternativas": [
-        "HEPATOTOXICIDADE",
-        "MIELOSSUPRESSÃO",
-        "HIPERGLICEMIA",
-        "NEFROTOXICIDADE"
+        "hepatotoxicidade",
+        "mielossupressão",
+        "hiperglicemia",
+        "nefrotoxicidade"
       ],
       "correta": 3
     },
     {
       "pergunta": "Para o tratamento da pitiríase versicolor (pano branco), causada por Malassezia spp., qual das seguintes opções terapêuticas tópicas é frequentemente utilizada?",
       "alternativas": [
-        "ANFOTERICINA B INTRAVENOSA",
-        "CETOCONAZOL TÓPICO",
-        "CASPOFUNGINA",
-        "GRISEOFULVINA ORAL"
+        "anfotericina b intravenosa",
+        "cetoconazol tópico",
+        "caspofungina",
+        "griseofulvina oral"
       ],
       "correta": 1
     },
     {
       "pergunta": "A associação de alfapeguinterferona e ribavirina, embora hoje em dia menos utilizada, foi por muito tempo o pilar do tratamento da hepatite C. Qual é o principal efeito adverso da ribavirina que frequentemente levava à necessidade de redução da dose ou uso de fatores de crescimento?",
       "alternativas": [
-        "NEFROTOXICIDADE",
-        "MIOPATIA",
-        "PANCREATITE",
-        "ANEMIA HEMOLÍTICA"
+        "nefrotoxicidade",
+        "miopatia",
+        "pancreatite",
+        "anemia hemolítica"
       ],
       "correta": 3
     },
     {
       "pergunta": "Qual dos seguintes antifúngicos tem sua absorção oral significativamente aumentada pela presença de alimentos e requer um ambiente ácido no estômago para dissolução adequada?",
       "alternativas": [
-        "FLUCONAZOL",
-        "ITRACONAZOL",
-        "CASPOFUNGINA",
-        "ANFOTERICINA"
+        "fluconazol",
+        "itraconazol",
+        "caspofungina",
+        "anfotericina"
       ],
       "correta": 1
     },
     {
       "pergunta": "Um paciente com infecção por influenza é tratado com oseltamivir. O tratamento deve ser iniciado idealmente em que período para máxima eficácia?",
       "alternativas": [
-        "DENTRO DAS PRIMEIRAS 48 HORAS DO INÍCIO DOS SINTOMAS.",
-        "APENAS APÓS 72 HORAS PARA CONFIRMAR QUE É UMA INFECÇÃO VIRAL E NÃO BACTERIANA.",
-        "A QUALQUER MOMENTO, DESDE QUE OS SINTOMAS PERSISTAM.",
-        "APENAS SE O PACIENTE DESENVOLVER PNEUMONIA."
+        "dentro das primeiras 48 horas do início dos sintomas.",
+        "apenas após 72 horas para confirmar que é uma infecção viral e não bacteriana.",
+        "a qualquer momento, desde que os sintomas persistam.",
+        "apenas se o paciente desenvolver pneumonia."
       ],
       "correta": 0
     },
     {
       "pergunta": "Qual é a abordagem atual recomendada para o tratamento da Hepatite C em gestantes?",
       "alternativas": [
-        "INICIAR O TRATAMENTO COM ANTIVIRAIS DE AÇÃO DIRETA (DAAS) IMEDIATAMENTE NO PRIMEIRO TRIMESTRE.",
-        "REALIZAR CESARIANA ELETIVA PARA TODAS AS GESTANTES COM HCV PARA PREVENIR A TRANSMISSÃO VERTICAL.",
-        "UTILIZAR ALFAPEGUINTERFERONA E RIBAVIRINA DURANTE A GESTAÇÃO, POIS SÃO CONSIDERADOS SEGUROS.",
-        "MONITORAR A CARGA VIRAL E AS ENZIMAS HEPÁTICAS DA GESTANTE E ADIAR O TRATAMENTO PARA APÓS O PARTO."
+        "iniciar o tratamento com antivirais de ação direta (daas) imediatamente no primeiro trimestre.",
+        "realizar cesariana eletiva para todas as gestantes com hcv para prevenir a transmissão vertical.",
+        "utilizar alfapeguinterferona e ribavirina durante a gestação, pois são considerados seguros.",
+        "monitorar a carga viral e as enzimas hepáticas da gestante e adiar o tratamento para após o parto."
       ],
       "correta": 3
     },
     {
       "pergunta": "Para a PrEP (Profilaxia Pré-Exposição) diária do HIV, a combinação de Tenofovir disoproxil fumarato (TDF) e Emtricitabina (FTC) é amplamente utilizada. Qual dos seguintes é um critério essencial antes de iniciar a PrEP?",
       "alternativas": [
-        "EXAME DE HIV NEGATIVO, INCLUINDO TESTE RÁPIDO E/OU SOROLOGIA.",
-        "CARGA VIRAL DE HIV > 1000 CÓPIAS/ML.",
-        "APRESENTAÇÃO DE ESQUEMA VACINAL COMPLETO CONTRA O HPV.",
-        "CONFIRMAÇÃO DE INFECÇÃO POR HEPATITE B CRÔNICA."
+        "exame de hiv negativo, incluindo teste rápido e/ou sorologia.",
+        "carga viral de hiv > 1000 cópias/ml.",
+        "apresentação de esquema vacinal completo contra o hpv.",
+        "confirmação de infecção por hepatite b crônica."
       ],
       "correta": 0
     },
     {
       "pergunta": "Um paciente recém-diagnosticado com HIV, sem histórico de tratamento prévio e sem evidência de resistência a antirretrovirais, apresenta contagem de CD4 de 350 CÉLULAS/MM³. Qual dos seguintes esquemas de Terapia Antirretroviral (TARV) é frequentemente recomendado como primeira linha devido à sua alta eficácia, tolerabilidade e comodidade posológica?",
       "alternativas": [
-        "DOLUTEGRAVIR (DTG) + LAMIVUDINA (3TC) + TENOFOVIR (TDF OU TAF)",
-        "RITONAVIR (RTV) + LOPINAVIR (LPV) + ABACAVIR (ABC) + LAMIVUDINA (3TC)",
-        "NEVIRAPINA (NVP) + TENOFOVIR (TDF) + EMTRICITABINA (FTC)",
-        "ZIDOVUDINA (AZT) + LAMIVUDINA (3TC) + EFAVIRENZ (EFZ)"
+        "dolutegravir (dtg) + lamivudina (3tc) + tenofovir (tdf ou taf)",
+        "ritonavir (rtv) + lopinavir (lpv) + abacavir (abc) + lamivudina (3tc)",
+        "nevirapina (nvp) + tenofovir (tdf) + emtricitabina (ftc)",
+        "zidovudina (azt) + lamivudina (3tc) + efavirenz (efz)"
       ],
       "correta": 0
     },
     {
       "pergunta": "Paciente masculino, 35 anos, previamente saudável, relata fadiga, febre baixa, náuseas e mialgia há cerca de 7 dias. Evoluiu com dor no hipocôndrio direito, urina escura e icterícia há 3 dias. Nega uso de álcool ou drogas. Refere relação sexual desprotegida recente com parceiro de status sorológico desconhecido. AST: 1.100 U/L, ALT: 1.450 U/L, HBsAg: positivo, Anti-HBc IgM: positivo, Anti-HBs: negativo, Anti-HAV IgM: negativo, Anti-HCV: positivo. 1 - Qual o diagnóstico provável? 2 - Quais são os achados histopatológicos característicos desta condição?",
       "alternativas": [
-        "HEPATITE B CRÔNICA E CONTATO PRÉVIO COM HEPATITE A",
-        "HEPATITE B CRÔNICA E NECESSIDADE DE MAIS EXAMES PARA CONFIRMAR HEPATITE C",
-        "HEPATITE B AGUDA E CONTATO PRÉVIO COM HEPATITE C",
-        "HEPATITE B E HEPATITE C CONFIRMADOS DEVIDO A POSITIVIDADE NO RESULTADO LABORATORIAL"
+        "hepatite b crônica e contato prévio com hepatite a",
+        "hepatite b crônica e necessidade de mais exames para confirmar hepatite c",
+        "hepatite b aguda e contato prévio com hepatite c",
+        "hepatite b e hepatite c confirmados devido a positividade no resultado laboratorial"
       ],
       "correta": 2
     },
     {
       "pergunta": "Em relação à divisão funcional do ácino hepático nas zonas 1, 2 e 3 de Rappaport, assinale a alternativa correta:",
       "alternativas": [
-        "A ZONA 2 APRESENTA MAIOR ATIVIDADE METABÓLICA E É A PRINCIPAL FONTE DE REGENERAÇÃO HEPATOCELULAR APÓS LESÃO",
-        "A ZONA 3, MAIS PRÓXIMA DA VEIA CENTRAL, É A MAIS SUSCETÍVEL À HIPÓXIA E À NECROSE INDUZIDA POR METABÓLITOS TÓXICOS",
-        "A ZONA 1 É POBRE EM OXIGÊNIO, MAS RICA EM ENZIMAS DE FASE I, COMO CYP2E1",
-        "A ZONA 1 É A MAIS SUSCETÍVEL À TOXICIDADE POR FÁRMACOS COMO O PARACETAMOL"
+        "a zona 2 apresenta maior atividade metabólica e é a principal fonte de regeneração hepatocelular após lesão",
+        "a zona 3, mais próxima da veia central, é a mais suscetível à hipóxia e à necrose induzida por metabólitos tóxicos",
+        "a zona 1 é pobre em oxigênio, mas rica em enzimas de fase i, como cyp2e1",
+        "a zona 1 é a mais suscetível à toxicidade por fármacos como o paracetamol"
       ],
       "correta": 1
     },
     {
       "pergunta": "Sobre a zona 3 do ácino hepático (zona centrolobular), marque a alternativa correta:",
       "alternativas": [
-        "É A REGIÃO MENOS SUSCETÍVEL À HIPÓXIA E AO DANO TÓXICO POR FÁRMACOS",
-        "É POBRE EM ENZIMAS METABÓLICAS COMO O SISTEMA DO CITOCROMO P450",
-        "É RICA EM CYP2E1, RESPONSÁVEL PELA GERAÇÃO DE NAPQI, METABÓLITO TÓXICO DO PARACETAMOL",
-        "É A PRINCIPAL REGIÃO AFETADA NA HEPATITE VIRAL AGUDA COM PADRÃO COLESTÁTICO"
+        "é a região menos suscetível à hipóxia e ao dano tóxico por fármacos",
+        "é pobre em enzimas metabólicas como o sistema do citocromo p450",
+        "é rica em cyp2e1, responsável pela geração de napqi, metabólito tóxico do paracetamol",
+        "é a principal região afetada na hepatite viral aguda com padrão colestático"
       ],
       "correta": 2
     },
     {
       "pergunta": "Paciente masculino, 60 anos, histórico de transfusão sanguínea na década de 1980. Relata fadiga crônica progressiva, sem outras queixas associadas. Nega uso de álcool ou hepatopatias prévias. Exames laboratoriais prévios revelaram Anti-HCV positivo, com RNA HCV detectável persistentemente por mais de 6 meses. AST: 85 U/L, ALT: 95 U/L, Bilirrubina total: 1,2 mg/dL. 1 - Qual o diagnóstico provável? 2 - Quais são os achados histopatológicos característicos desta condição?",
       "alternativas": [
-        "HEPATITE C AGUDA",
-        "HEPATITE C CRÔNICA",
-        "CONTATO PRÉVIO COM HEPATITE C, NÃO É POSSÍVEL CONFIRMAR ESTADO AGUDO OU CRÔNICO",
-        "NENHUMA DAS ANTERIORES"
+        "hepatite c aguda",
+        "hepatite c crônica",
+        "contato prévio com hepatite c, não é possível confirmar estado agudo ou crônico",
+        "nenhuma das anteriores"
       ],
       "correta": 1
     },
     {
       "pergunta": "Sobre a tríade portal no fígado, assinale a alternativa correta:",
       "alternativas": [
-        "A TRÍADE PORTAL É FORMADA PELA VEIA CAVA INFERIOR, DUCTO BILIAR E HEPATÓCITO",
-        "A TRÍADE PORTAL É COMPOSTA PELA VEIA PORTA HEPÁTICA, ARTÉRIA HEPÁTICA E DUCTO BILIAR",
-        "A TRÍADE PORTAL É COMPOSTA POR COLANGIÓCITOS, SINUSOIDES E CANALÍCULOS BILIARES",
-        "A TRÍADE PORTAL É FORMADA EXCLUSIVAMENTE POR ESTRUTURAS LINFÁTICAS"
+        "a tríade portal é formada pela veia cava inferior, ducto biliar e hepatócito",
+        "a tríade portal é composta pela veia porta hepática, artéria hepática e ducto biliar",
+        "a tríade portal é composta por colangiócitos, sinusoides e canalículos biliares",
+        "a tríade portal é formada exclusivamente por estruturas linfáticas"
       ],
       "correta": 1
     },
     {
       "pergunta": "Qual a principal função dos sinusoides hepáticos?",
       "alternativas": [
-        "PRODUZIR BILE E SECRETAR GLICOSE PARA OS HEPATÓCITOS",
-        "REALIZAR A FAGOCITOSE DE PROTEÍNAS PLASMÁTICAS POR CÉLULAS DE KUPFFER",
-        "PERMITIR A TROCA EFICIENTE DE SUBSTÂNCIAS ENTRE O SANGUE E OS HEPATÓCITOS, FUNCIONANDO COMO CAPILARES ESPECIALIZADOS",
-        "TRANSPORTAR BILE DO HEPATÓCITO ATÉ A VESÍCULA BILIAR"
+        "produzir bile e secretar glicose para os hepatócitos",
+        "realizar a fagocitose de proteínas plasmáticas por células de kupffer",
+        "permitir a troca eficiente de substâncias entre o sangue e os hepatócitos, funcionando como capilares especializados",
+        "transportar bile do hepatócito até a vesícula biliar"
       ],
       "correta": 2
     },
     {
       "pergunta": "Sobre a zona 1 do ácino hepático, é correto afirmar:",
       "alternativas": [
-        "É A REGIÃO MAIS PRÓXIMA DA VEIA CENTRAL E, POR ISSO, A ÚLTIMA A RECEBER SANGUE OXIGENADO",
-        "POSSUI MAIOR ATIVIDADE DA CYP2E1, O QUE A TORNA MAIS VULNERÁVEL À TOXICIDADE POR PARACETAMOL",
-        "APRESENTA MAIOR CONCENTRAÇÃO DE METABÓLITOS TÓXICOS E SOFRE NECROSE EM CASOS DE INSUFICIÊNCIA HEPÁTICA AGUDA",
-        "É A PRIMEIRA A RECEBER SANGUE OXIGENADO E NUTRIENTES, SENDO MAIS RESISTENTE À HIPÓXIA"
+        "é a região mais próxima da veia central e, por isso, a última a receber sangue oxigenado",
+        "possui maior atividade da cyp2e1, o que a torna mais vulnerável à toxicidade por paracetamol",
+        "apresenta maior concentração de metabólitos tóxicos e sofre necrose em casos de insuficiência hepática aguda",
+        "é a primeira a receber sangue oxigenado e nutrientes, sendo mais resistente à hipóxia"
       ],
       "correta": 3
     },
     {
       "pergunta": "Sobre a zona 2 do ácino hepático, assinale a alternativa correta:",
       "alternativas": [
-        "REPRESENTA A ZONA INTERMEDIÁRIA ENTRE A ZONA PORTAL E A ZONA CENTROLOBULAR, COM CARACTERÍSTICAS METABÓLICAS MISTAS",
-        "É A MAIS RICA EM ENZIMAS DO CITOCROMO P450 E, PORTANTO, A PRINCIPAL AFETADA POR TOXINAS HEPÁTICAS",
-        "É A ZONA MENOS VASCULARIZADA E A MAIS SENSÍVEL À HIPÓXIA",
-        "POSSUI FUNÇÕES EXÓCRINAS PREDOMINANTES, COMO A SECREÇÃO DE BILE"
+        "representa a zona intermediária entre a zona portal e a zona centrolobular, com características metabólicas mistas",
+        "é a mais rica em enzimas do citocromo p450 e, portanto, a principal afetada por toxinas hepáticas",
+        "é a zona menos vascularizada e a mais sensível à hipóxia",
+        "possui funções exócrinas predominantes, como a secreção de bile"
       ],
       "correta": 0
     },
     {
       "pergunta": "Mulher, 32 anos, queixa-se de fadiga crônica, artralgias e icterícia discreta. FAN positivo, anti-músculo liso positivo(ASMA), IgG elevada.",
       "alternativas": [
-        "ESTEATOSE HEPÁTICA",
-        "ENCEFALOPATIA HEPÁTICA",
-        "HEPATITE AUTOIMUNE",
-        "HEPATITE VIRAL"
+        "esteatose hepática",
+        "encefalopatia hepática",
+        "hepatite autoimune",
+        "hepatite viral"
       ],
       "correta": 2
     },
     {
       "pergunta": "Homem, 46 anos, utilizou 6 comprimidos de paracetamol (750 mg) nas últimas 24 horas devido a lombalgia intensa. Evoluiu com icterícia, prurido e colúria (urina escura). AST 950 U/L, ALT 1.100 U/L. 1 - Qual o diagnóstico provável? 2 - Quais são os achados histopatológicos característicos desta condição?",
       "alternativas": [
-        "HEPATITE VIRAL AGUDA; INFILTRADO LINFOCITÁRIO PERIPORTAL COM NECROSE EM \"EMARANHADO DE BALÃO\"",
-        "COLESTASE INTRA-HEPÁTICA POR OBSTRUÇÃO BILIAR; PROLIFERAÇÃO DUCTAL COM BILE NOS CANALÍCULOS BILIARES",
-        "HEPATITE AUTOIMUNE; INFLAMAÇÃO PORTAL COM PREDOMÍNIO LINFOPLASMOCITÁRIO E DESTRUIÇÃO DE DUCTOS BILIARES",
-        "HEPATOTOXICIDADE AGUDA POR PARACETAMOL; NECROSE HEPATOCELULAR CENTROLOBULAR"
+        "hepatite viral aguda; infiltrado linfocitário periportal com necrose em \"emaranhado de balão\"",
+        "colestase intra-hepática por obstrução biliar; proliferação ductal com bile nos canalículos biliares",
+        "hepatite autoimune; inflamação portal com predomínio linfoplasmocitário e destruição de ductos biliares",
+        "hepatotoxicidade aguda por paracetamol; necrose hepatocelular centrolobular"
       ],
       "correta": 3
     },
     {
       "pergunta": "Homem, 52 anos, etilista de longa data, consumo médio de 1 litro de cachaça/dia. Relata fadiga progressiva, anorexia e icterícia há 5 dias. Exame físico: hepatomegalia dolorosa, leve ascite, eritema palmar. AST 380 U/L, ALT 120 U/L. 1 - Qual o diagnóstico provável? 2 - Quais são os achados histopatológicos característicos desta condição?",
       "alternativas": [
-        "HEPATITE AUTOIMUNE; INFILTRADO LINFOPLASMOCITÁRIO PORTAL, NECROSE EM PONTE E HIPERPLASIA DUCTAL BILIAR COM POSITIVIDADE PARA ANTICORPOS ANTI-LKM1",
-        "HEPATITE VIRAL AGUDA B; NECROSE EM FOCOS MULTIFOCAIS, BALONIZAÇÃO HEPATOCELULAR E PRESENÇA DE HEPATÓCITOS COM \"VIDRO FOSCO\", COM ALT > AST",
-        "HEPATITE ALCOÓLICA; NECROSE HEPATOCELULAR CENTROLOBULAR, DEGENERAÇÃO GORDUROSA MACROVESICULAR, CORPÚSCULOS DE MALLORY-DENK E INFILTRADO NEUTROFÍLICO",
-        "ESTEATOSE HEPÁTICA NÃO ALCOÓLICA (EHNA); INFLAMAÇÃO PORTAL MONONUCLEAR, BALONIZAÇÃO DE HEPATÓCITOS PERIVENULARES, SEM ALTERAÇÕES CENTROLOBULARES OU CORPÚSCULOS DE MALLORY"
+        "hepatite autoimune; infiltrado linfoplasmocitário portal, necrose em ponte e hiperplasia ductal biliar com positividade para anticorpos anti-lkm1",
+        "hepatite viral aguda b; necrose em focos multifocais, balonização hepatocelular e presença de hepatócitos com \"vidro fosco\", com alt > ast",
+        "hepatite alcoólica; necrose hepatocelular centrolobular, degeneração gordurosa macrovesicular, corpúsculos de mallory-denk e infiltrado neutrofílico",
+        "esteatose hepática não alcoólica (ehna); inflamação portal mononuclear, balonização de hepatócitos perivenulares, sem alterações centrolobulares ou corpúsculos de mallory"
       ],
       "correta": 2
     },
     {
       "pergunta": "Em relação ao ácino hepático, é correto afirmar:",
       "alternativas": [
-        "É UMA UNIDADE ANATÔMICA DELIMITADA PELO ESPAÇO PORTA E DUCTOS BILIARES",
-        "BASEIA-SE NA ARQUITETURA LOBULAR TRADICIONAL DO FÍGADO CENTRADA NA TRÍADE PORTAL",
-        "CADA ÁCINO É COMPOSTO POR MÚLTIPLOS LÓBULOS HEPÁTICOS SEM SUPRIMENTO VASCULAR ESPECÍFICO",
-        "É A UNIDADE FUNCIONAL DO FÍGADO QUE REFLETE O GRADIENTE DE OXIGÊNIO E NUTRIENTES"
+        "é uma unidade anatômica delimitada pelo espaço porta e ductos biliares",
+        "baseia-se na arquitetura lobular tradicional do fígado centrada na tríade portal",
+        "cada ácino é composto por múltiplos lóbulos hepáticos sem suprimento vascular específico",
+        "é a unidade funcional do fígado que reflete o gradiente de oxigênio e nutrientes"
       ],
       "correta": 3
     },
     {
       "pergunta": "Sobre as células estreladas hepáticas (de Ito), assinale a alternativa correta:",
       "alternativas": [
-        "ARMAZENAM VITAMINA A E PARTICIPAM DA FIBROSE HEPÁTICA EM PROCESSOS PATOLÓGICOS",
-        "SÃO RESPONSÁVEIS PELA PRODUÇÃO DE BILE NOS CANALÍCULOS BILIARES",
-        "SECRETAM ENZIMAS DIGESTIVAS NO ESPAÇO PORTA",
-        "SÃO CÉLULAS FAGOCITÁRIAS ENCONTRADAS NOS DUCTOS BILIARES"
+        "armazenam vitamina a e participam da fibrose hepática em processos patológicos",
+        "são responsáveis pela produção de bile nos canalículos biliares",
+        "secretam enzimas digestivas no espaço porta",
+        "são células fagocitárias encontradas nos ductos biliares"
       ],
       "correta": 0
     },
     {
       "pergunta": "A principal função das células de Kupffer no fígado é:",
       "alternativas": [
-        "FAGOCITAR MICRORGANISMOS E DETRITOS NO SANGUE PORTAL",
-        "SECRETAR ALBUMINA E ENZIMAS HEPÁTICAS",
-        "PRODUZIR BILE E BILIRRUBINA DIRETAMENTE DOS HEPATÓCITOS",
-        "TRANSPORTAR OXIGÊNIO PARA A VEIA CENTRAL DO LÓBULO HEPÁTICO"
+        "fagocitar microrganismos e detritos no sangue portal",
+        "secretar albumina e enzimas hepáticas",
+        "produzir bile e bilirrubina diretamente dos hepatócitos",
+        "transportar oxigênio para a veia central do lóbulo hepático"
       ],
       "correta": 0
     },
     {
       "pergunta": "Sobre o fluxo sanguíneo e biliar no fígado, assinale a alternativa correta:",
       "alternativas": [
-        "O SANGUE VENOSO E A BILE FLUEM NA MESMA DIREÇÃO, AMBOS INDO DA VEIA CENTRAL PARA O ESPAÇO PORTA",
-        "A BILE FLUI DOS CANALÍCULOS BILIARES PARA A VEIA PORTA, ONDE SERÁ SECRETADA NO SANGUE",
-        "O SANGUE VENOSO OXIGENA DIRETAMENTE OS CANALÍCULOS BILIARES E É ELIMINADO PELOS DUCTOS HEPÁTICOS",
-        "O SANGUE VENOSO DA VEIA PORTA FLUI EM DIREÇÃO À VEIA CENTRAL, ENQUANTO A BILE FLUI NO SENTIDO OPOSTO, DOS HEPATÓCITOS PARA OS DUCTOS BILIARES NOS ESPAÇOS-PORTA"
+        "o sangue venoso e a bile fluem na mesma direção, ambos indo da veia central para o espaço porta",
+        "a bile flui dos canalículos biliares para a veia porta, onde será secretada no sangue",
+        "o sangue venoso oxigena diretamente os canalículos biliares e é eliminado pelos ductos hepáticos",
+        "o sangue venoso da veia porta flui em direção à veia central, enquanto a bile flui no sentido oposto, dos hepatócitos para os ductos biliares nos espaços-porta"
       ],
       "correta": 3
     },
     {
       "pergunta": "Sobre o início do processo de fibrose hepática, assinale a alternativa correta:",
       "alternativas": [
-        "A FIBROSE HEPÁTICA TEM INÍCIO COM A ATIVAÇÃO DAS CÉLULAS ESTRELADAS NO ESPAÇO DE DISSE, QUE PASSAM A PRODUZIR COLÁGENO E MATRIZ EXTRACELULAR",
-        "A FIBROSE HEPÁTICA COMEÇA PELA DEPOSIÇÃO DE COLÁGENO NAS PAREDES DOS CANALÍCULOS BILIARES, LEVANDO À OBSTRUÇÃO BILIAR PRECOCE",
-        "O PROCESSO DE FIBROSE HEPÁTICA É INICIADO PELA PROLIFERAÇÃO DE CÉLULAS ENDOTELIAIS NOS SINUSOIDES, FORMANDO SEPTOS FIBROSOS",
-        "A DEPOSIÇÃO DE FIBROSE HEPÁTICA COMEÇA NA ZONA 1 DO ÁCINO HEPÁTICO, ONDE HÁ MAIOR ATIVIDADE METABÓLICA E MENOR EXPOSIÇÃO A TOXINAS"
+        "a fibrose hepática tem início com a ativação das células estreladas no espaço de disse, que passam a produzir colágeno e matriz extracelular",
+        "a fibrose hepática começa pela deposição de colágeno nas paredes dos canalículos biliares, levando à obstrução biliar precoce",
+        "o processo de fibrose hepática é iniciado pela proliferação de células endoteliais nos sinusoides, formando septos fibrosos",
+        "a deposição de fibrose hepática começa na zona 1 do ácino hepático, onde há maior atividade metabólica e menor exposição a toxinas"
       ],
       "correta": 0
     },
     {
       "pergunta": "Sobre a cirrose hepática alcoólica, assinale a alternativa correta:",
       "alternativas": [
-        "A CIRROSE HEPÁTICA ALCOÓLICA É CAUSADA EXCLUSIVAMENTE PELA INFLAMAÇÃO PORTAL AGUDA",
-        "NÃO HÁ PARTICIPAÇÃO DE CÉLULAS ESTRELADAS NA FIBROSE ALCOÓLICA, SENDO OS HEPATÓCITOS OS ÚNICOS AFETADOS",
-        "A LESÃO ALCOÓLICA AFETA PREDOMINANTEMENTE A ZONA 1 DO ÁCINO HEPÁTICO, PROMOVENDO NECROSE PERIPORTAL",
-        "A INGESTÃO CRÔNICA DE ÁLCOOL GERA ESTRESSE OXIDATIVO E INFLAMAÇÃO, ATIVANDO CÉLULAS ESTRELADAS E LEVANDO À FIBROSE PROGRESSIVA E FORMAÇÃO DE NÓDULOS REGENERATIVOS"
+        "a cirrose hepática alcoólica é causada exclusivamente pela inflamação portal aguda",
+        "não há participação de células estreladas na fibrose alcoólica, sendo os hepatócitos os únicos afetados",
+        "a lesão alcoólica afeta predominantemente a zona 1 do ácino hepático, promovendo necrose periportal",
+        "a ingestão crônica de álcool gera estresse oxidativo e inflamação, ativando células estreladas e levando à fibrose progressiva e formação de nódulos regenerativos"
       ],
       "correta": 3
     },
     {
       "pergunta": "A ascite observada na cirrose hepática é consequência direta de:",
       "alternativas": [
-        "HIPOALBUMINEMIA ISOLADA, QUE REDUZ A PRESSÃO ONCÓTICA E CAUSA TRANSUDAÇÃO",
-        "HIPERTENSÃO PORTAL E VASODILATAÇÃO ESPLÂNCNICA, QUE PROMOVEM RETENÇÃO RENAL DE SÓDIO E ÁGUA PELA ATIVAÇÃO DO SISTEMA RENINA-ANGIOTENSINA-ALDOSTERONA",
-        "DESTRUIÇÃO DOS CANALÍCULOS BILIARES COM EXTRAVASAMENTO DE BILE PARA O PERITÔNIO",
-        "HEMORRAGIA INTRAPERITONEAL CAUSADA POR RUPTURA DE VASOS COLATERAIS"
+        "hipoalbuminemia isolada, que reduz a pressão oncótica e causa transudação",
+        "hipertensão portal e vasodilatação esplâncnica, que promovem retenção renal de sódio e água pela ativação do sistema renina-angiotensina-aldosterona",
+        "destruição dos canalículos biliares com extravasamento de bile para o peritônio",
+        "hemorragia intraperitoneal causada por ruptura de vasos colaterais"
       ],
       "correta": 1
     },
     {
       "pergunta": "Em relação aos exames laboratoriais utilizados para avaliação de lesão hepática, assinale a alternativa correta:",
       "alternativas": [
-        "AST É MAIS ESPECÍFICA QUE ALT PARA AVALIAÇÃO DE LESÃO EXCLUSIVAMENTE HEPÁTICA",
-        "ALT É PRODUZIDA EXCLUSIVAMENTE NO TECIDO MUSCULAR ESQUELÉTICO, SENDO POUCO ÚTIL NA AVALIAÇÃO HEPÁTICA",
-        "ALT E AST SÃO MARCADORES ESPECÍFICOS PARA HEPATITE AUTOIMUNE E NÃO SE ELEVAM EM OUTRAS CONDIÇÕES",
-        "A ALT (ALANINA AMINOTRANSFERASE) É CONSIDERADA MAIS ESPECÍFICA PARA LESÃO HEPATOCELULAR, ENQUANTO A AST TAMBÉM É ENCONTRADA EM OUTROS TECIDOS COMO MÚSCULO CARDÍACO E ESQUELÉTICO"
+        "ast é mais específica que alt para avaliação de lesão exclusivamente hepática",
+        "alt é produzida exclusivamente no tecido muscular esquelético, sendo pouco útil na avaliação hepática",
+        "alt e ast são marcadores específicos para hepatite autoimune e não se elevam em outras condições",
+        "a alt (alanina aminotransferase) é considerada mais específica para lesão hepatocelular, enquanto a ast também é encontrada em outros tecidos como músculo cardíaco e esquelético"
       ],
       "correta": 3
     },
     {
       "pergunta": "Qual enzima hepática é responsável pela conjugação da bilirrubina, tornando-a hidrossolúvel para excreção biliar?",
       "alternativas": [
-        "BILIVERDINA REDUTASE",
-        "HEME OXIGENASE",
-        "UGT1A1",
-        "BILIRRUBINA OXIDASE"
+        "biliverdina redutase",
+        "heme oxigenase",
+        "ugt1a1",
+        "bilirrubina oxidase"
       ],
       "correta": 2
     },
     {
       "pergunta": "Após a conjugação hepática, a bilirrubina é excretada na bile e posteriormente sofre ação de:",
       "alternativas": [
-        "ÁCIDOS BILIARES",
-        "BACTÉRIAS INTESTINAIS QUE A CONVERTEM EM UROBILINOGÊNIO",
-        "ENZIMAS PANCREÁTICAS QUE A HIDROLISAM",
-        "UGT1A1 NOVAMENTE, NO INTESTINO"
+        "ácidos biliares",
+        "bactérias intestinais que a convertem em urobilinogênio",
+        "enzimas pancreáticas que a hidrolisam",
+        "ugt1a1 novamente, no intestino"
       ],
       "correta": 1
     },
     {
       "pergunta": "Sobre a bilirrubina não conjugada, assinale a alternativa correta:",
       "alternativas": [
-        "LIGA-SE À ALBUMINA SÉRICA E É TRANSPORTADA ATÉ O FÍGADO",
-        "É EXCRETADA DIRETAMENTE NA URINA",
-        "É SOLÚVEL EM ÁGUA E TRANSPORTADA LIVREMENTE NO SANGUE",
-        "É PRODUZIDA APENAS NO INTESTINO GROSSO"
+        "liga-se à albumina sérica e é transportada até o fígado",
+        "é excretada diretamente na urina",
+        "é solúvel em água e transportada livremente no sangue",
+        "é produzida apenas no intestino grosso"
       ],
       "correta": 0
     },
     {
       "pergunta": "Em relação à icterícia de origem pré-hepática, qual das alternativas explica corretamente o motivo pelo qual há aumento de bilirrubina não conjugada no sangue?",
       "alternativas": [
-        "A FALÊNCIA DO FÍGADO EM SECRETAR A BILIRRUBINA CONJUGADA NOS CANALÍCULOS BILIARES",
-        "O AUMENTO DA HEMÓLISE, GERANDO EXCESSO DE BILIRRUBINA QUE ULTRAPASSA A CAPACIDADE HEPÁTICA DE CONJUGAÇÃO",
-        "A DEFICIÊNCIA DA ENZIMA UGT1A1, IMPEDINDO A CONJUGAÇÃO DA BILIRRUBINA",
-        "A OBSTRUÇÃO DO DUCTO COLÉDOCO, IMPEDINDO A EXCREÇÃO DE BILIRRUBINA CONJUGADA"
+        "a falência do fígado em secretar a bilirrubina conjugada nos canalículos biliares",
+        "o aumento da hemólise, gerando excesso de bilirrubina que ultrapassa a capacidade hepática de conjugação",
+        "a deficiência da enzima ugt1a1, impedindo a conjugação da bilirrubina",
+        "a obstrução do ducto colédoco, impedindo a excreção de bilirrubina conjugada"
       ],
       "correta": 1
     },
     {
       "pergunta": "Em relação aos achados histopatológicos hepáticos, considere as seguintes características: I. Infiltrado mononuclear portal persistente com destruição progressiva de ductos biliares. II. Presença de colestase canalicular com dilatação de canalículos biliares. III. Degeneração com balonização hepatocelular e corpúsculos de Mallory-Denk. IV. Apoptose de hepatócitos com infiltrado neutrofílico lobular difuso. Assinale a alternativa que relaciona corretamente as alterações com quadros agudos ou crônicos:",
       "alternativas": [
-        "I E III SÃO ACHADOS TÍPICOS DE HEPATITE AGUDA; II E IV SÃO ACHADOS DE HEPATITE CRÔNICA",
-        "II E IV SÃO COMPATÍVEIS COM COLANGITE BILIAR CRÔNICA; I E III INDICAM NECROSE HEPATOCELULAR AGUDA",
-        "I E II REPRESENTAM ACHADOS CRÔNICOS; III E IV SÃO ACHADOS DE QUADROS AGUDOS",
-        "I E II REPRESENTAM ALTERAÇÕES TÍPICAS DE HEPATOPATIA CRÔNICA; III E IV SÃO ACHADOS DE HEPATITE ALCOÓLICA AGUDA"
+        "i e iii são achados típicos de hepatite aguda; ii e iv são achados de hepatite crônica",
+        "ii e iv são compatíveis com colangite biliar crônica; i e iii indicam necrose hepatocelular aguda",
+        "i e ii representam achados crônicos; iii e iv são achados de quadros agudos",
+        "i e ii representam alterações típicas de hepatopatia crônica; iii e iv são achados de hepatite alcoólica aguda"
       ],
       "correta": 3
     },
     {
       "pergunta": "Qual dos seguintes achados histopatológicos é mais indicativo de hepatite crônica, em oposição à hepatite aguda?",
       "alternativas": [
-        "FIBROSE EM PONTE (PORTO-PORTAL OU PORTO-CENTRAL) ASSOCIADA A INFILTRADO MONONUCLEAR PORTAL",
-        "BALONIZAÇÃO HEPATOCELULAR DIFUSA COM INFILTRADO NEUTROFÍLICO LOBULAR",
-        "CORPÚSCULOS DE COUNCILMAN E COLESTASE CANALICULAR LOCALIZADA",
-        "INFLAMAÇÃO LOBULAR PREDOMINANTE COM APOPTOSE DE HEPATÓCITOS E EDEMA PERIPORTAL"
+        "fibrose em ponte (porto-portal ou porto-central) associada a infiltrado mononuclear portal",
+        "balonização hepatocelular difusa com infiltrado neutrofílico lobular",
+        "corpúsculos de councilman e colestase canalicular localizada",
+        "inflamação lobular predominante com apoptose de hepatócitos e edema periportal"
       ],
       "correta": 0
     },
     {
       "pergunta": "Em relação à lesão hepática na hepatite aguda causada pelo vírus da hepatite B (HBV), qual das afirmativas é correta?",
       "alternativas": [
-        "O VÍRUS HBV CAUSA DESTRUIÇÃO DIRETA DOS HEPATÓCITOS POR REPLICAÇÃO CITOPÁTICA DO DNA VIRAL",
-        "A DESTRUIÇÃO DOS HEPATÓCITOS INFECTADOS PELO HBV É MEDIADA PRINCIPALMENTE POR LINFÓCITOS T CD8⁺ CITOTÓXICOS QUE RECONHECEM ANTÍGENOS VIRAIS APRESENTADOS NO COMPLEXO HLA-I",
-        "A LESÃO HEPATOCELULAR OCORRE PRINCIPALMENTE PELA AÇÃO DO SISTEMA COMPLEMENTO ATIVADO POR ANTÍGENOS VIRAIS",
-        "O DANO HEPÁTICO ESTÁ RELACIONADO À AÇÃO DE AUTOANTICORPOS CONTRA ENZIMAS HEPÁTICAS"
+        "o vírus hbv causa destruição direta dos hepatócitos por replicação citopática do dna viral",
+        "a destruição dos hepatócitos infectados pelo hbv é mediada principalmente por linfócitos t cd8⁺ citotóxicos que reconhecem antígenos virais apresentados no complexo hla-i",
+        "a lesão hepatocelular ocorre principalmente pela ação do sistema complemento ativado por antígenos virais",
+        "o dano hepático está relacionado à ação de autoanticorpos contra enzimas hepáticas"
       ],
       "correta": 1
     },
     {
       "pergunta": "Na hepatite C crônica, qual o papel das células estreladas hepáticas no desenvolvimento de fibrose hepática?",
       "alternativas": [
-        "AS CÉLULAS ESTRELADAS, QUANDO ATIVADAS, PRODUZEM ENZIMAS LISOSSÔMICAS QUE FAGOCITAM HEPATÓCITOS NECROSADOS, PROMOVENDO REGENERAÇÃO TECIDUAL",
-        "SÃO RESPONSÁVEIS PELA PROLIFERAÇÃO DE COLÂNGIOCITOS E OBSTRUÇÃO BILIAR INTRA-HEPÁTICA",
-        "ATUAM NA REMOÇÃO DE BILIRRUBINA NÃO CONJUGADA DOS ESPAÇOS PORTA, PREVENINDO COLESTASE",
-        "AO SEREM ATIVADAS POR CITOCINAS INFLAMATÓRIAS DECORRENTES DE INFLAMAÇÃO PORTAL E NECROSE EM PONTE, AS CÉLULAS ESTRELADAS PASSAM A PRODUZIR COLÁGENO E MATRIZ EXTRACELULAR, CONTRIBUINDO PARA A FIBROSE HEPÁTICA E FORMAÇÃO DE NÓDULOS REGENERATIVOS"
+        "as células estreladas, quando ativadas, produzem enzimas lisossômicas que fagocitam hepatócitos necrosados, promovendo regeneração tecidual",
+        "são responsáveis pela proliferação de colângiocitos e obstrução biliar intra-hepática",
+        "atuam na remoção de bilirrubina não conjugada dos espaços porta, prevenindo colestase",
+        "ao serem ativadas por citocinas inflamatórias decorrentes de inflamação portal e necrose em ponte, as células estreladas passam a produzir colágeno e matriz extracelular, contribuindo para a fibrose hepática e formação de nódulos regenerativos"
       ],
       "correta": 3
     },
     {
       "pergunta": "Na hepatite crônica, qual das alternativas melhor explica o processo patológico que leva à formação de nódulos regenerativos e cirrose?",
       "alternativas": [
-        "A INFLAMAÇÃO LOBULAR ISOLADA PROMOVE ATIVAÇÃO DOS HEPATÓCITOS, LEVANDO À REGENERAÇÃO ESPONTÂNEA E À ELIMINAÇÃO DOS SEPTOS FIBROSOS",
-        "A DEGENERAÇÃO BALONIZANTE DOS HEPATÓCITOS GERA COLESTASE INTRA-HEPÁTICA, O QUE IMPEDE A FORMAÇÃO DE FIBROSE EM PONTE",
-        "A INFLAMAÇÃO PORTAL PERSISTENTE E A NECROSE EM PONTE ESTIMULAM A DEPOSIÇÃO PROGRESSIVA DE MATRIZ EXTRACELULAR E COLÁGENO, PROMOVENDO FIBROSE AVANÇADA E REMODELAÇÃO DO PARÊNQUIMA HEPÁTICO COM FORMAÇÃO DE NÓDULOS REGENERATIVOS",
-        "A INFILTRAÇÃO DE EOSINÓFILOS NO ESPAÇO PORTA CAUSA BLOQUEIO DA VEIA PORTA, GERANDO HIPERTENSÃO PORTAL E NÓDULOS COMPENSATÓRIOS"
+        "a inflamação lobular isolada promove ativação dos hepatócitos, levando à regeneração espontânea e à eliminação dos septos fibrosos",
+        "a degeneração balonizante dos hepatócitos gera colestase intra-hepática, o que impede a formação de fibrose em ponte",
+        "a inflamação portal persistente e a necrose em ponte estimulam a deposição progressiva de matriz extracelular e colágeno, promovendo fibrose avançada e remodelação do parênquima hepático com formação de nódulos regenerativos",
+        "a infiltração de eosinófilos no espaço porta causa bloqueio da veia porta, gerando hipertensão portal e nódulos compensatórios"
       ],
       "correta": 2
     },
     {
       "pergunta": "A hepatite de interface, comumente observada em biópsias hepáticas de pacientes com hepatite, é caracterizada por:",
       "alternativas": [
-        "HEPATITE CRÔNICA: INFILTRADO LINFOPLASMOCITÁRIO QUE ULTRAPASSA A MEMBRANA LIMITANTE E INVADE OS HEPATÓCITOS DA PERIFERIA DOS LÓBULOS",
-        "HEPATITE AGUDA: DEGENERAÇÃO BALONIZANTE DIFUSA E CORPOS DE COUNCILMAN NOS HEPATÓCITOS CENTROLOBULARES",
-        "HEPATITE CRÔNICA: INFILTRADO NEUTROFÍLICO NO ESPAÇO PORTA ASSOCIADO A ESTEATOSE MACROVESICULAR",
-        "HEPATITE AGUDA: DEPOSIÇÃO DE BILE NOS CANALÍCULOS PERIPORTAIS COM PROLIFERAÇÃO DUCTAL ISOLADA"
+        "hepatite crônica: infiltrado linfoplasmocitário que ultrapassa a membrana limitante e invade os hepatócitos da periferia dos lóbulos",
+        "hepatite aguda: degeneração balonizante difusa e corpos de councilman nos hepatócitos centrolobulares",
+        "hepatite crônica: infiltrado neutrofílico no espaço porta associado a esteatose macrovesicular",
+        "hepatite aguda: deposição de bile nos canalículos periportais com proliferação ductal isolada"
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Paciente: João S., 48 anos, sexo masculino. História clínica: João procura o pronto-socorro com dor lombar intensa à direita há cerca de",
+      "alternativas": [
+        "cistite aguda",
+        "pielonefrite aguda simples",
+        "sepse urinária por pielonefrite obstrutiva",
+        "insuficiência renal aguda pós-renal sem infecção"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "O sinal de Giordano positivo à direita indica:",
+      "alternativas": [
+        "distensão da cápsula hepática por congestão venosa.",
+        "compressão da artéria renal pela veia mesentérica superior.",
+        "dor provocada por distensão da cápsula renal em resposta à inflamação ou obstrução.",
+        "dor lombar muscular por contratura do quadrado lombar."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sobre a anatomia dos rins, é correto afirmar que:",
+      "alternativas": [
+        "o rim esquerdo é mais inferior devido à presença do fígado.",
+        "cada rim recebe irrigação exclusiva de uma artéria renal sem ramificações.",
+        "o hilo renal contém a veia renal anterior à artéria e ao ureter.",
+        "a cápsula renal é rica em tecido adiposo, promovendo absorção e secreção."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Na organização interna do rim, a partir do parênquima renal até o ureter por qual sequência correta de estruturas?",
+      "alternativas": [
+        "pirâmide renal → papila renal → cálice maior → cálice menor → pelve renal",
+        "néfron → túbulo coletor → cálice menor → cálice maior→ pelve renal",
+        "glomérulo → uretra → pelve renal → cálice maior → ureter",
+        "néfron → ducto coletor → uretra → pelve renal → ureter"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente do sexo masculino, 28 anos, procura atendimento em unidade básica de saúde com queixa de dor na região ínguino-femoral direita após esforço físico. Ao exame clínico, não se observa abaulamento local nem sinais de irritação peritoneal. Considerando os possíveis defeitos da parede abdominal inferior, e a anatomia envolvida, assinale a alternativa correta quanto ao trajeto do ureter, estrutura que pode justificar dor referida nessa topografia:",
+      "alternativas": [
+        "o ureter percorre o retroperitônio, cruza anteriormente os vasos ilíacos comuns e penetra na pelve em direção ao trígono vesical.",
+        "o ureter é um órgão intraperitoneal que acompanha a artéria mesentérica inferior até sua inserção na bexiga.",
+        "o ureter possui dupla inervação parassimpática exclusivamente derivada do plexo hipogástrico inferior.",
+        "o ureter atravessa o ligamento inguinal e penetra na cavidade pélvica por meio do canal femoral."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "O ureter é um tubo que faz parte das vias urinárias e que liga a pelve do rim à bexiga. A sua função é propelir a urina do rim até a bexiga. Os ureteres têm, cada um, 25 a 30 cm de comprimento e 3 mm de diâmetro. Eles se originam da confluência dos vários cálices renais, reunindo-se enquanto pelve renal. Sobre as relações anatômicas dos ureteres, assinale a alternativa INCORRETA.",
+      "alternativas": [
+        "ao penetrarem na pelve menor, dirigem-se ao espaço retrovesical.",
+        "antes de penetrarem na pelve óssea, cruzam anteriormente os vasos ilíacos.",
+        "na porção pélvica, são acompanhados pela artéria ilíaca interna durante o trajeto inicial.",
+        "no homem, são cruzados pelos ductos deferentes posteroinferiores antes de alcançarem a bexiga."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Sobre a irrigação e a drenagem venosa da bexiga urinária, assinale a alternativa correta:",
+      "alternativas": [
+        "a irrigação da bexiga urinária é promovida por ramos da artéria ilíaca externa",
+        "parte da irrigação da bexiga urinária é promovida pelas artérias vesicais superiores, ramos da divisão anterior da artéria ilíaca interna.",
+        "nas mulheres há participação das artérias vaginais na irrigação da bexiga.",
+        "as veias vesicais superiores são tributárias das veias umbilicais."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Náuseas e vômitos são sintomas frequentes em pacientes sob cuidados paliativos. É importante que se compreenda os aspectos da fisiologia da náusea para se poder identificar o melhor tratamento, com base no entendimento acerca das áreas do sistema nervoso central e do trato gastrintestinal que ativam o centro do vômito. Acerca da fisiopatologia e do tratamento das náuseas e dos vômitos, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "os vômitos podem estar associados a alterações do sistema vestibular. nesses casos, os principais mediadores são a histamina e a acetilcolina por meio dos receptores nicotínicos.",
+        "a estimulação via nervo vago pode ocorrer por estímulo na orofaringe, por obstrução intestinal ou por carcinomatose peritoneal.",
+        "o centro do vômito pode ser modulado pelo sistema límbico e influenciado por ansiedade ou medo.",
+        "nos pacientes com estase gástrica ( condição em que o estômago demora mais do que o normal para esvaziar o seu conteúdo), pode-se dar preferência para o uso dos antagonista dopaminérgico com metoclopramida ou domperidona."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Cinetose é uma condição relacionada a desconfortos como ânsia, vomito e tontura em viagens de carro, barcos, aviões, ou seja, é o resultado de uma incompatibilidade entre o movimento que se enxerga e a sensação percebida pelos ouvidos, mais especificamente pelo aparelho vestibular, um grupo de órgãos localizado na área interna do ouvido e responsável pelo equilíbrio corporal. Para o tratamento da cinetose, muitas vezes, se utiliza o Buscopan (escopolamina).Com relação a escopolamina, marque (V) para verdadeiro e (F) para falso. () É um antagonista dos receptores muscarínicos que atua a partir do bloqueio de receptores M. () Apresenta como possíveis efeitos colaterais a tontura, sedação, confusão, boca seca, cicloplegia e retenção urinária. () Seu uso é geralmente substituído por anti-histamínicos quando cinetose , pois apresenta maior ação sedativa que os anti-histamínicos. Assinale a alternativa correta.",
+      "alternativas": [
+        "f-f-v",
+        "v-v-f",
+        "v-f-f",
+        "f-v-v"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Durante seu estágio em um hospital pediátrico, Lucas, aluno do 4º ano de medicina, atendeu uma criança de 5 anos, sexo feminino, com queixa progressiva de cansaço, dispneia ortostática, dor epigástrica e torácica. Ao exame físico, apresentava-se taquidispneica, com sopro sistólico e sistodiastólico em múltiplos focos cardíacos, além de hepatomegalia dolorosa e edema palpebral. Havia também cicatriz recente em perna, compatível com lesão cutânea inflamada. Negava episódios prévios de amigdalite. Os exames revelaram cardiomegalia à radiografia, insuficiência mitral ao ecocardiograma, ASLO elevado (800 UI/mL), PCR e VHS aumentados, além de prolongamento do intervalo PR no ECG.Considerando os achados clínico-laboratoriais, qual é a interpretação mais apropriada para o caso?",
+      "alternativas": [
+        "os achados não preenchem critérios suficientes para o diagnóstico de febre reumática.",
+        "a elevação isolada da aslo é suficiente para fechar o diagnóstico de febre reumática.",
+        "o caso configura uma cardite reumática grave, preenchendo 1 critério maior, 3 menores e evidência de infecção estreptocócica prévia.",
+        "a ausência de relato de faringoamigdalite exclui o diagnóstico de febre reumática."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Assinale a alternativa correta sobre a Antiestreptolisina O ( ASLO).",
+      "alternativas": [
+        "a presença da aslo no sangue significa que houve um contato prévio com streptococos do grupo a de lancefield",
+        "níveis de aslo elevados significam febre reumática",
+        "níveis de aslo elevados indicam reumatismo de um modo geral",
+        "a presença da aslo no sangue significa que houve um contato prévio com streptococos do grupo b de lancefield"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Os níveis circulantes dos peptídeos natriuréticos, BNP e pró-BNP, são ferramentas úteis no diagnóstico dos pacientes com insuficiência cardíaca. Com relação a esses marcadores, é correto afirmar que:",
+      "alternativas": [
+        "os níveis séricos aumentam com a idade e com a disfunção renal.",
+        "não se elevam nos pacientes portadores de insuficiência cardíaca com fração de ejeção preservada.",
+        "os níveis séricos são mais baixos nas mulheres.",
+        "só aumentam na insuficiência cardíaca de etiologia isquêmica."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "João, 31 anos, dá entrada no pronto atendimento com febre persistente há duas semanas, acompanhada de calafrios, sudorese noturna e perda de peso. Relata uso frequente de drogas injetáveis e má higiene bucal. Ao exame físico, encontra-se febril (39 °C), hipotenso, taquicárdico, com estase jugular a 45°, esplenomegalia e lesões maculares indolores nas palmas das mãos. Ausculta cardíaca revela sopro holossistólico no bordo esternal esquerdo. O hemograma mostrou anemia normocítica, leucocitose com desvio à esquerda e aumento de proteína C reativa (PCR). Com base na hipótese clínica e nos dados laboratoriais, qual das alternativas abaixo representa o diagnóstico mais provável e o exame de escolha para sua confirmação?",
+      "alternativas": [
+        "leishmaniose visceral; confirmação por sorologia específica (elisa-k39).",
+        "febre tifoide; diagnóstico por hemocultura e reação de widal.",
+        "endocardite infecciosa; confirmação por hemoculturas seriadas e ecocardiograma transesofágico.",
+        "tuberculose miliar; confirmação por baciloscopia de escarro e teste tuberculínico (ppd)."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Adileu, 25 anos, portadora de lúpus eritematoso sistêmico (LES) em uso de prednisona 20 mg/dia, procura atendimento por febre alta (39,2 °C), dor abdominal inespecífica e mal-estar há 48 horas. Ao exame: taquicardia, abdome doloroso à palpação difusa, sem sinais peritoníticos. Hemograma revela leucocitose com desvio à esquerda; PCR: 180 mg/L; VHS: 80 mm/h. A dosagem de procalcitonina (PCT) resultou em 0,08 ng/mL. Não há focos infecciosos evidentes no exame clínico. Considerando os achados laboratoriais e a história da paciente, assinale a alternativa que melhor interpreta o papel da PCT nesse cenário:",
+      "alternativas": [
+        "apesar de sua alta sensibilidade para infecções bacterianas graves, a pct pode ser suprimida pelo uso crônico de corticoides, sendo pouco confiável nesse contexto clínico.",
+        "a pct está discretamente elevada, o que sugere infecção bacteriana incipiente; antibióticoterapia empírica deve ser iniciada imediatamente.",
+        "a baixa pct sugere que o quadro febril se relaciona mais provavelmente à atividade inflamatória autoimune do les do que a uma infecção bacteriana aguda.",
+        "a normalidade da pct exclui infecção bacteriana mesmo em pacientes imunossuprimidos com doenças autoimunes, sendo suficiente para suspender investigações complementares."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Homem de 65 anos, diabético, apresenta febre alta, hipotensão, taquicardia e rebaixamento do nível de consciência. Suspeita-se de sepse. Exames laboratoriais: PCT: 5,2 ng/mL, PCR: 270 mg/L, creatinina: 2,1 mg/dL, lactato: 5,5 mmol/L. Sobre o papel da Procalcitonina no contexto clínico, assinale a alternativa correta:",
+      "alternativas": [
+        "a pct elevada nesse nível reforça fortemente o diagnóstico de sepse bacteriana grave.",
+        "a pct é pouco sensível para diferenciar choque séptico de choque hipovolêmico.",
+        "a pct deve ser evitada em pacientes com disfunção renal, por risco de resultados falso-negativos.",
+        "a pcr seria mais específica que a pct para sepse grave nesse paciente."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Mulher de 79 anos com dispneia progressiva, ortopneia e edema de MMII. BNP: 870 pg/mL (VR: <100 pg/mL).Com base no achado laboratorial, é correto afirmar:",
+      "alternativas": [
+        "o valor de bnp é considerado normal para a idade.",
+        "há forte suspeita de insuficiência cardíaca descompensada.",
+        "bnp isolado não tem valor diagnóstico para ic.",
+        "o bnp não se eleva em ic com fração de ejeção preservada."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente de 24 anos, feminina, relata fadiga progressiva e icterícia leve há 2 meses. AST/ALT > 10× ULN; bilirrubina total 3 mg/dL; FAN 1:640. Ultrassom: fígado homogêneo, sem nodulações. Qual achado histopatológico mais característico desta condição?",
+      "alternativas": [
+        "infiltrado neutrofílico centrolobular",
+        "degeneração gordurosa macrovesicular difusa",
+        "hepatite de interface com plasmócitos",
+        "fibrose periportal"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente de 55 anos apresenta elevação persistente de transaminases e fibroscan F2 (nível moderado de fibrose). O infiltrado linfocitário periportal causa principalmente:",
+      "alternativas": [
+        "obstrução colestática ductular",
+        "ativação de células estreladas com depósito de colágeno i",
+        "trombose de veias centrolobulares",
+        "deposição portal de fibrina e hemossiderina"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Mulher, 28 anos, desenvolve insuficiência hepática aguda após ecstasy. Biópsia: necrose hemorrágica maciça e poucos infiltrados inflamatórios. Qual mecanismo celular predominante?",
+      "alternativas": [
+        "bloqueio de bomba canalicular",
+        "auto-anticorpos anti-mitocôndria tipo 2",
+        "deposição de bilirrubina com lise celular",
+        "formação de metabólito reativo gerando estresse oxidativo"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Paciente alcoólatra apresenta hepatite alcoólica aguda. Biópsia: degeneração balonizante e corpúsculos de Mallory-Denk. Esses corpúsculos são formados principalmente por:",
+      "alternativas": [
+        "filamentos intermediários de citoqueratina ubiquitinados",
+        "depósitos de ferritina e transferrina",
+        "conjugados de alfa-1-antitripsina",
+        "estruturas lipídicas β-oxidativas"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Homem, 60 anos, cicatriz hepática estabelecida, hipertensão portal. Qual característica define morfologicamente a cirrose?",
+      "alternativas": [
+        "necrose centrolobular aguda",
+        "regeneração nodular associada a fibrose difusa",
+        "inflamação linfocítica periportal sem fibrose",
+        "infiltrado eosinofílico intralobular"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Mulher de 58 anos com prurido, fadiga e icterícia leve. Exames mostram anticorpos antimitocôndria positivos. Qual achado histopatológico caracteriza a colangite biliar primária?",
+      "alternativas": [
+        "granulomas periductulares e destruição progressiva dos ductos biliares pequenos",
+        "necrose hepatocelular difusa",
+        "formação de pseudoglandas neoplásicas",
+        "fibrose concêntrica dos ductos biliares grandes"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Mulher de 42 anos, obesa, com dor em hipocôndrio direito após refeições gordurosas. Exames laboratoriais sem alterações significativas. Ultrassonografia mostra cálculos em vesícula biliar sem sinais de inflamação. Qual fator predisponente está diretamente relacionado à formação de cálculos biliares de colesterol?",
+      "alternativas": [
+        "aumento da secreção de bilirrubinas conjugadas",
+        "hipomotilidade vesicular e supersaturação de colesterol",
+        "infecção bacteriana crônica por escherichia coli",
+        "presença de autoanticorpos contra epitélio biliar"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente de 70 anos com icterícia progressiva e perda ponderal. TC evidencia massa hipovascular em cabeça do pâncreas. Qual característica histopatológica é marcante no adenocarcinoma pancreático?",
+      "alternativas": [
+        "formação de necrose coagulativa extensa",
+        "hiperplasia lobular pancreática benigna",
+        "proliferação glandular atípica com estroma desmoplásico",
+        "infiltrado eosinofílico difuso"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Homem de 48 anos, etilista crônico, apresenta esteatorreia e perda de peso progressiva. Os exames mostram glicemia elevada e deficiência de vitaminas lipossolúveis. A respeito das alterações histopatológicas características da pancreatite crônica, qual é o achado predominante?",
+      "alternativas": [
+        "infiltrado linfocitário periductal com hiperplasia acinar",
+        "necrose gordurosa difusa com reação granulomatosa",
+        "congestão vascular e edema intersticial proeminente",
+        "atrofia acinar, fibrose extensa e dilatação ductal"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Homem de 52 anos, alcoólatra, é internado por pancreatite aguda grave. A tomografia computadorizada mostra necrose extensa no parênquima pancreático. Qual é o principal evento fisiopatológico que leva à necrose pancreática na pancreatite aguda?",
+      "alternativas": [
+        "hipoperfusão devido à vasoconstrição reflexa",
+        "ativação excessiva de tripsina e autodigestão pancreática",
+        "acúmulo de bilirrubina direta e lesão celular",
+        "deposição de cristais de colesterol nos ductos pancreáticos"
+      ],
+      "correta": 1
     }
   ]
 }
