@@ -76,12 +76,14 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Rodapé inferior centralizado em telas pequenas */}
-        <div className="absolute bottom-4 w-full flex flex-col items-center sm:items-end px-4">
-          <p className={`text-sm text-gray-600 ${greatVibes.className}`}>Developed by <span className="text-2xl">pagani</span></p>
+        {/* Rodapé responsivo */}
+        <div className="mt-8 text-center space-y-2 sm:absolute sm:bottom-4 sm:right-4 sm:text-right">
+          <p className="text-sm text-gray-600">
+            Developed by <span className={`${greatVibes.className} text-2xl`}>pagani</span>
+          </p>
           <Link
             href="/admin"
-            className="inline-block mt-1 px-4 py-2 text-sm bg-blue-600 text-white rounded hover:bg-blue-700"
+            className="inline-block px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 text-sm"
           >
             Admin
           </Link>
@@ -104,5 +106,6 @@ export default function Home() {
     </div>
   );
 }
+
 
 
