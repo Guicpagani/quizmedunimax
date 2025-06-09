@@ -16,7 +16,7 @@ function getFirstNameFromEmail(email) {
 const quizzes = [
   { title: "SDC", label: "Teste de Chegada SDC" },
   { title: "SFC", label: "Teste de Chegada SFC" },
-  { title: "Enfase", label: "Teste de Chegada Ênfase" },
+  { title: "Enfase", label: "Teste de Chegada Ênfase CC" },
   { title: "Laboratorio", label: "Teste de Chegada Laboratórios" }
 ];
 
