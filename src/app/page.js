@@ -6,7 +6,7 @@ import Link from "next/link";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "../firebase";
 
-// Importa a fonte Great Vibes
+// Fonte personalizada
 import { Great_Vibes } from 'next/font/google';
 const greatVibes = Great_Vibes({ subsets: ['latin'], weight: '400' });
 
@@ -18,7 +18,6 @@ export default function Home() {
     const unsubscribe = onAuthStateChanged(auth, (u) => {
       setUser(u);
       setUserChecked(true);
-      console.log('onAuthStateChanged:', u);
     });
     return () => unsubscribe();
   }, []);
@@ -32,24 +31,26 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-white text-gray-900 flex flex-col">
-      {/* Barra de navegação fixa */}
-      <header className="flex justify-between items-center px-6 py-4 border-b shadow-md bg-white fixed w-full z-10">
-        <h1 className="text-xl font-bold">QuizMedmax</h1>
-        <div className="space-x-4">
-          <Link href="/login" className="text-black-600 hover:underline">Login</Link>
-          <Link href="/register" className="text-blue-600 hover:underline">Registrar</Link>
+    <div className="min-h-screen bg-white text-gray-900 flex flex-col relative overflow-hidden">
+      
+      {/* Faixa superior de anúncio (cinza claro e animada) */}
+      <div className="w-full bg-gray-100 text-gray-800 font-medium text-sm py-1 px-4 overflow-hidden fixed top-0 z-50 border-b">
+        <div className="animate-marquee whitespace-nowrap">
+          🚀 We are going live today – 9 de junho de 2025 &nbsp;&nbsp;&nbsp; 🚀 We are going live today – 9 de junho de 2025 &nbsp;&nbsp;&nbsp; 🚀 We are going live today – 9 de junho de 2025
         </div>
-      </header>
+      </div>
 
       {/* Conteúdo principal */}
-      <main className="flex flex-col items-center justify-center flex-1 px-4 pt-32 pb-10">
-        <h2 className="text-3xl font-bold mb-2 text-center">Bem-vindo</h2>
-        <p className="text-sm italic text-gray-500 text-center mb-6">
-          &quot;Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed&quot;. Não se iluda, você foi mais preguiçoso que o cara que fez a bandeira do Japão. Lembre-se: Estude para aprender, não só para passar.
+      <main className="flex flex-col items-center justify-center flex-1 px-4 pt-24 pb-10 relative">
+        <h2 className="text-4xl font-bold mb-4 text-center">Bem-vindo ao QuizMedmax</h2>
+
+        <p className="text-sm italic text-gray-600 text-center max-w-2xl mb-6">
+          &quot;Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed&quot;. 
+          Não se iluda, você foi mais preguiçoso que o cara que fez a bandeira do Japão. 
+          Lembre-se: Estude para aprender, não só para passar.
         </p>
 
-        <div className="mb-8">
+        <div className="mb-6">
           <Image
             src="/logo-medico-fundo-branco.png"
             alt="Logo QuizMedUnimax"
@@ -59,19 +60,51 @@ export default function Home() {
           />
         </div>
 
-        <p className="text-sm text-gray-600 mt-4">
-          Developed by <span className={`${greatVibes.className} text-2xl`}>pagani</span>
-        </p>
+        <div className="flex flex-col items-center mb-4">
+          <h3 className="text-xl font-semibold mb-4 text-center">Pronto para testar seus conhecimentos?</h3>
+          <div className="flex flex-col sm:flex-row gap-4">
+            <Link href="/login">
+              <button className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all">
+                Entrar no Quiz
+              </button>
+            </Link>
+            <Link href="/register">
+              <button className="px-6 py-3 bg-green-600 text-white rounded-xl hover:bg-green-700 transition-all">
+                Registrar-se
+              </button>
+            </Link>
+          </div>
+        </div>
 
-        {/* Botão Admin visível abaixo do rodapé */}
-        <Link
-          href="/admin"
-          className="mt-4 px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
-        >
-          Admin
-        </Link>
+        {/* Rodapé inferior direito */}
+        <div className="absolute bottom-4 right-4 text-right space-y-2">
+          <p className="text-sm text-gray-600">
+            Developed by <span className={`${greatVibes.className} text-2xl`}>pagani</span>
+          </p>
+          <Link
+            href="/admin"
+            className="inline-block px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700"
+          >
+            Admin
+          </Link>
+        </div>
       </main>
+
+      {/* Estilo da animação */}
+      <style jsx>{`
+        .animate-marquee {
+          display: inline-block;
+          padding-left: 100%;
+          animation: marquee 15s linear infinite;
+        }
+
+        @keyframes marquee {
+          0%   { transform: translateX(0%); }
+          100% { transform: translateX(-100%); }
+        }
+      `}</style>
     </div>
   );
 }
+
 
