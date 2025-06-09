@@ -45,7 +45,7 @@ export default function LoginPage() {
       {/* Imagem lateral esquerda */}
       <div className="w-1/2 hidden md:block relative">
         <Image
-          src="/sua-foto.png" // ✅ Nome corrigido
+          src="/sua-foto.png"
           alt="Imagem lateral"
           fill
           className="object-cover"
@@ -57,7 +57,7 @@ export default function LoginPage() {
       <div className="flex flex-col justify-center items-center w-full md:w-1/2 p-8 bg-white">
         <div className="mb-6">
           <Image
-            src="/logo-quizmedmax.png" // Atualize se o nome for diferente
+            src="/logo-quizmedmax.png"
             alt="Logo"
             width={180}
             height={60}
@@ -65,7 +65,6 @@ export default function LoginPage() {
           />
         </div>
 
-        <h1 className="text-xl font-bold mb-4"></h1>
         <form onSubmit={handleLogin} className="flex flex-col gap-4 w-full max-w-sm">
           <input
             type="email"
@@ -73,7 +72,7 @@ export default function LoginPage() {
             value={email}
             onChange={(e) => setEmail(e.target.value)}
             required
-            className="border p-2 rounded"
+            className="w-full px-4 py-2 border border-gray-400 rounded text-black placeholder-gray-500"
           />
           <input
             type="password"
@@ -81,11 +80,11 @@ export default function LoginPage() {
             value={senha}
             onChange={(e) => setSenha(e.target.value)}
             required
-            className="border p-2 rounded"
+            className="w-full px-4 py-2 border border-gray-400 rounded text-black placeholder-gray-500"
           />
           <button
             type="submit"
-            className="bg-blue-600 text-white py-2 rounded"
+            className="bg-blue-600 text-white py-2 rounded hover:bg-blue-700 transition-all"
             disabled={carregando}
           >
             {carregando ? 'Entrando...' : 'Entrar'}
@@ -96,4 +95,5 @@ export default function LoginPage() {
     </div>
   );
 }
+
 
