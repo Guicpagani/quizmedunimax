@@ -6,7 +6,7 @@ import Link from "next/link";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "../firebase";
 
-// Fonte personalizada
+// Importa a fonte Great Vibes
 import { Great_Vibes } from 'next/font/google';
 const greatVibes = Great_Vibes({ subsets: ['latin'], weight: '400' });
 
@@ -32,24 +32,16 @@ export default function Home() {
   }
 
   return (
-    <div className="min-h-screen bg-white text-gray-900 flex flex-col">
-      
-      {/* Faixa de aviso superior */}
-      <div className="w-full bg-gray-100 text-center py-1 text-sm text-gray-700 font-semibold shadow-sm fixed top-0 z-50 animate-pulse">
-        🚀 We are going live: 09/06/2025
+    <div className="min-h-screen bg-white text-gray-900 flex flex-col relative">
+      {/* Barra de anúncio superior */}
+      <div className="w-full bg-gray-100 text-center text-sm py-2 fixed top-0 z-20 animate-marquee whitespace-nowrap">
+        🚀 We are going live today – 09/06/2025!
       </div>
 
-      {/* Conteúdo principal com padding compensando a faixa superior */}
-      <main className="flex flex-col items-center justify-center flex-1 px-4 pt-20 pb-10">
+      {/* Barra de navegação removida para evitar confusão com botões principais */}
 
-        <h2 className="text-3xl font-bold mb-2 text-center">Bem-vindo ao QuizMedmax</h2>
-
-        <p className="text-sm italic text-gray-600 text-center mb-6 max-w-xl">
-          "Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed".
-          Não se iluda, você foi mais preguiçoso que o cara que fez a bandeira do Japão.
-          Lembre-se: Estude para aprender, não só para passar.
-        </p>
-
+      {/* Conteúdo principal */}
+      <main className="flex flex-col items-center justify-center flex-1 px-4 pt-24 pb-10">
         <div className="mb-6">
           <Image
             src="/logo-medico-fundo-branco.png"
@@ -60,37 +52,40 @@ export default function Home() {
           />
         </div>
 
-        {/* Bloco de ações de login/registro */}
-        <div className="flex flex-col items-center gap-2 mb-8">
-          <h3 className="text-lg font-semibold mb-2 text-center">Pronto para testar seus conhecimentos?</h3>
-          <div className="flex flex-col sm:flex-row gap-3">
-            <Link href="/login">
-              <button className="px-6 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 text-sm">
-                Entrar no Quiz
-              </button>
-            </Link>
-            <Link href="/register">
-              <button className="px-6 py-2 bg-green-600 text-white rounded hover:bg-green-700 text-sm">
-                Registrar-se
-              </button>
-            </Link>
-          </div>
-        </div>
+        <h2 className="text-3xl font-bold mb-4 text-center">Pronto para testar seus conhecimentos?</h2>
 
-        {/* Rodapé fixo lateral inferior direita em telas maiores, central em mobile */}
-        <div className="flex flex-col items-center sm:items-end sm:absolute sm:bottom-4 sm:right-4 text-sm text-gray-600">
-          <p className="mb-1">
-            Developed by <span className={`${greatVibes.className} text-xl`}>pagani</span>
-          </p>
+        <div className="flex flex-col sm:flex-row gap-4 mb-8">
           <Link
-            href="/admin"
-            className="px-2 py-1 text-xs bg-blue-600 text-white rounded hover:bg-blue-700 text-center"
+            href="/login"
+            className="px-6 py-3 bg-blue-600 text-white rounded-lg text-lg hover:bg-blue-700 text-center"
           >
-            Admin
+            Entrar no Quiz
+          </Link>
+          <Link
+            href="/register"
+            className="px-6 py-3 bg-gray-200 text-gray-800 rounded-lg text-lg hover:bg-gray-300 text-center"
+          >
+            Registrar-se
           </Link>
         </div>
 
+        <p className="text-sm italic text-gray-500 text-center max-w-xl px-4">
+          &quot;Acreditei que a vida era muito curta para passar horas em frente aos livros e agora vou passar horas em frente ao Quizmed&quot;. 
+          Não se iluda, você foi mais preguiçoso que o cara que fez a bandeira do Japão. 
+          Lembre-se: Estude para aprender, não só para passar.
+        </p>
       </main>
+
+      {/* Rodapé fixo com Admin e assinatura */}
+      <footer className="absolute bottom-4 right-4 flex flex-col items-end space-y-2 text-sm">
+        <Link
+          href="/admin"
+          className="px-4 py-2 bg-blue-600 text-white rounded-md text-sm hover:bg-blue-700"
+        >
+          Admin
+        </Link>
+        <p className={`${greatVibes.className} text-xl text-gray-600`}>developed by Pagani</p>
+      </footer>
     </div>
   );
 }
