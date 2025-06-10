@@ -60,8 +60,8 @@ export default function Home() {
           />
         </div>
 
-        <div className="flex flex-col items-center mb-px">
-          <h3 className="text-xl font-semibold mb-1 text-center">Pronto para testar seus conhecimentos?</h3>
+        {/* Removido o título "Pronto para testar seus conhecimentos?" */}
+        <div className="flex flex-col items-center mt-4">
           <div className="flex flex-col sm:flex-row gap-1">
             <Link href="/login">
               <button className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all">
@@ -106,6 +106,7 @@ export default function Home() {
     </div>
   );
 }
+
 
 
 
