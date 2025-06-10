@@ -172,7 +172,7 @@
       "correta": 2
     },
     {
-      "pergunta": "Paciente masculino com 65 anos de idade foi submetido à laparotomia exploradora por abdome agudo obstrutivo devido obstrução do intestino delgado por bridas. Foram desfeitas as bridas e fechamento da parede. No 5º pós-operatório o paciente encontra-se afebril e com abaulamento da ferida operatória com drenagem de líquido serossanguinolento. Qual o diagnóstico para esta situação?",
+      "pergunta": "Paciente masculino com 65 anos de idade foi submetido à laparotomia exploradora por abdome agudo obstrutivo devido obstrução do intestino delgado por bridas. Foram desfeitas as bridas e fechamento da parede. No 5º pós-operatório o paciente encontra-se afebril e com abaulamento da ferida operatória com drenagem de líquido seroso sanguinolento. Qual o diagnóstico para esta situação?",
       "alternativas": [
         "Infecção da ferida operatória.",
         "Eventração.",
@@ -197,49 +197,19 @@
         "No nosso meio, com o advento da endoscopia digestiva, a maioria das neoplasias são diagnosticadas em seus estágios iniciais.",
         "A laparoscopia não deve ser utilizada no estadiamento da neoplasia, devido ao risco de disseminação peritoneal pelo pneumoperitônio.",
         "A infecção pelo Helicobacter pylori não apresenta relação com o adenocarcinoma gástrico.",
-        "A realização de linfadenectomia à D2 apresenta melhora na sobrevida dos pacientes e melhor estadiamento da neoplasia."
+        "A realização de linfadenectomia apresenta melhora na sobrevida dos pacientes e melhor estadiamento da neoplasia."
       ],
       "correta": 3
     },
     {
       "pergunta": "Nos quadros de Diverticulite Aguda:",
       "alternativas": [
-        "A tomografia computadorizada permite avaliar e estratificar a gravidade do quadro infeccioso.",
+        "A tomografia computadorizada permite avaliar e estratificar a gravidade do quadro.",
         "O tratamento cirúrgico é a melhor opção, devendo ser indicado precocemente, logo após o diagnóstico.",
         "Na presença de um abscesso pericólico, está indicada a realização de um estoma temporário.",
         "Nos pacientes com peritonites purulentas, a abordagem videolaparoscópica está contraindicada."
       ],
       "correta": 0
-    },
-    {
-      "pergunta": "Mulher de 45 anos com cálculo de 35 mm com 1150 UH, localizado na pelve renal e cálice inferior, causando discreta dilatação da via excretora. Atualmente, o tratamento sugerido para esta situação é:",
-      "alternativas": [
-        "Nefrolitotomia laparoscópica.",
-        "Nefrolitotripsia retrógrada através de ureteroscopia flexível.",
-        "Nefrolitotripsia extracorpórea com colocação de cateter duplo J.",
-        "Nefrolitotripsia percutânea."
-      ],
-      "correta": 3
-    },
-    {
-      "pergunta": "Homem, 68 anos, com lesão enegrecida na extremidade do 2º artelho E. A melhor conduta para o paciente é:",
-      "alternativas": [
-        "Desbridamento da lesão com exérese da unha e curativos com neomicina tópica.",
-        "Arteriografia e programar revascularização do membro.",
-        "Amputação da falange distal com sutura primária.",
-        "Anticoagulação com enoxaparina e posteriormente anticoagulantes orais."
-      ],
-      "correta": 1
-    },
-    {
-      "pergunta": "No doente com diagnóstico de apendicite aguda e sinais clínicos evidentes de peritonite difusa, todas as opções abaixo são corretas, EXCETO:",
-      "alternativas": [
-        "Tratamento operatório por videolaparoscopia.",
-        "Tratamento operatório por laparotomia longitudinal.",
-        "Tratamento operatório por incisão de McBurney.",
-        "Indicação operatória independente de exame radiológico."
-      ],
-      "correta": 2
     },
     {
       "pergunta": "Homem de 80 anos, assintomático, apresenta anemia (Hto=24% e Hb=8.5 g/dl) cuja investigação determinou anemia por perda. Considerando a possibilidade de perda no trato gastrointestinal, qual seria o foco mais provável?",
