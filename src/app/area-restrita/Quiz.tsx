@@ -31,7 +31,9 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   useEffect(() => {
     if (originalData && originalData.length > 0) {
       const shuffled = shuffleArray(originalData);
-      setQuizData(shuffled);
+      const limit = 40;
+      const selecionadas = shuffled.slice(0, Math.min(limit, shuffled.length));
+      setQuizData(selecionadas);
     }
   }, [originalData]);
 
