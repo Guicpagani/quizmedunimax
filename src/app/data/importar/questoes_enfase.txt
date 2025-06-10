@@ -1,32 +1,3 @@
-PERGUNTA: Qual a capital do Brasil?
-A) São Paulo
-B) Brasília
-C) Rio de Janeiro
-D) Salvador
-CORRETA: B
-
-PERGUNTA: O que é ATP?
-A) Proteína
-B) Energia
-C) Enzima
-D) Vitamina
-CORRETA: B
-
-PERGUNTA: Qual a 2 capital do Brasil?
-A) São Paulo
-B) Brasília
-C) Rio de Janeiro
-D) Salvador
-CORRETA: A
-IMAGEM: /imagens/2.png
-
-PERGUNTA: O que é ATP?
-A) Proteína
-B) Energia
-C) Enzima
-D) Vitamina
-CORRETA: C
-
 PERGUNTA: Paciente com quadro de dor abdominal em cólica que evolui para dor difusa e contínua, associada à distensão abdominal e parada da eliminação de fezes e flatos. Qual é a principal hipótese diagnóstica?
 A) Apendicite aguda
 B) Abdome agudo obstrutivo
@@ -131,3 +102,150 @@ B) Pneumonia lobar esquerda com derrame pleural.
 C) Ruptura de víscera abdominal com peritonite generalizada.
 D) Hérnia diafragmática esquerda com encarceramento de alças intestinais.
 CORRETA: D
+
+PERGUNTA: Na colecistectomia, a identificação do triângulo de Calot é de extrema importância como referência para a dissecção da artéria cística. Os seus limites são:
+A) Vesícula biliar, hepatocolédoco e artéria hepática
+B) Face inferior do fígado, hepatocolédoco e ducto cístico
+C) Duodeno, ducto cístico e hepatocolédoco
+D) Vesícula biliar, hepatocolédoco e veia porta
+CORRETA: B
+
+PERGUNTA: A prioridade durante o atendimento primário de um paciente politraumatizado que apresenta-se hipotenso é:
+A) Estabelecer acesso venoso.
+B) Pesquisa imediata de focos de sangramento ocultos.
+C) Permeabilidade das vias aéreas.
+D) Realizar exame neurológico rápido.
+CORRETA: C
+
+PERGUNTA: Paciente masculino com 65 anos de idade foi submetido à laparotomia exploradora por abdome agudo obstrutivo devido obstrução do intestino delgado por bridas. Foram desfeitas as bridas e fechamento da parede. No 5º pós-operatório o paciente encontra-se afebril e com abaulamento da ferida operatória com drenagem de líquido serossanguinolento. Qual o diagnóstico para esta situação?
+A) Infecção da ferida operatória.
+B) Eventração.
+C) Evisceração.
+D) Fístula enterocutânea.
+CORRETA: B
+
+PERGUNTA: Em relação aos pólipos colorretais, podemos afirmar que:
+A) O adenoma viloso possui baixo potencial de displasia em malignização.
+B) O adenoma é a principal lesão precursora do câncer colorretal.
+C) Os pólipos malignizados devem ser sempre tratados com ressecção colônica ampliada, independente do nível de invasão do tumor.
+D) A presença de mais de 10 pólipos associado a história familiar caracteriza a polipose adenomatosa familiar.
+CORRETA: B
+
+PERGUNTA: Em relação ao adenocarcinoma gástrico:
+A) No nosso meio, com o advento da endoscopia digestiva, a maioria das neoplasias são diagnosticadas em seus estágios iniciais.
+B) A laparoscopia não deve ser utilizada no estadiamento da neoplasia, devido ao risco de disseminação peritoneal pelo pneumoperitônio.
+C) A infecção pelo Helicobacter pylori não apresenta relação com o adenocarcinoma gástrico.
+D) A realização de linfadenectomia à D2 apresenta melhora na sobrevida dos pacientes e melhor estadiamento da neoplasia.
+CORRETA: D
+
+PERGUNTA: Nos quadros de Diverticulite Aguda:
+A) A tomografia computadorizada permite avaliar e estratificar a gravidade do quadro infeccioso.
+B) O tratamento cirúrgico é a melhor opção, devendo ser indicado precocemente, logo após o diagnóstico.
+C) Na presença de um abscesso pericólico, está indicada a realização de um estoma temporário.
+D) Nos pacientes com peritonites purulentas, a abordagem videolaparoscópica está contraindicada.
+CORRETA: A
+
+PERGUNTA: Mulher de 45 anos com cálculo de 35 mm com 1150 UH, localizado na pelve renal e cálice inferior, causando discreta dilatação da via excretora. Atualmente, o tratamento sugerido para esta situação é:
+A) Nefrolitotomia laparoscópica.
+B) Nefrolitotripsia retrógrada através de ureteroscopia flexível.
+C) Nefrolitotripsia extracorpórea com colocação de cateter duplo J.
+D) Nefrolitotripsia percutânea.
+CORRETA: D
+
+PERGUNTA: Homem, 68 anos, com lesão enegrecida na extremidade do 2º artelho E. A melhor conduta para o paciente é:
+A) Desbridamento da lesão com exérese da unha e curativos com neomicina tópica.
+B) Arteriografia e programar revascularização do membro.
+C) Amputação da falange distal com sutura primária.
+D) Anticoagulação com enoxaparina e posteriormente anticoagulantes orais.
+CORRETA: B
+
+PERGUNTA: No doente com diagnóstico de apendicite aguda e sinais clínicos evidentes de peritonite difusa, todas as opções abaixo são corretas, EXCETO:
+A) Tratamento operatório por videolaparoscopia.
+B) Tratamento operatório por laparotomia longitudinal.
+C) Tratamento operatório por incisão de McBurney.
+D) Indicação operatória independente de exame radiológico.
+CORRETA: C
+
+PERGUNTA: Homem de 80 anos, assintomático, apresenta anemia (Hto=24% e Hb=8.5 g/dl) cuja investigação determinou anemia por perda. Considerando a possibilidade de perda no trato gastrointestinal, qual seria o foco mais provável?
+A) Esôfago
+B) Cólon direito
+C) Intestino delgado
+D) Cólon esquerdo
+CORRETA: B
+
+PERGUNTA: Em relação à pancreatite aguda biliar, é correto afirmar:
+A) Níveis elevados de amilase estão associados a casos graves de pancreatite ou complicações infecciosas.
+B) Coleções peripancreáticas estéreis e necrose pancreática sem evidência de infecção se beneficiam de abordagem cirúrgica precoce.
+C) Após a resolução do quadro inflamatório, deve ser sempre realizada a colecistectomia para evitar novos episódios de pancreatite.
+D) Pseudocisto é uma complicação tardia e o tratamento de escolha é drenagem e ressecção por cirurgia aberta.
+CORRETA: C
+
+PERGUNTA: Mulher, 48 anos, com cólicas em hipocôndrio direito há 10 dias, fezes claras, urina escura, icterícia. Antecedente: colecistectomia há 8 meses. Exame: ictérica, dor em hipocôndrio direito com leve reação peritoneal. Hipótese diagnóstica e conduta são:
+A) Cálculo primário de colédoco; tratamento clínico com prescrição de ácido ursodesoxicólico.
+B) Cálculo residual de colédoco; colangiopancreatografia retrógrada endoscópica para retirada do cálculo.
+C) Derivação pancreatojejunal.
+D) Hepatectomia.
+CORRETA: B
+
+PERGUNTA: Mulher, 31 anos, refere dor lombar esquerda há 6 dias e sangue na urina nos últimos 2 dias. Exame físico: punho-percussão positiva à esquerda. Urina: hemácias >100/campo, leucócitos = 10/campo. USG: rim esquerdo com hidronefrose acentuada e cálculo de 18 mm na junção pieloureteral. A conduta é:
+A) Antibioticoterapia e tansulosina
+B) Internação e tratamento com litotripsia extracorpórea
+C) Repetir ultrassonografia em 48h para avaliar progressão do cálculo
+D) Urocultura e internação para desobstrução
+CORRETA: D
+
+PERGUNTA: Homem, 60 anos, no 2º dia de pós-operatório de laparotomia por abdome agudo obstrutivo, com perda de 2800 ml pela sonda nasogástrica em 24h. Está estável hemodinamicamente, bem hidratado e com boa diurese. Qual distúrbio você pode encontrar?
+A) Hipopotassemia
+B) Hiponatremia
+C) Acidose metabólica
+D) Alcalose respiratória
+CORRETA: A
+
+PERGUNTA: Nos casos de íleo biliar, a maioria das fístulas aparece entre a vesícula biliar e o:
+A) Jejuno
+B) Íleo
+C) Duodeno
+D) Estômago
+CORRETA: C
+
+PERGUNTA: Em relação à obstrução intestinal, é correto afirmar:
+A) O vólvulo de sigmoide representa uma obstrução intestinal em alça fechada.
+B) O câncer de sigmoide constitui etiologia rara na obstrução cólica.
+C) A invaginação intestinal é a causa mais frequente de obstrução de delgado.
+D) Na hérnia encarcerada, o melhor tratamento é a ressecção segmentar da alça.
+CORRETA: A
+
+PERGUNTA: A hérnia inguinal que tem o suprimento sanguíneo para seu conteúdo comprometido é chamada de:
+A) Encarcerada.
+B) Redutível.
+C) Estrangulada.
+D) Recidivada.
+CORRETA: C
+
+PERGUNTA: A hérnia que produz protuberância abaixo do ligamento inguinal é chamada de:
+A) Inguinal direta.
+B) Inguinal indireta.
+C) De Spiegel.
+D) Femoral.
+CORRETA: D
+
+PERGUNTA: São ramos da artéria ilíaca interna, exceto:
+A) Artéria glútea
+B) Artéria pudenda externa
+C) Artéria obturatória
+D) Artéria umbilical
+CORRETA: B
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -2,16 +2,6 @@
   "title": "Enfase",
   "data": [
     {
-      "pergunta": "O que é ATP?",
-      "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
-      ],
-      "correta": 2
-    },
-    {
       "pergunta": "Paciente com quadro de dor abdominal em cólica que evolui para dor difusa e contínua, associada à distensão abdominal e parada da eliminação de fezes e flatos. Qual é a principal hipótese diagnóstica?",
       "alternativas": [
         "Apendicite aguda",
@@ -160,6 +150,196 @@
         "Hérnia diafragmática esquerda com encarceramento de alças intestinais."
       ],
       "correta": 3
+    },
+    {
+      "pergunta": "Na colecistectomia, a identificação do triângulo de Calot é de extrema importância como referência para a dissecção da artéria cística. Os seus limites são:",
+      "alternativas": [
+        "Vesícula biliar, hepatocolédoco e artéria hepática",
+        "Face inferior do fígado, hepatocolédoco e ducto cístico",
+        "Duodeno, ducto cístico e hepatocolédoco",
+        "Vesícula biliar, hepatocolédoco e veia porta"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "A prioridade durante o atendimento primário de um paciente politraumatizado que apresenta-se hipotenso é:",
+      "alternativas": [
+        "Estabelecer acesso venoso.",
+        "Pesquisa imediata de focos de sangramento ocultos.",
+        "Permeabilidade das vias aéreas.",
+        "Realizar exame neurológico rápido."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente masculino com 65 anos de idade foi submetido à laparotomia exploradora por abdome agudo obstrutivo devido obstrução do intestino delgado por bridas. Foram desfeitas as bridas e fechamento da parede. No 5º pós-operatório o paciente encontra-se afebril e com abaulamento da ferida operatória com drenagem de líquido serossanguinolento. Qual o diagnóstico para esta situação?",
+      "alternativas": [
+        "Infecção da ferida operatória.",
+        "Eventração.",
+        "Evisceração.",
+        "Fístula enterocutânea."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação aos pólipos colorretais, podemos afirmar que:",
+      "alternativas": [
+        "O adenoma viloso possui baixo potencial de displasia em malignização.",
+        "O adenoma é a principal lesão precursora do câncer colorretal.",
+        "Os pólipos malignizados devem ser sempre tratados com ressecção colônica ampliada, independente do nível de invasão do tumor.",
+        "A presença de mais de 10 pólipos associado a história familiar caracteriza a polipose adenomatosa familiar."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação ao adenocarcinoma gástrico:",
+      "alternativas": [
+        "No nosso meio, com o advento da endoscopia digestiva, a maioria das neoplasias são diagnosticadas em seus estágios iniciais.",
+        "A laparoscopia não deve ser utilizada no estadiamento da neoplasia, devido ao risco de disseminação peritoneal pelo pneumoperitônio.",
+        "A infecção pelo Helicobacter pylori não apresenta relação com o adenocarcinoma gástrico.",
+        "A realização de linfadenectomia à D2 apresenta melhora na sobrevida dos pacientes e melhor estadiamento da neoplasia."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Nos quadros de Diverticulite Aguda:",
+      "alternativas": [
+        "A tomografia computadorizada permite avaliar e estratificar a gravidade do quadro infeccioso.",
+        "O tratamento cirúrgico é a melhor opção, devendo ser indicado precocemente, logo após o diagnóstico.",
+        "Na presença de um abscesso pericólico, está indicada a realização de um estoma temporário.",
+        "Nos pacientes com peritonites purulentas, a abordagem videolaparoscópica está contraindicada."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Mulher de 45 anos com cálculo de 35 mm com 1150 UH, localizado na pelve renal e cálice inferior, causando discreta dilatação da via excretora. Atualmente, o tratamento sugerido para esta situação é:",
+      "alternativas": [
+        "Nefrolitotomia laparoscópica.",
+        "Nefrolitotripsia retrógrada através de ureteroscopia flexível.",
+        "Nefrolitotripsia extracorpórea com colocação de cateter duplo J.",
+        "Nefrolitotripsia percutânea."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Homem, 68 anos, com lesão enegrecida na extremidade do 2º artelho E. A melhor conduta para o paciente é:",
+      "alternativas": [
+        "Desbridamento da lesão com exérese da unha e curativos com neomicina tópica.",
+        "Arteriografia e programar revascularização do membro.",
+        "Amputação da falange distal com sutura primária.",
+        "Anticoagulação com enoxaparina e posteriormente anticoagulantes orais."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "No doente com diagnóstico de apendicite aguda e sinais clínicos evidentes de peritonite difusa, todas as opções abaixo são corretas, EXCETO:",
+      "alternativas": [
+        "Tratamento operatório por videolaparoscopia.",
+        "Tratamento operatório por laparotomia longitudinal.",
+        "Tratamento operatório por incisão de McBurney.",
+        "Indicação operatória independente de exame radiológico."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Homem de 80 anos, assintomático, apresenta anemia (Hto=24% e Hb=8.5 g/dl) cuja investigação determinou anemia por perda. Considerando a possibilidade de perda no trato gastrointestinal, qual seria o foco mais provável?",
+      "alternativas": [
+        "Esôfago",
+        "Cólon direito",
+        "Intestino delgado",
+        "Cólon esquerdo"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação à pancreatite aguda biliar, é correto afirmar:",
+      "alternativas": [
+        "Níveis elevados de amilase estão associados a casos graves de pancreatite ou complicações infecciosas.",
+        "Coleções peripancreáticas estéreis e necrose pancreática sem evidência de infecção se beneficiam de abordagem cirúrgica precoce.",
+        "Após a resolução do quadro inflamatório, deve ser sempre realizada a colecistectomia para evitar novos episódios de pancreatite.",
+        "Pseudocisto é uma complicação tardia e o tratamento de escolha é drenagem e ressecção por cirurgia aberta."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Mulher, 48 anos, com cólicas em hipocôndrio direito há 10 dias, fezes claras, urina escura, icterícia. Antecedente: colecistectomia há 8 meses. Exame: ictérica, dor em hipocôndrio direito com leve reação peritoneal. Hipótese diagnóstica e conduta são:",
+      "alternativas": [
+        "Cálculo primário de colédoco; tratamento clínico com prescrição de ácido ursodesoxicólico.",
+        "Cálculo residual de colédoco; colangiopancreatografia retrógrada endoscópica para retirada do cálculo.",
+        "Derivação pancreatojejunal.",
+        "Hepatectomia."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Mulher, 31 anos, refere dor lombar esquerda há 6 dias e sangue na urina nos últimos 2 dias. Exame físico: punho-percussão positiva à esquerda. Urina: hemácias >100/campo, leucócitos = 10/campo. USG: rim esquerdo com hidronefrose acentuada e cálculo de 18 mm na junção pieloureteral. A conduta é:",
+      "alternativas": [
+        "Antibioticoterapia e tansulosina",
+        "Internação e tratamento com litotripsia extracorpórea",
+        "Repetir ultrassonografia em 48h para avaliar progressão do cálculo",
+        "Urocultura e internação para desobstrução"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Homem, 60 anos, no 2º dia de pós-operatório de laparotomia por abdome agudo obstrutivo, com perda de 2800 ml pela sonda nasogástrica em 24h. Está estável hemodinamicamente, bem hidratado e com boa diurese. Qual distúrbio você pode encontrar?",
+      "alternativas": [
+        "Hipopotassemia",
+        "Hiponatremia",
+        "Acidose metabólica",
+        "Alcalose respiratória"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Nos casos de íleo biliar, a maioria das fístulas aparece entre a vesícula biliar e o:",
+      "alternativas": [
+        "Jejuno",
+        "Íleo",
+        "Duodeno",
+        "Estômago"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Em relação à obstrução intestinal, é correto afirmar:",
+      "alternativas": [
+        "O vólvulo de sigmoide representa uma obstrução intestinal em alça fechada.",
+        "O câncer de sigmoide constitui etiologia rara na obstrução cólica.",
+        "A invaginação intestinal é a causa mais frequente de obstrução de delgado.",
+        "Na hérnia encarcerada, o melhor tratamento é a ressecção segmentar da alça."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A hérnia inguinal que tem o suprimento sanguíneo para seu conteúdo comprometido é chamada de:",
+      "alternativas": [
+        "Encarcerada.",
+        "Redutível.",
+        "Estrangulada.",
+        "Recidivada."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A hérnia que produz protuberância abaixo do ligamento inguinal é chamada de:",
+      "alternativas": [
+        "Inguinal direta.",
+        "Inguinal indireta.",
+        "De Spiegel.",
+        "Femoral."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "São ramos da artéria ilíaca interna, exceto:",
+      "alternativas": [
+        "Artéria glútea",
+        "Artéria pudenda externa",
+        "Artéria obturatória",
+        "Artéria umbilical"
+      ],
+      "correta": 1
     }
   ]
 }
