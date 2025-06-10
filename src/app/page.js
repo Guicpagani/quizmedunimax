@@ -19,8 +19,8 @@ export default function Home() {
     "📢 Todos os dias novas questões atualizadas",
     "🧠 Novas questões de ênfase CC ⬆️",
     "🧪 Novas questões laboratórios ⬆️",
-    "🚧 Estamos trabalhando no upload de SFC e SDC",
-    "🔁 Cada acesso exibe 40 questões aleatórias",
+    "🚧 Estamos trabalhando no upload de SFC",
+    "🔁 O teste exibe 40 questões aleatórias, possíveis novas questões poderão surgir a cada acesso novo",
     "📩 Você pode ajudar o administrador reportando questões incorretas"
   ];
 
