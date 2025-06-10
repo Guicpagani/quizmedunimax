@@ -1,7 +1,302 @@
-PERGUNTA: Criança de 7 anos foi picada por escorpião no dorso do pé direito enquanto brincava descalça em local com entulho. Apresenta dor intensa no local, vômitos, sudorese e irritabilidade. Qual deve ser a conduta inicial mais adequada?
-A) Administrar analgésico simples e observar em domicílio por 12 horas
-B) Encaminhar para hospital terciário e iniciar antibiótico endovenoso
-C) Avaliar a gravidade, iniciar analgesia e observar em unidade com suporte, considerando uso de soro antiescorpiônico
-D) Realizar limpeza local, aplicar pomada tópica e liberar com orientação
+PERGUNTA: Menino, 2 anos de idade, é levado à UPA com relato de sonolência, náuseas e vômitos há 50 minutos. Após início do quadro, foi constatado que o menor ingeriu bolinhas de naftalina. A genitora informa que as bolinhas estavam em um pacote com 5 unidades, de menos de 1cm de diâmetro, e que 3 delas foram encontradas. Ao exame, criança hipoativa, hidratada, eupneica, corada, afebril, com hipersalivação e sem outros achados anormais. O paciente pode apresentar complicação decorrente de:
+A) Lesões cáusticas pela acidez.
+B) Lesões cáusticas pela alcalinidade.
+C) Síndrome hipercolinérgica.
+D) Metahemoglobinemia com cianose.
 CORRETA: C
+
+PERGUNTA: Uma mulher de 23 anos foi encaminhada para UTI após tentativa de suicídio, apresentando agitação, delirium, midríase, hipertérmica, taquicárdica, hipertensa, pele seca, quente e avermelhada, com mucosas secas. A causa mais provável pela sintomatologia de intoxicação exógena é:
+A) Tramadol.
+B) Diazepam.
+C) Aldicarb ("chumbinho").
+D) Imipramina.
+CORRETA: D
+
+PERGUNTA: Jovem de 21 anos é admitido com suspeita de intoxicação por droga anticolinérgica. Acompanhantes referem que ele tomou chá alucinógeno em uma festa. O quadro clínico mais compatível é:
+A) Midríase, hipertensão, taquicardia, hipertermia, hiperemia cutânea e mucosas secas.
+B) Midríase, hipertensão, bradicardia, hipotermia, hiperemia cutânea e hipersecreção.
+C) Miose, hipotensão, bradicardia, hipertermia, palidez cutânea e hipersecreção.
+D) Miose, hipertensão, taquicardia, hipertermia, hiperemia cutânea e hipersecreção.
+E) Midríase, hipotensão, bradicardia, hipotermia, palidez cutânea e mucosas secas.
+CORRETA: A
+
+PERGUNTA: Homem, 60 anos, com câncer de estômago metastático, encontra-se sonolento, com pupilas mióticas e frequência respiratória de 06 IRPM. A medicação mais provavelmente implicada na intoxicação e seu antídoto são, respectivamente:
+A) Benzodiazepínico e flumazenil.
+B) Metanol e fomepizol.
+C) Tricíclico e bicarbonato de sódio.
+D) Paracetamol e acetilcisteína.
+E) Opioide e naloxona.
+CORRETA: E
+
+PERGUNTA: Menino de 2 anos deu entrada após ingerir frasco de paracetamol. O pediatra deve estar atento para risco de:
+A) Sinais de hepatotoxicidade.
+B) Hemólise maciça.
+C) Depressão respiratória.
+D) Coma.
+E) Sintomas de liberação extrapiramidal.
+CORRETA: A
+
+PERGUNTA: Garoto de 5 anos, após voltar da fazenda, apresenta sudorese, lacrimejamento, salivação, náuseas e diarreia. Ao exame: bradicardia, miose, broncoespasmo e convulsão. Diagnóstico provável:
+A) Cianeto.
+B) Organofosforado.
+C) Opioide.
+D) Acetaminofeno.
+CORRETA: B
+
+PERGUNTA: Avalie o conjunto de manifestações: 1. Sudorese profusa, sialorreia, hipersecreção brônquica, miose e bradicardia. 2. Euforia, hipertensão arterial, taquicardia e midríase. 3. Mucosas secas, hiperreflexia tendinosa, agitação psicomotora e hipertermia. 4. Náuseas, tremores, polidipsia, poliúria e disfunção renal. A alternativa que associa corretamente a droga/classe farmacológica é:
+A) 1. Cocaína; 2. Fluoxetina; 3. Haloperidol; 4. Lítio.
+B) 1. Carbamato; 2. Tricíclico; 3. Lítio; 4. Fluoxetina.
+C) 1. Carbamato; 2. Cocaína; 3. Fluoxetina; 4. Lítio.
+D) 1. Fluoxetina; 2. Lítio; 3. Cocaína; 4. Haloperidol.
+E) 1. Organofosforado; 2. Haloperidol; 3. Lítio; 4. Fluoxetina.
+CORRETA: C
+
+PERGUNTA: Qual o antídoto da intoxicação por beta bloqueador?
+A) Glucagon.
+B) Flumazenil.
+C) Adrenalina.
+D) Dexametasona.
+CORRETA: A
+
+PERGUNTA: Assinale a correta associação entre fármaco e antídoto em intoxicação:
+A) Zolpidem/flumazenil.
+B) Buprenorfina/nalorfina.
+C) Propranolol/glucagon.
+D) Acetaminofeno/D-penicilamina.
+CORRETA: C
+
+PERGUNTA: Nas intoxicações por inibidores da colinesterase, os receptores colinérgicos são classificados como:
+A) Nicotínicos apenas.
+B) Muscarínicos e nicotínicos.
+C) Nicotínicos apenas.
+D) Adrenérgicos e nicotínicos.
+CORRETA: B
+
+PERGUNTA: Qual é o acidente ofídico mais prevalente no Brasil?
+A) Botrópico.
+B) Crotálico.
+C) Laquético.
+D) Elapídico.
+CORRETA: A
+
+PERGUNTA: Homem de 27 anos, picado no tornozelo por cobra não encontrada, apresenta ptose palpebral nas últimas 2 horas. A serpente mais provável é:
+A) Jararaca.
+B) Urutu.
+C) Cascavel.
+D) Caninana.
+CORRETA: C
+
+PERGUNTA: Menino de 5 anos, procedente da zona rural, chega à emergência com história de picada por animal não identificado, vômitos, sudorese, sonolência. Ao exame: ptose palpebral, boca seca, FR 30 ipm, FC 130 bpm, pulsos cheios, PA 100x60 mmHg, SN hipotonia muscular e midríase. O soro antiveneno indicado é:
+A) Soro antibotrópico.
+B) Soro antiloxosceles.
+C) Soro anticrotálico.
+D) Soro antiescorpiônico.
+CORRETA: A
+
+PERGUNTA: Paciente procedente do interior do estado vítima de picada de cobra, apresenta dois orifícios em perna esquerda com formigamento local, sem dor, dificuldade para manter olhos abertos, visão turva, diplopia, mal-estar, irritabilidade, náuseas, cefaleia, mialgia e diurese escura. A qual grupo pertence a serpente responsável pelo acidente?
+A) Bothrops.
+B) Crotalus.
+C) Lachesis.
+D) Micrurus.
+E) Etapidae.
+CORRETA: B
+
+PERGUNTA: Qual dos acidentes ofídicos é o mais frequente no Brasil?
+A) Crotálico
+B) Elapídico
+C) Botrópico
+D) Laquetico
+CORRETA: C
+
+PERGUNTA: Em relação aos acidentes com escorpiões, qual das alternativas é correta?
+A) O quadro clínico sistêmico é mais frequente em adultos do que em crianças.
+B) CIVD e insuficiência renal aguda são complicações frequentes.
+C) A soroterapia está indicada nos casos de acidente escorpiônico de gravidade moderada e grave.
+D) A espécie Tityus bahiensis (escorpião marrom) é responsável pela maioria dos acidentes escorpiônicos.
+E) O quadro clínico local apresenta dor, com intensidade fraca, sudorese, eritema e piloereção.
+CORRETA: C
+
+PERGUNTA: Os acidentes botrópicos são causados por serpentes do gênero Bothrops, que determinam processo inflamatório no local da picada, com edema tenso, equimose, dor e adenomegalia regional, que progridem ao longo do membro acometido. Qual serpente causa esse tipo de acidente?
+A) Cascavel.
+B) Coral verdadeira.
+C) Jararaca.
+D) Cobra cipó.
+CORRETA: C
+
+PERGUNTA: A urina de cor escura caracteriza um dos achados da rabdomiólise, sinal presente em acidentes ofídicos do tipo:
+A) Laquético.
+B) Crotálico.
+C) Elapídico.
+D) Botrópico.
+CORRETA: B
+
+PERGUNTA: Homem vive em zona rural no cerrado mineiro, picado por cobra não identificada, apresenta quadro sem sinais inflamatórios locais, com ptose palpebral bilateral, urina escura, mialgia e coagulograma alargado. Qual serpente causou o quadro?
+A) Jiboia.
+B) Cascavel.
+C) Coral.
+D) Jararaca.
+CORRETA: B
+
+PERGUNTA: Trabalhador rural de 28 anos, picado por cobra não identificada, apresenta dor local leve, mialgia, dificuldade para articular palavras e visão dupla. Exames mostram coagulação alargada, leucocitose sem desvio e urina escura sem hematúria. Qual o diagnóstico do acidente ofídico?
+A) Botrópico.
+B) Laquético.
+C) Elapídico.
+D) Crotálico.
+CORRETA: B
+
+PERGUNTA: O veneno de aranha que é proteolítico e hemolítico, podendo causar anemia grave, icterícia, hemólise, púrpura e insuficiência renal pertence ao gênero:
+A) Lycosa (aranha tarântula).
+B) Latrodectus (aranha negra).
+C) Loxosceles (aranha marrom).
+D) Phoneutria (aranha armadeira).
+CORRETA: C
+
+PERGUNTA: Qual é o acidente ofídico mais comum em nosso estado, que pode cursar com lesão renal aguda?
+A) Botrópico.
+B) Crotálico.
+C) Elapídico.
+D) Lachético.
+CORRETA: A
+
+PERGUNTA: Qual das seguintes alterações não seria encontrada na avaliação clínica e exames complementares de uma criança de 2 anos vítima de acidente escorpiônico grave?
+A) Aumento de CK e CK-MB.
+B) Bradicardia sinusal.
+C) Distúrbio de coagulação.
+D) Taquicardia sinusal.
+CORRETA: B
+
+PERGUNTA: Homem, 34 anos, dá entrada em pronto-socorro duas horas após picada por cobra não identificada, com edema e dor intensa no local, dor abdominal em cólica, diarreia, náuseas, vômitos e escurecimento da urina. PA = 80 x 54 mmHg e FC = 48 bpm. Exames laboratoriais mostram tempo de coagulação incoagulável. Este acidente ofídico é melhor classificado como:
+A) Laquético.
+B) Botrópico.
+C) Crotálico.
+D) Elapídico.
+E) O quadro clínico não é compatível com acidente ofídico.
+CORRETA: C
+
+PERGUNTA: Paciente, 65 anos, sexo masculino, apresenta febre, calafrios e tosse há quatro dias, com temperatura axilar até 40°C, episódio de vômito, diminuição do volume urinário e prostração. Diagnóstico: sepse e disfunção múltipla de órgãos. Qual variável inflamatória está associada ao caso?
+A) Redução do enchimento capilar.
+B) Hiperlactatemia.
+C) Leucocitose (>12.000/mm³).
+D) Índice cardíaco acima de 3,5 L/min/m².
+CORRETA: B
+
+PERGUNTA: A terapia precoce na sepse grave visa aos seguintes objetivos nas primeiras seis horas, EXCETO:
+A) Lactato arterial > 4 mmol/L.
+B) Pressão venosa central (PVC) 8-12 mmHg.
+C) Pressão arterial média ≥ 65 mmHg.
+D) Saturação venosa central > 70%.
+CORRETA: A
+
+PERGUNTA: Entre as alternativas, qual paciente apresenta maior gravidade e provável quadro de sepse?
+A) Mulher, 27 anos, pós-litotripsia para nefrolitíase, afebril, FC 102 bpm, PA 90x40 mmHg, confusão mental, leucócitos 9.000/µL.
+B) Homem, 45 anos, pancreatite, temperatura 38°C, FC 110 bpm, PA 110x60 mmHg, leucócitos 14.000/µL.
+C) Mulher, 53 anos, pós-operatório de ressecção de tumor de cólon, taquicárdica, intubada.
+D) Senhora, 84 anos, casa de repouso, cultura positiva para Proteus spp.
+E) Homem, 18 anos, pós-apendicectomia laparoscópica, febril (39ºC), taquicárdico (FC 130 bpm), PA 140x70 mmHg.
+CORRETA: C
+
+PERGUNTA: Segundo as novas diretrizes de SEPSE, qual critério deve ser utilizado como triagem para sepse?
+A) SOFA.
+B) Quick SOFA.
+C) PERC Score.
+D) NEWS.
+CORRETA: B
+
+PERGUNTA: Sobre os métodos de triagem de sepse no departamento de emergência, recomendações da Surviving Sepsis Campaign 2021 são:
+A) Introdução do quick SOFA como principal ferramenta de triagem.
+B) Uso da ferramenta SOFA como método simultâneo de triagem e diagnóstico.
+C) Substituição gradual da classificação SIRS pelo quick SOFA.
+D) Substituição gradual do quick SOFA pela NEWS.
+E) Ausência de superioridade do quick SOFA em relação ao NEWS.
+CORRETA: C
+
+PERGUNTA: Faz parte dos sintomas da Síndrome da Resposta Inflamatória Sistêmica (SIRS):
+A) Temperatura central <36°C ou >38°C e bradicardia.
+B) PaCO2 >32 mmHg e leucocitose >12.000 cel/mm³.
+C) Coagulação intravascular sistêmica e FC >110 bpm.
+D) Taquipneia >20 irpm e leucograma <4.000 cel/mm³.
+CORRETA: D
+
+PERGUNTA: Mulher, 45 anos, internada em UTI com choque séptico de provável foco abdominal, intubada, ventilação mecânica, fração inspirada de O₂ 0,9. A PRIMEIRA MEDIDA a ser adotada é:
+A) Coloide para expansão volêmica.
+B) Corticosteroide.
+C) Esquema antimicrobiano.
+D) Noradrenalina e vasopressina.
+CORRETA: C
+
+PERGUNTA: Paciente, 56 anos, diabética, febre, disúria, sonolência, oligúria, PA 110x70 mmHg, FC 110 bpm, FR 28 irpm, Glasgow 13. Segundo o Terceiro Consenso Internacional para Sepse e Choque Séptico, o quadro clínico apresentado é:
+A) Sepse grave.
+B) Choque séptico.
+C) Sepse.
+D) Síndrome da Resposta Inflamatória Sistêmica (SIRS).
+E) Sepse com disfunção orgânica.
+CORRETA: C
+
+PERGUNTA: NÃO é avaliado no escore do SOFA:
+A) TP (INR).
+B) Escala de coma de Glasgow.
+C) Relação PO2/FiO2.
+D) Valor de bilirrubina.
+CORRETA: A
+
+PERGUNTA: Paciente de 70 anos, pós-operatório de fratura de fêmur, diagnosticado com pneumonia. PA 80x40 mmHg, FC 120 bpm, FR 28 irpm, temperatura 38,0°C. Gasometria arterial: pH 7,28; pCO₂ 30 mmHg; pO₂ 55 mmHg; bicarbonato 14 mEq/L; BE -5,0; saturação de oxigênio 86%; lactato 5,0 mmol/L. O tempo ideal para administração do antibiótico é:
+A) Uma hora.
+B) Duas horas.
+C) Três horas.
+D) Quatro horas.
+E) Seis horas.
+CORRETA: A
+
+PERGUNTA: Escolar, 5 anos, apresenta edema labial, tosse, rouquidão, dispneia e vômitos após exposição a colmeia. Ausculta pulmonar com raros sibilos, PA normal. Sobre essa condição, é correto afirmar que:
+A) O diagnóstico de anafilaxia é improvável pela ausência de hipotensão arterial.
+B) A ausência de urticária pode ocorrer em anafilaxia grave, potencialmente fatal.
+C) A primeira droga a ser administrada é broncodilatador inalatório.
+D) A dispneia e ausculta pulmonar caracterizam crise asmática grave.
+E) A primeira droga deve ser adrenalina por via subcutânea.
+CORRETA: B
+
+PERGUNTA: Anafilaxia é sempre emergência médica caracterizada por rápida instalação e risco de morte. Sobre anafilaxia, é CORRETO afirmar:
+A) Com base nos sintomas iniciais, é possível prever com segurança a gravidade e evolução do evento.
+B) Avaliação laboratorial é essencial para diagnóstico precoce.
+C) Hipersensibilidade ao veneno de insetos da ordem Hymenoptera é o desencadeante mais comum.
+D) Adrenalina é droga-chave e sua rápida administração diminui mortalidade.
+CORRETA: D
+
+PERGUNTA: Mulher, 32 anos, comparece ao PS com cefaleia sem sinais de alarme. Após dipirona e cetoprofeno endovenosos, evolui com estridor laríngeo, desconforto respiratório, sibilância e hipotensão. Melhor conduta inicial é:
+A) Soro fisiológico 0,9% 1000 ml EV agora.
+B) Metilprednisolona 60 mg EV.
+C) Dopamina EV 5 mcg/Kg/min.
+D) Adrenalina 0,5 mg IM.
+CORRETA: D
+
+PERGUNTA: Menina, 8 anos, asmática, apresenta placas e pápulas eritematosas pruriginosas e inseto na pele (abelha). Conduta inicial:
+A) Anti-histamínico oral e corticoide intravenoso.
+B) Inalação com fenoterol e anti-histamínico intravenoso.
+C) Inalação com fenoterol e corticoide via oral.
+D) Adrenalina (1:10000) 0,3 mg IM.
+CORRETA: D
+
+PERGUNTA: Escolar de 7 anos apresenta dor abdominal forte e vômitos após restaurante de frutos do mar. Exame com eritema e sibilos esparsos. Medicamento que deve receber o mais precocemente possível:
+A) Salbutamol.
+B) Prednisona.
+C) Metilprednisolona.
+D) Manitol.
+E) Epinefrina.
+CORRETA: E
+
+PERGUNTA: Angioedema está associado ao inchaço profundo dos tecidos cutâneos ou submucosos devido à permeabilidade capilar aumentada. As regiões mais afetadas, exceto:
+A) Joelhos.
+B) Face.
+C) Laringe.
+D) Língua.
+CORRETA: A
+
+PERGUNTA: Mulher, 28 anos, procura PS com edema labial, prurido generalizado, cólicas e vômitos após consumo de crustáceos. PA 100x70 mmHg, FC 97 bpm, FR 24 ipm. Abordagem de primeira escolha:
+A) Glucagon.
+B) Adrenalina.
+C) Difenidramina.
+D) Prednisona.
+CORRETA: B
+
+
 
