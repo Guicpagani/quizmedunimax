@@ -35,11 +35,11 @@
       "pergunta": "Homem, 60 anos, com câncer de estômago metastático, encontra-se sonolento, com pupilas mióticas e frequência respiratória de 06 IRPM. A medicação mais provavelmente implicada na intoxicação e seu antídoto são, respectivamente:",
       "alternativas": [
         "Benzodiazepínico e flumazenil.",
-        "Metanol e fomepizol.",
+        "opioide e naloxona",
         "Tricíclico e bicarbonato de sódio.",
         "Paracetamol e acetilcisteína."
       ],
-      "correta": -1
+      "correta": 1
     },
     {
       "pergunta": "Menino de 2 anos deu entrada após ingerir frasco de paracetamol. O pediatra deve estar atento para risco de:",
@@ -262,14 +262,14 @@
       "correta": 0
     },
     {
-      "pergunta": "Entre as alternativas, qual paciente apresenta maior gravidade e provável quadro de sepse?",
+      "pergunta": "Cada uma das alternativas a seguir apresenta um paciente e algumas de suas informações clínicas. Entre essas alternativas, assinale aquela que apresenta o paciente com maior gravidade e provável quadro de sepse.",
       "alternativas": [
         "Mulher, 27 anos, pós-litotripsia para nefrolitíase, afebril, FC 102 bpm, PA 90x40 mmHg, confusão mental, leucócitos 9.000/µL.",
         "Homem, 45 anos, pancreatite, temperatura 38°C, FC 110 bpm, PA 110x60 mmHg, leucócitos 14.000/µL.",
         "Mulher, 53 anos, pós-operatório de ressecção de tumor de cólon, taquicárdica, intubada.",
         "Senhora, 84 anos, casa de repouso, cultura positiva para Proteus spp."
       ],
-      "correta": 2
+      "correta": 0
     },
     {
       "pergunta": "Segundo as novas diretrizes de SEPSE, qual critério deve ser utilizado como triagem para sepse?",
@@ -279,14 +279,14 @@
         "PERC Score.",
         "NEWS."
       ],
-      "correta": 1
+      "correta": 3
     },
     {
       "pergunta": "Sobre os métodos de triagem de sepse no departamento de emergência, recomendações da Surviving Sepsis Campaign 2021 são:",
       "alternativas": [
         "Introdução do quick SOFA como principal ferramenta de triagem.",
         "Uso da ferramenta SOFA como método simultâneo de triagem e diagnóstico.",
-        "Substituição gradual da classificação SIRS pelo quick SOFA.",
+        "ausência de superioridade do escore quick SOFA em relação ao NEWS.",
         "Substituição gradual do quick SOFA pela NEWS."
       ],
       "correta": 2
@@ -386,10 +386,10 @@
       "alternativas": [
         "Salbutamol.",
         "Prednisona.",
-        "Metilprednisolona.",
+        "Epinefrina.",
         "Manitol."
       ],
-      "correta": -1
+      "correta": 2
     },
     {
       "pergunta": "Angioedema está associado ao inchaço profundo dos tecidos cutâneos ou submucosos devido à permeabilidade capilar aumentada. As regiões mais afetadas, exceto:",
