@@ -67,7 +67,7 @@ export default function Home() {
         </p>
 
         {/* Botões de acesso */}
-        <div className="flex flex-col sm:flex-row gap-2 mt-2">
+        <div className="flex flex-col sm:flex-row gap-2 mt-2 items-center">
           <Link href="/login">
             <button className="px-6 py-3 bg-blue-600 text-white rounded-xl hover:bg-blue-700 transition-all shadow-md">
               Entrar no Quiz
