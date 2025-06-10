@@ -298,5 +298,458 @@ C) Difenidramina.
 D) Prednisona.
 CORRETA: B
 
+PERGUNTA: Definição clínica de sepse: Sepse é:
+A) Uma infecção bacteriana localizada.
+B) Uma síndrome autoimune aguda.
+C) Uma disfunção orgânica causada por resposta desregulada a uma infecção.
+D) Um tipo de alergia sistêmica grave.
+CORRETA: C
 
+PERGUNTA: Qual evento inicia a cascata inflamatória da sepse?
+A) Liberação de cortisol pelo estresse.
+B) Ação da histamina nas vias respiratórias.
+C) Liberação de endotoxinas/exotoxinas que ativam receptores imunes.
+D) Produção de anticorpos IgE.
+CORRETA: C
+
+PERGUNTA: Qual é o marcador laboratorial usado para guiar a ressuscitação na sepse?
+A) PCR
+B) Hemoglobina
+C) Lactato
+D) Bilirrubina
+CORRETA: C
+
+PERGUNTA: A presença de hipotensão refratária e hipoperfusão tecidual após 30 ml/kg de cristaloides indica:
+A) Choque anafilático
+B) Choque séptico
+C) Hipovolemia simples
+D) Choque neurogênico
+CORRETA: B
+
+PERGUNTA: Qual é a droga vasoativa de primeira escolha no choque séptico?
+A) Dopamina
+B) Adrenalina
+C) Vasopressina
+D) Noradrenalina
+CORRETA: D
+
+PERGUNTA: Para diagnóstico de sepse, além do foco infeccioso, é necessário:
+A) Apenas febre alta
+B) 2 ou mais critérios de SIRS
+C) Aumento de 2 pontos ou mais no SOFA
+D) Leucocitose acima de 20.000/mm³
+CORRETA: C
+
+PERGUNTA: Quais são os principais sítios infecciosos causadores de sepse?
+A) Intestino grosso e cérebro
+B) Pulmões, trato urinário, abdome, pele e corrente sanguínea
+C) Ouvido, retina e articulações
+D) Útero e tireoide
+CORRETA: B
+
+PERGUNTA: Qual valor de diurese indica perfusão renal adequada na sepse?
+A) 5 ml/kg/h
+B) 2 ml/min
+C) 0,5 ml/kg/h
+D) 100 ml/h fixo
+CORRETA: C
+
+PERGUNTA: Quando iniciar antibiótico em paciente com suspeita de sepse e sinais de instabilidade?
+A) Após resultado da hemocultura
+B) Dentro da primeira hora
+C) Após 6 horas de observação
+D) Somente com leucocitose
+CORRETA: B
+
+PERGUNTA: Qual meta hemodinâmica deve ser alcançada após ressuscitação volêmica na sepse?
+A) FC < 60 bpm
+B) PAS > 90 mmHg
+C) Diurese < 0,3 ml/kg/h
+D) PAM ≥ 65 mmHg
+CORRETA: D
+
+PERGUNTA:  Diagnóstico de Sepse: Você está avaliando Maurílio, 68 anos, com fratura exposta de tíbia, internado há 40 dias. Evolui nas últimas 24h com confusão mental, hipotensão (PA 80x50 mmHg), FC 120, FR 22, temperatura 34,8°C, Glasgow 13, leucocitose e lactato de 5. Qual o diagnóstico mais provável?
+A) Infecção urinária com resposta inflamatória simples
+B) Sepse com disfunção orgânica associada
+C) SIRS sem critério infeccioso
+D) Pielonefrite com insuficiência renal aguda
+CORRETA: B
+
+PERGUNTA:   Conduta Inicial: Diante da suspeita de sepse em Maurílio, qual é a conduta inicial mais adequada?
+A) Aguardar hemoculturas para só então iniciar antibiótico
+B) Iniciar corticoterapia imediatamente e avaliar resposta
+C) Coletar exames laboratoriais, iniciar antibiótico de amplo espectro e 30 mL/kg de cristalóide em até 3h
+D) Manter observação nas próximas 6 horas para reavaliação clínica
+CORRETA: C
+
+PERGUNTA:   Disfunções Orgânicas: Com base no SOFA, qual das disfunções orgânicas está presente em Maurílio?
+A) Alteração da função hepática (BT 1,2)
+B) Disfunção respiratória (PaO₂/FiO₂ < 200)
+C) Disfunção hematológica (plaquetas 101.000)
+D) Disfunção cardiovascular (PAM < 70 mmHg sem drogas vasoativas)
+CORRETA: D
+
+PERGUNTA:   Medida Terapêutica Chave: Após ressuscitação volêmica de 30 mL/kg, Maurílio permanece hipotenso e com lactato elevado. Qual a próxima medida?
+A) Aguardar normalização espontânea
+B) Administrar vasopressor, preferencialmente noradrenalina
+C) Repetir bolus de 30 mL/kg de cristalóide
+D) Substituir fluido por solução hipertônica de NaCl
+CORRETA: B
+
+PERGUNTA:   Fisiopatologia da Sepse: Sobre a fisiopatologia da sepse, assinale a alternativa CORRETA:
+A) A ativação de citocinas anti-inflamatórias gera vasoconstrição intensa e hipoperfusão
+B) A sepse cursa com vasoconstrição reflexa dos grandes vasos e hipertensão arterial sustentada
+C) A sepse envolve liberação de citocinas pró-inflamatórias, levando à vasodilatação, aumento da permeabilidade e disfunção endotelial
+D) Ocorre supressão completa da resposta imune inata, com falência apenas da medula óssea
+CORRETA: C
+
+PERGUNTA: Qual das alternativas representa corretamente o tipo de choque característico da anafilaxia?
+A) Hipovolêmico
+B) Cardiogênico
+C) Distributivo
+D) Obstrutivo
+CORRETA: C
+
+PERGUNTA: Sobre a fisiopatologia da anafilaxia, assinale a alternativa correta:
+A) A IgM é o principal anticorpo envolvido na resposta anafilática
+B) A primeira exposição ao alérgeno é suficiente para causar anafilaxia
+C) A liberação de histamina ocorre pela ligação do antígeno à IgE nos mastócitos
+D) A resposta é exclusivamente mediada por mecanismos não imunológicos
+CORRETA: C
+
+PERGUNTA: A triptase, liberada durante a reação anafilática, atua principalmente:
+A) Estimulando a diurese
+B) Promovendo vasoconstrição sistêmica
+C) Ativando o complemento e promovendo citocinas inflamatórias
+D) Inibindo a liberação de prostaglandinas
+CORRETA: C
+
+PERGUNTA: Quais os critérios diagnósticos para anafilaxia segundo diretrizes clínicas?
+A) Rash cutâneo + febre persistente
+B) Exposição a alérgeno + sintomas respiratórios isolados
+C) Comprometimento respiratório + cardiovascular + sintomas gastrointestinais
+D) Exposição provável + dois ou mais sistemas acometidos
+CORRETA: D
+
+PERGUNTA: A via preferencial para administração de adrenalina na anafilaxia é:
+A) Subcutânea
+B) Intravenosa direta (em bolus)
+C) Intramuscular no vasto lateral da coxa
+D) Intradérmica
+CORRETA: C
+
+PERGUNTA: Qual é a dose de adrenalina intramuscular indicada para adultos no manejo inicial da anafilaxia?
+A) 0,1 a 0,2 mg
+B) 0,3 a 0,5 mg
+C) 1,0 mg
+D) 0,01 mg/kg
+CORRETA: B
+
+PERGUNTA: Em um paciente com anafilaxia refratária à adrenalina IM, a próxima conduta é:
+A) Observar por mais 30 minutos
+B) Iniciar bolus EV de adrenalina diluída
+C) Adicionar anti-histamínico IM imediatamente
+D) Suspender a adrenalina e iniciar corticosteróide
+CORRETA: B
+
+PERGUNTA: Qual achado é mais específico de anafilaxia com comprometimento cardiovascular?
+A) Cianose central
+B) Prurido cutâneo
+C) Hipotensão com pulsos amplos
+D) Taquipneia isolada
+CORRETA: C
+
+PERGUNTA: Dentre os mediadores liberados durante a reação anafilática, qual não tem ação vasodilatadora?
+A) Histamina (via H1)
+B) Histamina (via H2)
+C) Triptase
+D) Adrenalina endógena
+CORRETA: D
+
+PERGUNTA: Um dos seguintes fatores não está associado como desencadeante frequente de anafilaxia. Assinale:
+A) Amendoim
+B) Sulfametoxazol-trimetoprima
+C) Picada de formiga
+D) Toxina tetânica
+CORRETA: D
+
+PERGUNTA: Um homem de 26 anos, previamente hígido, é picado por uma abelha e, 10 minutos depois, apresenta rash, dispnéia, chiado no peito e PA 78x48 mmHg. Qual conduta imediata é mais indicada?
+A) Prednisona VO 40 mg
+B) Adrenalina IM 0,3-0,5 mg
+C) Hidrocortisona IV 200 mg
+D) Salbutamol inalatório
+CORRETA: B
+
+PERGUNTA: Paciente idosa, 72 anos, usa betabloqueador para controle de hipertensão e desenvolve anafilaxia após contraste iodado. Após 2 doses de adrenalina IM, permanece hipotensa. Qual a próxima medida correta?
+A) Iniciar bolus de adrenalina IV
+B) Realizar BIC de noradrenalina
+C) Administrar glucagon 1-5 mg EV
+D) Adicionar prometazina IM
+CORRETA: C
+
+PERGUNTA:  Menina de 8 anos com história prévia de alergia a leite ingere por engano sorvete. Em 15 minutos apresenta vômitos, edema facial, tosse seca, dispneia e rash. Qual critério diagnóstico de anafilaxia ela preenche?
+A) Exposição ao alérgeno + acometimento de pele + respiratório + gastrointestinal
+B) Respiratório isolado
+C) Pele + febre + diarreia
+D) Presença de apenas sintomas cutâneos
+CORRETA: A
+
+PERGUNTA:  Homem de 34 anos dá entrada no PS com dor abdominal intensa, urticária e hipotensão após tomar antibiótico beta-lactâmico. Sem história de alergia conhecida. Qual o diagnóstico mais provável?
+A) Choque hipovolêmico
+B) Reação tipo IV tardia
+C) Choque anafilático
+D) Sepse abdominal
+CORRETA: C
+
+PERGUNTA:  Mulher de 40 anos sofre reação anafilática grave. É tratada com adrenalina IM, expansor volêmico e oxigênio. Após estabilização inicial, qual é a recomendação para observação hospitalar?
+A) Alta imediata após melhora clínica
+B) Permanência por 2 horas em sala de emergência
+C) Observação por no mínimo 12 horas
+D) Avaliação ambulatorial em 24h
+CORRETA: C
+
+PERGUNTA: Em pacientes com intoxicação por opióides, a indicação imediata de via aérea definitiva ocorre quando:
+A) Saturação de O₂ < 95% sem sintomas
+B) Frequência respiratória acima de 24 irpm
+C) Apneia ou rebaixamento com perda do reflexo de proteção
+D) Midríase bilateral com instabilidade hemodinâmica
+CORRETA: C
+
+PERGUNTA: Qual alteração respiratória é típica da síndrome colinérgica grave?
+A) Bradipneia com apnéias prolongadas
+B) Taquipnéia com hiperventilação voluntária
+C) Broncorreia e broncoespasmo com sialorréia
+D) Respiração de Cheyne-Stokes com agitação psicomotora
+CORRETA: C
+
+PERGUNTA: O tratamento com atropina na intoxicação por organofosforados deve ser orientado principalmente por:
+A) Retorno da frequência cardíaca ao normal
+B) Melhora da miose e salivação
+C) Ausculta pulmonar livre de secreções
+D) Pressão arterial média > 65 mmHg
+CORRETA: C
+
+PERGUNTA: Qual síndrome tóxica mais frequentemente cursa com convulsões e rigidez muscular?
+A) Colinérgica
+B) Simpaticomimética
+C) Sedativa-hipnótica
+D) Anticolinérgica
+CORRETA: B
+
+PERGUNTA: Na síndrome anticolinérgica, a pele do paciente costuma estar:
+A) Quente e seca, com rubor facial
+B) Fria e pegajosa, com sudorese intensa
+C) Cianótica e pálida, sem sudorese
+D) Normal, sem alterações cutâneas
+CORRETA: A
+
+PERGUNTA: Qual é a tríade clássica da intoxicação por opioides?
+A) Bradicardia, midríase e hipertensão
+B) Bradipneia, miose e rebaixamento do nível de consciência
+C) Taquicardia, agitação e hiperventilação
+D) Bradipneia, hipertermia e midríase
+CORRETA: B
+
+PERGUNTA: Em pacientes com intoxicação por cocaína, é contraindicado o uso de:
+A) Benzodiazepínicos
+B) Hidralazina
+C) Betabloqueadores
+D) Nitroprussiato
+CORRETA: C
+
+PERGUNTA: Qual das seguintes manifestações neurológicas é mais esperada na intoxicação sedativa-hipnótica isolada?
+A) Convulsão e tremores
+B) Rebaixamento de consciência, hiporreflexia e fala arrastada
+C) Delírio com alucinações visuais
+D) Ansiedade, hipertonia e paranoia
+CORRETA: B
+
+PERGUNTA: Sobre a descontaminação com carvão ativado, assinale a correta:
+A) Pode ser usada até 4 horas após a ingestão, mesmo com via aérea não protegida
+B) É indicada em todas as intoxicações, incluindo metais pesados
+C) Deve ser evitada se houver risco de broncoaspiração ou obstrução intestinal
+D) Sempre deve ser usada em conjunto com lavagem gástrica
+CORRETA: C
+
+PERGUNTA: Sobre o uso do antídoto naloxona, é correto afirmar:
+A) Tem duração longa, dispensando novas doses em opioides de longa ação
+B) É contraindicado na intoxicação isolada por morfina
+C) É seguro para administração intranasal na ausência de acesso venoso
+D) Sempre reverte todos os efeitos centrais dos opioides em minutos
+CORRETA: C
+
+PERGUNTA: Paciente 1 – Renatão (síndrome colinérgica). Homem encontrado com sialorreia, diarreia, sudorese intensa e pupilas mióticas. Qual conduta inicial é prioritária?
+A) Administração de fisostigmina e diazepam
+B) Lavagem gástrica imediata e carvão ativado
+C) Atropina em bolus guiada por melhora respiratória
+D) Antídoto com flumazenil e ventilação não invasiva
+CORRETA: C
+
+PERGUNTA: Paciente 2 – Cleitim (síndrome simpaticomimética). Jovem agitado, com midríase, hipertensão severa e convulsão tônica breve após festa. Melhor conduta:
+A) Flumazenil EV e metoprolol
+B) Diazepam EV e evitar betabloqueadores
+C) Atropina IM e lavagem gástrica
+D) Naloxona e carvão ativado
+CORRETA: B
+
+PERGUNTA: Paciente 3 – Antônio (síndrome sedativa/opiáceo). Idoso sonolento, pupilas mióticas puntiformes, FR = 8, uso crônico de morfina e clonazepam. Melhor conduta inicial:
+A) Diazepam IM e oxigênio suplementar
+B) Intubação orotraqueal e naloxona EV
+C) Flumazenil e hidratação venosa
+D) Atropina EV e carvão ativado
+CORRETA: B
+
+PERGUNTA: Paciente com pele seca, pupilas midriáticas, confusão mental, alucinações e retenção urinária. Qual droga está mais provavelmente envolvida?
+A) Morfina
+B) Amitriptilina
+C) Cocaína
+D) Carbamato
+CORRETA: B
+
+PERGUNTA: Homem chega ao pronto-socorro inconsciente. Pupilas normais, FC = 60 bpm, FR = 10 irpm, sem resposta à dor. Chegou 30 min após ingestão desconhecida. Qual medida deve ser evitada de imediato?
+A) Intubação orotraqueal se houver risco de broncoaspiração
+B) Lavagem gástrica sem via aérea protegida
+C) Monitorização cardiorrespiratória
+D) Administração empírica de naloxona
+CORRETA: B
+
+PERGUNTA: Qual das serpentes abaixo é responsável pela maioria dos acidentes ofídicos no Brasil?
+A) Surucucu
+B) Jararaca
+C) Coral
+D) Cascavel
+CORRETA: B
+
+PERGUNTA: Qual é o principal risco do veneno da serpente coral verdadeira?
+A) Hemorragia digestiva
+B) Necrose local extensa
+C) Paralisia neuromuscular
+D) Rabdomiólise
+CORRETA: C
+
+PERGUNTA: Um paciente apresenta fácies miastênica, urina escura e CK elevada após picada de serpente. Qual agente é o mais provável?
+A) Jararaca
+B) Surucucu
+C) Cascavel
+D) Coral
+CORRETA: C
+
+PERGUNTA: Em relação ao soro antiveneno (SAV), assinale a alternativa correta:
+A) Pode ser administrado somente após 24h da picada
+B) É feito a partir do sangue de humanos imunes
+C) A dose depende da gravidade do quadro
+D) Deve ser aplicado diretamente no local da picada
+CORRETA: C
+
+PERGUNTA: Qual das opções abaixo NÃO deve ser feita em caso de picada por serpente?
+A) Imobilizar o membro
+B) Romper bolhas para aliviar pressão
+C) Lavar o local com água e sabão
+D) Retirar anéis e acessórios do membro afetado
+CORRETA: B
+
+PERGUNTA: A surucucu é a serpente mais letal do Brasil. Sobre ela, marque a correta:
+A) Tem hábitos aquáticos e vive em rios
+B) É pequena e vive em locais urbanos
+C) Seu veneno tem ação neuro e proteolítica
+D) Produz apenas manifestações locais leves
+CORRETA: C
+
+PERGUNTA: A picada de escorpião é mais grave em qual faixa etária?
+A) Idosos
+B) Crianças menores de 10 anos
+C) Adultos jovens
+D) Mulheres grávidas
+CORRETA: B
+
+PERGUNTA: Sobre o escorpião amarelo (Tityus serrulatus), assinale a correta:
+A) Só ocorre na Amazônia
+B) É inofensivo em adultos
+C) Reproduz-se por partenogênese
+D) Não possui veneno potente
+CORRETA: C
+
+PERGUNTA: O acidente moderado por escorpião inclui:
+A) Dor leve e parestesia
+B) Edema pulmonar e hipotensão
+C) Náuseas, sudorese e taquicardia leve
+D) Anemia aguda e icterícia
+CORRETA: C
+
+PERGUNTA: Qual é a principal conduta inicial em casos de picada de aranha-marrom?
+A) Torniquete
+B) Observação de 15 minutos e alta
+C) Avaliação clínica e possível soroterapia
+D) Aplicar gelo local e antibiótico
+CORRETA: C
+
+PERGUNTA: A viúva-negra causa qual manifestação sistêmica característica?
+A) Hipoglicemia severa
+B) Rabdomiólise
+C) Dor abdominal com irradiação e rigidez muscular
+D) Priapismo tardio e edema de glote
+CORRETA: C
+
+PERGUNTA: A administração de SALatr (soro antiviúva-negra) está indicada:
+A) Em todos os casos com dor local
+B) Apenas se houver sinais de infecção
+C) Em quadros moderados a graves
+D) Em crianças com menos de 10 anos, sempre
+CORRETA: C
+
+PERGUNTA: A aranha-armadeira causa manifestações principalmente de qual sistema?
+A) Digestivo
+B) Neurológico simpático/parassimpático
+C) Hematológico
+D) Hepático
+CORRETA: B
+
+PERGUNTA: Sobre a aranha-marrom, marque a verdadeira:
+A) Sempre causa necrose extensa e rápida
+B) É comum em locais úmidos e bem iluminados
+C) Pode causar hemólise intravascular nos casos graves
+D) Sua picada é extremamente dolorosa desde o início
+CORRETA: C
+
+PERGUNTA: Qual conduta é incorreta em um acidente por serpente venenosa?
+A) Manter o membro picado elevado e imobilizado
+B) Avaliar sinais sistêmicos
+C) Aplicar torniquete apertado acima da lesão
+D) Encaminhar o paciente para hospital com SAV
+CORRETA: C
+
+PERGUNTA: Qual manifestação está associada ao acidente crotálico grave?
+A) Oftalmoplegia e insuficiência renal aguda
+B) Rash cutâneo e febre
+C) Hemorragia intensa local
+D) Edema pulmonar e convulsão
+CORRETA: A
+
+PERGUNTA: Qual das aranhas abaixo possui veneno com ação hemolítica e proteolítica?
+A) Viúva-negra
+B) Armadeira
+C) Marrom
+D) Tarântula
+CORRETA: C
+
+PERGUNTA: Um paciente apresenta priapismo, sudorese e hipertensão após picada. Qual aranha é suspeita?
+A) Loxosceles
+B) Latrodectus (viúva-negra)
+C) Phoneutria (armadeira)
+D) Lycosa
+CORRETA: C
+
+PERGUNTA: A função da neostigmina em acidentes elapídicos é:
+A) Aumentar a diurese
+B) Neutralizar o veneno
+C) Estimular a transmissão neuromuscular
+D) Reduzir inflamação local
+CORRETA: C
+
+PERGUNTA: Um trabalhador rural foi picado por jararaca e apresenta gengivorragia e dor intensa. Conduta correta:
+A) Observar por 12h e dar alta
+B) Administrar SAV 2-4 ampolas
+C) Esperar sinais neurológicos
+D) Apenas lavar o local
+CORRETA: B
 

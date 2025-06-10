@@ -410,6 +410,656 @@
         "Prednisona."
       ],
       "correta": 1
+    },
+    {
+      "pergunta": "Definição clínica de sepse: Sepse é:",
+      "alternativas": [
+        "Uma infecção bacteriana localizada.",
+        "Uma síndrome autoimune aguda.",
+        "Uma disfunção orgânica causada por resposta desregulada a uma infecção.",
+        "Um tipo de alergia sistêmica grave."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual evento inicia a cascata inflamatória da sepse?",
+      "alternativas": [
+        "Liberação de cortisol pelo estresse.",
+        "Ação da histamina nas vias respiratórias.",
+        "Liberação de endotoxinas/exotoxinas que ativam receptores imunes.",
+        "Produção de anticorpos IgE."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual é o marcador laboratorial usado para guiar a ressuscitação na sepse?",
+      "alternativas": [
+        "PCR",
+        "Hemoglobina",
+        "Lactato",
+        "Bilirrubina"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A presença de hipotensão refratária e hipoperfusão tecidual após 30 ml/kg de cristaloides indica:",
+      "alternativas": [
+        "Choque anafilático",
+        "Choque séptico",
+        "Hipovolemia simples",
+        "Choque neurogênico"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual é a droga vasoativa de primeira escolha no choque séptico?",
+      "alternativas": [
+        "Dopamina",
+        "Adrenalina",
+        "Vasopressina",
+        "Noradrenalina"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Para diagnóstico de sepse, além do foco infeccioso, é necessário:",
+      "alternativas": [
+        "Apenas febre alta",
+        "2 ou mais critérios de SIRS",
+        "Aumento de 2 pontos ou mais no SOFA",
+        "Leucocitose acima de 20.000/mm³"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Quais são os principais sítios infecciosos causadores de sepse?",
+      "alternativas": [
+        "Intestino grosso e cérebro",
+        "Pulmões, trato urinário, abdome, pele e corrente sanguínea",
+        "Ouvido, retina e articulações",
+        "Útero e tireoide"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual valor de diurese indica perfusão renal adequada na sepse?",
+      "alternativas": [
+        "5 ml/kg/h",
+        "2 ml/min",
+        "0,5 ml/kg/h",
+        "100 ml/h fixo"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Quando iniciar antibiótico em paciente com suspeita de sepse e sinais de instabilidade?",
+      "alternativas": [
+        "Após resultado da hemocultura",
+        "Dentro da primeira hora",
+        "Após 6 horas de observação",
+        "Somente com leucocitose"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual meta hemodinâmica deve ser alcançada após ressuscitação volêmica na sepse?",
+      "alternativas": [
+        "FC < 60 bpm",
+        "PAS > 90 mmHg",
+        "Diurese < 0,3 ml/kg/h",
+        "PAM ≥ 65 mmHg"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Diagnóstico de Sepse: Você está avaliando Maurílio, 68 anos, com fratura exposta de tíbia, internado há 40 dias. Evolui nas últimas 24h com confusão mental, hipotensão (PA 80x50 mmHg), FC 120, FR 22, temperatura 34,8°C, Glasgow 13, leucocitose e lactato de 5. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Infecção urinária com resposta inflamatória simples",
+        "Sepse com disfunção orgânica associada",
+        "SIRS sem critério infeccioso",
+        "Pielonefrite com insuficiência renal aguda"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Conduta Inicial: Diante da suspeita de sepse em Maurílio, qual é a conduta inicial mais adequada?",
+      "alternativas": [
+        "Aguardar hemoculturas para só então iniciar antibiótico",
+        "Iniciar corticoterapia imediatamente e avaliar resposta",
+        "Coletar exames laboratoriais, iniciar antibiótico de amplo espectro e 30 mL/kg de cristalóide em até 3h",
+        "Manter observação nas próximas 6 horas para reavaliação clínica"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Disfunções Orgânicas: Com base no SOFA, qual das disfunções orgânicas está presente em Maurílio?",
+      "alternativas": [
+        "Alteração da função hepática (BT 1,2)",
+        "Disfunção respiratória (PaO₂/FiO₂ < 200)",
+        "Disfunção hematológica (plaquetas 101.000)",
+        "Disfunção cardiovascular (PAM < 70 mmHg sem drogas vasoativas)"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Medida Terapêutica Chave: Após ressuscitação volêmica de 30 mL/kg, Maurílio permanece hipotenso e com lactato elevado. Qual a próxima medida?",
+      "alternativas": [
+        "Aguardar normalização espontânea",
+        "Administrar vasopressor, preferencialmente noradrenalina",
+        "Repetir bolus de 30 mL/kg de cristalóide",
+        "Substituir fluido por solução hipertônica de NaCl"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Fisiopatologia da Sepse: Sobre a fisiopatologia da sepse, assinale a alternativa CORRETA:",
+      "alternativas": [
+        "A ativação de citocinas anti-inflamatórias gera vasoconstrição intensa e hipoperfusão",
+        "A sepse cursa com vasoconstrição reflexa dos grandes vasos e hipertensão arterial sustentada",
+        "A sepse envolve liberação de citocinas pró-inflamatórias, levando à vasodilatação, aumento da permeabilidade e disfunção endotelial",
+        "Ocorre supressão completa da resposta imune inata, com falência apenas da medula óssea"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual das alternativas representa corretamente o tipo de choque característico da anafilaxia?",
+      "alternativas": [
+        "Hipovolêmico",
+        "Cardiogênico",
+        "Distributivo",
+        "Obstrutivo"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sobre a fisiopatologia da anafilaxia, assinale a alternativa correta:",
+      "alternativas": [
+        "A IgM é o principal anticorpo envolvido na resposta anafilática",
+        "A primeira exposição ao alérgeno é suficiente para causar anafilaxia",
+        "A liberação de histamina ocorre pela ligação do antígeno à IgE nos mastócitos",
+        "A resposta é exclusivamente mediada por mecanismos não imunológicos"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A triptase, liberada durante a reação anafilática, atua principalmente:",
+      "alternativas": [
+        "Estimulando a diurese",
+        "Promovendo vasoconstrição sistêmica",
+        "Ativando o complemento e promovendo citocinas inflamatórias",
+        "Inibindo a liberação de prostaglandinas"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Quais os critérios diagnósticos para anafilaxia segundo diretrizes clínicas?",
+      "alternativas": [
+        "Rash cutâneo + febre persistente",
+        "Exposição a alérgeno + sintomas respiratórios isolados",
+        "Comprometimento respiratório + cardiovascular + sintomas gastrointestinais",
+        "Exposição provável + dois ou mais sistemas acometidos"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A via preferencial para administração de adrenalina na anafilaxia é:",
+      "alternativas": [
+        "Subcutânea",
+        "Intravenosa direta (em bolus)",
+        "Intramuscular no vasto lateral da coxa",
+        "Intradérmica"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual é a dose de adrenalina intramuscular indicada para adultos no manejo inicial da anafilaxia?",
+      "alternativas": [
+        "0,1 a 0,2 mg",
+        "0,3 a 0,5 mg",
+        "1,0 mg",
+        "0,01 mg/kg"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em um paciente com anafilaxia refratária à adrenalina IM, a próxima conduta é:",
+      "alternativas": [
+        "Observar por mais 30 minutos",
+        "Iniciar bolus EV de adrenalina diluída",
+        "Adicionar anti-histamínico IM imediatamente",
+        "Suspender a adrenalina e iniciar corticosteróide"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual achado é mais específico de anafilaxia com comprometimento cardiovascular?",
+      "alternativas": [
+        "Cianose central",
+        "Prurido cutâneo",
+        "Hipotensão com pulsos amplos",
+        "Taquipneia isolada"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Dentre os mediadores liberados durante a reação anafilática, qual não tem ação vasodilatadora?",
+      "alternativas": [
+        "Histamina (via H1)",
+        "Histamina (via H2)",
+        "Triptase",
+        "Adrenalina endógena"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Um dos seguintes fatores não está associado como desencadeante frequente de anafilaxia. Assinale:",
+      "alternativas": [
+        "Amendoim",
+        "Sulfametoxazol-trimetoprima",
+        "Picada de formiga",
+        "Toxina tetânica"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Um homem de 26 anos, previamente hígido, é picado por uma abelha e, 10 minutos depois, apresenta rash, dispnéia, chiado no peito e PA 78x48 mmHg. Qual conduta imediata é mais indicada?",
+      "alternativas": [
+        "Prednisona VO 40 mg",
+        "Adrenalina IM 0,3-0,5 mg",
+        "Hidrocortisona IV 200 mg",
+        "Salbutamol inalatório"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente idosa, 72 anos, usa betabloqueador para controle de hipertensão e desenvolve anafilaxia após contraste iodado. Após 2 doses de adrenalina IM, permanece hipotensa. Qual a próxima medida correta?",
+      "alternativas": [
+        "Iniciar bolus de adrenalina IV",
+        "Realizar BIC de noradrenalina",
+        "Administrar glucagon 1-5 mg EV",
+        "Adicionar prometazina IM"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Menina de 8 anos com história prévia de alergia a leite ingere por engano sorvete. Em 15 minutos apresenta vômitos, edema facial, tosse seca, dispneia e rash. Qual critério diagnóstico de anafilaxia ela preenche?",
+      "alternativas": [
+        "Exposição ao alérgeno + acometimento de pele + respiratório + gastrointestinal",
+        "Respiratório isolado",
+        "Pele + febre + diarreia",
+        "Presença de apenas sintomas cutâneos"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Homem de 34 anos dá entrada no PS com dor abdominal intensa, urticária e hipotensão após tomar antibiótico beta-lactâmico. Sem história de alergia conhecida. Qual o diagnóstico mais provável?",
+      "alternativas": [
+        "Choque hipovolêmico",
+        "Reação tipo IV tardia",
+        "Choque anafilático",
+        "Sepse abdominal"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Mulher de 40 anos sofre reação anafilática grave. É tratada com adrenalina IM, expansor volêmico e oxigênio. Após estabilização inicial, qual é a recomendação para observação hospitalar?",
+      "alternativas": [
+        "Alta imediata após melhora clínica",
+        "Permanência por 2 horas em sala de emergência",
+        "Observação por no mínimo 12 horas",
+        "Avaliação ambulatorial em 24h"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Em pacientes com intoxicação por opióides, a indicação imediata de via aérea definitiva ocorre quando:",
+      "alternativas": [
+        "Saturação de O₂ < 95% sem sintomas",
+        "Frequência respiratória acima de 24 irpm",
+        "Apneia ou rebaixamento com perda do reflexo de proteção",
+        "Midríase bilateral com instabilidade hemodinâmica"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual alteração respiratória é típica da síndrome colinérgica grave?",
+      "alternativas": [
+        "Bradipneia com apnéias prolongadas",
+        "Taquipnéia com hiperventilação voluntária",
+        "Broncorreia e broncoespasmo com sialorréia",
+        "Respiração de Cheyne-Stokes com agitação psicomotora"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "O tratamento com atropina na intoxicação por organofosforados deve ser orientado principalmente por:",
+      "alternativas": [
+        "Retorno da frequência cardíaca ao normal",
+        "Melhora da miose e salivação",
+        "Ausculta pulmonar livre de secreções",
+        "Pressão arterial média > 65 mmHg"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual síndrome tóxica mais frequentemente cursa com convulsões e rigidez muscular?",
+      "alternativas": [
+        "Colinérgica",
+        "Simpaticomimética",
+        "Sedativa-hipnótica",
+        "Anticolinérgica"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Na síndrome anticolinérgica, a pele do paciente costuma estar:",
+      "alternativas": [
+        "Quente e seca, com rubor facial",
+        "Fria e pegajosa, com sudorese intensa",
+        "Cianótica e pálida, sem sudorese",
+        "Normal, sem alterações cutâneas"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual é a tríade clássica da intoxicação por opioides?",
+      "alternativas": [
+        "Bradicardia, midríase e hipertensão",
+        "Bradipneia, miose e rebaixamento do nível de consciência",
+        "Taquicardia, agitação e hiperventilação",
+        "Bradipneia, hipertermia e midríase"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em pacientes com intoxicação por cocaína, é contraindicado o uso de:",
+      "alternativas": [
+        "Benzodiazepínicos",
+        "Hidralazina",
+        "Betabloqueadores",
+        "Nitroprussiato"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual das seguintes manifestações neurológicas é mais esperada na intoxicação sedativa-hipnótica isolada?",
+      "alternativas": [
+        "Convulsão e tremores",
+        "Rebaixamento de consciência, hiporreflexia e fala arrastada",
+        "Delírio com alucinações visuais",
+        "Ansiedade, hipertonia e paranoia"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre a descontaminação com carvão ativado, assinale a correta:",
+      "alternativas": [
+        "Pode ser usada até 4 horas após a ingestão, mesmo com via aérea não protegida",
+        "É indicada em todas as intoxicações, incluindo metais pesados",
+        "Deve ser evitada se houver risco de broncoaspiração ou obstrução intestinal",
+        "Sempre deve ser usada em conjunto com lavagem gástrica"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sobre o uso do antídoto naloxona, é correto afirmar:",
+      "alternativas": [
+        "Tem duração longa, dispensando novas doses em opioides de longa ação",
+        "É contraindicado na intoxicação isolada por morfina",
+        "É seguro para administração intranasal na ausência de acesso venoso",
+        "Sempre reverte todos os efeitos centrais dos opioides em minutos"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente 1 – Renatão (síndrome colinérgica). Homem encontrado com sialorreia, diarreia, sudorese intensa e pupilas mióticas. Qual conduta inicial é prioritária?",
+      "alternativas": [
+        "Administração de fisostigmina e diazepam",
+        "Lavagem gástrica imediata e carvão ativado",
+        "Atropina em bolus guiada por melhora respiratória",
+        "Antídoto com flumazenil e ventilação não invasiva"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente 2 – Cleitim (síndrome simpaticomimética). Jovem agitado, com midríase, hipertensão severa e convulsão tônica breve após festa. Melhor conduta:",
+      "alternativas": [
+        "Flumazenil EV e metoprolol",
+        "Diazepam EV e evitar betabloqueadores",
+        "Atropina IM e lavagem gástrica",
+        "Naloxona e carvão ativado"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente 3 – Antônio (síndrome sedativa/opiáceo). Idoso sonolento, pupilas mióticas puntiformes, FR = 8, uso crônico de morfina e clonazepam. Melhor conduta inicial:",
+      "alternativas": [
+        "Diazepam IM e oxigênio suplementar",
+        "Intubação orotraqueal e naloxona EV",
+        "Flumazenil e hidratação venosa",
+        "Atropina EV e carvão ativado"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente com pele seca, pupilas midriáticas, confusão mental, alucinações e retenção urinária. Qual droga está mais provavelmente envolvida?",
+      "alternativas": [
+        "Morfina",
+        "Amitriptilina",
+        "Cocaína",
+        "Carbamato"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Homem chega ao pronto-socorro inconsciente. Pupilas normais, FC = 60 bpm, FR = 10 irpm, sem resposta à dor. Chegou 30 min após ingestão desconhecida. Qual medida deve ser evitada de imediato?",
+      "alternativas": [
+        "Intubação orotraqueal se houver risco de broncoaspiração",
+        "Lavagem gástrica sem via aérea protegida",
+        "Monitorização cardiorrespiratória",
+        "Administração empírica de naloxona"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual das serpentes abaixo é responsável pela maioria dos acidentes ofídicos no Brasil?",
+      "alternativas": [
+        "Surucucu",
+        "Jararaca",
+        "Coral",
+        "Cascavel"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual é o principal risco do veneno da serpente coral verdadeira?",
+      "alternativas": [
+        "Hemorragia digestiva",
+        "Necrose local extensa",
+        "Paralisia neuromuscular",
+        "Rabdomiólise"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um paciente apresenta fácies miastênica, urina escura e CK elevada após picada de serpente. Qual agente é o mais provável?",
+      "alternativas": [
+        "Jararaca",
+        "Surucucu",
+        "Cascavel",
+        "Coral"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Em relação ao soro antiveneno (SAV), assinale a alternativa correta:",
+      "alternativas": [
+        "Pode ser administrado somente após 24h da picada",
+        "É feito a partir do sangue de humanos imunes",
+        "A dose depende da gravidade do quadro",
+        "Deve ser aplicado diretamente no local da picada"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual das opções abaixo NÃO deve ser feita em caso de picada por serpente?",
+      "alternativas": [
+        "Imobilizar o membro",
+        "Romper bolhas para aliviar pressão",
+        "Lavar o local com água e sabão",
+        "Retirar anéis e acessórios do membro afetado"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "A surucucu é a serpente mais letal do Brasil. Sobre ela, marque a correta:",
+      "alternativas": [
+        "Tem hábitos aquáticos e vive em rios",
+        "É pequena e vive em locais urbanos",
+        "Seu veneno tem ação neuro e proteolítica",
+        "Produz apenas manifestações locais leves"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A picada de escorpião é mais grave em qual faixa etária?",
+      "alternativas": [
+        "Idosos",
+        "Crianças menores de 10 anos",
+        "Adultos jovens",
+        "Mulheres grávidas"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre o escorpião amarelo (Tityus serrulatus), assinale a correta:",
+      "alternativas": [
+        "Só ocorre na Amazônia",
+        "É inofensivo em adultos",
+        "Reproduz-se por partenogênese",
+        "Não possui veneno potente"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "O acidente moderado por escorpião inclui:",
+      "alternativas": [
+        "Dor leve e parestesia",
+        "Edema pulmonar e hipotensão",
+        "Náuseas, sudorese e taquicardia leve",
+        "Anemia aguda e icterícia"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual é a principal conduta inicial em casos de picada de aranha-marrom?",
+      "alternativas": [
+        "Torniquete",
+        "Observação de 15 minutos e alta",
+        "Avaliação clínica e possível soroterapia",
+        "Aplicar gelo local e antibiótico"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A viúva-negra causa qual manifestação sistêmica característica?",
+      "alternativas": [
+        "Hipoglicemia severa",
+        "Rabdomiólise",
+        "Dor abdominal com irradiação e rigidez muscular",
+        "Priapismo tardio e edema de glote"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A administração de SALatr (soro antiviúva-negra) está indicada:",
+      "alternativas": [
+        "Em todos os casos com dor local",
+        "Apenas se houver sinais de infecção",
+        "Em quadros moderados a graves",
+        "Em crianças com menos de 10 anos, sempre"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A aranha-armadeira causa manifestações principalmente de qual sistema?",
+      "alternativas": [
+        "Digestivo",
+        "Neurológico simpático/parassimpático",
+        "Hematológico",
+        "Hepático"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre a aranha-marrom, marque a verdadeira:",
+      "alternativas": [
+        "Sempre causa necrose extensa e rápida",
+        "É comum em locais úmidos e bem iluminados",
+        "Pode causar hemólise intravascular nos casos graves",
+        "Sua picada é extremamente dolorosa desde o início"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual conduta é incorreta em um acidente por serpente venenosa?",
+      "alternativas": [
+        "Manter o membro picado elevado e imobilizado",
+        "Avaliar sinais sistêmicos",
+        "Aplicar torniquete apertado acima da lesão",
+        "Encaminhar o paciente para hospital com SAV"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual manifestação está associada ao acidente crotálico grave?",
+      "alternativas": [
+        "Oftalmoplegia e insuficiência renal aguda",
+        "Rash cutâneo e febre",
+        "Hemorragia intensa local",
+        "Edema pulmonar e convulsão"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual das aranhas abaixo possui veneno com ação hemolítica e proteolítica?",
+      "alternativas": [
+        "Viúva-negra",
+        "Armadeira",
+        "Marrom",
+        "Tarântula"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um paciente apresenta priapismo, sudorese e hipertensão após picada. Qual aranha é suspeita?",
+      "alternativas": [
+        "Loxosceles",
+        "Latrodectus (viúva-negra)",
+        "Phoneutria (armadeira)",
+        "Lycosa"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A função da neostigmina em acidentes elapídicos é:",
+      "alternativas": [
+        "Aumentar a diurese",
+        "Neutralizar o veneno",
+        "Estimular a transmissão neuromuscular",
+        "Reduzir inflamação local"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um trabalhador rural foi picado por jararaca e apresenta gengivorragia e dor intensa. Conduta correta:",
+      "alternativas": [
+        "Observar por 12h e dar alta",
+        "Administrar SAV 2-4 ampolas",
+        "Esperar sinais neurológicos",
+        "Apenas lavar o local"
+      ],
+      "correta": 1
     }
   ]
 }
