@@ -695,6 +695,30 @@ C) Acúmulo de bilirrubina direta e lesão celular
 D) Deposição de cristais de colesterol nos ductos pancreáticos
 CORRETA: B
 
+PERGUNTA: Mulher, 45 anos, com quadro recente de cirurgia ortopédica e dispneia súbita, apresenta radiografia de tórax sem alterações significativas. Considerando suspeita clínica de tromboembolismo pulmonar (TEP), qual afirmativa é mais correta?
+A) Radiografia normal afasta diagnóstico de TEP.
+B) Radiografia é suficiente para confirmar TEP.
+C) Radiografia pode ser normal; exames como angiotomografia são necessários para diagnóstico.
+D) Radiografia mostra sempre imagens características de TEP.
+CORRETA: C
+
+PERGUNTA: Considerando os exames de confirmação do tromboembolismo pulmonar (TEP), assinale a alternativa INCORRETA:
+A) Um exame de cintilografia pulmonar normal é suficiente para afastar o diagnóstico de TEP em paciente com probabilidade pré-teste baixa.
+B) Um exame de RaioX de tórax em um paciente com alta probabilidade clínica para TEP não é suficiente para confirmar esse diagnóstico.
+C) Um exame de angiotomografia computadorizada (angio-TC) negativo para TEP em pacientes com baixa probabilidade clínica para TEP é suficiente para afastar esse diagnóstico.
+D) Um exame de angio-TC positivo para TEP em um paciente com alta probabilidade clínica não é suficiente para confirmar esse diagnóstico.
+CORRETA: D
+
+PERGUNTA: Uma imagem de um exame de tomografia computadorizada demonstra uma dissecção aórtica aguda com alargamento da aorta ascendente e flaps da íntima na aorta ascendente e descendente sem comprometimento do arco aórtico, podendo a dissecção ser classificada como:
+A) tipo A, de acordo com a classificação Stanford
+B) tipo B, de acordo com a classificação Stanford
+C) tipo II de Bekey, envolvendo somente o arco aórtico
+D) tipo III de Bekey, com comprometimento total
+CORRETA: A
+IMAGEM: /imagens/imagem1.png
+
+
+
 
 
 

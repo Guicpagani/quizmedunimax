@@ -960,6 +960,37 @@
         "deposição de cristais de colesterol nos ductos pancreáticos"
       ],
       "correta": 1
+    },
+    {
+      "pergunta": "Mulher, 45 anos, com quadro recente de cirurgia ortopédica e dispneia súbita, apresenta radiografia de tórax sem alterações significativas. Considerando suspeita clínica de tromboembolismo pulmonar (TEP), qual afirmativa é mais correta?",
+      "alternativas": [
+        "radiografia normal afasta diagnóstico de tep.",
+        "radiografia é suficiente para confirmar tep.",
+        "radiografia pode ser normal; exames como angiotomografia são necessários para diagnóstico.",
+        "radiografia mostra sempre imagens características de tep."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Considerando os exames de confirmação do tromboembolismo pulmonar (TEP), assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "um exame de cintilografia pulmonar normal é suficiente para afastar o diagnóstico de tep em paciente com probabilidade pré-teste baixa.",
+        "um exame de raiox de tórax em um paciente com alta probabilidade clínica para tep não é suficiente para confirmar esse diagnóstico.",
+        "um exame de angiotomografia computadorizada (angio-tc) negativo para tep em pacientes com baixa probabilidade clínica para tep é suficiente para afastar esse diagnóstico.",
+        "um exame de angio-tc positivo para tep em um paciente com alta probabilidade clínica não é suficiente para confirmar esse diagnóstico."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Uma imagem de um exame de tomografia computadorizada demonstra uma dissecção aórtica aguda com alargamento da aorta ascendente e flaps da íntima na aorta ascendente e descendente sem comprometimento do arco aórtico, podendo a dissecção ser classificada como:",
+      "alternativas": [
+        "tipo a, de acordo com a classificação stanford",
+        "tipo b, de acordo com a classificação stanford",
+        "tipo ii de bekey, envolvendo somente o arco aórtico",
+        "tipo iii de bekey, com comprometimento total"
+      ],
+      "correta": 0,
+      "imagem": "/imagens/imagem1.png"
     }
   ]
 }
