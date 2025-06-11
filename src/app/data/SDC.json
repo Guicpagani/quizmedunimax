@@ -9,7 +9,7 @@
         "síndrome hipercolinérgica.",
         "metahemoglobinemia com cianose."
       ],
-      "correta": 2
+      "correta": 3
     },
     {
       "pergunta": "Uma mulher de 23 anos foi encaminhada para UTI após tentativa de suicídio, apresentando agitação, delirium, midríase, hipertérmica, taquicárdica, hipertensa, pele seca, quente e avermelhada, com mucosas secas. A causa mais provável pela sintomatologia de intoxicação exógena é:",
@@ -37,9 +37,9 @@
         "benzodiazepínico e flumazenil.",
         "metanol e fomepizol.",
         "tricíclico e bicarbonato de sódio.",
-        "paracetamol e acetilcisteína."
+        "opioide e naloxona."
       ],
-      "correta": -1
+      "correta": 3
     },
     {
       "pergunta": "Menino de 2 anos deu entrada após ingerir frasco de paracetamol. O pediatra deve estar atento para risco de:",
@@ -92,12 +92,12 @@
       "correta": 2
     },
     {
-      "pergunta": "Nas intoxicações por inibidores da colinesterase, os receptores colinérgicos são classificados como:",
+      "pergunta": "Nas intoxicações com inibidores da colinesterase dependem de diversos receptores colinérgicos, presentes em diferentes órgãos e tecidos, portanto, podemos aceitar que:",
       "alternativas": [
-        "nicotínicos apenas.",
-        "muscarínicos e nicotínicos.",
-        "nicotínicos apenas.",
-        "adrenérgicos e nicotínicos."
+        "esses receptores são classificados em nicotínicos apenas.",
+        "esses receptores são classificados em muscarínicos e nicotínicos.",
+        "esses receptores são classificados em nicotínicos, apenas.",
+        "esses receptores são classificados em adrenérgicos e nicotínicos"
       ],
       "correta": 1
     },
@@ -112,7 +112,7 @@
       "correta": 0
     },
     {
-      "pergunta": "Homem de 27 anos, picado no tornozelo por cobra não encontrada, apresenta ptose palpebral nas últimas 2 horas. A serpente mais provável é:",
+      "pergunta": "Homem de 27 anos, trabalhando na lavoura de café foi picado no tornozelo por cobra não  encontrada. Apresenta ptose palpebral que surgiu nas ultimas 2 horas. Dentre as serpentes  abaixo, qual a mais provável de ser a causadora do acidente:",
       "alternativas": [
         "jararaca.",
         "urutu.",
@@ -122,17 +122,17 @@
       "correta": 2
     },
     {
-      "pergunta": "Menino de 5 anos, procedente da zona rural, chega à emergência com história de picada por animal não identificado, vômitos, sudorese, sonolência. Ao exame: ptose palpebral, boca seca, FR 30 ipm, FC 130 bpm, pulsos cheios, PA 100x60 mmHg, SN hipotonia muscular e midríase. O soro antiveneno indicado é:",
+      "pergunta": "Menino, 5 anos, procedente da zona rural chega na emergência com história de picada por  animal não identi9cado. Logo em seguida apresentou vômitos, sudorese e sonolência. Ao  exame físico: MEG, descorado, acianótico, hidratado. Olhos: ptose palpebral. Boca: seca.  Ausculta cardíaca e pulmonar sem alterações, FR 30 ipm, FC 130 bpm, pulsos cheios.  Tempo de enchimento capilar 2 segundos. PA: 100 x 60 mmHg. Abdome: plano,  normotenso, indolor, fígado e baço não palpáveis. SN hipotonia de musculatura e midríase.  Diante deste quadro clínico qual o soro antiveneno você optaria?",
       "alternativas": [
         "soro antibotrópico.",
         "soro antiloxosceles.",
         "soro anticrotálico.",
         "soro antiescorpiônico."
       ],
-      "correta": 0
+      "correta": 2
     },
     {
-      "pergunta": "Paciente procedente do interior do estado vítima de picada de cobra, apresenta dois orifícios em perna esquerda com formigamento local, sem dor, dificuldade para manter olhos abertos, visão turva, diplopia, mal-estar, irritabilidade, náuseas, cefaleia, mialgia e diurese escura. A qual grupo pertence a serpente responsável pelo acidente?",
+      "pergunta": "Paciente procedente do interior do estado foi vítima de picada de cobra e apresenta o  seguinte quadro clínico: dois orifícios medicina livreproibida venda em perna esquerda, com  formigamento no local, sem dor. Apesar de responder a solicitação tem di9culdade de  manter olhos abertos. Queixa de visão turva e diplopia. Apresenta mal-estar, irritabilidade,  náuseas, cefaleia e mialgia. Relata ainda diurese escura. Com o quadro clínico citado, a  qual grupo pertence a serpente responsável pelo acidente?",
       "alternativas": [
         "bothrops.",
         "crotalus.",
@@ -192,14 +192,14 @@
       "correta": 1
     },
     {
-      "pergunta": "Trabalhador rural de 28 anos, picado por cobra não identificada, apresenta dor local leve, mialgia, dificuldade para articular palavras e visão dupla. Exames mostram coagulação alargada, leucocitose sem desvio e urina escura sem hematúria. Qual o diagnóstico do acidente ofídico?",
+      "pergunta": "Um trabalhador rural de 28 anos dá entrada no PS trazido por amigos, com história de  picada por cobra há três horas, sem visualização de detalhes do animal, que fugiu. O  paciente refere dor local leve. Também queixa-se de mialgia, di9culdade para articular bem  as palavras e visão embaçada e dupla. Exames laboratoriais mostram alterações  relevantes, como tempo de coagulação alargado, leucocitose sem desvio à esquerda e EAS  com urina de aspecto escuro, porém sem hematúria. O quadro clínico-laboratorial descrito  permite o diagnóstico de qual tipo de acidente ofídico?",
       "alternativas": [
         "botrópico.",
         "laquético.",
         "elapídico.",
         "crotálico."
       ],
-      "correta": 1
+      "correta": 3
     },
     {
       "pergunta": "O veneno de aranha que é proteolítico e hemolítico, podendo causar anemia grave, icterícia, hemólise, púrpura e insuficiência renal pertence ao gênero:",
@@ -239,7 +239,7 @@
         "crotálico.",
         "elapídico."
       ],
-      "correta": 2
+      "correta": 0
     },
     {
       "pergunta": "Paciente, 65 anos, sexo masculino, apresenta febre, calafrios e tosse há quatro dias, com temperatura axilar até 40°C, episódio de vômito, diminuição do volume urinário e prostração. Diagnóstico: sepse e disfunção múltipla de órgãos. Qual variável inflamatória está associada ao caso?",
@@ -249,7 +249,7 @@
         "leucocitose (>12.000/mm³).",
         "índice cardíaco acima de 3,5 l/min/m²."
       ],
-      "correta": 1
+      "correta": 2
     },
     {
       "pergunta": "A terapia precoce na sepse grave visa aos seguintes objetivos nas primeiras seis horas, EXCETO:",
@@ -269,7 +269,7 @@
         "mulher, 53 anos, pós-operatório de ressecção de tumor de cólon, taquicárdica, intubada.",
         "senhora, 84 anos, casa de repouso, cultura positiva para proteus spp."
       ],
-      "correta": 2
+      "correta": 0
     },
     {
       "pergunta": "Segundo as novas diretrizes de SEPSE, qual critério deve ser utilizado como triagem para sepse?",
@@ -279,14 +279,14 @@
         "perc score.",
         "news."
       ],
-      "correta": 1
+      "correta": 3
     },
     {
       "pergunta": "Sobre os métodos de triagem de sepse no departamento de emergência, recomendações da Surviving Sepsis Campaign 2021 são:",
       "alternativas": [
         "introdução do quick sofa como principal ferramenta de triagem.",
         "uso da ferramenta sofa como método simultâneo de triagem e diagnóstico.",
-        "substituição gradual da classificação sirs pelo quick sofa.",
+        "ausência de superioridade do quick sofa em relação ao news.",
         "substituição gradual do quick sofa pela news."
       ],
       "correta": 2
@@ -312,7 +312,7 @@
       "correta": 2
     },
     {
-      "pergunta": "Paciente, 56 anos, diabética, febre, disúria, sonolência, oligúria, PA 110x70 mmHg, FC 110 bpm, FR 28 irpm, Glasgow 13. Segundo o Terceiro Consenso Internacional para Sepse e Choque Séptico, o quadro clínico apresentado é:",
+      "pergunta": "Paciente do sexo feminino, 56 anos, com antecedentes de diabetes mellitus tipo II, há dois  dias apresenta febre e disúria. Procura o serviço de emergência devido a sonolência e  oligúria. Ao exame físico, encontra-se com PA = 110 x 70 mmHg; FC = 110 bpm; FR = 28  irpm; Glasgow 13. Considerando-se o Terceiro Consenso Internacional de De:nições para  Sepse e Choque Séptico, o quadro clínico apresentado é de:",
       "alternativas": [
         "sepse grave.",
         "choque séptico.",
@@ -387,9 +387,9 @@
         "salbutamol.",
         "prednisona.",
         "metilprednisolona.",
-        "manitol."
+        "epinefrina"
       ],
-      "correta": -1
+      "correta": 3
     },
     {
       "pergunta": "Angioedema está associado ao inchaço profundo dos tecidos cutâneos ou submucosos devido à permeabilidade capilar aumentada. As regiões mais afetadas, exceto:",

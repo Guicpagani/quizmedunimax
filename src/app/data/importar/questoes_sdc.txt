@@ -3,7 +3,7 @@ A) Lesões cáusticas pela acidez.
 B) Lesões cáusticas pela alcalinidade.
 C) Síndrome hipercolinérgica.
 D) Metahemoglobinemia com cianose.
-CORRETA: C
+CORRETA: D
 
 PERGUNTA: Uma mulher de 23 anos foi encaminhada para UTI após tentativa de suicídio, apresentando agitação, delirium, midríase, hipertérmica, taquicárdica, hipertensa, pele seca, quente e avermelhada, com mucosas secas. A causa mais provável pela sintomatologia de intoxicação exógena é:
 A) Tramadol.
@@ -24,16 +24,14 @@ PERGUNTA: Homem, 60 anos, com câncer de estômago metastático, encontra-se son
 A) Benzodiazepínico e flumazenil.
 B) Metanol e fomepizol.
 C) Tricíclico e bicarbonato de sódio.
-D) Paracetamol e acetilcisteína.
-E) Opioide e naloxona.
-CORRETA: E
+D) Opioide e naloxona.
+CORRETA: D
 
 PERGUNTA: Menino de 2 anos deu entrada após ingerir frasco de paracetamol. O pediatra deve estar atento para risco de:
 A) Sinais de hepatotoxicidade.
 B) Hemólise maciça.
 C) Depressão respiratória.
 D) Coma.
-E) Sintomas de liberação extrapiramidal.
 CORRETA: A
 
 PERGUNTA: Garoto de 5 anos, após voltar da fazenda, apresenta sudorese, lacrimejamento, salivação, náuseas e diarreia. Ao exame: bradicardia, miose, broncoespasmo e convulsão. Diagnóstico provável:
@@ -48,7 +46,6 @@ A) 1. Cocaína; 2. Fluoxetina; 3. Haloperidol; 4. Lítio.
 B) 1. Carbamato; 2. Tricíclico; 3. Lítio; 4. Fluoxetina.
 C) 1. Carbamato; 2. Cocaína; 3. Fluoxetina; 4. Lítio.
 D) 1. Fluoxetina; 2. Lítio; 3. Cocaína; 4. Haloperidol.
-E) 1. Organofosforado; 2. Haloperidol; 3. Lítio; 4. Fluoxetina.
 CORRETA: C
 
 PERGUNTA: Qual o antídoto da intoxicação por beta bloqueador?
@@ -65,11 +62,11 @@ C) Propranolol/glucagon.
 D) Acetaminofeno/D-penicilamina.
 CORRETA: C
 
-PERGUNTA: Nas intoxicações por inibidores da colinesterase, os receptores colinérgicos são classificados como:
-A) Nicotínicos apenas.
-B) Muscarínicos e nicotínicos.
-C) Nicotínicos apenas.
-D) Adrenérgicos e nicotínicos.
+PERGUNTA: Nas intoxicações com inibidores da colinesterase dependem de diversos receptores colinérgicos, presentes em diferentes órgãos e tecidos, portanto, podemos aceitar que: 
+A) Esses receptores são classificados em nicotínicos apenas.  
+B) Esses receptores são classificados em muscarínicos e nicotínicos.  
+C) Esses receptores são classificados em nicotínicos, apenas.  
+D) Esses receptores são classificados em adrenérgicos e nicotínicos 
 CORRETA: B
 
 PERGUNTA: Qual é o acidente ofídico mais prevalente no Brasil?
@@ -79,21 +76,21 @@ C) Laquético.
 D) Elapídico.
 CORRETA: A
 
-PERGUNTA: Homem de 27 anos, picado no tornozelo por cobra não encontrada, apresenta ptose palpebral nas últimas 2 horas. A serpente mais provável é:
+PERGUNTA: Homem de 27 anos, trabalhando na lavoura de café foi picado no tornozelo por cobra não  encontrada. Apresenta ptose palpebral que surgiu nas ultimas 2 horas. Dentre as serpentes  abaixo, qual a mais provável de ser a causadora do acidente:
 A) Jararaca.
 B) Urutu.
 C) Cascavel.
 D) Caninana.
 CORRETA: C
 
-PERGUNTA: Menino de 5 anos, procedente da zona rural, chega à emergência com história de picada por animal não identificado, vômitos, sudorese, sonolência. Ao exame: ptose palpebral, boca seca, FR 30 ipm, FC 130 bpm, pulsos cheios, PA 100x60 mmHg, SN hipotonia muscular e midríase. O soro antiveneno indicado é:
+PERGUNTA: Menino, 5 anos, procedente da zona rural chega na emergência com história de picada por  animal não identi9cado. Logo em seguida apresentou vômitos, sudorese e sonolência. Ao  exame físico: MEG, descorado, acianótico, hidratado. Olhos: ptose palpebral. Boca: seca.  Ausculta cardíaca e pulmonar sem alterações, FR 30 ipm, FC 130 bpm, pulsos cheios.  Tempo de enchimento capilar 2 segundos. PA: 100 x 60 mmHg. Abdome: plano,  normotenso, indolor, fígado e baço não palpáveis. SN hipotonia de musculatura e midríase.  Diante deste quadro clínico qual o soro antiveneno você optaria?
 A) Soro antibotrópico.
 B) Soro antiloxosceles.
 C) Soro anticrotálico.
 D) Soro antiescorpiônico.
-CORRETA: A
+CORRETA: C
 
-PERGUNTA: Paciente procedente do interior do estado vítima de picada de cobra, apresenta dois orifícios em perna esquerda com formigamento local, sem dor, dificuldade para manter olhos abertos, visão turva, diplopia, mal-estar, irritabilidade, náuseas, cefaleia, mialgia e diurese escura. A qual grupo pertence a serpente responsável pelo acidente?
+PERGUNTA: Paciente procedente do interior do estado foi vítima de picada de cobra e apresenta o  seguinte quadro clínico: dois orifícios medicina livreproibida venda em perna esquerda, com  formigamento no local, sem dor. Apesar de responder a solicitação tem di9culdade de  manter olhos abertos. Queixa de visão turva e diplopia. Apresenta mal-estar, irritabilidade,  náuseas, cefaleia e mialgia. Relata ainda diurese escura. Com o quadro clínico citado, a  qual grupo pertence a serpente responsável pelo acidente?
 A) Bothrops.
 B) Crotalus.
 C) Lachesis.
@@ -113,7 +110,6 @@ A) O quadro clínico sistêmico é mais frequente em adultos do que em crianças
 B) CIVD e insuficiência renal aguda são complicações frequentes.
 C) A soroterapia está indicada nos casos de acidente escorpiônico de gravidade moderada e grave.
 D) A espécie Tityus bahiensis (escorpião marrom) é responsável pela maioria dos acidentes escorpiônicos.
-E) O quadro clínico local apresenta dor, com intensidade fraca, sudorese, eritema e piloereção.
 CORRETA: C
 
 PERGUNTA: Os acidentes botrópicos são causados por serpentes do gênero Bothrops, que determinam processo inflamatório no local da picada, com edema tenso, equimose, dor e adenomegalia regional, que progridem ao longo do membro acometido. Qual serpente causa esse tipo de acidente?
@@ -137,12 +133,12 @@ C) Coral.
 D) Jararaca.
 CORRETA: B
 
-PERGUNTA: Trabalhador rural de 28 anos, picado por cobra não identificada, apresenta dor local leve, mialgia, dificuldade para articular palavras e visão dupla. Exames mostram coagulação alargada, leucocitose sem desvio e urina escura sem hematúria. Qual o diagnóstico do acidente ofídico?
+PERGUNTA: Um trabalhador rural de 28 anos dá entrada no PS trazido por amigos, com história de  picada por cobra há três horas, sem visualização de detalhes do animal, que fugiu. O  paciente refere dor local leve. Também queixa-se de mialgia, di9culdade para articular bem  as palavras e visão embaçada e dupla. Exames laboratoriais mostram alterações  relevantes, como tempo de coagulação alargado, leucocitose sem desvio à esquerda e EAS  com urina de aspecto escuro, porém sem hematúria. O quadro clínico-laboratorial descrito  permite o diagnóstico de qual tipo de acidente ofídico?
 A) Botrópico.
 B) Laquético.
 C) Elapídico.
 D) Crotálico.
-CORRETA: B
+CORRETA: D
 
 PERGUNTA: O veneno de aranha que é proteolítico e hemolítico, podendo causar anemia grave, icterícia, hemólise, púrpura e insuficiência renal pertence ao gênero:
 A) Lycosa (aranha tarântula).
@@ -170,15 +166,14 @@ A) Laquético.
 B) Botrópico.
 C) Crotálico.
 D) Elapídico.
-E) O quadro clínico não é compatível com acidente ofídico.
-CORRETA: C
+CORRETA: A
 
 PERGUNTA: Paciente, 65 anos, sexo masculino, apresenta febre, calafrios e tosse há quatro dias, com temperatura axilar até 40°C, episódio de vômito, diminuição do volume urinário e prostração. Diagnóstico: sepse e disfunção múltipla de órgãos. Qual variável inflamatória está associada ao caso?
 A) Redução do enchimento capilar.
 B) Hiperlactatemia.
 C) Leucocitose (>12.000/mm³).
 D) Índice cardíaco acima de 3,5 L/min/m².
-CORRETA: B
+CORRETA: C
 
 PERGUNTA: A terapia precoce na sepse grave visa aos seguintes objetivos nas primeiras seis horas, EXCETO:
 A) Lactato arterial > 4 mmol/L.
@@ -192,22 +187,20 @@ A) Mulher, 27 anos, pós-litotripsia para nefrolitíase, afebril, FC 102 bpm, PA
 B) Homem, 45 anos, pancreatite, temperatura 38°C, FC 110 bpm, PA 110x60 mmHg, leucócitos 14.000/µL.
 C) Mulher, 53 anos, pós-operatório de ressecção de tumor de cólon, taquicárdica, intubada.
 D) Senhora, 84 anos, casa de repouso, cultura positiva para Proteus spp.
-E) Homem, 18 anos, pós-apendicectomia laparoscópica, febril (39ºC), taquicárdico (FC 130 bpm), PA 140x70 mmHg.
-CORRETA: C
+CORRETA: A
 
 PERGUNTA: Segundo as novas diretrizes de SEPSE, qual critério deve ser utilizado como triagem para sepse?
 A) SOFA.
 B) Quick SOFA.
 C) PERC Score.
 D) NEWS.
-CORRETA: B
+CORRETA: D
 
 PERGUNTA: Sobre os métodos de triagem de sepse no departamento de emergência, recomendações da Surviving Sepsis Campaign 2021 são:
 A) Introdução do quick SOFA como principal ferramenta de triagem.
 B) Uso da ferramenta SOFA como método simultâneo de triagem e diagnóstico.
-C) Substituição gradual da classificação SIRS pelo quick SOFA.
+C) Ausência de superioridade do quick SOFA em relação ao NEWS.
 D) Substituição gradual do quick SOFA pela NEWS.
-E) Ausência de superioridade do quick SOFA em relação ao NEWS.
 CORRETA: C
 
 PERGUNTA: Faz parte dos sintomas da Síndrome da Resposta Inflamatória Sistêmica (SIRS):
@@ -224,12 +217,11 @@ C) Esquema antimicrobiano.
 D) Noradrenalina e vasopressina.
 CORRETA: C
 
-PERGUNTA: Paciente, 56 anos, diabética, febre, disúria, sonolência, oligúria, PA 110x70 mmHg, FC 110 bpm, FR 28 irpm, Glasgow 13. Segundo o Terceiro Consenso Internacional para Sepse e Choque Séptico, o quadro clínico apresentado é:
+PERGUNTA: Paciente do sexo feminino, 56 anos, com antecedentes de diabetes mellitus tipo II, há dois  dias apresenta febre e disúria. Procura o serviço de emergência devido a sonolência e  oligúria. Ao exame físico, encontra-se com PA = 110 x 70 mmHg; FC = 110 bpm; FR = 28  irpm; Glasgow 13. Considerando-se o Terceiro Consenso Internacional de De:nições para  Sepse e Choque Séptico, o quadro clínico apresentado é de:  
 A) Sepse grave.
 B) Choque séptico.
 C) Sepse.
 D) Síndrome da Resposta Inflamatória Sistêmica (SIRS).
-E) Sepse com disfunção orgânica.
 CORRETA: C
 
 PERGUNTA: NÃO é avaliado no escore do SOFA:
@@ -244,7 +236,6 @@ A) Uma hora.
 B) Duas horas.
 C) Três horas.
 D) Quatro horas.
-E) Seis horas.
 CORRETA: A
 
 PERGUNTA: Escolar, 5 anos, apresenta edema labial, tosse, rouquidão, dispneia e vômitos após exposição a colmeia. Ausculta pulmonar com raros sibilos, PA normal. Sobre essa condição, é correto afirmar que:
@@ -280,9 +271,8 @@ PERGUNTA: Escolar de 7 anos apresenta dor abdominal forte e vômitos após resta
 A) Salbutamol.
 B) Prednisona.
 C) Metilprednisolona.
-D) Manitol.
-E) Epinefrina.
-CORRETA: E
+D)  Epinefrina
+CORRETA: D
 
 PERGUNTA: Angioedema está associado ao inchaço profundo dos tecidos cutâneos ou submucosos devido à permeabilidade capilar aumentada. As regiões mais afetadas, exceto:
 A) Joelhos.
