@@ -47,6 +47,6 @@ export async function POST(req) {
 
   } catch (error) {
     console.error("Erro na API /api/explicar-quiz:", error);
-    return NextResponse.json({ error: 'Falha ao gerar a explicação.' }, { status: 500 });
+    return NextResponse.json({ error: 'Falha ao gerar a explicação..' }, { status: 500 });
   }
 }
