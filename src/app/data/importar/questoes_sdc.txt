@@ -368,35 +368,36 @@ C) Diurese < 0,3 ml/kg/h
 D) PAM ≥ 65 mmHg
 CORRETA: D
 
-PERGUNTA:  Diagnóstico de Sepse: Você está avaliando Maurílio, 68 anos, com fratura exposta de tíbia, internado há 40 dias. Evolui nas últimas 24h com confusão mental, hipotensão (PA 80x50 mmHg), FC 120, FR 22, temperatura 34,8°C, Glasgow 13, leucocitose e lactato de 5. Qual o diagnóstico mais provável?
+PERGUNTA: Você está avaliando Maurílio, 68 anos, com fratura exposta de tíbia, internado há 40 dias. Evolui nas últimas 24h com confusão mental, hipotensão (PA 80x50 mmHg), FC 120, FR 22, temperatura 34,8°C, Glasgow 13, leucocitose e lactato de 5. Qual o diagnóstico mais provável?
 A) Infecção urinária com resposta inflamatória simples
 B) Sepse com disfunção orgânica associada
 C) SIRS sem critério infeccioso
 D) Pielonefrite com insuficiência renal aguda
 CORRETA: B
 
-PERGUNTA:   Conduta Inicial: Diante da suspeita de sepse em Maurílio, qual é a conduta inicial mais adequada?
+PERGUNTA:   Adailson, 68 anos, com fratura exposta de tíbia, internado há 40 dias. Evolui nas últimas 24h com confusão mental, hipotensão (PA 80x50 mmHg), FC 
+120, FR 22, temperatura 34,8°C, ECG 13, leucocitose e lactato de 5. Diante da suspeita de sepse qual é a conduta inicial mais adequada?
 A) Aguardar hemoculturas para só então iniciar antibiótico
 B) Iniciar corticoterapia imediatamente e avaliar resposta
 C) Coletar exames laboratoriais, iniciar antibiótico de amplo espectro e 30 mL/kg de cristalóide em até 3h
 D) Manter observação nas próximas 6 horas para reavaliação clínica
 CORRETA: C
 
-PERGUNTA:   Disfunções Orgânicas: Com base no SOFA, qual das disfunções orgânicas está presente em Maurílio?
+PERGUNTA:  Com base no SOFA, qual das disfunções orgânicas está presente em Adailson? É Paciente com Sepse com disfunção orgânica associada  que evolui nas últimas 24h com confusão mental, hipotensão (PA 80x50 mmHg), FC 120, FR 22, temperatura 34,8°C, ECG 13, leucocitose e lactato de 5. 
 A) Alteração da função hepática (BT 1,2)
 B) Disfunção respiratória (PaO₂/FiO₂ < 200)
 C) Disfunção hematológica (plaquetas 101.000)
 D) Disfunção cardiovascular (PAM < 70 mmHg sem drogas vasoativas)
 CORRETA: D
 
-PERGUNTA:   Medida Terapêutica Chave: Após ressuscitação volêmica de 30 mL/kg, Maurílio permanece hipotenso e com lactato elevado. Qual a próxima medida?
+PERGUNTA:  Devido a Sepse, após ressuscitação volêmica de 30 mL/kg de cristaloide,  Murilo Marmo permanece hipotenso e com lactato elevado. Qual a próxima medida?
 A) Aguardar normalização espontânea
 B) Administrar vasopressor, preferencialmente noradrenalina
 C) Repetir bolus de 30 mL/kg de cristalóide
 D) Substituir fluido por solução hipertônica de NaCl
 CORRETA: B
 
-PERGUNTA:   Fisiopatologia da Sepse: Sobre a fisiopatologia da sepse, assinale a alternativa CORRETA:
+PERGUNTA: Sobre a fisiopatologia da sepse, assinale a alternativa CORRETA:
 A) A ativação de citocinas anti-inflamatórias gera vasoconstrição intensa e hipoperfusão
 B) A sepse cursa com vasoconstrição reflexa dos grandes vasos e hipertensão arterial sustentada
 C) A sepse envolve liberação de citocinas pró-inflamatórias, levando à vasodilatação, aumento da permeabilidade e disfunção endotelial
