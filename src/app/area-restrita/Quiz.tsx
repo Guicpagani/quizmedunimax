@@ -5,7 +5,6 @@ import { useRouter } from "next/navigation";
 import { getQuizByTitle } from "../utils/getQuizData";
 import { Questao } from "../types/types";
 
-// Função para embaralhar as questões
 function shuffleArray(array: any[]) {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
@@ -28,12 +27,9 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const [showScore, setShowScore] = useState(false);
   const [respostaPainel, setRespostaPainel] = useState("");
   const [canAdvance, setCanAdvance] = useState(false);
-
-  // --- NOVOS ESTADOS PARA O VALÉRIA BOT ---
   const [showExplanationModal, setShowExplanationModal] = useState(false);
   const [explanation, setExplanation] = useState("");
   const [isLoadingExplanation, setIsLoadingExplanation] = useState(false);
-  // -----------------------------------------
 
   useEffect(() => {
     if (originalData && originalData.length > 0) {
@@ -77,7 +73,6 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       setSelectedOption(null);
       setRespostaPainel("");
       setCanAdvance(false);
-      // Limpa a explicação anterior ao avançar
       setExplanation("");
     } else {
       setShowScore(true);
@@ -88,11 +83,10 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
     router.push("/area-restrita");
   };
 
-  // --- NOVA FUNÇÃO PARA CHAMAR O VALÉRIA BOT ---
   const handleExplainQuestion = async () => {
     setIsLoadingExplanation(true);
     setShowExplanationModal(true);
-    setExplanation(""); // Limpa a explicação anterior
+    setExplanation(""); 
 
     try {
       const response = await fetch('/api/explicar-quiz', {
@@ -121,7 +115,6 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       setIsLoadingExplanation(false);
     }
   };
-  // -------------------------------------------
 
   const total = quizData.length;
   const acertos = score;
@@ -167,17 +160,14 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
           {canAdvance && (
             <div className="mt-6 text-center flex justify-center items-center flex-wrap gap-4">
               <button onClick={handleNextQuestion} className="bg-blue-500 hover:bg-blue-600 text-white px-8 py-3 rounded-lg font-semibold shadow-md transition-transform transform hover:scale-105">Próxima pergunta</button>
-              {/* --- BOTÃO VALÉRIA BOT --- */}
               <button onClick={handleExplainQuestion} className="bg-purple-600 hover:bg-purple-700 text-white px-8 py-3 rounded-lg font-semibold shadow-md transition-transform transform hover:scale-105 flex items-center gap-2">
                 <span role="img" aria-label="robô">🤖</span> Valéria Bot Explica
               </button>
-              {/* ------------------------- */}
             </div>
           )}
         </>
       )}
 
-      {/* --- MODAL DA EXPLICAÇÃO --- */}
       {showExplanationModal && (
         <div className="fixed inset-0 bg-black bg-opacity-60 flex items-center justify-center p-4 z-50">
           <div className="bg-white rounded-lg shadow-2xl p-6 w-full max-w-2xl max-h-[90vh] overflow-y-auto">
@@ -194,7 +184,6 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
           </div>
         </div>
       )}
-      {/* ------------------------- */}
     </div>
   );
 }
