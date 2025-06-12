@@ -14,7 +14,7 @@ export default function OnlineUsersCounter() {
 
   return (
     // Um pouco de estilo para deixar o contador bonito no canto da tela
-    <div className="fixed bottom-4 left-4 bg-white bg-opacity-90 backdrop-blur-sm text-sm text-gray-800 px-3 py-2 rounded-full shadow-lg flex items-center gap-2 z-50">
+    <div className="fixed top-12 left4 bg-white bg-opacity-90 backdrop-blur-sm text-sm text-gray-800 px-3 py-2 rounded-full shadow-lg flex items-center gap-2 z-50">
       {/* Bolinha verde que pulsa */}
       <span className="relative flex h-3 w-3">
         <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-green-400 opacity-75"></span>
