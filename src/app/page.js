@@ -16,11 +16,9 @@ export default function Home() {
   const [mensagemIndex, setMensagemIndex] = useState(0);
 
   const mensagens = [
-    "📢 Todos os dias novas questões atualizadas",
-    "🧠 Novas questões de ênfase CC ⬆️",
-    "🧪 Novas questões laboratórios ⬆️",
+    "🤖 Agora você pode ter ajuda da Valéria Bot para entender as questões e alternativas",
     "🚧 Estamos trabalhando no upload de SFC",
-    "🔁 O teste exibe 40 questões aleatórias, possíveis novas questões poderão surgir a cada acesso novo",
+    "🔁 O teste exibe questões aleatórias a cada acesso novo",
     "📩 Você pode ajudar o administrador reportando questões incorretas"
   ];
 
@@ -53,7 +51,7 @@ export default function Home() {
       {/* Faixa superior de anúncio */}
       <div className="w-full bg-gray-100 text-gray-800 font-medium text-sm py-1 px-4 overflow-hidden fixed top-0 z-50 border-b">
         <div className="animate-marquee whitespace-nowrap">
-          🚀 We went live – 9 de junho de 2025 &nbsp;&nbsp;&nbsp; 🚀 We went live – 9 de junho de 2025 &nbsp;&nbsp;&nbsp; 🚀 We went live – 9 de junho de 2025
+          🚀 We went live – 9 de junho de 2025 &nbsp;&nbsp;&nbsp; 🤖 Conheça a Valéria Bot ao acessar as questões. &nbsp;&nbsp;&nbsp; 🤖 Conheça a Valéria Bot ao acessar as questões.
         </div>
       </div>
 
