@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { onAuthStateChanged } from "firebase/auth";
 import { auth } from "../firebase";
+import OnlineUsersCounter from "./components/OnlineUsersCounter"; // <-- 1. IMPORTADO AQUI
 
 // Fonte personalizada
 import { Great_Vibes } from 'next/font/google';
@@ -109,6 +110,9 @@ export default function Home() {
             Admin
           </Link>
         </div>
+        
+        <OnlineUsersCounter /> {/* <-- 2. ADICIONADO AQUI */}
+        
       </main>
 
       {/* Estilos */}
