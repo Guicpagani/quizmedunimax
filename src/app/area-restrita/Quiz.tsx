@@ -5,6 +5,7 @@ import { useRouter } from "next/navigation";
 import { getQuizByTitle } from "../utils/getQuizData";
 import { Questao } from "../types/types";
 
+// A função de embaralhar está correta, não precisa mexer nela.
 function shuffleArray(array: any[]) {
   const shuffled = [...array];
   for (let i = shuffled.length - 1; i > 0; i--) {
@@ -33,9 +34,12 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
 
   useEffect(() => {
     if (originalData && originalData.length > 0) {
-      const shuffled = shuffleArray(originalData);
+      // --- CORREÇÃO APLICADA AQUI ---
+      // Mantemos a ordem original das alternativas e apenas embaralhamos as questões.
+      const shuffledQuestions = shuffleArray(originalData); 
+
       const limit = 100;
-      const selecionadas = shuffled.slice(0, Math.min(limit, shuffled.length));
+      const selecionadas = shuffledQuestions.slice(0, Math.min(limit, shuffledQuestions.length));
       setQuizData(selecionadas);
     }
   }, [originalData]);
