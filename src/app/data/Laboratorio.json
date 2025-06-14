@@ -762,14 +762,14 @@
       "correta": 3
     },
     {
-      "pergunta": "Sobre a irrigação e a drenagem venosa da bexiga urinária, assinale a alternativa correta:",
+      "pergunta": "Sobre a irrigação e a drenagem venosa da bexiga urinária, assinale a alternativa INCORRETA:",
       "alternativas": [
         "a irrigação da bexiga urinária é promovida por ramos da artéria ilíaca externa",
         "parte da irrigação da bexiga urinária é promovida pelas artérias vesicais superiores, ramos da divisão anterior da artéria ilíaca interna.",
         "nas mulheres há participação das artérias vaginais na irrigação da bexiga.",
-        "as veias vesicais superiores são tributárias das veias umbilicais."
+        "alternativas b e c se complementam"
       ],
-      "correta": 2
+      "correta": 0
     },
     {
       "pergunta": "Náuseas e vômitos são sintomas frequentes em pacientes sob cuidados paliativos. É importante que se compreenda os aspectos da fisiologia da náusea para se poder identificar o melhor tratamento, com base no entendimento acerca das áreas do sistema nervoso central e do trato gastrintestinal que ativam o centro do vômito. Acerca da fisiopatologia e do tratamento das náuseas e dos vômitos, assinale a alternativa INCORRETA:",
@@ -991,6 +991,136 @@
       ],
       "correta": 0,
       "imagem": "/imagens/imagem1.png"
+    },
+    {
+      "pergunta": "A drenagem venosa do pâncreas ocorre principalmente para:",
+      "alternativas": [
+        "veia cava inferior",
+        "veia porta hepática, por meio das veias esplênica e mesentérica superior",
+        "veia jugular interna",
+        "veia subclávia esquerda"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente de 24 anos, previamente hígido, procura atendimento ambulatorial com queixa de dor em flanco esquerdo, intermitente, tipo peso, associada a hematúria microscópica persistente e varicocele à esquerda não redutível. Ao exame físico, não há sinais sistêmicos, mas confirma-se a presença de varicocele grau III. A ultrassonografia mostra veia renal esquerda dilatada antes de se estreitar ao passar entre a artéria mesentérica superior e a aorta abdominal. Com base no quadro clínico e achado de imagem, o diagnóstico mais provável é:",
+      "alternativas": [
+        "compressão da veia renal esquerda entre a aorta e artéria mesentérica superior (síndrome do quebra-nozes)",
+        "urolitíase com obstrução parcial de ureter esquerdo",
+        "glomerulonefrite aguda com síndrome nefrítica clássica",
+        "trombose aguda de veia cava inferior com congestão renal secundária"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "O ducto pancreático principal (ducto de Wirsung):",
+      "alternativas": [
+        "se inicia na cabeça do pâncreas e termina no cólon transverso",
+        "une-se ao ducto colédoco para formar a ampola hepatopancreática (de vater)",
+        "se comunica sempre com o ducto pancreático acessório",
+        "desemboca na papila menor do duodeno, independentemente do colédoco"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em uma aula prática, o professor solicita que os alunos identifiquem os órgãos com os quais o rim esquerdo se relaciona anteriormente. Assinale a alternativa que apresenta corretamente as estruturas localizadas anteriormente ao rim esquerdo:",
+      "alternativas": [
+        "fígado, duodeno e cólon ascendente",
+        "estômago, baço e cólon descendente",
+        "ceco, apêndice e bexiga urinária",
+        "fígado, pâncreas e cólon sigmoide"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação à drenagem venosa do corpo do pâncreas, é correto afirmar que:",
+      "alternativas": [
+        "é feita predominantemente pelas veias mesentéricas inferior e gástrica esquerda",
+        "as veias do corpo pancreático drenam para a veia porta diretamente",
+        "o sangue do corpo do pâncreas drena principalmente para a veia esplênica",
+        "o corpo pancreático não apresenta drenagem venosa significativa, apenas linfática"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Durante uma cirurgia abdominal, observa-se que a artéria renal direita é mais longa que a esquerda e passa posteriormente a uma importante estrutura venosa. Tal conhecimento anatômico é essencial para evitar lesões vasculares. Com base nessa informação, assinale a alternativa correta:",
+      "alternativas": [
+        "a artéria renal direita passa anteriormente à veia cava inferior e divide-se em três ramos terminais.",
+        "a artéria renal direita passa posteriormente à veia cava inferior e divide-se em cinco artérias segmentares terminais.",
+        "a artéria renal direita é mais curta e se dirige diretamente ao hilo renal, sem cruzar estruturas importantes.",
+        "a artéria renal direita origina-se da artéria hepática comum e cruza anteriormente o corpo do pâncreas."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Durante a avaliação de imagem de um paciente com cólica ureteral, observa-se impacto de cálculo em uma das áreas anatômicas de constrição fisiológica do ureter. Qual local descrito abaixo é reconhecido como ponto clássico de estreitamento, favorecendo a impactação de cálculos?",
+      "alternativas": [
+        "ao nível da transição duodenojejunal",
+        "na junção ureteropélvica",
+        "na emergência veia ilíaca interna",
+        "na entrada da cápsula renal"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Durante o exame físico de um paciente com pancreatite aguda grave, observou-se uma equimose ao redor do umbigo, de coloração violácea. Esse achado deve ser interpretado como:",
+      "alternativas": [
+        "extravasamento biliar com pigmentação subcutânea",
+        "reação alérgica cutânea com púrpura localizada",
+        "manifestação típica de insuficiência hepática terminal",
+        "indício de hemorragia retroperitoneal por necrose pancreática grave"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Em um paciente com pancreatite aguda grave, observa-se coloração azulada nos flancos do abdome. A origem desse achado está relacionada a:",
+      "alternativas": [
+        "acúmulo de bilirrubina sob a pele por colestase",
+        "inflamação das glândulas suprarrenais com extravasamento linfático",
+        "sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores",
+        "vasoconstrição periférica por choque distributivo"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "João S., 48 anos, apresenta dor lombar intensa à direita com irradiação para a região inguinal, acompanhada de febre, náuseas e vômitos. Ao exame, apresenta sinal de Giordano positivo à direita. A dor é interpretada como resultado da distensão da cápsula renal por inflamação ou obstrução. Com base na anatomia do rim, qual estrutura anatômica está diretamente relacionada com essa sensibilidade dolorosa?",
+      "alternativas": [
+        "cápsula renal, composta por tecido conjuntivo denso não modelado",
+        "fáscia renal, que forma a pelve renal",
+        "cápsula adiposa, responsável pela produção de urina",
+        "hilo renal, região de filtração sanguínea"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Durante um procedimento urológico, é importante preservar os vasos que irrigam os ureteres. A irrigação arterial dessa estrutura é segmentar e recebe contribuições de diversas artérias adjacentes ao longo do trajeto ureteral. Assinale a alternativa correta quanto à irrigação da parte abdominal dos ureteres:",
+      "alternativas": [
+        "recebe irrigação principal das artérias renais, com ramos adicionais das artérias gonadais, aorta abdominal e ilíacas comuns.",
+        "é feita exclusivamente por ramos das artérias ilíacas internas.",
+        "possui suprimento único da artéria mesentérica superior, por meio de ramos ascendentes.",
+        "é vascularizado apenas pelas artérias testiculares ou ováricas, sem anastomoses com outras fontes."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Sobre a organização histológica do pâncreas, é correto afirmar:",
+      "alternativas": [
+        "as ilhotas de langerhans formam a porção exócrina do pâncreas, responsável pela secreção de enzimas digestivas",
+        "os ácinos pancreáticos estão organizados em lóbulos, responsáveis pela secreção de hormônios no sangue",
+        "as células beta dos ácinos pancreáticos são responsáveis pela produção de insulina",
+        "os ácinos pancreáticos compõem a porção exócrina, enquanto as ilhotas de langerhans representam a porção endócrina da glândula"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Sobre a localização do pâncreas na cavidade abdominal, é correto afirmar que:",
+      "alternativas": [
+        "está localizado retroperitonealmente, transversalmente aos corpos das vértebras l1 e l2",
+        "está situado anteriormente ao estômago e inferior ao fígado",
+        "encontra-se no mediastino posterior, entre o esôfago e a aorta",
+        "situa-se entre o cólon ascendente e o rim direito"
+      ],
+      "correta": 0
     }
   ]
 }

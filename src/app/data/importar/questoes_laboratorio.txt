@@ -533,13 +533,12 @@ C) Na porção pélvica, são acompanhados pela artéria ilíaca interna durante
 D) No homem, são cruzados pelos ductos deferentes posteroinferiores antes de alcançarem a bexiga.
 CORRETA: D
 
-PERGUNTA: Sobre a irrigação e a drenagem venosa da bexiga urinária, assinale a alternativa correta:
+PERGUNTA: Sobre a irrigação e a drenagem venosa da bexiga urinária, assinale a alternativa INCORRETA:
 A) A irrigação da bexiga urinária é promovida por ramos da artéria ilíaca externa
-Remover Questão
 B) Parte da irrigação da bexiga urinária é promovida pelas artérias vesicais superiores, ramos da divisão anterior da artéria ilíaca interna.
 C) Nas mulheres há participação das artérias vaginais na irrigação da bexiga.
-D) As veias vesicais superiores são tributárias das veias umbilicais.
-CORRETA: C
+D) Alternativas B e C se complementam
+CORRETA: A
 
 PERGUNTA: Náuseas e vômitos são sintomas frequentes em pacientes sob cuidados paliativos. É importante que se compreenda os aspectos da fisiologia da náusea para se poder identificar o melhor tratamento, com base no entendimento acerca das áreas do sistema nervoso central e do trato gastrintestinal que ativam o centro do vômito. Acerca da fisiopatologia e do tratamento das náuseas e dos vômitos, assinale a alternativa INCORRETA:
 A) Os vômitos podem estar associados a alterações do sistema vestibular. Nesses casos, os principais mediadores são a histamina e a acetilcolina por meio dos receptores nicotínicos.
@@ -716,6 +715,97 @@ C) tipo II de Bekey, envolvendo somente o arco aórtico
 D) tipo III de Bekey, com comprometimento total
 CORRETA: A
 IMAGEM: /imagens/imagem1.png
+
+PERGUNTA: A drenagem venosa do pâncreas ocorre principalmente para:
+A) Veia cava inferior
+B) Veia porta hepática, por meio das veias esplênica e mesentérica superior
+C) Veia jugular interna
+D) Veia subclávia esquerda
+CORRETA: B
+
+PERGUNTA: Um paciente de 24 anos, previamente hígido, procura atendimento ambulatorial com queixa de dor em flanco esquerdo, intermitente, tipo peso, associada a hematúria microscópica persistente e varicocele à esquerda não redutível. Ao exame físico, não há sinais sistêmicos, mas confirma-se a presença de varicocele grau III. A ultrassonografia mostra veia renal esquerda dilatada antes de se estreitar ao passar entre a artéria mesentérica superior e a aorta abdominal. Com base no quadro clínico e achado de imagem, o diagnóstico mais provável é:
+A) Compressão da veia renal esquerda entre a aorta e artéria mesentérica superior (Síndrome do Quebra-nozes)
+B) Urolitíase com obstrução parcial de ureter esquerdo
+C) Glomerulonefrite aguda com síndrome nefrítica clássica
+D) Trombose aguda de veia cava inferior com congestão renal secundária
+CORRETA: A
+
+PERGUNTA: O ducto pancreático principal (ducto de Wirsung):
+A) Se inicia na cabeça do pâncreas e termina no cólon transverso
+B) Une-se ao ducto colédoco para formar a ampola hepatopancreática (de Vater)
+C) Se comunica sempre com o ducto pancreático acessório
+D) Desemboca na papila menor do duodeno, independentemente do colédoco
+CORRETA: B
+
+PERGUNTA: Em uma aula prática, o professor solicita que os alunos identifiquem os órgãos com os quais o rim esquerdo se relaciona anteriormente. Assinale a alternativa que apresenta corretamente as estruturas localizadas anteriormente ao rim esquerdo:
+A) Fígado, duodeno e cólon ascendente
+B) Estômago, baço e cólon descendente
+C) Ceco, apêndice e bexiga urinária
+D) Fígado, pâncreas e cólon sigmoide
+CORRETA: B
+
+PERGUNTA: Em relação à drenagem venosa do corpo do pâncreas, é correto afirmar que:
+A) É feita predominantemente pelas veias mesentéricas inferior e gástrica esquerda
+B) As veias do corpo pancreático drenam para a veia porta diretamente
+C) O sangue do corpo do pâncreas drena principalmente para a veia esplênica
+D) O corpo pancreático não apresenta drenagem venosa significativa, apenas linfática
+CORRETA: C
+
+PERGUNTA: Durante uma cirurgia abdominal, observa-se que a artéria renal direita é mais longa que a esquerda e passa posteriormente a uma importante estrutura venosa. Tal conhecimento anatômico é essencial para evitar lesões vasculares. Com base nessa informação, assinale a alternativa correta:
+A) A artéria renal direita passa anteriormente à veia cava inferior e divide-se em três ramos terminais.
+B) A artéria renal direita passa posteriormente à veia cava inferior e divide-se em cinco artérias segmentares terminais.
+C) A artéria renal direita é mais curta e se dirige diretamente ao hilo renal, sem cruzar estruturas importantes.
+D) A artéria renal direita origina-se da artéria hepática comum e cruza anteriormente o corpo do pâncreas.
+CORRETA: B
+
+PERGUNTA: Durante a avaliação de imagem de um paciente com cólica ureteral, observa-se impacto de cálculo em uma das áreas anatômicas de constrição fisiológica do ureter. Qual local descrito abaixo é reconhecido como ponto clássico de estreitamento, favorecendo a impactação de cálculos?
+A) Ao nível da transição duodenojejunal
+B) Na junção ureteropélvica
+C) Na emergência veia ilíaca interna
+D) Na entrada da cápsula renal
+CORRETA: B
+
+PERGUNTA: Durante o exame físico de um paciente com pancreatite aguda grave, observou-se uma equimose ao redor do umbigo, de coloração violácea. Esse achado deve ser interpretado como:
+A) Extravasamento biliar com pigmentação subcutânea
+B) Reação alérgica cutânea com púrpura localizada
+C) Manifestação típica de insuficiência hepática terminal
+D) Indício de hemorragia retroperitoneal por necrose pancreática grave
+CORRETA: D
+
+PERGUNTA: Em um paciente com pancreatite aguda grave, observa-se coloração azulada nos flancos do abdome. A origem desse achado está relacionada a:
+A) Acúmulo de bilirrubina sob a pele por colestase
+B) Inflamação das glândulas suprarrenais com extravasamento linfático
+C) Sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores
+D) Vasoconstrição periférica por choque distributivo
+CORRETA: C
+
+PERGUNTA: João S., 48 anos, apresenta dor lombar intensa à direita com irradiação para a região inguinal, acompanhada de febre, náuseas e vômitos. Ao exame, apresenta sinal de Giordano positivo à direita. A dor é interpretada como resultado da distensão da cápsula renal por inflamação ou obstrução. Com base na anatomia do rim, qual estrutura anatômica está diretamente relacionada com essa sensibilidade dolorosa?
+A) Cápsula renal, composta por tecido conjuntivo denso não modelado
+B) Fáscia renal, que forma a pelve renal
+C) Cápsula adiposa, responsável pela produção de urina
+D) Hilo renal, região de filtração sanguínea
+CORRETA: A
+
+PERGUNTA: Durante um procedimento urológico, é importante preservar os vasos que irrigam os ureteres. A irrigação arterial dessa estrutura é segmentar e recebe contribuições de diversas artérias adjacentes ao longo do trajeto ureteral. Assinale a alternativa correta quanto à irrigação da parte abdominal dos ureteres:
+A) Recebe irrigação principal das artérias renais, com ramos adicionais das artérias gonadais, aorta abdominal e ilíacas comuns.
+B) É feita exclusivamente por ramos das artérias ilíacas internas.
+C) Possui suprimento único da artéria mesentérica superior, por meio de ramos ascendentes.
+D) É vascularizado apenas pelas artérias testiculares ou ováricas, sem anastomoses com outras fontes.
+CORRETA: A
+
+PERGUNTA: Sobre a organização histológica do pâncreas, é correto afirmar:
+A) As ilhotas de Langerhans formam a porção exócrina do pâncreas, responsável pela secreção de enzimas digestivas
+B) Os ácinos pancreáticos estão organizados em lóbulos, responsáveis pela secreção de hormônios no sangue
+C) As células beta dos ácinos pancreáticos são responsáveis pela produção de insulina
+D) Os ácinos pancreáticos compõem a porção exócrina, enquanto as ilhotas de Langerhans representam a porção endócrina da glândula
+CORRETA: D
+
+PERGUNTA: Sobre a localização do pâncreas na cavidade abdominal, é correto afirmar que:
+A) Está localizado retroperitonealmente, transversalmente aos corpos das vértebras L1 e L2
+B) Está situado anteriormente ao estômago e inferior ao fígado
+C) Encontra-se no mediastino posterior, entre o esôfago e a aorta
+D) Situa-se entre o cólon ascendente e o rim direito
+CORRETA: A
 
 
 
