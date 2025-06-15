@@ -1121,6 +1121,97 @@
         "situa-se entre o cólon ascendente e o rim direito"
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Qual das seguintes afirmações descreve corretamente as unidades funcionais microscópicas do fígado e algumas de suas células especializadas?",
+      "alternativas": [
+        "Os néfrons são as unidades funcionais do fígado, compostos por células de Langerhans e células beta.",
+        "Os lóbulos são as unidades funcionais do fígado, onde os hepatócitos se organizam em placas, e as células de Kupffer fagocitam bactérias nos sinusoides.",
+        "Os alvéolos são as unidades funcionais do fígado, responsáveis pela troca gasosa e contenção de macrófagos alveolares.",
+        "As vilosidades são as unidades funcionais, com células absortivas e células caliciformes responsáveis pela digestão de gorduras."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Quais são as alterações histopatológicas típicas da hepatite crônica, conforme descrito nas fontes?",
+      "alternativas": [
+        "Necrose centrolobular extensa e ausência de infiltrado inflamatório³⁴.",
+        "Infiltrado inflamatório denso no espaço portal e periportal, formação de fibrose periportal que pode progredir para fibrose em ponte, e hepatite de interface.",
+        "Esteatose microvesicular difusa e Corpúsculos de Lewy.",
+        "Destruição inflamatória não supurativa de grandes ductos biliares e infiltrado de neutrófilos nos ductos⁷."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação aos achados histopatológicos, qual é uma característica que pode auxiliar na distinção entre hepatite B crônica e hepatite C?",
+      "alternativas": [
+        "A presença de Corpos de Councilman e Hepatócitos em \"Vidro Fosco\" (devido ao acúmulo de antígeno de superfície do HBV) é mais comumente associada à hepatite B crônica.",
+        "A hepatite C é caracterizada predominantemente por necrose centrolobular e infiltrado de células plasmáticas.",
+        "A esteatose hepática é um achado exclusivo da hepatite B, enquanto a hepatite C causa apenas fibrose.",
+        "Ambas as hepatites B e C se distinguem pela presença de Corpúsculos de Mallory."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual conjunto de achados histopatológicos é mais distintivo da hepatite autoimune?",
+      "alternativas": [
+        "Necrose centrolobular com infiltrado inflamatório mínimo e hemorragia.",
+        "Degeneração gordurosa e infiltrado inflamatório polimorfonuclear com Corpúsculos de Mallory.",
+        "Hepatite de interface, formação de rosetas devido à regeneração hepatocelular, e presença de infiltrado de células plasmáticas nas áreas portais.",
+        "Fibrose concêntrica periductal (\"casca de cebola\") e dilatação de grandes ductos biliares."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A lesão hepática causada por overdose de paracetamol é caracterizada histologicamente por qual achado principal?",
+      "alternativas": [
+        "Destruição inflamatória dos ductos biliares de pequeno porte.",
+        "Acúmulo de gordura difuso e inflamação lobular com predominância de neutrófilos.",
+        "Necrose dos hepatócitos predominantemente na zona 3 (centrolobular), com infiltrado inflamatório geralmente mínimo ou ausente.",
+        "Hepatócitos em \"Vidro Fosco\" e infiltrado linfocitário periportal com células plasmáticas."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Além da degeneração gordurosa (esteatose), quais são os achados histopatológicos que caracterizam a hepatite alcoólica, distinguindo-a de outras formas de hepatite?",
+      "alternativas": [
+        "A presença de Corpos de Councilman e Hepatócitos em \"Vidro Fosco.",
+        "Infiltrado inflamatório polimorfonuclear (com predominância de neutrófilos), Corpúsculos de Mallory e fibrose perivenular.",
+        "Hepatite de interface com rosetas de hepatócitos e infiltrado de células plasmáticas.",
+        "Necrose centrolobular com hemorragia e infiltrado inflamatório ausente."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Na avaliação laboratorial de uma doença hepática, quais marcadores sustentam o diagnóstico de colestase hepática?",
+      "alternativas": [
+        "Aumento significativo de AST e ALT, com bilirrubina indireta elevada.",
+        "Diminuição da Fosfatase Alcalina (FAL) e Gama-Glutamil Transferase (GGT).",
+        "Elevação da Fosfatase Alcalina (FAL) e Gama-Glutamil Transferase (GGT), juntamente com aumento da bilirrubina sérica total e conjugada e bilirrubina urinária.",
+        "Aumento da albumina sérica e diminuição do tempo de protrombina."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Como a Colangite Biliar Primária (CBP) e a Colangite Esclerosante Primária (CEP) são diferenciadas principalmente em termos de localização da lesão e achados histopatológicos distintivos?",
+      "alternativas": [
+        "A CBP afeta grandes ductos extra-hepáticos e exibe fibrose em ponte, enquanto a CEP afeta pequenos ductos intra-hepáticos e apresenta Corpúsculos de Mallory.",
+        "A CBP é caracterizada pela destruição inflamatória não supurativa dos ductos biliares de pequeno e médio porte com lesão ductal florida, enquanto a CEP envolve inflamação e fibrose obliterativa dos ductos extra-hepáticos e dos grandes ductos intra-hepáticos com fibrose concêntrica periductal (\"casca de cebola\").",
+        "Ambas afetam exclusivamente os ductos biliares intra-hepáticos, mas a CBP é associada à doença inflamatória intestinal e a CEP a autoanticorpos antimitocondriais.",
+        "A CBP é uma doença aguda com necrose centrolobular, e a CEP é crônica com esteatose severa."
+      ],
+      "correta": 1,
+      "imagem": "/imagens/pato1.png"
+    },
+    {
+      "pergunta": "A colecistite aguda, na maioria dos casos, é uma complicação da colelitíase. Qual é o mecanismo fisiopatológico inicial que leva à inflamação da vesícula biliar nessa condição?",
+      "alternativas": [
+        "Infecção bacteriana primária da vesícula biliar sem a presença de cálculos.",
+        "Impactação de um cálculo no ducto cístico, resultando em estase biliar, distensão da vesícula e isquemia da parede vesicular.",
+        "Ataque autoimune direto contra o epitélio da vesícula biliar.",
+        "Acúmulo excessivo de bile na vesícula devido à hipersecreção hepática, sem obstrução."
+      ],
+      "correta": 1
     }
   ]
 }
