@@ -142,7 +142,7 @@
       "correta": 2
     },
     {
-      "pergunta": "Durante uma esplenectomia por trauma, a equipe cirúrgica nota uma estrutura retroperitoneal",
+      "pergunta": "Durante uma esplenectomia por trauma, a equipe cirúrgica nota uma estrutura retroperitoneal profundamente posicionada no quadrante superior esquerdo, entre T11 e L2, em íntimo contato com o baço, estômago, pâncreas e flexura cólica esquerda. O cirurgião residente identifica corretamente essa estrutura como o rim esquerdo. Com base na anatomia topográfica, é correto afirmar sobre o rim esquerdo:",
       "alternativas": [
         "está localizado em posição mais inferior que o rim direito",
         "situa-se retroperitonealmente e relaciona-se com o baço, pâncreas, estômago e flexura esplênica",
@@ -702,7 +702,7 @@
       "correta": 0
     },
     {
-      "pergunta": "Paciente: João S., 48 anos, sexo masculino. História clínica: João procura o pronto-socorro com dor lombar intensa à direita há cerca de",
+      "pergunta": "Paciente: João S., 48 anos, sexo masculino. História clínica: João procura o pronto-socorro com dor lombar intensa à direita há cerca de com irradiação para a região inguinal. Refere náuseas, vômitos, calafrios e febre não mensurada em casa. Diz que a dor começou súbita, tipo cólica, e não melhora com analgésicos comuns. Antecedentes: hipertenso, controlado com losartana. Sem cirurgias prévias. Antecedentes: hipertenso, controlado com losartana. Sem cirurgias prévias. História prévia de cólica renal há 3 anos, tratada apenas com hidratação. Exame físico: Temperatura: 38,9, FC: 112 bpm PA: 95/60 mmHg FR: 22 irpm Sinal de Giordano positivo à direita. Abdome doloroso à palpação profunda em flanco direito, sem sinais de peritonismo.",
       "alternativas": [
         "cistite aguda",
         "pielonefrite aguda simples",
@@ -832,9 +832,9 @@
       "correta": 2
     },
     {
-      "pergunta": "Adileu, 25 anos, portadora de lúpus eritematoso sistêmico (LES) em uso de prednisona 20 mg/dia, procura atendimento por febre alta (39,2 °C), dor abdominal inespecífica e mal-estar há 48 horas. Ao exame: taquicardia, abdome doloroso à palpação difusa, sem sinais peritoníticos. Hemograma revela leucocitose com desvio à esquerda; PCR: 180 mg/L; VHS: 80 mm/h. A dosagem de procalcitonina (PCT) resultou em 0,08 ng/mL. Não há focos infecciosos evidentes no exame clínico. Considerando os achados laboratoriais e a história da paciente, assinale a alternativa que melhor interpreta o papel da PCT nesse cenário:",
+      "pergunta": "Intencionalidade: diferenciar Doença Inflamatória vs Autoimune. Adileu, 25 anos, portadora de lúpus eritematoso sistêmico (LES) em uso de prednisona 20 mg/dia, procura atendimento por febre alta (39,2 °C), dor abdominal inespecífica e mal-estar há 48 horas. Ao exame: taquicardia, abdome doloroso à palpação difusa, sem sinais peritoníticos. Hemograma revela leucocitose com desvio à esquerda; PCR: 180 mg/L; VHS: 80 mm/h. A dosagem de procalcitonina (PCT) resultou em 0,08 ng/mL VR:Inferior a 0,500 ng/mL. Não há focos infecciosos evidentes no exame clínico. Considerando os achados laboratoriais e a história da paciente, assinale a alternativa que melhor interpreta o papel da PCT nesse cenário:",
       "alternativas": [
-        "apesar de sua alta sensibilidade para infecções bacterianas graves, a pct pode ser suprimida pelo uso crônico de corticoides, sendo pouco confiável nesse contexto clínico.",
+        "apesar de sua baixa sensibilidade para infecções bacterianas graves, a pct pode ser suprimida pelo uso crônico de corticoides, sendo pouco confiável nesse contexto clínico.",
         "a pct está discretamente elevada, o que sugere infecção bacteriana incipiente; antibióticoterapia empírica deve ser iniciada imediatamente.",
         "a baixa pct sugere que o quadro febril se relaciona mais provavelmente à atividade inflamatória autoimune do les do que a uma infecção bacteriana aguda.",
         "a normalidade da pct exclui infecção bacteriana mesmo em pacientes imunossuprimidos com doenças autoimunes, sendo suficiente para suspender investigações complementares."
@@ -1075,9 +1075,9 @@
     {
       "pergunta": "Em um paciente com pancreatite aguda grave, observa-se coloração azulada nos flancos do abdome. A origem desse achado está relacionada a:",
       "alternativas": [
-        "acúmulo de bilirrubina sob a pele por colestase",
+        "Sinal de Cullen",
         "inflamação das glândulas suprarrenais com extravasamento linfático",
-        "sangue retroperitoneal se espalhando lateralmente por planos musculares posteriores",
+        "SINAL DE GREY TURNER",
         "vasoconstrição periférica por choque distributivo"
       ],
       "correta": 2
