@@ -322,7 +322,7 @@
       "correta": 0
     },
     {
-      "pergunta": "O Foscarnet é uma opção para infecções por CMV resistentes ao Ganciclovir. Qual é o seu mecanismo de ação?",
+      "pergunta": "O Foscarnet é uma opção para infecções por CitoMegaloVirus resistentes ao Ganciclovir. Qual é o seu mecanismo de ação?",
       "alternativas": [
         "inibe diretamente a dna-polimerase viral.",
         "bloqueia a síntese de beta-glucano na parede celular.",
@@ -414,9 +414,9 @@
     {
       "pergunta": "Paciente masculino, 35 anos, previamente saudável, relata fadiga, febre baixa, náuseas e mialgia há cerca de 7 dias. Evoluiu com dor no hipocôndrio direito, urina escura e icterícia há 3 dias. Nega uso de álcool ou drogas. Refere relação sexual desprotegida recente com parceiro de status sorológico desconhecido. AST: 1.100 U/L, ALT: 1.450 U/L, HBsAg: positivo, Anti-HBc IgM: positivo, Anti-HBs: negativo, Anti-HAV IgM: negativo, Anti-HCV: positivo. 1 - Qual o diagnóstico provável? 2 - Quais são os achados histopatológicos característicos desta condição?",
       "alternativas": [
-        "hepatite b crônica e contato prévio com hepatite a",
-        "hepatite b crônica e necessidade de mais exames para confirmar hepatite c",
-        "hepatite b aguda e contato prévio com hepatite c",
+        "hepatite b crônica e contato prévio com hepatite a e Infiltrado inflamatório mononuclear no espaço porta com Degeneração balonizante",
+        "hepatite b crônica e necessidade de mais exames para confirmar hepatite c e Infiltrado inflamatório mononuclear no espaço porta com Degeneração balonizante",
+        "hepatite b aguda e contato prévio com hepatite c e Infiltrado inflamatório mononuclear no espaço porta com Degeneração balonizante",
         "hepatite b e hepatite c confirmados devido a positividade no resultado laboratorial"
       ],
       "correta": 2
