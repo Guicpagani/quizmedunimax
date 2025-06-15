@@ -48,25 +48,55 @@ export default function AreaRestrita() {
         <h1 className="text-3xl font-semibold mb-8 text-[#202943]">Olá {nomeUsuario}!</h1>
       </div>
 
-      {/* ===== SEÇÃO DE ÁUDIOS COM NOMES CORRIGIDOS ===== */}
+      {/* ===== SEÇÃO DE ÁUDIOS ATUALIZADA ===== */}
       <div className="audio-section-container max-w-4xl mx-auto mb-8">
         <h3 className="text-lg font-bold mb-4 text-[#343a40]">Resumos em Áudio:</h3>
         <div className="audio-players-wrapper">
-          {/* Player 1: Fígado */}
+          {/* Player: Patologia do Fígado */}
           <div className="audio-player-container">
             <p className="audio-title">Resumo Patologia do Fígado</p>
-            {/* ATENÇÃO: Caminho do áudio corrigido para o novo nome */}
             <audio controls src="/audio/resumopato-figado.mp3" className="w-full"></audio>
           </div>
-          {/* Player 2: Pâncreas */}
+
+          {/* Player: Patologia do Pâncreas */}
           <div className="audio-player-container">
             <p className="audio-title">Resumo Patologia do Pâncreas</p>
-            {/* ATENÇÃO: Caminho do áudio corrigido para o novo nome */}
             <audio controls src="/audio/resumopato-pancreas.mp3" className="w-full"></audio>
           </div>
+
+          {/* Player: Morfologia do Pâncreas */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo Morfologia do Pâncreas</p>
+            <audio controls src="/audio/resumomorfo-pancreas.mp3" className="w-full"></audio>
+          </div>
+
+          {/* Player: Morfologia Renal */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo Morfologia Renal</p>
+            <audio controls src="/audio/resumomorfo-renal.mp3" className="w-full"></audio>
+          </div>
+
+          {/* Player: Imagem Diagnóstica */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo de Imagem</p>
+            <audio controls src="/audio/resumo-imagem.mp3" className="w-full"></audio>
+          </div>
+
+          {/* Player: Farmacologia TGI */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo Farmacologia TGI</p>
+            <audio controls src="/audio/resumofarmaco-tgi.mp3" className="w-full"></audio>
+          </div>
+
+          {/* Player: Farmacologia Geral */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo Farmacologia Geral</p>
+            <audio controls src="/audio/resumo-farmaco.mp3" className="w-full"></audio>
+          </div>
+          
         </div>
       </div>
-      {/* ============================================= */}
+      {/* ======================================= */}
 
       {/* Card principal */}
       <div className="bg-white shadow rounded-2xl p-6 max-w-4xl mx-auto">
