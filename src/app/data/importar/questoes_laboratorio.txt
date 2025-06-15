@@ -807,6 +807,70 @@ C) Encontra-se no mediastino posterior, entre o esôfago e a aorta
 D) Situa-se entre o cólon ascendente e o rim direito
 CORRETA: A
 
+PERGUNTA: Qual das seguintes afirmações descreve corretamente as unidades funcionais microscópicas do fígado e algumas de suas células especializadas?
+A) Os néfrons são as unidades funcionais do fígado, compostos por células de Langerhans e células beta.
+B) Os lóbulos são as unidades funcionais do fígado, onde os hepatócitos se organizam em placas, e as células de Kupffer fagocitam bactérias nos sinusoides.
+C) Os alvéolos são as unidades funcionais do fígado, responsáveis pela troca gasosa e contenção de macrófagos alveolares.
+D) As vilosidades são as unidades funcionais, com células absortivas e células caliciformes responsáveis pela digestão de gorduras.
+CORRETA: B
+
+2. Quais são as alterações histopatológicas típicas da hepatite crônica, conforme descrito nas fontes?
+A) Necrose centrolobular extensa e ausência de infiltrado inflamatório³⁴.
+B) Infiltrado inflamatório denso no espaço portal e periportal, formação de fibrose periportal que pode progredir para fibrose em ponte, e hepatite de interface.
+C) Esteatose microvesicular difusa e Corpúsculos de Lewy.
+D) Destruição inflamatória não supurativa de grandes ductos biliares e infiltrado de neutrófilos nos ductos⁷.
+CORRETA: B
+
+3. Em relação aos achados histopatológicos, qual é uma característica que pode auxiliar na distinção entre hepatite B crônica e hepatite C?
+A) A presença de Corpos de Councilman e Hepatócitos em "Vidro Fosco" (devido ao acúmulo de antígeno de superfície do HBV) é mais comumente associada à hepatite B crônica.
+B) A hepatite C é caracterizada predominantemente por necrose centrolobular e infiltrado de células plasmáticas.
+C) A esteatose hepática é um achado exclusivo da hepatite B, enquanto a hepatite C causa apenas fibrose.
+D) Ambas as hepatites B e C se distinguem pela presença de Corpúsculos de Mallory.
+CORRETA: A
+
+4. Qual conjunto de achados histopatológicos é mais distintivo da hepatite autoimune?
+A) Necrose centrolobular com infiltrado inflamatório mínimo e hemorragia.
+B) Degeneração gordurosa e infiltrado inflamatório polimorfonuclear com Corpúsculos de Mallory.
+C) Hepatite de interface, formação de rosetas devido à regeneração hepatocelular, e presença de infiltrado de células plasmáticas nas áreas portais.
+D) Fibrose concêntrica periductal ("casca de cebola") e dilatação de grandes ductos biliares.
+CORRETA: C
+
+5. A lesão hepática causada por overdose de paracetamol é caracterizada histologicamente por qual achado principal?
+A) Destruição inflamatória dos ductos biliares de pequeno porte.
+B) Acúmulo de gordura difuso e inflamação lobular com predominância de neutrófilos.
+C) Necrose dos hepatócitos predominantemente na zona 3 (centrolobular), com infiltrado inflamatório geralmente mínimo ou ausente.
+D) Hepatócitos em "Vidro Fosco" e infiltrado linfocitário periportal com células plasmáticas.
+CORRETA: C
+
+6. Além da degeneração gordurosa (esteatose), quais são os achados histopatológicos que caracterizam a hepatite alcoólica, distinguindo-a de outras formas de hepatite?
+A) A presença de Corpos de Councilman e Hepatócitos em "Vidro Fosco.
+B) Infiltrado inflamatório polimorfonuclear (com predominância de neutrófilos), Corpúsculos de Mallory e fibrose perivenular.
+C) Hepatite de interface com rosetas de hepatócitos e infiltrado de células plasmáticas.
+D) Necrose centrolobular com hemorragia e infiltrado inflamatório ausente.
+CORRETA: B
+
+7. Na avaliação laboratorial de uma doença hepática, quais marcadores sustentam o diagnóstico de colestase hepática?
+A) Aumento significativo de AST e ALT, com bilirrubina indireta elevada.
+B) Diminuição da Fosfatase Alcalina (FAL) e Gama-Glutamil Transferase (GGT).
+C) Elevação da Fosfatase Alcalina (FAL) e Gama-Glutamil Transferase (GGT), juntamente com aumento da bilirrubina sérica total e conjugada e bilirrubina urinária.
+D) Aumento da albumina sérica e diminuição do tempo de protrombina.
+CORRETA: C
+
+8. Como a Colangite Biliar Primária (CBP) e a Colangite Esclerosante Primária (CEP) são diferenciadas principalmente em termos de localização da lesão e achados histopatológicos distintivos?
+A) A CBP afeta grandes ductos extra-hepáticos e exibe fibrose em ponte, enquanto a CEP afeta pequenos ductos intra-hepáticos e apresenta Corpúsculos de Mallory.
+B) A CBP é caracterizada pela destruição inflamatória não supurativa dos ductos biliares de pequeno e médio porte com lesão ductal florida, enquanto a CEP envolve inflamação e fibrose obliterativa dos ductos extra-hepáticos e dos grandes ductos intra-hepáticos com fibrose concêntrica periductal ("casca de cebola").
+C) Ambas afetam exclusivamente os ductos biliares intra-hepáticos, mas a CBP é associada à doença inflamatória intestinal e a CEP a autoanticorpos antimitocondriais.
+D) A CBP é uma doença aguda com necrose centrolobular, e a CEP é crônica com esteatose severa.
+CORRETA: B
+IMAGEM: /imagens/pato1.png
+
+9. A colecistite aguda, na maioria dos casos, é uma complicação da colelitíase. Qual é o mecanismo fisiopatológico inicial que leva à inflamação da vesícula biliar nessa condição?
+A) Infecção bacteriana primária da vesícula biliar sem a presença de cálculos.
+B) Impactação de um cálculo no ducto cístico, resultando em estase biliar, distensão da vesícula e isquemia da parede vesicular.
+C) Ataque autoimune direto contra o epitélio da vesícula biliar.
+D) Acúmulo excessivo de bile na vesícula devido à hipersecreção hepática, sem obstrução.
+CORRETA: B
+
 
 
 

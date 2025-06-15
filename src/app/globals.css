@@ -24,3 +24,33 @@ body {
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+/* Estilos para a Seção de Áudios */
+.audio-section-container {
+    padding: 20px;
+    background-color: #e9ecef; /* Um fundo sutil para a seção toda */
+    border-radius: 1rem;
+    margin-bottom: 2rem;
+}
+
+.audio-players-wrapper {
+    display: flex;
+    flex-direction: column; /* Um player embaixo do outro */
+    gap: 15px; /* Espaço entre os players */
+}
+
+/* Estilo para cada card de player individual */
+.audio-player-container {
+    padding: 15px;
+    background-color: #ffffff;
+    border-radius: 0.75rem;
+    box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
+    border: 1px solid #dee2e6;
+}
+
+.audio-title {
+    margin: 0 0 10px 0;
+    font-weight: bold;
+    font-size: 0.9em;
+    color: #495057;
+}

@@ -42,9 +42,31 @@ export default function AreaRestrita() {
   const nomeUsuario = getFirstNameFromEmail(user.email);
 
   return (
-    <div className="min-h-screen bg-[#f5f7fa] py-8 px-2">
+    <div className="min-h-screen bg-[#f5f7fa] py-8 px-4 sm:px-8">
       {/* Saudação */}
-      <h1 className="text-3xl font-semibold mb-8 text-[#202943]">Olá {nomeUsuario}!</h1>
+      <div className="max-w-4xl mx-auto">
+        <h1 className="text-3xl font-semibold mb-8 text-[#202943]">Olá {nomeUsuario}!</h1>
+      </div>
+
+      {/* ===== SEÇÃO DE ÁUDIOS COM NOMES CORRIGIDOS ===== */}
+      <div className="audio-section-container max-w-4xl mx-auto mb-8">
+        <h3 className="text-lg font-bold mb-4 text-[#343a40]">Resumos em Áudio:</h3>
+        <div className="audio-players-wrapper">
+          {/* Player 1: Fígado */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo Patologia do Fígado</p>
+            {/* ATENÇÃO: Caminho do áudio corrigido para o novo nome */}
+            <audio controls src="/audio/resumopato-figado.mp3" className="w-full"></audio>
+          </div>
+          {/* Player 2: Pâncreas */}
+          <div className="audio-player-container">
+            <p className="audio-title">Resumo Patologia do Pâncreas</p>
+            {/* ATENÇÃO: Caminho do áudio corrigido para o novo nome */}
+            <audio controls src="/audio/resumopato-pancreas.mp3" className="w-full"></audio>
+          </div>
+        </div>
+      </div>
+      {/* ============================================= */}
 
       {/* Card principal */}
       <div className="bg-white shadow rounded-2xl p-6 max-w-4xl mx-auto">
@@ -68,16 +90,17 @@ export default function AreaRestrita() {
       </div>
 
       {/* Botão de sair */}
-      <button
-        className="mt-10 px-5 py-2 bg-red-500 text-white rounded-lg font-semibold shadow hover:bg-red-700 transition-colors"
-        onClick={async () => {
-          await signOut(auth);
-          router.push('/login');
-        }}
-      >
-        Sair
-      </button>
+      <div className="max-w-4xl mx-auto mt-10">
+        <button
+          className="px-5 py-2 bg-red-500 text-white rounded-lg font-semibold shadow hover:bg-red-700 transition-colors"
+          onClick={async () => {
+            await signOut(auth);
+            router.push('/login');
+          }}
+        >
+          Sair
+        </button>
+      </div>
     </div>
   );
 }
-

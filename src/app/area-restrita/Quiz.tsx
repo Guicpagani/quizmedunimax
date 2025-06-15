@@ -38,7 +38,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       // Mantemos a ordem original das alternativas e apenas embaralhamos as questões.
       const shuffledQuestions = shuffleArray(originalData); 
 
-      const limit = 100;
+      const limit = 150;
       const selecionadas = shuffledQuestions.slice(0, Math.min(limit, shuffledQuestions.length));
       setQuizData(selecionadas);
     }
