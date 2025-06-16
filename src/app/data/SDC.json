@@ -1061,5 +1061,425 @@
       ],
       "correta": 1
     }
+    {
+      "pergunta": "A sepse é causada pela resposta inflamatória sistêmica descontrolada do indivíduo na presença de infecção. Qual é o marcador inflamatório preditivo de gravidade e mau prognóstico quando elevado?",
+      "alternativas": [
+        "IL-4.",
+        "TGF-beta.",
+        "TNF-alfa.",
+        "Interferon-gama."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Considerando o papel da IL-10 na fisiopatologia da sepse, qual das seguintes afirmações melhor descreve a sua função e a provável consequência de sua elevação neste paciente?",
+      "alternativas": [
+        "A IL-10 é uma citocina pró-inflamatória, e sua elevação é a principal causa da tempestade de citocinas que piora o dano tecidual na sepse.",
+        "A principal função da IL-10 é ativar os neutrófilos e macrófagos para combater a infecção bacteriana inicial; sua elevação indica uma resposta imune robusta e protetora.",
+        "A elevação da IL-10 é um sinal de que o tratamento com antibióticos falhou, pois esta citocina só é produzida quando a infecção bacteriana está fora de controle.",
+        "A IL-10 atua como uma citocina anti-inflamatória para regular a resposta imune , mas sua superprodução pode ter causado um estado de imunossupressão, tornando o paciente mais suscetível a infecções secundárias."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Um paciente é admitido na emergência com diagnóstico de sepse. Ao exame, ele apresenta taquicardia e hipotensão, dois achados clínicos clássicos. Com base na fisiopatologia do choque séptico, qual das alternativas descreve corretamente a sequência de eventos que leva a este quadro clínico?",
+      "alternativas": [
+        "O choque séptico inicia-se com uma falência do coração, que reduz o débito cardíaco, causando hipotensão e, como compensação, uma intensa vasoconstrição periférica.",
+        "A liberação de citocinas causa intensa vasodilatação, que leva a uma queda acentuada da resistência vascular periférica (RVP). A redução da RVP resulta em hipotensão, e o corpo tenta compensar esta queda aumentando a frequência cardíaca (taquicardia).",
+        "A taquicardia é o evento inicial que, por sobrecarregar o coração, leva à hipotensão e ao extravasamento plasmático, reduzindo a resistência vascular periférica.",
+        "As citocinas inflamatórias provocam uma forte vasoconstrição, aumentando a resistência vascular periférica. A hipotensão ocorre devido ao extravasamento de plasma que diminui o volume sanguíneo total."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "“O choque é uma condição de insuficiência circulatória aguda que leva à hipoperfusão tecidual e falência orgânica” (Surviving Sepsis Campaign Guidelines, 2024). Sobre os tipos de choque e suas características, analise o caso clínico e assinale a alternativa correta: Paciente masculino, 63 anos, é admitido no pronto-socorro com confusão mental, hipotensão (PA 85/50 mmHg), taquicardia (120 bpm) e extremidades frias. Relata febre há dois dias e início de diarreia intensa. A gasometria arterial revela acidose metabólica com lactato elevado.",
+      "alternativas": [
+        "O quadro clínico é sugestivo de choque distributivo, com provável origem séptica, sendo essencial iniciar reposição volêmica e antibioticoterapia precoce.",
+        "O choque hipovolêmico pode ser descartado neste caso, pois a presença de febre e diarreia é inconsistente com perda de volume.",
+        "O choque apresentado é cardiogênico, indicado pela combinação de taquicardia, hipotensão e acidose metabólica, sendo prioritário iniciar suporte inotrópico.",
+        "A acidose metabólica com lactato elevado é característica de choque obstrutivo, exigindo investigação imediata de embolia pulmonar ou tamponamento"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em relação à sepse e ao tratamento do choque séptico, é correto afirmar:",
+      "alternativas": [
+        "A saturação venosa central >/= 70%, a redução do lactato >/= 10% em 6 horas e uma diurese > 0,5ml/kg/h, estão entre as metas para a otimização volêmica na sepse.",
+        "O uso de amidos sintéticos é preferível na abordagem do choque séptico refratário ao uso do ringer lactato, por este estar mais associado a acidose hiperclorêmica.",
+        "A dobutamina deve preceder o uso da noradrelina quando a saturação venosa central estiver < 70%, independente da pressão arterial média, com o objetivo de garantir melhor fluxo renal.",
+        "Os pacientes em sepse devem ter a glicemia mantida em valores entre 80 a 120 mg/dl, após a estabilização inicial, visando diminuição de mortalidade e melhor controle metabólico."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "As disfunções orgânicas presentes no quadro de sepse incluem:",
+      "alternativas": [
+        "hipotensão, rebaixamento do nível da consciência, dispneia, oligúria, plaquetose e diminuição das bilirrubinas.",
+        "hipertensão, rebaixamento do nível da consciência, dispneia, poliúria, plaquetopenia e aumento das bilirrubinas.",
+        "hipotensão, agitação, dispneia, oligúria, plaquetose e aumento das bilirrubinas.",
+        "hipotensão, rebaixamento do nível da consciência, dispneia, oligúria, plaquetopenia e aumento das bilirrubinas."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A sepse é uma condição clínica resultante de uma desregulada resposta inflamatória a uma infecção, levando a disfunções orgânicas. É uma situação grave, responsável por altas taxas de mortalidade nas Unidades de Terapia Intensiva. Referente à sepse, assinale a alternativa correta.",
+      "alternativas": [
+        "A sepse determina uma resposta bradicárdica reflexa e redução sustentada do volume sistólico, resultando em hipoperfusão sem alterações compensatórias iniciais.",
+        "Inicialmente, observa-se elevação do débito cardíaco secundária à vasodilatação sistêmica e taquicardia compensatória, podendo evoluir posteriormente para disfunção miocárdica e redução do débito.",
+        "O quadro séptico grave mantém o débito cardíaco preservado, independentemente da presença de hipotensão ou choque distributivo.",
+        "As alterações hemodinâmicas na sepse comprometem exclusivamente os valores da pressão diastólica, com preservação do componente sistólico."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente com sepse por bactéria Gram-negativa desenvolve Coagulação Intravascular Disseminada (CIVD). Com base na fisiopatologia descrita, qual alternativa detalha mais precisamente o desequilíbrio hemostático que ocorre devido à ação das citocinas?",
+      "alternativas": [
+        "A IL-6 inibe a fibrinólise, enquanto o TNFá estimula diretamente a formação de trombos na microcirculação, levando ao consumo de plaquetas e fibrinogênio.",
+        "O principal evento é a ativação descontrolada da fibrinólise pelo TNFá, que degrada o fibrinogênio e causa sangramento, enquanto a IL-6 tem um papel secundário na formação de esquizócitos.",
+        "Ocorre uma disfunção coordenada onde a IL-6 promove um estado pró-trombótico com consumo de plaquetas e fatores de coagulação, enquanto o TNFá agrava o quadro ao reduzir a fibrinólise, impedindo a degradação adequada dos microtrombos.",
+        "A CIVD é primariamente um distúrbio plaquetário, onde a IL-6 e o TNFá causam uma destruição direta das plaquetas, o que leva à liberação de fatores pró-trombóticos e ao consequente prolongamento do TP/TTPA."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sepse é definida pela presença de disfunção orgânica ameaçadora a vida, decorrente da resposta desregulada do organismo frente a um processo infeccioso. Em relação aos critérios atuais para o diagnóstico de sepse, marque a assertiva correta:",
+      "alternativas": [
+        "Um dos critérios diagnósticos de sepse é a identificação da disfunção orgânica por meio do quick-SOFA, utilizado por sua praticidade e sensibilidade e especificidade elevadas.",
+        "A presença de disfunção em um único órgão ou sistema, mesmo que na suspeita de infecção, não fecha critério para o diagnóstico de sepse.",
+        "O escore SOFA não deve ser utilizado em pacientes com disfunção orgânica prévia, devendo-se utilizar os critérios de síndrome de resposta inflamatória sistêmica.",
+        "O critério operacional para definição de disfunção orgânica é a variação de dois pontos no escore SOFA, que leva em conta a disfunção respiratória, hematológica, hepática, cardiovascular, neurológica e renal."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Na pandemia da COVID, pela baixa oferta de leitos de internação em função da alta demanda, recomendou-se o uso do escore quickSOFA (qSOFA), de fácil realização, que pode ser executado à beira leito, auxiliando na identificação da gravidade, bem como no auxílio de alocação dos pacientes em unidades de internação. Os seguintes itens compõem o qSOFA exceto:",
+      "alternativas": [
+        "frequência cardíaca 100 bpm.",
+        "alteração do nível de consciência.",
+        "frequência respiratória 22 irpm.",
+        "pressão arterial sistólica 100 mmHg."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A infecção suspeita ou confirmada associada à disfunção orgânica, de forma independente da presença de sinais de síndrome de resposta inflamatória sistêmica (SIRS), é caracterizada como:",
+      "alternativas": [
+        "sepse",
+        "infecção sem disfunção",
+        "choque séptico",
+        "sepse grave"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A sepse é uma síndrome caracterizada por uma resposta inflamatória desregulada a uma infecção, com alta taxa de mortalidade nas unidades de terapia intensiva. Em relação à sepse, analise as afirmativas a seguir. I. A causa mais comum de sepse é pneumonia. II. O paciente com sepse pode se apresentar na emergência com sinais e sintomas relacionados à infecção, à resposta inflamatória ou à disfunção ou falência orgânica. III. É recomendado que a antibioticoterapia seja iniciada precocemente no paciente com sepse, preferencialmente em até uma hora da admissão na emergência. Está correto o que se afirma em:",
+      "alternativas": [
+        "I, II e III.",
+        "I, apenas.",
+        "III, apenas.",
+        "I e III, apenas."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "ECA! Vi um dragão - Referente a esse mnemônico e o pacote de 1ª hora de atendimento também conhecida como a 'Golden Hour podemos afirmar que:",
+      "alternativas": [
+        "A conduta inicial deve abranger Avaliação laboratorial precoce com dosagem de lactato, Culturas antes da antibioticoterapia, Antimicrobianos de amplo espectro em até 1 hora, Volume em pacientes com hipoperfusão e uso de Drogas vasopressores.",
+        "A administração de antibióticos pode ser postergada para após as primeiras 3 horas, desde que haja estabilidade clínica, sendo a expansão volêmica restrita a pacientes com hipotensão refratária.",
+        "Culturas microbiológicas devem ser coletadas após início dos antibióticos, pois o efeito bactericida favorece o crescimento dos agentes infecciosos nos meios de cultura.",
+        "O lactato sérico deve ser solicitado apenas em casos de suspeita de acidose metabólica grave, não sendo parte do pacote inicial de sepse."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Um médico está avaliando quatro pacientes em um setor de emergência com suspeita de sepse. De acordo com o texto, qual dos pacientes abaixo apresenta a indicação mais clara para o início imediato da ressuscitação volêmica na primeira hora de atendimento?",
+      "alternativas": [
+        "Paciente A: Alerta e orientado, com febre de 38.5°C, frequência cardíaca de 110 bpm, mas com Pressão Arterial Média (PAM) de 75 mmHg e perfusão normal, inciar soluções cristaloides em 30 ml/kg",
+        "Paciente B: Ansioso, com Pressão Arterial Média (PAM) de 70 mmHg e um lactato arterial de 3,0 mmol/L (valor de referência do laboratório: até 2,0 mmol/L), iniciar soluções cristaloides em 30 ml/kg",
+        "Paciente C: Apresenta-se letárgico, com pulsos filiformes, tempo de enchimento capilar de 4 segundos (perfusão lentificada) e uma Pressão Arterial Média (PAM) de 60 mmHg, iniciar soluções cristaloides em 30 ml/kg",
+        "Paciente D: Apresenta acidose metabólica leve e necessita de antimicrobianos, sendo a ressuscitação volêmica indicada para corrigir especialmente a acidose e garantir o volume de distribuição dos fármacos, inciar soluções cristaloides em 30 ml/kg"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "qual a melhor abordagem para a ressuscitação volêmica e o uso de vasopressores no paciente?",
+      "alternativas": [
+        "Fluidoterapia agressiva com cristaloides (30 mL/kg) e noradrenalina como vasopressor de primeira linha.",
+        "Fluidoterapia agressiva com coloides e noradrenalina como vasopressor de primeira linha.",
+        "Fluidoterapia conservadora com cristaloides (20 mL/kg) e dopamina como vasopressor de primeira linha.",
+        "Fluidoterapia conservadora com coloides e adrenalina como vasopressor de segunda linha."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A anafilaxia é uma reação sistêmica imediata, com risco de vida, que pode acontecer perante a exposição a determinada substância, como consequência de reação de hipersensibilidade do tipo I na qual os mediadores químicos liberados dos mastócitos afetam muitos tipos de tecido e sistema orgânico. Sobre a anafilaxia, analisar os itens. 1-Pode ser causada por: picadas de insetos, testes cutâneos, medicamentos, alimentos, exercícios. II-Manifestações clínicas: edema de laringe, broncoespasmo, tosse, hipotensão, taquicardia, urticária, angioedema, eritema. III- A identificação dos sinais e sintomas bem como a intervenção imediata são essenciais; reação que ocorre rapidamente tende a ser mais grave. Estão CORRETOS:",
+      "alternativas": [
+        "Somente os itens I e II.",
+        "Somente os itens I e III.",
+        "Somente os itens II e III.",
+        "Todos os itens."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A anafilaxia é uma doença alérgica grave e prevalente em nossa população. Em relação a anafilaxia, analise as afirmativas a seguir: 1- A anafilaxia é um processo alérgico, mediado por IgE, caracterizando o mecanismo de hipersensibilidade tipo II. 2- As principais causas de anafilaxia e de reação anafilactóide são alimentos e medicamentos, sendo os hemoderivados e o exercício causas pouco frequente. 3- A reação aguda da resposta imune surge de segundos a minutos (5 a 10min) após a exposição ao alérgeno e é decorrente da ação de mediadores preformados. 4- A reação tardia aparece horas depois, mesmo sem reexposição ao alérgeno e, em geral, quando as manifestações da fase aguda já diminuíram ou desapareceram. Estão corretas as afirmativas:",
+      "alternativas": [
+        "I e II.",
+        "II e IV.",
+        "I, III e IV.",
+        "II, III e IV."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Sobre a reação de hipersensibilidade na Anafilaxia, também conhecidas como reações de hipersensibilidade imunológica ou alergias, são respostas exageradas e inadequadas do sistema imunológico a substâncias estranhas ou antigênicas, que geralmente são inofensivas para a maioria das pessoas. Assinale a alternativa que corresponde às características e mecanismo imunológico efetor relacionado à reação de Hipersensibilidade do Tipo I:",
+      "alternativas": [
+        "Resposta imune inata exacerbada, direcionada a antígeno alergênico solúvel, induzindo produção de anticorpos IgA e IgE e ativação de leucócitos sanguíneos mononucleares.",
+        "Resposta imune inata imediata contra antígenos ambientais alergênicos, mediada por IgE, envolvendo ativação de neutrófilos, monócitos, eosinófilos, basófilos e mastócitos, com desencadeamento de processo inflamatório agudo.",
+        "Resposta imune imediata contra moléculas antigênicas, geralmente de baixo peso molecular, mediada por anticorpo IgE, envolvendo ativação e degranulação de mastócitos e basófilos, induzindo a secreção de mediadores do processo inflamatório.",
+        "Resposta imune exacerbada tardia direcionada a antígeno alergênico insolúvel, geralmente de alto peso molecular, induzindo produção de IgE, ativação de monócitos, macrófagos e mastócitos, desencadeando um processo inflamatório agudo."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Buscando entender melhor sobre Anafilaxia e não confundir as reações na prova, Gislaine perguntou ao seu professor Wilson sobre as reações de hipersensibilidade. Analise as afirmativas e aponte a melhor resposta de Wilson I. A hipersensibilidade tipo I é a mais comum nas reações alérgicas imediatas, mediada por IgE, e está relacionada a quadros como anafilaxia, urticária e asma. II. A hipersensibilidade tipo II é mediada por anticorpos (IgG ou IgM) que se ligam a antígenos de superfície celular, causando lesão tecidual; exemplos incluem reações hemolíticas transfusionais e miastenia gravis.III. Na hipersensibilidade tipo III, há formação de imunocomplexos antígeno-anticorpo que se depositam em tecidos e vasos, desencadeando inflamação; exemplos incluem lúpus, artrite reumatoide e doença do soro. IV. A hipersensibilidade tipo IV é mediada por linfócitos T, ocorre de forma tardia (após 24 a 72h), e está associada a doenças como dermatite de contato, hanseníase e rejeição a transplantes. Assinale a alternativa correta:",
+      "alternativas": [
+        "Apenas as afirmativas I e II estão corretas",
+        "Apenas as afirmativas I e III estão corretas",
+        "Apenas as afirmativas II e IV estão corretas",
+        "Todas as afirmativas estão corretas"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A anafilaxia em crianças é definida como uma reação alérgica grave de aparecimento rápido e que pode causar a morte. Sobre a anafilaxia na infância, na CRIANÇA, analisa as afirmativas abaixo. I. – A alergia alimentar é a causa mais comum de anafilaxia fora do hospital. II. – A alergia ao látex também pode ser responsável por causar anafilaxia, especialmente em ambiente hospitalar. III. – A anafilaxia pode ocorrer sem apresentar manifestações cutâneas. Sobre esta situação selecione a opção correta.",
+      "alternativas": [
+        "As afirmativas I e II são verdadeiras. A afirmativa III é falsa.",
+        "As afirmativas I e III são verdadeiras. A afirmativa II é falsa.",
+        "As afirmativas II e III são verdadeiras. A afirmativa I é falsa.",
+        "As afirmativas I, II e III são verdadeiras."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Um jovem de 18 anos de idade procurou atendimento médico e relatou que, cerca de 5 minutos após a ingestão de frutos do mar, passou a apresentar urticária, prurido generalizado, inchaço dos lábios e da língua, inchaço bipalpebral, sensação de garganta fechando, tosse, náuseas e vômitos. O exame clínico confirmou as manifestações cutâneo-mucosas relatadas, pressão arterial de 85 mmHg × 60 mmHg e sibilos difusos à ausculta pulmonar. Com base nessa condição clínica e levando em conta que o médico assistente tenha considerado a anafilaxia como principal hipótese diagnóstica, julgue o item que se segue. Do ponto de vista evolutivo-temporal, é possível classificar as manifestações apresentadas pelo paciente como pertencentes ao padrão de anafilaxia:",
+      "alternativas": [
+        "Sim, Trata-se de anafilaxia bifásica. pois os sintomas melhoram após resolução inicial sem nova exposição ao alérgeno.",
+        "Sim, Trata-se de anafilaxia protraída (prolongada), caracterizada por sintomas de urticária, angioedema, eritema, prurido presente em mais de 90% dos casos.",
+        "Trata-se de anafilaxia aguda (monôfasica ou unifásica), pois os sintomas surgiram rapidamente após a exposição e estavam presentes no momento da avaliação.",
+        "Trata-se de anafilaxia crônica, pois o paciente tem histórico de alergia alimentar recorrente a frutos do mar."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Pietro, 18 anos, procurou atendimento emergencial após apresentar, cerca de dez minutos após consumir frutos do mar, quadro de urticária, prurido difuso, edema labial e lingual, inchaço nas pálpebras, sensação de obstrução da garganta, tosse, náuseas e episódios de vômito. Ao exame físico, foram confirmadas lesões cutâneo-mucosas, pressão arterial de 85 × 60 mmHg e sibilos difusos à ausculta respiratória. Considerando o quadro clínico e a suspeita diagnóstica de anafilaxia, avalie a seguinte afirmativa:",
+      "alternativas": [
+        "A abordagem inicial para Pietro deve incluir avaliação das vias aéreas, manutenção da ventilação adequada, estabilização hemodinâmica, avaliação do estado cardiovascular e administração imediata de epinefrina por via intramuscular.",
+        "A abordagem inicial para Pietro, sendo esse caso um quadro de anafilaxia leve a moderada, deve-se priorizar o uso de anti-histamínicos intravenosos e corticosteroides antes da administração de adrenalina, evitando o risco de efeitos colaterais cardiovasculares.",
+        "A epinefrina deve ser administrada apenas após falha no suporte ventilatório e hemodinâmico, para evitar taquiarritmias e hipertensão severa, especialmente em jovens.",
+        "Como o quadro sugere reação alérgica alimentar tardia, deve-se iniciar o tratamento com corticoide oral, mantendo o paciente em observação por 6 a 12 horas antes de qualquer intervenção farmacológica invasiva."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Sobre as anafilaxias, considere a alternativa que traz informações incorretas:",
+      "alternativas": [
+        "De modo geral, o quadro clínico da anafilaxia compreende manifestações cutâneas, acompanhadas de comprometimento variável dos aparelhos respiratório, cardiovascular, sistema nervoso e trato gastrintestinal.",
+        "A anafilaxia pode ocorrer sem a expressão de manifestações respiratórias e/ou cardiovasculares, contudo, as manifestações cutâneas estão sempre presentes.",
+        "O mecanismo clássico da anafilaxia envolve a produção de anticorpos IgE para alérgenos do ambiente.",
+        "Drogas (opiáceos e contrastes radiológicos) e exercício físico são os principais causadores da anafilaxia por ativação direta de mastócitos e basófilos."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "A anafilaxia no peroperatório é uma condição grave e potencialmente fatal que se manifesta de forma abrupta com sintomas graves que demandam rápida detecção e tratamento. Considerando a anafilaxia no peroperatório, analise as afirmativas abaixo. I. Os principais agentes desencadeantes de anafilaxia peroperatória são antibióticos e bloqueadores neuromusculares. II. Lesão cerebral por anóxia é a principal causa de morbidade relacionada a anafilaxia peroperatória. III. Comprometimento cardiovascular com vasoconstrição periférica e hipervolemia, podendo cursar com taquicardia, caracterizam uma anafilaxia grave. IV. Redução da infusão de volume intravascular, adrenalina endovenosa e manutenção da via aérea com oxigênio 100% são a base terapêutica da anafilaxia. Assinale a alternativa correta:",
+      "alternativas": [
+        "I e II apenas",
+        "I, II e III apenas",
+        "I, III e IV apenas",
+        "II, III e IV apenas"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Analise o texto abaixo e assinale a alternativa que preencha correta e respectivamente as lacunas. A anafilaxia é uma reação de hipersensibilidade generalizada grave e imediata que afeta múltiplos órgãos/sistemas. As manifestações mais frequentes da anafilaxia são___________, angioedema, _____________, hipotensão e dor abdominal. Estudos mostram que os principais desencadeantes de uma anafilaxia, associada a mecanismo imunológico IgE mediado, são alimentos, medicações, látex, _______________, aeroalérgenos e contrastes radiológicos. Após o diagnóstico de anafilaxia é importante não retardar a administração de ______________. O sucesso no tratamento de um episódio de anafilaxia é baseado na rapidez das ações.",
+      "alternativas": [
+        "convulsão \\ urticária \\ corante \\ adrenalina",
+        "urticária \\ dispneia \\ veneno de inseto \\ adrenalina",
+        "dispneia \\ convulsão \\ corante \\ corticoide",
+        "diarreia \\ convulsão \\ veneno de inseto \\ corticoide"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "A anafilaxia é uma doença alérgica grave e prevalente em nossa população. Em relação a anafilaxia, analise as afirmativas abaixo. I. A anafilaxia é um processo alérgica, mediado por IgE. Nas crianças, as principais drogas envolvidas são antibióticos e antiinflamatórios não hormonais. II. Podemos confirmar um choque anafilático, através do nível sérico de triptase que fica elelvado por tempo mais prolongado (4-6 horas). III. Pode ocorrer redução da pressão sanguínea após exposição a alérgeno conhecido para determinado paciente. Assinale a alternativa correta.",
+      "alternativas": [
+        "Apenas as afirmativas I e II estão corretas",
+        "As afirmativas I, II e III estão corretas",
+        "Apenas as afirmativas I e III estão corretas",
+        "Apenas a afirmativa I está correta"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre a anafilaxia na infância, assinalar a alternativa CORRETA:",
+      "alternativas": [
+        "A primeira medida a ser adotada é o uso de anti-histamínico endovenoso.",
+        "A adrenalina só deve ser utilizada nos casos graves, que não respondem ao anti-histamínico.",
+        "Os corticosteroides não devem ser utilizados.",
+        "Os quadros geralmente estão relacionados a alimentos, picadas de insetos ou uso de medicamentos"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Sobre os critérios diagnósticos da Anafilaxia, assinale a alternativa INCORRETA.",
+      "alternativas": [
+        "O prurido, a sibilância, a rinorreia e a dispneia são sintomas de anafilaxia.",
+        "É um critério diagnóstico de anafilaxia a redução da PA após exposição a um alérgeno conhecido para aquele paciente com queda de 30% da PA sistólica em adultos.",
+        "A exposição a um provável alérgeno (dipirona) e o envolvimento de dois sistemas, como pele (urticária) e respiratório (sibilância), são critérios diagnósticos de anafilaxia.",
+        "Uma reação de início agudo (de minutos a horas) com envolvimento de pele, mucosas ou ambas acompanhada de comprometimento respiratório ou sintomas de disfunção de órgão enquadra-se entre os critérios diagnósticos de anafilaxia."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente apresenta sudorese intensa, náuseas, hipotensão e bradicardia após um evento estressante. Não há sinais cutâneos como urticária ou angioedema. O diagnóstico diferencial mais provável, em contraste com a anafilaxia, é:",
+      "alternativas": [
+        "Mastocitose sistêmica.",
+        "Síndrome carcinoide.",
+        "Reação vasovagal.",
+        "Feocromocitoma"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um homem de 40 anos, com pressão arterial (PA) basal conhecida de 130x80 mmHg, dá entrada no pronto-socorro 15 minutos após uma picada de abelha. Ele apresenta urticária generalizada, dispneia e sibilos. Ao exame, seus sinais vitais são: Frequência Cardíaca de 120 bpm, Saturação de O de 91% e Pressão Arterial de 88x50 mmHg. Com base nos critérios diagnósticos de anafilaxia, como a pressão arterial deste paciente deve ser interpretada?",
+      "alternativas": [
+        "O paciente não está hipotenso, pois a hipotensão em anafilaxia só é considerada com pressão sistólica abaixo de 80 mmHg para adultos.",
+        "O paciente está hipotenso, pois sua pressão sistólica de 88 mmHg é inferior a 90 mmHg e também representa uma queda superior a 30% em relação à sua pressão basal.",
+        "O paciente está hipotenso exclusivamente porque sua pressão sistólica está abaixo de 90 mmHg; a queda percentual em relação à basal não é um critério diagnóstico formal para anafilaxia.",
+        "Apesar da queda, o paciente não é considerado hipotenso, pois o critério diagnóstico principal para o choque é a necessidade de vasopressores, e não apenas o valor numérico da pressão."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre os critérios diagnósticos da anafilaxia no início agudo:",
+      "alternativas": [
+        "envolvimento cutâneo e/ou mucoso e pelo menos um dos seguintes achado: Comprometimento respiratório e/ou Comprometimento cardiocirculatório.",
+        "apenas com dois achados como: aparecimento de sintomas cutaneomucosos e surgimento de sintomas cardiovasculares; e/ou Sinais de envolvimento do sistema respiratório e aparecimento de sintomas gastrointestinais persistentes como cólicas, vômitos e diarréia, são suficientes para o diagnóstico de anafilaxia.",
+        "Hipotensão após exposição (de minutos a horas) a um alérgeno ao qual sabidamente o paciente apresenta hiperreatividade, entendendo-se aqui por hipotensão a queda da pressão sistólica a um nível 30% abaixo de sua linha basal ou <90mmHg para adultos.",
+        "Todas as alternativas estão corretas e represtam Critérios diagnósticos da anafilaxia."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Um paciente de 35 anos é atendido no pronto-socorro com um quadro de anafilaxia após picada de inseto. O médico emergencista decide solicitar a dosagem de triptase para confirmar o diagnóstico. Qual é o procedimento correto para a coleta das amostras de sangue, de acordo com as recomendações?",
+      "alternativas": [
+        "Coletar uma única amostra de sangue imediatamente no momento do atendimento, pois este é o único momento em que a triptase estará elevada.",
+        "Coletar a primeira amostra entre 15 e 180 minutos após o início dos sintomas e a segunda amostra (basal) pelo menos 24 horas após a resolução dos sintomas.",
+        "Coletar a amostra basal durante a reação aguda e a amostra da crise 24 horas depois, para garantir que o nível tenha retornado ao normal.",
+        "Coletar duas amostras com um intervalo de 15 minutos entre elas durante a fase aguda da reação para confirmar a elevação"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Tendo como principal hipótese o choque anafilático, o melhor exame a ser solicitado para auxílio no diagnóstico diferencial de choque é:",
+      "alternativas": [
+        "Histamina sérica.",
+        "Alfa triptase sérica.",
+        "Beta triptase sérica.",
+        "Dosagem de IgE sérica."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Um paciente de 35 anos é atendido no pronto-socorro com um quadro de anafilaxia após picada de inseto. O médico emergencista decide solicitar a dosagem de triptase para confirmar o diagnóstico. Qual é o procedimento correto para a coleta das amostras de sangue, de acordo com as recomendações?",
+      "alternativas": [
+        "Coletar uma única amostra de sangue imediatamente no momento do atendimento, pois este é o único momento em que a triptase estará elevada.",
+        "Coletar a primeira amostra entre 30 e 120 minutos após o início dos sintomas e a segunda amostra (basal) pelo menos 24 horas após a resolução completa do quadro.",
+        "Coletar a amostra basal durante a reação aguda e a amostra da crise 24 horas depois, para garantir que o nível tenha retornado ao normal.",
+        "Coletar duas amostras com um intervalo de 15 minutos entre elas durante a fase aguda da reação para confirmar a elevação."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente realizou a dosagem de triptase após um episódio sugestivo de anafilaxia. Os resultados foram: Triptase na fase aguda (colhida 60 minutos após o início dos sintomas) = 25 µg/l; Triptase basal (colhida 2 dias após a recuperação) = 15 µg/l. Com base nos critérios de interpretação, qual a conclusão correta sobre o caso? (Considere os critérios de elevação: 20% da basal + 2 µg/l; e de basal elevada: >11,4 µg/l)",
+      "alternativas": [
+        "O resultado é inconclusivo, pois a redução da triptase de 25 para 15 µg/l não atinge o critério diagnóstico para confirmar a reação anafilática.",
+        "O resultado indica apenas a presença de uma doença mastocitária, como a mastocitose, mas não confirma que os sintomas agudos foram causados por anafilaxia.",
+        "O resultado confirma a reação anafilática aguda e o valor da triptase basal está dentro da normalidade, não sugerindo outras investigações.",
+        "O resultado confirma a reação anafilática aguda e, devido à triptase basal elevada (>11,4 µg/l), sugere uma investigação adicional para mastocitose."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Samya, a interna, discute com seu preceptor sobre a utilidade do exame de triptase sérica. O preceptor explica que a confiabilidade do teste varia conforme o cenário clínico. Em qual das seguintes situações o teste de triptase tem maior probabilidade de ser positivo e, portanto, mais útil?",
+      "alternativas": [
+        "Em um paciente que apresentou apenas urticária localizada e prurido leve após comer camarão, pois o teste é sensível para qualquer ativação de mastócitos.",
+        "Para diferenciar uma síncope vasovagal de uma reação anafilática, pois o teste tem baixa especificidade.",
+        "Em um paciente que sofreu uma reação anafilática grave com hipotensão e broncoespasmo, pois a sensibilidade do teste é maior nessas condições.",
+        "Quando a amostra é colhida 6 horas após o início dos sintomas, pois o pico de sensibilidade ocorre nesse período."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "O choque hipovolêmico, o choque distributivo, o choque cardiogênico e o choque obstrutivo, são causados por, respectivamente,",
+      "alternativas": [
+        "diarreia, sepses, miocardite e pericardite tamponada.",
+        "queimadura extensa, diarreia, pericardite tamponada e malformação cardíaca.",
+        "sepse, anafilaxia, fechamento do ducto arterioso em malformação cardíaca com fluxo sistêmico e miocardite",
+        "hemorragia gastrointestinal, anafilaxia, embolia pulmonar maciça e miocardite."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Paciente de 7 anos, sexo masculino, com antecedente de asma em uso de medicação contínua. Estava brincando no parquinho quando começou a sentir dor intensa no braço esquerdo. Após cerca de 30 minutos, começou a apresentar tosse, dor abdominal, vômitos e diarreia. Levado ao pronto atendimento, foi colocado sob fonte de oxigênio, sob monitorização e um acesso periférico foi obtido. Ao exame clínico, estava em regular estado geral, FC: 145 bpm, FR: 34 irpm, PA: 82x30 mmHg, Saturação 92% em ar ambiente, ausculta cardíaca sem alterações e ausculta pulmonar com sibilos difusos. Na exposição, foi notada a seguinte lesão: (eritema e edema em membro superior). Além de oxigênio e expansão volêmica, qual a conduta a ser prontamente realizada?",
+      "alternativas": [
+        "Bloqueador H1 e H2; corticosteroide e adrenalina (1:1.000) endovenosos.",
+        "Adrenalina (1:1.000) intramuscular; elevação dos membros inferiores.",
+        "Soro antialacnídico 3 ampolas e morfina endovenosos; bloqueio local.",
+        "Antiescorpiônico endovenoso 2-3 ampolas; alfa-1 bloqueador oral."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Homem, 55 anos de idade, admitido para realização de cateterismo cardíaco. Portador dehipertensão arterial sistêmica, em uso de losartana. Nega alergias. Alguns minutos após o início doprocedimento, o paciente iniciou quadro de prurido cutâneo intenso, agitação e dispneia. Ao examefísico, apresentava: PA: 100x60 mmHg, FC: 110 bpm, FR: 26 irpm,SatO2: 89%, com estridor laríngeo e presença de placas eritematosas em tronco e membros.Em relação ao quadro atual, identifique a alternativa mais adequada.",
+      "alternativas": [
+        "O quadro obrigatoriamente decorre de uma resposta imunológica mediada por IgE.",
+        "O quadro é decorrente de uma reação não-imunológica ao contraste, anteriormente chamada “reação anafilactoide”.",
+        "O diagnóstico de anafilaxia exigiria a presença de hipotensão não responsiva às medidas iniciais.",
+        "Caso o paciente relatasse alergia a frutos do mar, deveria ter recebido corticoterapia antes doprocedimento"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente adulto de 70 kg dá entrada em uma sala de emergência com quadro de anafilaxia grave, apresentando hipotensão e broncoespasmo. A equipe médica administra corretamente a primeira dose de adrenalina 0,5 mg por via intramuscular (IM) no músculo vasto lateral. Após 10 minutos, o paciente não apresenta melhora significativa, e uma segunda dose de 0,5 mg IM é administrada no mesmo local. Passados mais 10 minutos, o paciente continua hipotenso e com desconforto respiratório. De acordo com o protocolo apresentado, qual é a próxima conduta mais apropriada para este paciente?",
+      "alternativas": [
+        "Iniciar imediatamente uma bomba de infusão contínua (BIC) de adrenalina na dose de 0,1 mcg/kg/min, diluindo 10 ampolas em 90ml de Soro Glicosado 5%.",
+        "Administrar imediatamente um bolus de 0,1 mg de adrenalina por via endovenosa (EV), preparado com 1 ampola em 100ml de Soro Fisiológico 0,9%.",
+        "Administrar uma quarta dose de adrenalina 0,3 mg por via subcutânea no músculo deltoide para variar o local de absorção.",
+        "Administrar uma terceira e última dose de adrenalina 0,5 mg por via intramuscular no vasto lateral, reavaliar em 5-15 minutos e preparar para escalonar o tratamento caso não haja resposta."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Considerando o manejo da anafilaxia na emergência, assinale a alternativa INCORRETA.",
+      "alternativas": [
+        "O paciente deve ser colocado em posição de Trendelenburg e evitar mudança brusca para posição ortostática, pelo risco de morte súbita pela síndrome do ventrículo vazio",
+        "Pacientes usuários de beta-bloqueadores podem ter resposta inferior com uso de adrenalina IM, podendo ser necessário uso de glucagon IM",
+        "A adrenalina IM deve ser aplicada sempre na região do vasto lateral da coxa, podendo a dose ser repetida 3 vezes, com intervalo mínimo de 15 minutos entre elas",
+        "Caso o paciente apresente laringoespasmos e sibilância, é indicado que primeiro seja prescrito adrenalina na nebulização, seguida de posterior controle da VAI com broncodilatador de ação rápida"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Diante da suspeita clínica, deve-se iniciar imediatamente o tratamento com adrenalina. intramuscular. em relação a dose:",
+      "alternativas": [
+        "0,01mg/kg da solução 1:1000 = 1 mg/mL e ser repetida a cada 5–15 minutos por no máximo 3 vezes",
+        "Crianças: máximo 0,30 mg por dose e e ser repetida a cada 5–15 minutos por no máximo 3 vezes",
+        "Adultos: máximo 0,5 mg por dose e ser repetida a cada 5–15 minutos por no máximo 3 vezes",
+        "Todas as alternativas se complementam e estão corretas."
+      ],
+      "correta": 3
+    }
   ]
 }
