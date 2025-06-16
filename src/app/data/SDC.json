@@ -1060,8 +1060,8 @@
         "apenas lavar o local"
       ],
       "correta": 1
-    }
-    {
+    },
+   {
       "pergunta": "A sepse é causada pela resposta inflamatória sistêmica descontrolada do indivíduo na presença de infecção. Qual é o marcador inflamatório preditivo de gravidade e mau prognóstico quando elevado?",
       "alternativas": [
         "IL-4.",
@@ -1483,3 +1483,4 @@
     }
   ]
 }
+
