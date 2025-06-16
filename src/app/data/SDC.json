@@ -122,7 +122,7 @@
       "correta": 2
     },
     {
-      "pergunta": "Menino, 5 anos, procedente da zona rural chega na emergência com história de picada por  animal não identi9cado. Logo em seguida apresentou vômitos, sudorese e sonolência. Ao  exame físico: MEG, descorado, acianótico, hidratado. Olhos: ptose palpebral. Boca: seca.  Ausculta cardíaca e pulmonar sem alterações, FR 30 ipm, FC 130 bpm, pulsos cheios.  Tempo de enchimento capilar 2 segundos. PA: 100 x 60 mmHg. Abdome: plano,  normotenso, indolor, fígado e baço não palpáveis. SN hipotonia de musculatura e midríase.  Diante deste quadro clínico qual o soro antiveneno você optaria?",
+      "pergunta": "Menino, 5 anos, procedente da zona rural chega na emergência com história de picada por  animal não identificado. Logo em seguida apresentou vômitos, sudorese e sonolência. Ao  exame físico: MEG, descorado, acianótico, hidratado. Olhos: ptose palpebral. Boca: seca.  Ausculta cardíaca e pulmonar sem alterações, FR 30 ipm, FC 130 bpm, pulsos cheios.  Tempo de enchimento capilar 2 segundos. PA: 100 x 60 mmHg. Abdome: plano,  normotenso, indolor, fígado e baço não palpáveis. SN hipotonia de musculatura e midríase.  Diante deste quadro clínico qual o soro antiveneno você optaria?",
       "alternativas": [
         "soro antibotrópico.",
         "soro antiloxosceles.",
@@ -132,7 +132,7 @@
       "correta": 2
     },
     {
-      "pergunta": "Paciente procedente do interior do estado foi vítima de picada de cobra e apresenta o  seguinte quadro clínico: dois orifícios medicina livreproibida venda em perna esquerda, com  formigamento no local, sem dor. Apesar de responder a solicitação tem di9culdade de  manter olhos abertos. Queixa de visão turva e diplopia. Apresenta mal-estar, irritabilidade,  náuseas, cefaleia e mialgia. Relata ainda diurese escura. Com o quadro clínico citado, a  qual grupo pertence a serpente responsável pelo acidente?",
+      "pergunta": "Paciente procedente do interior do estado foi vítima de picada de cobra e apresenta o  seguinte quadro clínico: dois orifícios em perna esquerda, com  formigamento no local, sem dor. Apesar de responder a solicitação tem dificuldade de  manter olhos abertos. Queixa de visão turva e diplopia. Apresenta mal-estar, irritabilidade,  náuseas, cefaleia e mialgia. Relata ainda diurese escura. Com o quadro clínico citado, a  qual grupo pertence a serpente responsável pelo acidente?",
       "alternativas": [
         "bothrops.",
         "crotalus.",
@@ -192,7 +192,7 @@
       "correta": 1
     },
     {
-      "pergunta": "Um trabalhador rural de 28 anos dá entrada no PS trazido por amigos, com história de  picada por cobra há três horas, sem visualização de detalhes do animal, que fugiu. O  paciente refere dor local leve. Também queixa-se de mialgia, di9culdade para articular bem  as palavras e visão embaçada e dupla. Exames laboratoriais mostram alterações  relevantes, como tempo de coagulação alargado, leucocitose sem desvio à esquerda e EAS  com urina de aspecto escuro, porém sem hematúria. O quadro clínico-laboratorial descrito  permite o diagnóstico de qual tipo de acidente ofídico?",
+      "pergunta": "Um trabalhador rural de 28 anos dá entrada no PS trazido por amigos, com história de  picada por cobra há três horas, sem visualização de detalhes do animal, que fugiu. O  paciente refere dor local leve. Também queixa-se de mialgia, dificuldade para articular bem  as palavras e visão embaçada e dupla. Exames laboratoriais mostram alterações  relevantes, como tempo de coagulação alargado, leucocitose sem desvio à esquerda e EAS  com urina de aspecto escuro, porém sem hematúria. O quadro clínico-laboratorial descrito  permite o diagnóstico de qual tipo de acidente ofídico?",
       "alternativas": [
         "botrópico.",
         "laquético.",
@@ -1072,12 +1072,12 @@
       "correta": 2
     },
     {
-      "pergunta": "Considerando o papel da IL-10 na fisiopatologia da sepse, qual das seguintes afirmações melhor descreve a sua função e a provável consequência de sua elevação neste paciente?",
+      "pergunta": "Considerando o papel da IL-10 na fisiopatologia da sepse, qual das seguintes afirmações melhor descreve a sua função e a provável consequência de sua elevação em um paciente?",
       "alternativas": [
         "A IL-10 é uma citocina pró-inflamatória, e sua elevação é a principal causa da tempestade de citocinas que piora o dano tecidual na sepse.",
         "A principal função da IL-10 é ativar os neutrófilos e macrófagos para combater a infecção bacteriana inicial; sua elevação indica uma resposta imune robusta e protetora.",
         "A elevação da IL-10 é um sinal de que o tratamento com antibióticos falhou, pois esta citocina só é produzida quando a infecção bacteriana está fora de controle.",
-        "A IL-10 atua como uma citocina anti-inflamatória para regular a resposta imune , mas sua superprodução pode ter causado um estado de imunossupressão, tornando o paciente mais suscetível a infecções secundárias."
+        "A IL-10 atua como uma citocina anti-inflamatória para regular a resposta imune , mas sua superprodução pode causar um estado de imunossupressão, tornando o paciente mais suscetível a infecções secundárias."
       ],
       "correta": 3
     },
@@ -1154,12 +1154,12 @@
     {
       "pergunta": "Na pandemia da COVID, pela baixa oferta de leitos de internação em função da alta demanda, recomendou-se o uso do escore quickSOFA (qSOFA), de fácil realização, que pode ser executado à beira leito, auxiliando na identificação da gravidade, bem como no auxílio de alocação dos pacientes em unidades de internação. Os seguintes itens compõem o qSOFA exceto:",
       "alternativas": [
-        "frequência cardíaca 100 bpm.",
+        "frequência cardíaca<100 bpm.",
         "alteração do nível de consciência.",
         "frequência respiratória 22 irpm.",
-        "pressão arterial sistólica 100 mmHg."
+        "pressão arterial sistólica<100 mmHg."
       ],
-      "correta": 3
+      "correta": 0
     },
     {
       "pergunta": "A infecção suspeita ou confirmada associada à disfunção orgânica, de forma independente da presença de sinais de síndrome de resposta inflamatória sistêmica (SIRS), é caracterizada como:",
