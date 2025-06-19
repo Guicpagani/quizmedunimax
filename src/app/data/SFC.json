@@ -2,43 +2,295 @@
   "title": "SFC",
   "data": [
     {
-      "pergunta": "Qual a capital do Brasil?",
+      "pergunta": "O Programa Nacional de Controle da Hanseníase do Ministério da Saúde desenvolve um conjunto de ações que visam orientar a prática em serviço em todas as instâncias e diferentes complexidades. Com base nas ações de atenção e controle previstas nesse programa, analise as afirmativas a seguir, considerando V para a verdadeira e F para a falsa: ( ) A atenção à pessoa com hanseníase, a suas complicações e sequelas, deve ser oferecida em toda a rede do Sistema Único de Saúde, de acordo com a necessidade de cada caso. ( ) Os casos diagnosticados devem ser notificados em até 24h, utilizando-se a ficha de notificação e investigação do Sistema de Informação de Agravos de Notificação/Investigação - Sinan. ( ) A reação hansênica tipo 2 caracteriza-se pelo aparecimento de novas lesões dermatológicas (manchas ou placas), infiltração, alterações de cor e edema nas lesões antigas. A sequência correta é:",
       "alternativas": [
-        "São Paulo",
-        "Brasília",
-        "Rio de Janeiro",
-        "Salvador"
+        "v-f-f",
+        "f-v-v",
+        "v-f-v",
+        "v-v-f"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Uma das peculiaridades da hanseníase está na abrangência  dos cuidados exigidos à pessoa com hanseníase, suas  complicações e sequelas, cuja demanda assistencial vai desde a atenção primária à atenção especializada  ambulatorial e hospitalar. Assim, é INCORRETO afirmar que:",
+      "alternativas": [
+        "a atenção à pessoa com hanseníase, suas complicações e sequelas, deve ser oferecida somente nos serviços de  referência da rede do sus especializados na doença;",
+        "o modelo de intervenção para o controle da hanseníase é  baseado no diagnóstico precoce, tratamento oportuno de  todos os casos diagnosticados, prevenção e tratamento de  incapacidades e vigilância dos contatos domiciliares;",
+        "as ações de controle de hanseníase devem ser executadas  em toda a rede de atenção primária do sistema único de",
+        "o sus alcançou maior avanço no processo de  descentralização da atenção à hanseníase com a  reorganização da atenção primária, especialmente, com o programa da saúde da família (psf)."
       ],
       "correta": 1
     },
     {
-      "pergunta": "teste?",
+      "pergunta": "A descentralização das ações de controle da hanseníase no Brasil é uma diretriz fundamental do Programa Nacional de Controle da Hanseníase (PNCH), inserido no contexto da organização do SUS. Nesse sentido, assinale a alternativa correta:",
       "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
+        "a descentralização implica que os serviços de referência estaduais e federais concentrem o diagnóstico e tratamento da hanseníase, evitando a sobrecarga da atenção primária.",
+        "a descentralização visa à concentração de ações em centros de referência regionais para garantir maior controle dos casos e facilitar a notificação.",
+        "com a descentralização, as ações de prevenção, diagnóstico, tratamento e reabilitação das pessoas com hanseníase devem ser executadas preferencialmente na atenção primária à saúde.",
+        "a descentralização das ações de hanseníase é limitada aos municípios com alta carga da doença, ficando os demais sob gestão estadual."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sobre a hanseníase, é correto afirmar:",
+      "alternativas": [
+        "é uma doença crônica granulomatosa, de baixa infectividade e alta patogenicidade.",
+        "acesso a informações, diagnóstico e o tratamento com poliquimioterapia (pqt) são elementos-chave na estratégia para o controle da doença.",
+        "domicílio deixou de ser um importante espaço de transmissão da doença, sendo que a transmissão está mais relacionada às aglomerações urbanas, devido a transmissão por contato.",
+        "inserção da hanseníase nos programas de capacitação permanente de profissionais da atenção primária para suspeição, diagnóstico e tratamento é mais eficaz em municípios com baixa endemicidade da doença."
       ],
       "correta": 1
     },
     {
-      "pergunta": "teste",
+      "pergunta": "Gestante de cinco meses, 35 anos de idade, comparece ao serviço de saúde para iniciar tratamento após diagnóstico de hanseníase virchowiana. Refere que está muito apreensiva devido já ter passado por episódios de abortamentos espontâneos. Em relação ao esquema terapêutico padrão com poliquimioterapia (PQT) para esta paciente, considera-se que:",
       "alternativas": [
-        "São Paulo",
-        "Brasília",
-        "Rio de Janeiro",
-        "Salvador"
+        "deve ser iniciado apenas após o término da gravidez;",
+        "é seguro para a mãe, mas não para a criança;",
+        "é seguro para a criança, mas não para a mãe;",
+        "não está contra-indicado, devendo ser tratada normalmente;"
       ],
-      "correta": 0,
-      "imagem": "/imagens/2.png"
+      "correta": 3
     },
     {
-      "pergunta": "O que é ATP?",
+      "pergunta": "Em 2021, o Ministério da Saúde emitiu uma nota técnica para implantação do novo esquema de tratamento para a Hanseníase, a chamada poliquimioterapia única (PQT-U).sobre esse novo esquema a alternativa INCORRETA é:",
       "alternativas": [
-        "Proteína",
-        "Energia",
-        "Enzima",
-        "Vitamina"
+        "as formas paucibacilares quanto as multibacilares serão tratadas da mesma forma, utilizando 3 drogas.",
+        "rifampicina, clofazimina e dapsona são as drogas de escolha para o tratamento de hanseníase.",
+        "o tempo do tratamento permanece em 6 meses para as formas paucibacilares e 12 meses para as formas multibacilares",
+        "a adoção da pqt-u visa reduzir efeitos adversos relacionados à dapsona, permitindo sua substituição por ofloxacino nos casos multibacilares como primeira linha de tratamento."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A hanseníase é uma doença infecciosa de evolução crônica que, embora curável, ainda permanece endêmica em várias regiões do mundo. Está associada à pobreza e ao acesso precário a moradia, alimentação, cuidados de saúde e educação. No Brasil, ainda é considerada um importante desafio em saúde pública. Assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "todos os casos de hanseníase que suscitem dúvida sobre a classificação operacional devem ser tratados como mb.",
+        "o diagnóstico da hanseníase é eminentemente clínico e não pode ser confirmado no nível da atenção primária à saúde.",
+        "a hanseníase paucibacilar caracteriza-se pela presença de uma a cinco lesões cutâneas e baciloscopia obrigatoriamente negativa.",
+        "a hanseníase multibacilar caracteriza-se pela presença de mais de cinco lesões de pele e/ou baciloscopia positiva."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente foi diagnosticado com Hanseníase e apresenta: lesões em placa na pele, com bordas bem delimitadas e eritematosas; queda de pelos e alteração das sensibilidades térmica, dolorosa e tátil. As lesões de pele apresentam-se em número reduzido e há comprometimento de nervos de forma assimétrica. A baciloscopia de raspado intradérmico foi negativa. Esse caso é compatível com a forma_____________. Assinale a alternativa que completa corretamente a lacuna.",
+      "alternativas": [
+        "tuberculóide.",
+        "virchowiana.",
+        "dimorfa.",
+        "indeterminada."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "\"BRABÃO\", estudante de medicina, foi diagnosticado com hanseníase. Nessa situação, para fins de protocolo, são considerados como contatos “toda e qualquer pessoa que resida ou tenha residido, conviva ou tenha convivido com o doente de hanseníase, no âmbito domiciliar, nos últimos __________ anteriores ao diagnóstico da doença, podendo ser familiar ou não.",
+      "alternativas": [
+        "5 anos.",
+        "3 meses.",
+        "8 meses.",
+        "12 anos."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Após participarem de jogos universitários, um grupo de estudantes de medicina manifestou preocupação quanto à possibilidade de exposição à hanseníase. Considerando a forma de transmissão da doença, é correto afirmar que a hanseníase é transmitida por indivíduos com a forma infectante (multibacilar), que ainda não iniciaram tratamento, principalmente por meio da eliminação do bacilo pela via:",
+      "alternativas": [
+        "sexual.",
+        "gastrointestinal.",
+        "respiratória.",
+        "hematogênica."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Mariana foi encaminhada a um Centro Dermatológico de referência apresentando a pele avermelhada, seca, face infiltrada, com presença de múltiplas pápulas, com queixa de câimbras e formigamentos nas mãos e pés e artralgia. Realizou o teste de baciloscopia, com resultado positivo. O quadro clínico apresentado caracteriza: hanseníase do tipo:",
+      "alternativas": [
+        "dimorfa.",
+        "virchowiana.",
+        "tuberculoide.",
+        "indeterminada."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre a hanseníase, analise as afirmativas a seguir e assinale a alternativa correta. I- O modo de transmissão ocorre principalmente pelas vias respiratórias. II- O período de incubação dura em média de 1 a 3 meses. III- Os doentes multibacilares não são considerados importantes como fonte de transmissão da doença devido à baixa carga bacilar. IV- As pessoas com a forma paucibacilar, no entanto, constituem o grupo contagiante, mantendo-se como fonte de infecção, enquanto o tratamento específico não for iniciado. Estão corretas as afirmativas:",
+      "alternativas": [
+        "i, ii, iii e iv.",
+        "i apenas.",
+        "i, iii e iv, apenas.",
+        "iii e iv, apenas."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Marilda, estudante de medicina, se prepara para fazer uma visita domiciliar a uma família que se mudara recentemente para a área de abrangência da unidade de saúde da família Campo Bonito. Marilda observou que Adailson, 40 anos, aposentado, apresentava bolhas por queimadura por calor em antebraço direito que, segundo ele, não havia percebido a exposição à chama do fogão, porque não sentia nada naquela região. Ao realizar o exame físico, Marilda observou a presença de múltiplas lesões cutâneas nodulares, endurecidas e dolorosas nas pernas, braços e face, infiltração facial com presença de madarose, edema de membros inferiores, anestesia na sola dos pés, com presença de deformidade e úlcera plantar. Frente a essa situação, Marilda encaminhou Adailson para avaliação suspeitando se tratar de um caso de hanseníase na forma:",
+      "alternativas": [
+        "virchowiana.",
+        "dimorfa.",
+        "tuberculoide.",
+        "indeterminada."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Paciente procura a unidade de saúde relatando que há 03 meses surgiram manchas de coloração acastanhada com bordas definidas, formato irregular, perda de pelos no leito das manchas e formigamento em MMSS e espessamento de nervos. Foi realizado o teste de dermatoneurológico no qual foram identificadas perdas de sensibilidade tátil, térmica e dolorosa em 7 manchas.Sobre o diagnóstico e tratamento da hanseníase, no caso apresentado, podemos afirmar que:",
+      "alternativas": [
+        "o paciente foi diagnosticado, para fins de tratamento, com uma forma multibacilar da hanseníase, pois apresentou mais de 5 lesões. o tratamento terá duração de 12 meses com uma poliquimioterapia composta por rifampicina, dapsona e clofazimina.",
+        "o paciente foi diagnosticado, para fins de tratamento, com uma forma paucubacilar da hanseníase, pois apresentou mais de 5 lesões. o tratamento terá duração de 06 meses com uma poliquimioterapia composta por rifampicina e dapsona.",
+        "o paciente foi diagnosticado, para fins de tratamento, com uma forma multibacilar da hanseníase, pois apresentou mais de 5 lesões. o tratamento terá duração de 06 meses com uma poliquimioterapia composta por rifampicina e clofazimina.",
+        "o paciente foi diagnosticado, para fins de tratamento, com uma forma multibacilar da hanseníase, pois apresentou mais de 5 lesões. o tratamento terá duração de 12 meses com uma poliquimioterapia composta por rifampicina, etambutol e pirazinamida."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A Hanseníase é infecção granulomatosa crônica, causada pelo bacilo Mycobacterium leprae. Os profissionais de saúde têm um importante papel no diagnóstico, no controle e na prevenção dessa patologia. Sobre ela, é CORRETO afirmar que:",
+      "alternativas": [
+        "o diagnóstico de um caso de hanseníase é essencialmente laboratorial. se a baciloscopia tiver resultado positivo, define-se o caso como multibacilar ou paucibacilar.",
+        "a hanseníase apresenta um curto período de incubação que pode variar de dois dias a uma semana.",
+        "a principal via de eliminação do bacilo pelo doente e a mais provável via de entrada deste no organismo são as vias aéreas superiores (mucosa nasal e orofaringe) por meio de um contato mínimo e rápido, o que torna o contato social mais importante que o contato domiciliar para as intervenções de controle e prevenção da doença.",
+        "a reação hansênica tipo 1 ou reação reversa caracteriza-se pelo aparecimento de novas lesões dermatológicas (manchas ou placas), infiltrações, alterações de cor e edema nas lesões antigas, com ou sem espessamento e dor de nervos periféricos (neurite)."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A madarose superciliar e ciliar é uma característica clínica observada em alguns pacientes acometidos pela hanseníase do tipo:",
+      "alternativas": [
+        "dimorfa",
+        "virchowiana",
+        "tuberculoide",
+        "indeterminada"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente do sexo feminino, 35 anos de idade, em tratamento para hanseníase dimorfa na 2ª dose de PQT U, evoluindo com quadro  depressivo desde o diagnóstico, comparece trazida  por familiares que relataram há 3 dias quadro de  febre, mialgia, inapetência, mal-estar geral,  acompanhado do surgimento de NÓDULOS eritematosos dolorosos e placas eritematosas em todo o corpo. Considerando o quadro clínico descrito e o achado  no exame físico da imagem, podemos afirmar que:",
+      "alternativas": [
+        "paciente está com reação tipo 1, e provavelmente teve como gatilho um quadro viral  de arbovirose que ocasionou a febre.",
+        "paciente está com reação tipo 3, e deve ser  tratada apenas com talidomida.",
+        "paciente está com reação tipo 2, e pode ser  tratada com talidomida e pentoxifilina.",
+        "paciente está com reação tipo 1 e reação tipo 2, sendo a corticoterapia uma opção terapêutica."
+      ],
+      "correta": 2,
+      "imagem": "/imagens/imagemhanseniase1.png"
+    },
+    {
+      "pergunta": "Este paciente foi tratado para hanseníase há 8 anos, e comparece ao serviço onde se tratou regularmente, apresentando as alterações destacadas  nessas imagens. O que aconteceu com ele, a melhor conduta, além dos  cuidados com esta ulceração seria:",
+      "alternativas": [
+        "reação hansênica do tipo 2 com neurite e lesão do nervo fibular.  notificar como “outros reingressos”, iniciar tratamento específico, utilizar  prednisona e aas e acompanhar mensalmente.",
+        "reação hansênica do tipo 1 com neurite e ulceração subsequente a lesão do  nervo sural. notificar como “outros reingressos”, iniciar tratamento específico,  utilizar talidomida, prednisona e aas e acompanhar quinzenalmente.",
+        "reação hansênica do tipo 2 com neurite e ulceração subsequente a lesão do  nervo fibular superficial. notificar como “recidiva”, iniciar tratamento específico, utilizar  talidomida, prednisona e aas e acompanhar quinzenalmente.",
+        "reação hansênica do tipo 1 com neurite e ulceração subsequente a lesão do  nervo fibular superficial. notificar como “outros reingressos”, iniciar tratamento  específico, utilizar talidomida, prednisona e aas e acompanhar mensalmente."
+      ],
+      "correta": 2,
+      "imagem": "/imagens/imagemhanseniase2.png"
+    },
+    {
+      "pergunta": "A Hanseníase, especialmente durante a Reação Tipo I (Reação Reversa), pode causar danos inflamatórios aos nervos periféricos, resultando em déficits motores e sensoriais. Com base nisso, assinale a alternativa INCORRETA quanto às possíveis complicações funcionais decorrentes dessa condição:",
+      "alternativas": [
+        "mão em garra",
+        "pé caído",
+        "paralisia do nervo ulnar",
+        "mão espástica"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Homem de 31 anos, sem diagnóstico e tratamento  prévios, alega início de parestesias nos membros  inferiores há 1 ano com surgimento, há 6 meses, de lesões nodulares e áreas de infiltração disseminadas.  Há 4 dias houve ulceração de algumas lesões, além de  febre e adenomegalias. Indique a opção com o  diagnóstico e tratamento correto:",
+      "alternativas": [
+        "reação tipo 2, iniciar pqt-mb e talidomida.",
+        "reação tipo 1, iniciar prednisona.",
+        "reação tipo 2, iniciar talidomida.",
+        "reação tipo 2, iniciar pqt-mb, talidomida e prednisona."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Você atende o paciente Wilson, de 10 anos, e realiza o diagnóstico de hanseníase tuberculoide. Tendo em vista esse caso, assinale a alternativa correta sobre a vigilância epidemiológica.",
+      "alternativas": [
+        "o teste de mitsuda deve ser realizado em todos os contatos desse paciente.",
+        "a vacinação com a bcg é dispensável naqueles contatos que já possuem uma cicatriz de bcg.",
+        "a hanseníase é uma doença de notificação compulsória em todo território nacional e de investigação obrigatória.",
+        "os contatos que forem avaliados e não tiverem o diagnóstico de hanseníase devem ser seguidos por 10 anos."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Após o início do tratamento da hanseníase tuberculoide, o paciente Wilson procura seu ambulatório queixando-se de dor intensa no membro superior direito há 1 semana. Você avalia o paciente e percebe que as lesões de pele de hanseníase estão mais avermelhadas e surgiram algumas novas lesões. Além disso, você palpou o nervo radial direito do paciente e ele queixou-se de muita dor à palpação. Tendo em vista o caso clínico, assinale a alternativa correta.",
+      "alternativas": [
+        "wilson provavelmente perdeu a resposta ao tratamento com a poliquimioterapia e deveremos utilizar, nesse momento, um esquema alternativo.",
+        "trata-se de um quadro de reação reversa com neurite associada. devemos manter a poliquimioterapia e iniciar tratamento com prednisona.",
+        "esse paciente está apresentando um quadro de reação hansênica do tipo ii. o tratamento deve ser realizado com talidomida.",
+        "não podemos estar diante de um quadro de estado reacional, pois ele ocorre apenas após o tratamento da hanseníase."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Estudante, sempre que você estiver diante de um paciente de hanseníase que vem apresentando um quadro agudo/subagudo você precisa suspeitar de uma reação hansênica! Existem dois tipos principais de reação hansênica, tipo I e tipo II. A reação do tipo I é caracterizada por inflamação de lesões pré-existentes, surgimento de algumas novas lesões e, frequentemente, neurite. Os pacientes com reação do tipo I não costumam apresentar sintomas sistêmicos. Lembrar de Mão em garra, pé caído e paralisia facial, associados ao espessamento neural e à perda de sensibilidade nas áreas acometidas, são comumente sequelas decorrentes da reação aguda tipo I. Já a reação do tipo II é caracterizada por surgimento de nódulos eritematosos disseminados associados a um quadro sistêmico de febre, mialgia, artralgia e, por vezes, comprometimento ocular, testicular e neural.",
+      "alternativas": [
+        "ok",
+        "ok",
+        "ok",
+        "super ok"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "teste de Mitsuda na hanseníase revela o(a):",
+      "alternativas": [
+        "grau de imunidade do hospedeiro.",
+        "proporção direta sobre a carga bacilar.",
+        "utilidade em caso de avaliação de endemicidade da doença.",
+        "virulência do agente."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Com base nas características e manifestações das reações hansênicas (tipos 1 e 2), estabeleça a correspondência correta: ( ) Eritema nodoso hansênico ( ) Alterações de core edema nas lesões antigas ( ) Glomerulonefrite. ( ) Aparecimento de novas lesões dermatológicas ( ) Lesões oculares reacionais.  A sequência correta é:",
+      "alternativas": [
+        "2,1,2,1,2",
+        "1,2,1,2,1",
+        "2,2,1,1,2",
+        "1,1,2,2,1"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Paciente de 56 anos, previamente sem diagnóstico, apresenta quadro de neuropatia em investigação. Há cerca de um mês surgiram múltiplas lesões cutâneas infiltradas e eritematosas, acompanhadas de dor neural, alteração de sensibilidade e espessamento de nervos, como evidenciado ao exame clínico e confirmado por Doppler. As imagens mostram placas infiltradas em tronco e membros superiores. Com base nas imagens clínicas, no número de lesões, no padrão neural e na evolução aguda com dor e inflamação, assinale a alternativa que representa corretamente a classificação operacional da hanseníase e o tipo de reação hansênica:",
+      "alternativas": [
+        "paucibacilar; reação hansênica tipo 2",
+        "multibacilar; reação hansênica tipo 2",
+        "multibacilar; reação hansênica tipo 1",
+        "paucibacilar; reação hansênica tipo 1"
+      ],
+      "correta": 2,
+      "imagem": "/imagens/imagemhanseniase3.png"
+    },
+    {
+      "pergunta": "A Hanseníase é uma doença infecciosa de evolução crônica, que, embora curável, ainda permanece endêmica em várias regiões do mundo, principalmente na Índia, Brasil e Indonésia. Está associada à pobreza e ao acesso precário à moradia, alimentação, cuidados de saúde e educação. No Brasil ainda é considerada um importante desafio em saúde pública. Analise a alternativa correta, no que diz respeito ao diagnóstico da Hanseníase considerando que, se for realizado precocemente, torna-se a ferramenta mais importante para o tratamento oportuno, favorecendo a quebra da cadeia de transmissão do M. leprae e prevenindo o desenvolvimento das incapacidades físicas (BRASIL,2022).",
+      "alternativas": [
+        "a avaliação neurológica simplificada (ans) é um exame de caráter obrigatório e tem por objetivo monitorar a função neural, nessa o exame físico inclui a inspeção minuciosa das mãos, pés, a palpação de nervos periféricos (mediano, radial, e tibial posterior), a realização de testes da sensibilidade e força muscular, além da averiguação da acuidade visual.",
+        "apesar dos avanços no campo da biologia molecular e das técnicas sorológicas, o diagnóstico da hanseníase permanece essencialmente clínico. a avaliação minuciosa, incluindo o exame cuidadoso das lesões cutâneas e dos nervos periféricos, na maioria dos casos, será suficiente para a definição diagnóstica da hanseníase.",
+        "a baciloscopia direta para bacilos álcool-ácido resistentes (baar) é um exame laboratorial que define essencialmente o diagnóstico da hanseníase, buscando detectar a presença do m. leprae em esfregaços de raspado intradérmico e estimar a carga bacilar apresentada pelo paciente. a pesquisa do bacilo também pode ser feita também através de colorações especiais em fragmentos de biópsia de pele, nervos, linfonodos e outros órgãos; nesses casos a baciloscopia avalia a carga bacilar apenas no fragmento analisado.",
+        "o exame histopatológico, é considerado uma investigação obrigatória pela oms, tratando-se de uma importante ferramenta no diagnóstico dos casos como na classificação da doença para fins de tratamento, e na avaliação da resposta terapêutica. apenas não é usada de rotina por exigir análise citológica, o que não está facilmente disponível na rede da atenção básica."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "No Brasil, a hanseníase é considerada um importante desafio em saúde pública. É tida como uma das doenças mais antigas da humanidade, cuja origem remonta a uma doença humana na África Ocidental há cerca de 100.000 anos, que se espalhou pelo mundo por meio de pessoas que migravam em rotas comerciais e do colonialismo. Nesse sentido, julgue as assertivas a seguir. I - A investigação para a hanseníase define como contato toda e qualquer pessoa que resida ou tenha residido, conviva ou tenha convivido com o doente de hanseníase, no âmbito domiciliar, nos últimos cinco anos anteriores ao diagnóstico da doença, podendo ser familiar ou não. II - A investigação de hanseníase com uso do teste rápido está indicada quando os contatos de casos confirmados de hanseníase, se enquadrem nas seguintes condições:  III - A avaliação dermatológica para casos suspeitos de hanseníase consiste em inspeção da pele em toda a superfície corporal e avaliação da sensibilidade (térmica, dolorosa e tátil) nas lesões de pele e/ou nas áreas referidas como dormentes. IV - A avaliação neurológica é imprescindível e somente pode ser iniciada após ser realizada a avaliação dermatológica e, principalmente, após a realização dos exames de tomografia e ressonância de crânio e coluna vertebral. Estão CORRETAS as assertivas",
+      "alternativas": [
+        "i e ii, apenas.",
+        "i, ii e iii, apenas.",
+        "i, iii e iv, apenas.",
+        "i, ii e iv, apenas."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Homem de 39 anos, técnico de campo, procedente de região com endemicidade moderada para hanseníase, procura atendimento ambulatorial devido à presença de manchas hipocrômicas no tronco, notadas há cerca de 4 meses. Relata que surgiram após exposição solar intensa. Referiu prurido leve no início, atualmente ausente. Não sente dor e nega alteração de sensibilidade. As manchas não escurecem com o bronzeamento. Gabriel, o cardiologista, realiza o exame físico: Máculas hipocrômicas de bordas irregulares e mal delimitadas, localizadas na região escapular e torácica. Descamação furfurácea ao estiramento da pele (sinal de Zileri positivo). teste de sensibilidade não avaliado. sianais de espessamento neural(ausente). Força muscular preservada. Exames complementares: Baciloscopia de raspado intradérmico: Solicitado - aguardando resultado, Sorologia anti-PGL-1 (ML Flow): negativa Lâmina com hidróxido de potássio (KOH): presença de hifas curtas e esporos (\"espaguete com almôndegas\"). Com base no caso apresentado a Dra. Thais pergunta para Gabriel: Qual o principal diagnóstico provável e seu diagnóstico diferencial mais importante?",
+      "alternativas": [
+        "hanseníase indeterminada — diagnóstico diferencial: dermatite de contato hipocrômica crônica",
+        "dermatite de contato hipocrômica crônica — diagnóstico diferencial: pitiríase versicolor",
+        "pitiríase versicolor — diagnóstico diferencial: hanseníase tuberculoide",
+        "hanseníase tuberculoide — diagnóstico diferencial: infarto agudo do miocárdio com st"
       ],
       "correta": 2
     }
