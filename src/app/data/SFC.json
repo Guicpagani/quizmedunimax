@@ -14,8 +14,8 @@
     {
       "pergunta": "Uma das peculiaridades da hanseníase está na abrangência  dos cuidados exigidos à pessoa com hanseníase, suas  complicações e sequelas, cuja demanda assistencial vai desde a atenção primária à atenção especializada  ambulatorial e hospitalar. Assim, é INCORRETO afirmar que:",
       "alternativas": [
-        "a atenção à pessoa com hanseníase, suas complicações e sequelas, deve ser oferecida somente nos serviços de  referência da rede do sus especializados na doença;",
-        "o modelo de intervenção para o controle da hanseníase é  baseado no diagnóstico precoce, tratamento oportuno de  todos os casos diagnosticados, prevenção e tratamento de  incapacidades e vigilância dos contatos domiciliares;",
+        "a atenção à pessoa com hanseníase, suas complicações e sequelas, deve ser oferecida somente nos serviços de  referência da rede do sus especializados na doença.",
+        "o modelo de intervenção para o controle da hanseníase é  baseado no diagnóstico precoce, tratamento oportuno de todos os casos diagnosticados, prevenção e tratamento de  incapacidades e vigilância dos contatos domiciliares.",
         "as ações de controle de hanseníase devem ser executadas  em toda a rede de atenção primária do sistema único de",
         "o sus alcançou maior avanço no processo de  descentralização da atenção à hanseníase com a  reorganização da atenção primária, especialmente, com o programa da saúde da família (psf)."
       ],
@@ -244,7 +244,7 @@
       "correta": 0
     },
     {
-      "pergunta": "Com base nas características e manifestações das reações hansênicas (tipos 1 e 2), estabeleça a correspondência correta: ( ) Eritema nodoso hansênico ( ) Alterações de core edema nas lesões antigas ( ) Glomerulonefrite. ( ) Aparecimento de novas lesões dermatológicas ( ) Lesões oculares reacionais.  A sequência correta é:",
+      "pergunta": "Com base nas características e manifestações das reações hansênicas (tipos 1 e 2), estabeleça a correspondência correta: ( ) Eritema nodoso hansênico ( ) Alterações de core edema nas lesões antigas ( ) Glomerulonefrite. ( ) Aparecimento de novas lesões dermatológicas ( ) Lesões oculares reacionais. A sequência correta é:",
       "alternativas": [
         "2,1,2,1,2",
         "1,2,1,2,1",
@@ -305,7 +305,7 @@
       "correta": 0
     },
     {
-      "pergunta": "Mulher, 54 anos de idade, menopausada há 3 anos, vem em uso de terapia de reposição hormonal há um ano. Secundigesta e secundípara. Nega cirurgias prévias ou comorbidades. Vem em atendimento ginecológico referindo sangramento via vaginal, de pouca intensidade, há 3 dias.",
+      "pergunta": "Mulher, 54 anos de idade, menopausada há 3 anos, vem em uso de terapia de reposição hormonal há um ano. Secundigesta e secundípara. Nega cirurgias prévias ou comorbidades. Vem em atendimento ginecológico referindo sangramento via vaginal, de pouca intensidade, há 3 dias. Sobre a terapia de reposição hormonal que esta paciente vem fazendo, pode-se afirmar:",
       "alternativas": [
         "a paciente precisa estar em uso de estrogênio isolado, visto que a progesterona, nesse caso, só vai aumentar o risco de atrofia endometrial.",
         "por ter útero, a paciente teria indicação, no início, do uso de terapia de reposição hormonal combinada com estrógeno e progestágeno.",
@@ -321,6 +321,16 @@
         "terapia oral somente de estrogênio.",
         "terapia com óvulo vaginal de progesterona.",
         "terapia com creme vaginal de estrogênio."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "O conceito de janela de oportunidade da Terapia Hormonal (TH) em relação à  síndrome menopausal refere-se:",
+      "alternativas": [
+        "em um período de 10 anos após a menopausa, ou até os 60 anos de idade.",
+        "apenas nos primeiros 5 anos após a menopausa, independentemente da idade",
+        "independentemente do tempo desde a menopausa, inclusive após os 60 anos, desde que não haja contraindicações cardiovasculares.",
+        "somente durante a perimenopausa, sem qualquer benefício comprovado na pós-menopausa."
       ],
       "correta": 0
     },
@@ -435,6 +445,16 @@
       "correta": 2
     },
     {
+      "pergunta": "Climatério é definido como:",
+      "alternativas": [
+        "o início da irregularidade da menstruação, seguida por amenorreia.",
+        "a ausência de menstruação por 12 meses consecutivos.",
+        "uma síndrome clínica caracterizada pela diminuição da produção de estradiol pelos ovários.",
+        "o início do primeiro sintoma."
+      ],
+      "correta": 2
+    },
+    {
       "pergunta": "A menopausa é definida como:",
       "alternativas": [
         "2 ou mais menstruações depois dos 50 anos.",
@@ -525,6 +545,16 @@
       "correta": 3
     },
     {
+      "pergunta": "Senhora, 56 anos de idade, multípara, queixa-se de sintomas vasomotores há cerca de três anos, que pioraram após tratamento cirúrgico radical para mioma submucoso. Assinale a alternativa que apresenta,corretamente, a melhor terapia para tal sintomatologia.",
+      "alternativas": [
+        "androstenediona.",
+        "acetato de medroxiprogesterona.",
+        "estrogênios e progestagênios.",
+        "estradiol."
+      ],
+      "correta": 3
+    },
+    {
       "pergunta": "Mulher, 49a, relata que há 9 meses iniciou quadro de irregularidade menstrual, inicialmente o intervalo entre os sangramentos diminuiu e, após, notou aumento do intervalo entre as menstruações. Encontra-se há 4 meses sem menstruar. Queixa-se desde então de períodos de intensa sudorese, associados a rubor e calor facial. A hipótese e os exames complementares para o diagnóstico são:",
       "alternativas": [
         "síndrome do climatério; dosagens de fsh e estradiol séricos.",
@@ -543,6 +573,147 @@
         "hanseníase indeterminada."
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Um paciente de 62 anos, sexo masculino, apresenta queixa de dor abdominal e perda de peso inexplicável nos últimos 3 meses. Ele relata alterações no hábito intestinal, com episódios de diarreia intercalados com constipação. Ao exame físico, observa-se uma massa palpável na região abdominal e sinais de anemia. Qual a conduta inicial mais apropriada?",
+      "alternativas": [
+        "indicar colonoscopia para rastreamento de neoplasia colorretal.",
+        "solicitar tomografia computadorizada simples de abdome.",
+        "iniciar abordagem sintomática para alívio da dor abdominal.",
+        "requisitar exames laboratoriais visando investigação de anemia."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente de 47 anos, sexo masculino, apresenta-se ao pronto-socorro com queixas de dor abdominal intensa e diarreia com sangue. Ele tem um histórico de pólipos adenomatosos removidos em colonoscopias anteriores. Ao exame, há dor à palpação no abdômen inferior e sinais de desidratação. Qual a principal hipótese diagnóstica?",
+      "alternativas": [
+        "indicar colonoscopia para rastreamento de neoplasia colorretal.",
+        "solicitar tomografia computadorizada simples de abdome.",
+        "iniciar abordagem sintomática para alívio da dor abdominal.",
+        "requisitar exames laboratoriais visando investigação de anemia."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Uma mulher de 60 anos com histórico familiar de câncer colorretal e sem sintomas apresenta-se para rastreamento. Qual é a recomendação mais apropriada para o rastreamento dessa paciente?",
+      "alternativas": [
+        "iniciar o rastreamento com pesquisa anual de sangue oculto nas fezes.",
+        "indicar colonoscopia com intervalo de 5 anos entre os exames.",
+        "realizar rastreamento com retossigmoidoscopia a cada 10 anos.",
+        "solicitar exames de imagem com periodicidade bienal."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Paciente do sexo masculino, 55 anos de idade, realizou uma colonoscopia que mostrou uma tumoração subestenosante no reto médio. A biópsia confirmou a presença de adenocarcinoma. O cirurgião assistente solicitou exames de estadiamento pré-operatório. Com relação ao quadro clínico descrito acima, assinale a alternativa CORRETA.",
+      "alternativas": [
+        "o nível sérico de antígeno carcinoembrionário basal é um fator prognóstico relacionado à sobrevida.",
+        "a ressonância magnética pélvica tem menos acurácia que a tomografia para o estudo da margem circunferencial.",
+        "a tomografia por emissão de pósitrons deve ser usada de rotina para a detecção de metástases a distância.",
+        "a radiografia de tórax tem uma sensibilidade similar à tomografia para a detecção de metástases pulmonares."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Um homem de 58 anos, ex-fumante, apresenta-se à unidade de saúde com queixa de dor abdominal difusa há aproximadamente duas semanas. Relata também alteração no hábito intestinal, com episódios de diarreia intercalados com constipação, além de perda de peso de cerca de 5 kg sem razão aparente. Ao exame físico, nota-se dor à palpação no quadrante inferior esquerdo e sinais de desidratação leve. O hemograma revela anemia microcítica e a dosagem de marcadores tumorais mostra aumento do antígeno carcinoembrionário. Qual é o diagnóstico mais provável?",
+      "alternativas": [
+        "câncer colorretal",
+        "doença inflamatória intestinal",
+        "síndrome do intestino irritável",
+        "adenoma tubulovilosos"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Uma mulher de 50 anos, sem comorbidades relevantes, apresenta uma lesão melanocítica na região das costas. A lesão tem bordas regulares, coloração homogênea e diâmetro de 5 mm. Ao exame físico, não há linfonodos palpáveis. Qual a abordagem inicial mais adequada para essa lesão?",
+      "alternativas": [
+        "monitorar a lesão por um ano",
+        "se a principal suspeita for melanoma realizar biópsia excisional",
+        "se a principal suspeita for melanoma realizar biópsia incisional",
+        "se a principal suspeita for melanoma realizar biópsia em shaving superficial."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Sobre a regra do ABCDE para identificar um Melanoma, assinale a alternativa ERRADA:",
+      "alternativas": [
+        "assimetria. a forma da mancha não coincide com as outras manchas que o paciente ou seus familiares possui.",
+        "borda. as bordas são irregulares, entalhadas ou dentadas.",
+        "cor. é muitas vezes desigual. tons de preto, marrom e canela podem estar presentes. áreas brancas, cinza, rosa, vermelha ou azul também podem ser vistas.",
+        "diâmetro. o diâmetro maior que 6 mm."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Com relação aos cânceres de pele, assinale a alternativa correta:",
+      "alternativas": [
+        "o carcinoma espinocelular é o tumor maligno mais frequente na pele.",
+        "o lentigo maligno melanoma é o tipo mais comum dos melanomas malignos.",
+        "um método importante para auxílio diagnóstico dos melanomas é a regra do abcde, sendo que a letra \"\"d\"\" significa diâmetro da lesão geralmente maior que 1cm.",
+        "pacientes com carcinoma basocelular apresentam risco aumentado para o desenvolvimento de melanoma."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Considere os itens a seguir: I– Biópsia incisional: Quando a lesão é grande ou demonstra características heterogêneas em diferentes localizações, então deve-se recolher amostras de mais de uma área. É um procedimento que remove somente uma pequena porção da lesão. II– Biópsia excisional: Implica na remoção da lesão em sua totalidade, incluindo uma área de margem de segurança. III– Biópsia por aspiração: Deve ser realizada com uma agulha e seringa, após ser realizada uma incisão, penetrando na lesão suspeita e depois em suas margens, aspirando os seus conteúdos. \tAssinale a alternativa correta:",
+      "alternativas": [
+        "i e ii estão corretas.",
+        "somente a ii está incorreta.",
+        "i e iii estão incorretas.",
+        "somente a i está correta."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Paciente masculino, de 56 anos, consultou por lesão de pele no dorso (imagem abaixo) que já vinha sendo observada há muitos anos, mas que, nos últimos meses, apresentou crescimento e mudança de cor. Negou prurido ou sangramento. Não tinha histórico pessoal ou familiar de melanoma. O maior diâmetro da lesão é de 8 mm. Diante desse quadro clínico, qual a conduta mais adequada?",
+      "alternativas": [
+        "biópsia excisional da lesão com margem mínima de pele aparentemente normal (1-2 mm).",
+        "biópsia incisional com navete cirúrgica, incluindo borda aparentemente mais ativa.",
+        "biópsias incisionais com punch em pelo menos 3 áreas mais suspeitas (borda e transição de cor).",
+        "exérese da lesão com margem mínima de pele aparentemente normal (1-2 cm)."
+      ],
+      "correta": 0,
+      "imagem": "/imagens/imagemmelanoma1.png"
+    },
+    {
+      "pergunta": "Mulher, 65 anos, com lesão em fronte de aumento progressivo, 2 cm de diâmetro, ulcerada, bordas translúcidas, teleangiectasias que sangram à manipulação. Essa lesão é compatível com:",
+      "alternativas": [
+        "melanoma;",
+        "carcinoma espinocelular;",
+        "carcinoma basocelular;",
+        "sarcoma epitelioide."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente do sexo feminino, com 65 anos de idade, com queixa de lesão na fronte há vários anos, que lentamente vem aumentando de tamanho e ulcerou. Ao exame dermatológico, apresenta nódulo de aproximadamente 1,5 cm de diâmetro, com ulceração central recoberta por crosta que, ao ser retirada, ocasiona sangramento. As bordas da lesão são TRANSLÚCIDAS, com formações perláceas e finas telangiectasias. Estudante, se falamos de bordas translúcidas devemos lembrar de:",
+      "alternativas": [
+        "melanoma maligno.",
+        "carcinoma espinocelular.",
+        "carcinoma basocelular.",
+        "sarcoma epitelioide."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente, masculino, 58 anos, procura atendimento médico, após esposa ter percebido nódulo no dorso com crescimento progressivo há 3 meses. Nega lesões prévias ou trauma nesta topografia. Nega sintomas locais associados. Ao exame dermatológico, observa-se lesão nodular exofítica eritematosa de consistência firme, com superfície exulcerada, medindo aproximadamente 2 cm em seu maior diâmetro. Não apresenta alteração de cor ou de textura ao redor da lesão. Considerando o diagnóstico diferencial da lesão descrita no caso acima, responda corretamente.",
+      "alternativas": [
+        "a evolução e a localização sugerem o diagnóstico de um carcinoma basocelular nodular.",
+        "o diagnóstico de melanoma nodular prejudica a utilização da regra abcde para detecção precoce.",
+        "o diagnóstico de melanoma é pouco provável por se tratar de área exposta ao sol de forma esporádica.",
+        "o diagnóstico de melanoma é pouco provável, pela ausência de nevo melanocítico antecedendo a lesão."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Sobre os cânceres de pele (carcinoma espinocelular - CEC, carcinoma basocelular - CBC e melanoma), assinale a correta.",
+      "alternativas": [
+        "o carcinoma de células escamosas (cec) e o carcinoma basocelular (cbc) são os tipos menos comuns de neoplasias malignas no mundo.",
+        "os cecs invasivos são lesões descamativas palpáveis que nunca ulceram e não apresentam bordas elevadas. eles podem ser confundidos com o ceratoacantoma, uma lesão maligna que também pode descamar.",
+        "a maioria dos cecs começa com uma proliferação de células de queratina na camada basal da epiderme, que aparece como áreas avermelhadas, ou róseas, clinicamente denominadas ceratose actínica.",
+        "a maioria dos cecs pode ser tratada localmente com excelentes resultados. a recidiva local está associada a um maior risco de metástases regionais e a distância. o primeiro local de metástases geralmente é o sistema nervoso central e raramente se disseminam para linfonodos."
+      ],
+      "correta": 2
     }
   ]
 }

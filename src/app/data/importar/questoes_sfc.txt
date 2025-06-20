@@ -6,10 +6,10 @@ D) V-V-F
 CORRETA: D
 
 PERGUNTA: Uma das peculiaridades da hanseníase está na abrangência  dos cuidados exigidos à pessoa com hanseníase, suas  complicações e sequelas, cuja demanda assistencial vai desde a atenção primária à atenção especializada  ambulatorial e hospitalar. Assim, é INCORRETO afirmar que:
-A) A atenção à pessoa com hanseníase, suas complicações e sequelas, deve ser oferecida somente nos serviços de  referência da rede do SUS especializados na doença; 
-B) O modelo de intervenção para o controle da hanseníase é  baseado no diagnóstico precoce, tratamento oportuno de  todos os casos diagnosticados, prevenção e tratamento de  incapacidades e vigilância dos contatos domiciliares; 
+A) A atenção à pessoa com hanseníase, suas complicações e sequelas, deve ser oferecida somente nos serviços de  referência da rede do SUS especializados na doença. 
+B) O modelo de intervenção para o controle da hanseníase é  baseado no diagnóstico precoce, tratamento oportuno de todos os casos diagnosticados, prevenção e tratamento de  incapacidades e vigilância dos contatos domiciliares. 
 C) As ações de controle de hanseníase devem ser executadas  em toda a rede de atenção primária do Sistema Único de 
-Saúde (SUS) e em razão de seu potencial incapacitante, deve-se garantir atenção especializada em unidades de  referência ambulatorial e hospitalar, sempre que necessário; 
+Saúde (SUS) e em razão de seu potencial incapacitante, deve-se garantir atenção especializada em unidades de  referência ambulatorial e hospitalar, sempre que necessário. 
 D) O SUS alcançou maior avanço no processo de  descentralização da atenção à hanseníase com a  reorganização da atenção primária, especialmente, com o Programa da Saúde da Família (PSF).
 CORRETA: B
 
@@ -169,7 +169,7 @@ C) Utilidade em caso de avaliação de endemicidade da doença.
 D) Virulência do agente.
 CORRETA: A
 
-PERGUNTA: Com base nas características e manifestações das reações hansênicas (tipos 1 e 2), estabeleça a correspondência correta: ( ) Eritema nodoso hansênico ( ) Alterações de core edema nas lesões antigas ( ) Glomerulonefrite. ( ) Aparecimento de novas lesões dermatológicas ( ) Lesões oculares reacionais.  A sequência correta é:
+PERGUNTA: Com base nas características e manifestações das reações hansênicas (tipos 1 e 2), estabeleça a correspondência correta: ( ) Eritema nodoso hansênico ( ) Alterações de core edema nas lesões antigas ( ) Glomerulonefrite. ( ) Aparecimento de novas lesões dermatológicas ( ) Lesões oculares reacionais. A sequência correta é:
 A) 2,1,2,1,2 
 B) 1,2,1,2,1
 C) 2,2,1,1,2 
@@ -212,8 +212,7 @@ C)Antecedente familiares de câncer cervicouterino de células escamosas contrai
 D) Não há indicação de uso de terapia androgênica na pós-menopausa.
 CORRETA: A
 
-PERGUNTA: Mulher, 54 anos de idade, menopausada há 3 anos, vem em uso de terapia de reposição hormonal há um ano. Secundigesta e secundípara. Nega cirurgias prévias ou comorbidades. Vem em atendimento ginecológico referindo sangramento via vaginal, de pouca intensidade, há 3 dias.
-Sobre a terapia de reposição hormonal que esta paciente vem fazendo, pode-se afirmar:
+PERGUNTA: Mulher, 54 anos de idade, menopausada há 3 anos, vem em uso de terapia de reposição hormonal há um ano. Secundigesta e secundípara. Nega cirurgias prévias ou comorbidades. Vem em atendimento ginecológico referindo sangramento via vaginal, de pouca intensidade, há 3 dias. Sobre a terapia de reposição hormonal que esta paciente vem fazendo, pode-se afirmar:
 A) A paciente precisa estar em uso de estrogênio isolado, visto que a progesterona, nesse caso, só vai aumentar o risco de atrofia endometrial.
 B) Por ter útero, a paciente teria indicação, no início, do uso de terapia de reposição hormonal combinada com estrógeno e progestágeno.
 C) Por ter menopausado já há 3 anos, essa paciente não pode mais estar em uso de terapia de reposição hormonal.
@@ -232,6 +231,7 @@ A) Em um período de 10 anos após a menopausa, ou até os 60 anos de idade.
 B) Apenas nos primeiros 5 anos após a menopausa, independentemente da idade
 C) Independentemente do tempo desde a menopausa, inclusive após os 60 anos, desde que não haja contraindicações cardiovasculares.
 D) Somente durante a perimenopausa, sem qualquer benefício comprovado na pós-menopausa.
+CORRETA: A
 
 PERGUNTA: A terapia de reposição hormonal na menopausa (THM) é o principal tratamento para mulheres menopausadas com síndrome do climatério. Sobre os riscos e benefícios da THM, assinale a alternativa CORRETA.
 A) A THM transdérmica está associada ao aumento de risco de eventos tromboembólicos, quando comparada ao placebo.
@@ -282,7 +282,7 @@ C) A instalação da irregularidade menstrual ocorre no início da perimenopausa
 D) A prática da anticoncepção no climatério deve ser excluída, pois há maior possibilidade de complicações ginecológicas.
 CORRETA:B
 
-PERGUNTA:Todas as afirmações a seguir sobre a perimenopausa são verdadeiras, EXCETO:
+PERGUNTA: Todas as afirmações a seguir sobre a perimenopausa são verdadeiras, EXCETO:
 A) Durante a perimenopausa, as alterações hormonais podem causar irregularidade menstrual e/ou sinais leves de deficiência relativa de estrogênio.
 B) A menopausa geralmente ocorre aproximadamente aos 51 anos de idade devido à depleção, geneticamente determinada, dos folículos ovarianos capazes de responder às gonadotrofinas.
 C) A menopausa ocorre mais cedo em tabagistas e mulheres que não tiveram filhos.
@@ -310,13 +310,12 @@ C) Estrogênio.
 D) Progesterona.
 CORRETA: C
 
-PERGUNTA:
-Climatério é definido como:
+PERGUNTA: Climatério é definido como:
 A) O início da irregularidade da menstruação, seguida por amenorreia.
 B) A ausência de menstruação por 12 meses consecutivos.
 C) Uma síndrome clínica caracterizada pela diminuição da produção de estradiol pelos ovários.
 D) O início do primeiro sintoma.
-CORRTA: C
+CORRETA: C
 
 PERGUNTA: A menopausa é definida como:
 A) 2 ou mais menstruações depois dos 50 anos.
@@ -382,12 +381,12 @@ C) Deve ser indicada a terapia de reposição hormonal transdérmica, pois aumen
 D) A terapia de reposição hormonal tem contraindicação absoluta para a paciente, pois pode desencadear as manifestações da porfiria.
 CORRETA:D
 
-PERGUNTA: Senhora, 56 anos de idade, multípara, queixa-se de sintomas vasomotores há cerca de três anos, que pioraram após tratamento cirúrgico radical para mioma submucoso. Assinale a alternativa que apresenta, corretamente, a melhor terapia para tal sintomatologia.
+PERGUNTA: Senhora, 56 anos de idade, multípara, queixa-se de sintomas vasomotores há cerca de três anos, que pioraram após tratamento cirúrgico radical para mioma submucoso. Assinale a alternativa que apresenta,corretamente, a melhor terapia para tal sintomatologia.
 A) Androstenediona.
 B) Acetato de medroxiprogesterona.
 C) Estrogênios e progestagênios.
 D) Estradiol.
-CORRETA D
+CORRETA: D
 
 PERGUNTA: Mulher, 55 anos, com menopausa aos 50 anos, procura serviço de ginecologia com queixa de ondas de calor e secura vaginal. Nos antecedentes pessoais ela refere tratamento prévio para câncer de mama há seis anos e realizou uma histerectomia total abdominal devido a uma hiperplasia endometrial sem atipias há 2 anos. Sobre o manejo dos sintomas vasomotores dessa paciente, assinale a alternativa correta:
 A) A terapia padrão ouro para o caso acima seria o uso de reposição hormonal com o uso de estrogênio equino conjugado isolado, uma vez que a paciente não apresenta útero.
@@ -409,4 +408,108 @@ B) Linfoma
 C) Hanseniase wirchowiana.
 D) Hanseníase indeterminada.
 CORRETA: A
+
+PERGUNTA: Um paciente de 62 anos, sexo masculino, apresenta queixa de dor abdominal e perda de peso inexplicável nos últimos 3 meses. Ele relata alterações no hábito intestinal, com episódios de diarreia intercalados com constipação. Ao exame físico, observa-se uma massa palpável na região abdominal e sinais de anemia. Qual a conduta inicial mais apropriada?
+A) Indicar colonoscopia para rastreamento de neoplasia colorretal.
+B) Solicitar tomografia computadorizada simples de abdome.
+C) Iniciar abordagem sintomática para alívio da dor abdominal.
+D) Requisitar exames laboratoriais visando investigação de anemia.
+CORRETA: B
+
+PERGUNTA: Um paciente de 47 anos, sexo masculino, apresenta-se ao pronto-socorro com queixas de dor abdominal intensa e diarreia com sangue. Ele tem um histórico de pólipos adenomatosos removidos em colonoscopias anteriores. Ao exame, há dor à palpação no abdômen inferior e sinais de desidratação. Qual a principal hipótese diagnóstica?
+A) Indicar colonoscopia para rastreamento de neoplasia colorretal.
+B) Solicitar tomografia computadorizada simples de abdome.
+C) Iniciar abordagem sintomática para alívio da dor abdominal.
+D) Requisitar exames laboratoriais visando investigação de anemia.
+CORRETA: B
+
+PERGUNTA: Uma mulher de 60 anos com histórico familiar de câncer colorretal e sem sintomas apresenta-se para rastreamento. Qual é a recomendação mais apropriada para o rastreamento dessa paciente?
+A) Iniciar o rastreamento com pesquisa anual de sangue oculto nas fezes.
+B) Indicar colonoscopia com intervalo de 5 anos entre os exames.
+C) Realizar rastreamento com retossigmoidoscopia a cada 10 anos.
+D) Solicitar exames de imagem com periodicidade bienal.
+CORRETA: A
+
+PERGUNTA: Paciente do sexo masculino, 55 anos de idade, realizou uma colonoscopia que mostrou uma tumoração subestenosante no reto médio. A biópsia confirmou a presença de adenocarcinoma. O cirurgião assistente solicitou exames de estadiamento pré-operatório. Com relação ao quadro clínico descrito acima, assinale a alternativa CORRETA.
+A) O nível sérico de antígeno carcinoembrionário basal é um fator prognóstico relacionado à sobrevida.
+B) A ressonância magnética pélvica tem menos acurácia que a tomografia para o estudo da margem circunferencial.
+C) A tomografia por emissão de pósitrons deve ser usada de rotina para a detecção de metástases a distância.
+D) A radiografia de tórax tem uma sensibilidade similar à tomografia para a detecção de metástases pulmonares.
+CORRETA: A
+
+PERGUNTA: Um homem de 58 anos, ex-fumante, apresenta-se à unidade de saúde com queixa de dor abdominal difusa há aproximadamente duas semanas. Relata também alteração no hábito intestinal, com episódios de diarreia intercalados com constipação, além de perda de peso de cerca de 5 kg sem razão aparente. Ao exame físico, nota-se dor à palpação no quadrante inferior esquerdo e sinais de desidratação leve. O hemograma revela anemia microcítica e a dosagem de marcadores tumorais mostra aumento do antígeno carcinoembrionário. Qual é o diagnóstico mais provável?
+A) Câncer colorretal
+B) Doença inflamatória intestinal
+C) Síndrome do intestino irritável
+D) Adenoma tubulovilosos
+CORRETA: A
+
+PERGUNTA: Uma mulher de 50 anos, sem comorbidades relevantes, apresenta uma lesão melanocítica na região das costas. A lesão tem bordas regulares, coloração homogênea e diâmetro de 5 mm. Ao exame físico, não há linfonodos palpáveis. Qual a abordagem inicial mais adequada para essa lesão?
+A) Monitorar a lesão por um ano
+B) se a principal suspeita for melanoma realizar biópsia excisional
+C) se a principal suspeita for melanoma realizar biópsia incisional 
+D) se a principal suspeita for melanoma realizar Biópsia em shaving superficial.
+CORRETA: A
+
+PERGUNTA: Sobre a regra do ABCDE para identificar um Melanoma, assinale a alternativa ERRADA:
+A) Assimetria. A forma da mancha não coincide com as outras manchas que o paciente ou seus familiares possui.
+B) Borda. As bordas são irregulares, entalhadas ou dentadas.
+C) Cor. É muitas vezes desigual. Tons de preto, marrom e canela podem estar presentes. Áreas brancas, cinza, rosa, vermelha ou azul também podem ser vistas.
+D) Diâmetro. O diâmetro maior que 6 mm.
+CORRETA: A
+
+PERGUNTA: Com relação aos cânceres de pele, assinale a alternativa correta:
+A) O carcinoma espinocelular é o tumor maligno mais frequente na pele.
+B) O lentigo maligno melanoma é o tipo mais comum dos melanomas malignos.
+C) Um método importante para auxílio diagnóstico dos melanomas é a regra do ABCDE, sendo que a letra ""D"" significa diâmetro da lesão geralmente maior que 1cm.
+D) Pacientes com carcinoma basocelular apresentam risco aumentado para o desenvolvimento de melanoma.
+CORRETA: D
+
+PERGUNTA: Considere os itens a seguir: I– Biópsia incisional: Quando a lesão é grande ou demonstra características heterogêneas em diferentes localizações, então deve-se recolher amostras de mais de uma área. É um procedimento que remove somente uma pequena porção da lesão. II– Biópsia excisional: Implica na remoção da lesão em sua totalidade, incluindo uma área de margem de segurança. III– Biópsia por aspiração: Deve ser realizada com uma agulha e seringa, após ser realizada uma incisão, penetrando na lesão suspeita e depois em suas margens, aspirando os seus conteúdos. 	Assinale a alternativa correta:
+A) I e II estão corretas.
+B) Somente a II está incorreta.
+C) I e III estão incorretas.
+D) Somente a I está correta.
+CORRETA: A
+
+PERGUNTA: Paciente masculino, de 56 anos, consultou por lesão de pele no dorso (imagem abaixo) que já vinha sendo observada há muitos anos, mas que, nos últimos meses, apresentou crescimento e mudança de cor. Negou prurido ou sangramento. Não tinha histórico pessoal ou familiar de melanoma. O maior diâmetro da lesão é de 8 mm. Diante desse quadro clínico, qual a conduta mais adequada?
+A) Biópsia excisional da lesão com margem mínima de pele aparentemente normal (1-2 mm). 
+B) Biópsia incisional com navete cirúrgica, incluindo borda aparentemente mais ativa. 
+C) Biópsias incisionais com punch em pelo menos 3 áreas mais suspeitas (borda e transição de cor). 
+D) Exérese da lesão com margem mínima de pele aparentemente normal (1-2 cm).
+CORRETA: A
+IMAGEM: /imagens/imagemmelanoma1.png
+
+PERGUNTA: Mulher, 65 anos, com lesão em fronte de aumento progressivo, 2 cm de diâmetro, ulcerada, bordas translúcidas, teleangiectasias que sangram à manipulação. Essa lesão é compatível com:
+A) melanoma;
+B) carcinoma espinocelular; 
+C) carcinoma basocelular;
+D) sarcoma epitelioide. 
+CORRETA: C
+
+PERGUNTA: Paciente do sexo feminino, com 65 anos de idade, com queixa de lesão na fronte há vários anos, que lentamente vem aumentando de tamanho e ulcerou. Ao exame dermatológico, apresenta nódulo de aproximadamente 1,5 cm de diâmetro, com ulceração central recoberta por crosta que, ao ser retirada, ocasiona sangramento. As bordas da lesão são TRANSLÚCIDAS, com formações perláceas e finas telangiectasias. Estudante, se falamos de bordas translúcidas devemos lembrar de: 
+A) melanoma maligno.
+B) carcinoma espinocelular.
+C) carcinoma basocelular.
+D) sarcoma epitelioide.
+CORRETA: C
+
+PERGUNTA: Paciente, masculino, 58 anos, procura atendimento médico, após esposa ter percebido nódulo no dorso com crescimento progressivo há 3 meses. Nega lesões prévias ou trauma nesta topografia. Nega sintomas locais associados. Ao exame dermatológico, observa-se lesão nodular exofítica eritematosa de consistência firme, com superfície exulcerada, medindo aproximadamente 2 cm em seu maior diâmetro. Não apresenta alteração de cor ou de textura ao redor da lesão. Considerando o diagnóstico diferencial da lesão descrita no caso acima, responda corretamente.
+A) A evolução e a localização sugerem o diagnóstico de um carcinoma basocelular nodular.
+B) O diagnóstico de melanoma nodular prejudica a utilização da regra ABCDE para detecção precoce.
+C) O diagnóstico de melanoma é pouco provável por se tratar de área exposta ao sol de forma esporádica.
+D) O diagnóstico de melanoma é pouco provável, pela ausência de nevo melanocítico antecedendo a lesão.
+CORRETA: B
+
+PERGUNTA: Sobre os cânceres de pele (carcinoma espinocelular - CEC, carcinoma basocelular - CBC e melanoma), assinale a correta.
+A) O carcinoma de células escamosas (CEC) e o carcinoma basocelular (CBC) são os tipos menos comuns de neoplasias malignas no mundo.
+B) Os CECs invasivos são lesões descamativas palpáveis que nunca ulceram e não apresentam bordas elevadas. Eles podem ser confundidos com o ceratoacantoma, uma lesão maligna que também pode descamar.
+C) A maioria dos CECs começa com uma proliferação de células de queratina na camada basal da epiderme, que aparece como áreas avermelhadas, ou róseas, clinicamente denominadas ceratose actínica.
+D) A maioria dos CECs pode ser tratada localmente com excelentes resultados. A recidiva local está associada a um maior risco de metástases regionais e a distância. O primeiro local de metástases geralmente é o sistema nervoso central e raramente se disseminam para linfonodos.
+CORRETA: C
+
+
+
+
+
 
