@@ -1,0 +1,505 @@
+PERGUNTA: Entende-se por vigilância epidemiológica: 
+A) um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde, bem como de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde. 
+B) um conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos. 
+C) a distribuição e os determinantes dos problemas de saúde (fenômenos e processos associados) em populações humanas. 
+D) a difusão e propagação de doenças, sua frequência, seu modo de distribuição, sua evolução e a colocação dos meios necessários à sua prevenção. 
+CORRETA: B
+
+PERGUNTA:O contexto de funcionamento de um sistema de vigilância, em termos práticos, envolve três aspectos: __________________, ________________ e __________________________. O processo tem início ____________________, onde ocorre a doença, e termina ______________________, onde são executadas as medidas de prevenção e controle da doença. Assinale a alternativa que preenche corretamente as lacunas.
+A) o setor de planejamento – a vigilância epidemiológica – a autoridade de saúde pública – na população – na Unidade Básica de Saúde.
+B) a população – o sistema de doenças de notificação compulsória – o(a) superintendente do setor – na Atenção Primária – no hospital de referência.
+C) a população – a rede de serviços de atenção à saúde – a autoridade de saúde pública – na população – na população.
+D) a população – a vigilância epidemiológica – a autoridade de saúde pública – na população – no hospital de referência.
+CORRETA: C
+
+PERGUNTA: As atribuições comuns e competências específicas de cada nível de governo na organização e gestão do SUS ou, nos termos adotados pela legislação, na direção do Sistema Único de Saúde, em seu âmbito administrativo, estão definidas no texto da Lei 8.080, de 19 de setembro de 1990. O SUS deve atuar por meio da formulação de políticas e da execução de ações de:
+I. Vigilância sanitária, vigilância epidemiológica e ambiental.
+II. Saúde do trabalhador, assistência terapêutica integral (inclusive farmacêutica).
+III. Vigilância nutricional, orientação alimentar e saneamento, e as relativas a política de sangue e hemoderivados.
+A) Todas são falsas.  
+B) Todas são verdadeiras.
+C) Apenas a II é verdadeira.
+D) Apenas a III é verdadeira.
+CORRETA: B
+
+PERGUNTA: Em relação ao Sistema de Informação de Agravos de Notificação (Sinan), assinale a alternativa correta.
+A) A distribuição e o controle da Ficha de Notificação pré-numerada para as unidades de saúde e outras fontes notificadoras é de responsabilidade da Secretaria Estadual de Saúde.
+B) Será considerada situação irregular na alimentação do Sinan, a Secretaria Municipal de Saúde (SMS) que não tiver registro de notificação (individual, de surto, de epizootias ou negativa) no período de 8 (oito) semanas epidemiológicas de notificação consecutivas no período avaliado.
+C) O preenchimento da Ficha de Investigação deve ser iniciado no momento em que a hipótese diagnóstica for aviltada por um segundo profissional de saúde, diferente daquele que realizou o primeiro atendimento e, em seguida, deve-se seguir o fluxo estabelecido pelo Núcleo de Vigilância Epidemiológica Municipal.
+D) O aparecimento de um só caso de uma doença transmissível que durante um período prolongado não havia acometido a uma população ou que ocorra pela primeira vez em uma região na qual não havia sido diagnosticada anteriormente requer a notificação semanal.
+CORRETA: B
+
+PERGUNTA: As ações da vigilância em saúde são fundamentais na operacionalização do Sistema Único de Saúde (SUS). Devem orientar o modelo de atenção nos territórios, sendo transversais a todos os níveis e formas de atenção, compreendendo a articulação de diferentes saberes, processos e práticas (BRASIL, 2011). Em relação à vigilância em saúde, analise as assertivas e identifique com V as verdadeiras e com F as falsas. ( ) A vigilância em saúde ambiental intervém sobre a prestação de serviços e o controle de bens de consumo que, direta ou indiretamente, se relacionem com a saúde. ( ) A vigilância epidemiológica contribui para o conhecimento e a detecção de mudanças nos fatores determinantes e condicionantes da saúde individual e coletiva. ( ) A vigilância sanitária propicia o conhecimento e a detecção de mudanças nos fatores determinantes e condicionantes do meio ambiente, que interferem na saúde humana.( ) A vigilância em saúde do trabalhador intervém nas doenças e agravos e seus determinantes, decorrentes dos modelos de desenvolvimento, de processos produtivos e de trabalho. A alternativa que contém a sequência correta, de cima para baixo, é
+A) V F V F. 
+B) V V F F.
+C) F V V F. 
+D) F V F V.
+CORRETA: D
+
+PERGUNTA: Na organização do Sistema Único de Saúde (SUS), a Região de Saúde é um espaço geográfico contínuo, constituído por grupos de municípios limítrofes, delimitado a partir de identidades culturais, econômicas e sociais, com redes de comunicação e infraestrutura de transportes compartilhados, com a finalidade de integrar a organização, o planejamento e a execução de ações e serviços de saúde. Para ser instituída, uma Região de Saúde deve conter, no mínimo, as seguintes ações e serviços:
+A) Atenção primária; urgência e emergência; atenção ambulatorial especializada; atenção hospitalar; vigilância epidemiológica; vigilância sanitária.
+B) Atenção primária; atenção ambulatorial especializada; atenção hospitalar; programa de imunização; atenção psicossocial; unidade coronariana.
+C) Atenção primária; vigilância em saúde; atenção psicossocial; atenção ambulatorial especializada; urgência e emergência; atenção hospitalar.
+D) Urgência e emergência; atenção primária; vigilância em saúde; atenção psicossocial; sistema de informação em saúde; atenção hospitalar.
+CORRETA: C
+
+PERGUNTA: A sífilis é uma infecção bacteriana sistêmica, de evolução crônica, causada pelo Treponema pallidum. É uma das doenças presentes na Lista Nacional de Notificação Compulsória de Doenças, Agravos e Eventos de Saúde Pública. A notificação da doença, pelos profissionais competentes, aos serviços de vigilância em saúde, é imprescindível para garantir o seu controle. Tendo como base o papel da vigilância epidemiológica no enfrentamento da sífilis, considere os itens. I. Observação contínua do perfil epidemiológico da sífilis e suas tendências. II. Monitoramento da vida sexual de indivíduos diagnosticados. III. Desencadeamento de investigação das fontes de infecção e transmissão comuns. IV. Prescrição de terapêutica medicamentosa, segundo o diagnóstico de sífilis grau I, II ou III. Em relação ao papel da vigilância epidemiológica, estão corretos os itens:
+A) II e IV.
+B) I e III.
+C) III e IV.
+D) I e II.
+CORRETA:B
+
+PERGUNTA: Relacione as sentenças abaixo e assinale a alternativa com a sequência CORRETA:
+I- Vigilância epidemiológica. II- Vigilância em Saúde do trabalhador. III- Vigilância sanitária. IV- Rede de atenção à saúde. ( ) Um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde e de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde, abrangendo. ( ) Um conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos.( ) Um conjunto de atividades que se destina, através das ações de vigilância epidemiológica e vigilância sanitária, à promoção e proteção da saúde, assim como visa à recuperação e reabilitação dos indivíduos submetidos aos riscos e agravos advindos das condições de trabalho. ( ) O conjunto de ações e serviços de saúde articulados em níveis de complexidade crescentes, com a finalidade de garantir a integralidade da assistência à saúde.
+A) III – I – II – IV. 
+B) I – IV – II – III. 
+C) I – II – IV – III. 
+D) I – III – II – IV. 
+CORRETA: A
+
+PERGUNTA: A notificação compulsória é uma ação da Vigilância Epidemiológica que é obrigatória para os médicos, outros profissionais de saúde ou responsáveis pelos serviços públicos e privados de saúde, que prestam assistência à população. A Portaria GM/MS nº 204/2016 define a Lista Nacional de Notificação Compulsória de doenças, agravos e eventos de saúde pública nos serviços de saúde públicos e privados em todo o território nacional. Considerando os aspectos relativos à notificação compulsória descritos na Portaria GM/MS nº204/2016, assinale a afirmativa CORRETA:
+A) Para o controle da maioria das doenças de notificação compulsória será necessário que os pacientes sejam obrigados a realizar o tratamento em isolamento respiratório.
+B) A portaria 204/2016 estabelece que as doenças agudas são as únicas que devem ser comunicadas às autoridades sanitárias mediante confirmação do diagnóstico.
+C) As doenças de notificação compulsória descritas na lista de doenças devem ser comunicadas às autoridades sanitárias mediante suspeita ou confirmação do diagnóstico.
+D) As doenças de notificação compulsória listadas na portaria 204/2016 devem ser comunicadas às autoridades sanitárias mediante confirmação do diagnóstico.
+CORRETA: C
+
+PERGUNTA: O município de Caxias registrou 98 casos de hanseníase em 2017. Com o registro dos casos, o município aumentou a vigilância e reforçou as ações preventivas, objetivando alertar a população sobre a hanseníase. A notícia em tela, embora nos mostre um indicador a ser superado, demonstra como a Vigilância em Saúde deve inserir-se na construção das redes de atenção à saúde, visando à INTEGRALIDADE DO CUIDADO, no caso em questão, coordenado pela Atenção Primária à Saúde. Neste Contexto, podemos afirmar, EXCETO:
+A) Em virtude de existir proteção especifica para a hanseníase, as ações a serem desenvolvidas para aumentar a carga da doença incluem as atividades de: Educação em saúde; Investigação epidemiológica para o diagnóstico oportuno de casos; Tratamento até a cura; Vigilância epidemiológica; Exame de contatos e orientações.
+B) A hanseníase é uma doença de notificação compulsória e de investigação obrigatória.
+C) Após confirmação diagnóstica, os casos devem ser notificados, utilizando-se a ficha de Notificação/ Investigação do Sistema de Informação de Agravo de Notificação – SINAN.
+D) A prevenção de incapacidades em hanseníase inclui conjunto de medidas visando evitar a ocorrência de danos físicos, emocionais e socioeconômicos.
+CORRETA: A
+
+PERGUNTA: A participação do Sistema Único de Saúde no enfrentamento dos quatro principais grupos de doenças crônicas não transmissíveis (DCNT), circulatórias, câncer, respiratórias crônicas e diabetes, está estabelecida
+A) em Políticas Públicas destinadas a modificar seus determinantes e fatores de risco em comum, como tabagismo, álcool, inatividade física, alimentação não saudável e obesidade.
+B) no Programa Academia da Saúde, Programa de Aceleração do Crescimento, Programa Nacional de Calçadas Saudáveis, Programa Nacional de Alimentação Escolar e Programa Saúde Toda Hora, todos com gestão exclusiva do Ministério da Saúde.
+C) na distribuição gratuita de medicamentos, prevenção e assistência dos pacientes por médicos especialistas em DCNT, para os quais não há território definido ou população adstrita.
+D) em Políticas Públicas para ações e serviços para prevenção e tratamento das DCNT que delegam à Fundação Instituto Brasileiro de Geografia e Estatística o monitoramento da morbidade e mortalidade específicas.
+CORRETA: A
+
+PERGUNTA: Consideram-se doenças crônicas as doenças que apresentam início gradual, com duração longa ou incerta, que, em geral, apresentam múltiplas causas e cujo tratamento envolva mudanças de estilo de vida, em um processo de cuidado contínuo que, usualmente, não leva à cura (BRASIL, 2014).As Doenças Crônicas Não Transmissíveis (DCNT) são as principais causas de mortalidade no mundo, sendo as principais causas dessas doenças os fatores de risco modificáveis, como tabagismo, consumo nocivo de bebida alcoólica, inatividade física e alimentação inadequada (BRASIL, 2011). Sendo assim, a linha de cuidado prioritária da Rede de Atenção à Saúde das Pessoas com Doenças Crônicas é a de/da:
+A) Prevenção e tratamento do sobrepeso e obesidade.
+B) Pessoa com Doença Renal Crônica.
+C) Cuidado, prevenção e controle do câncer.
+D) Cuidado do Infarto Agudo do Miocárdio.
+CORRETA: A
+
+PERGUNTA: Um grande desafio atual para as equipes de atenção básica é a atenção em saúde para as doenças crônicas. Essas condições são muito prevalentes, multifatoriais com coexistência de determinantes biológicos e socioculturais, e sua abordagem, para ser efetiva, necessariamente envolve diversas ações. Sobre o tema, analise as afirmativas a seguir. I. Os quatro grupos de doenças crônicas de maior impacto mundial – doenças do aparelho circulatório, diabetes, câncer e doenças respiratórias crônicas – têm quatro fatores de risco em comum: tabagismo, inatividade física, alimentação não saudável e álcool. II. A maior parte das agudizações das doenças crônicas pode ser mais bem manejada na UBS: o profissional / a equipe conhece o usuário, seus problemas de saúde, as medicações prescritas, sua história, seu contexto. III. Com relação à severidade da doença crônica, em uma escala de 1 a 4 graus, quanto maior o grau menor a possibilidade de intervenções clínicas. IV. A gestão de casos tem sido uma ferramenta importante para o manejo de usuários com doenças crônicas já que se caracteriza por uma metodologia desenvolvida por profissional especialista e que garante acesso rápido ao nível de atenção de maior densidade tecnológica. Estão corretas as afirmativas
+A) I e II, apenas.
+B) II e III, apenas. 
+C) III e IV, apenas.
+D) II e IV, apenas.
+CORRETA: A
+
+PERGUNTA: Doenças crônicas são caracterizadas por início gradual, de prognóstico usualmente incerto, com longa ou indefinida duração. Apresentam curso clínico que muda ao longo do tempo, com possíveis períodos de agudização, podendo gerar incapacidades. Requerem intervenções com o uso de tecnologias leves, leve-duras e duras, associadas às mudanças de estilo de vida, em um processo de cuidado contínuo. O cuidado de usuários com doenças crônicas deve se dar de forma integral. Essa atenção integral só é possível se o cuidado for organizado em rede. A implantação da Rede de Atenção às Pessoas com Doenças Crônicas tem o objetivo de promover mudanças na atenção à saúde em uma série de dimensões. O Projeto Terapêutico Singular, componente destas mudanças, pode ser abordado como:
+A) Classificação dos usuários de determinado serviço de acordo com a gravidade da enfermidade, permitindo a definição de uma série de ofertas que serão programadas de acordo com o nível em que se encontra o usuário. Serve para avaliar, organizar e garantir o atendimento a cada usuário, conforme a necessidade.
+B) Atitude de autocuidado que leve a estilos e práticas de vida mais saudáveis, assim como a adesão ao tratamento, que não depende apenas de uma prescrição profissional, mas de uma conscientização do usuário sobre sua condição de saúde e a relação dela com suas práticas, além da colaboração estreita entre a equipe de saúde e os usuários, os quais trabalham em conjunto para definir o problema, estabelecer as metas, monitorá-las, instituir os planos de cuidado e resolver os problemas que apareçam ao longo do processo de manejo.
+C) Fluxo assistencial garantido ao usuário, no sentido de atender às suas necessidades de saúde. Define as ações e os serviços que devem ser desenvolvidos nos 23 diferentes pontos de atenção de uma rede (nível primário, secundário e terciário) e nos sistemas de apoio, bem como utiliza a estratificação para definir ações em cada estrato de risco.
+D) Ferramenta para qualificar o atendimento à pessoa com doença crônica, favorecendo a discussão de um sujeito em situação de maior vulnerabilidade e complexidade. Consiste em um conjunto de propostas de condutas terapêuticas articuladas, construídas a partir do movimento de coprodução e de cogestão do processo terapêutico, resultado da discussão coletiva da equipe multiprofissional com o usuário e sua rede de suporte social.
+CORRETA: D 
+
+PERGUNTA: Carvalini.M é paciente de doença crônica renal não conseguiu mais pagar seu plano de saúde privado e pensou em seguir acompanhamento médico em um serviço público, mas soube que não teria mais direito a este serviço. A informação que o paciente recebeu está
+A) correta, o sistema privado de saúde deve arcar com os atendimentos de pacientes crônicos, mesmo em casos de inadimplência.
+B) correta, pois apenas atividades de promoção e prevenção de doenças e agravos estão à disposição de ex-segurados privados, para conter a demanda dos serviços públicos.
+C) correta, pois se o tratamento foi iniciado em serviço privado, o Sistema Único de Saúde não pode aportar recursos para dar acompanhamento clínico.
+D) incorreta, pois qualquer pessoa pode entrar como usuário do sistema público de saúde a qualquer momento..
+CORRETA: D
+
+PERGUNTA: Enquanto os dinossauros estudantes de medicina Unimax enfrentam plantões intermináveis, diagnósticos difíceis e surtos silenciosos à base de café, a população brasileira segue lidando com desafios bem mais letais. Considerando as mudanças nas taxas de mortalidade e morbidade no Brasil, associadas às transições demográfica, epidemiológica e nutricional, quais são atualmente as principais causas de morte no país, segundo as taxas nacionais de mortalidade?
+A) Doenças do aparelho circulatório, câncer e causas externas.
+B) Câncer, doenças do aparelho circulatório e doenças infecciosas.
+C) Doenças do aparelho circulatório, doenças infecciosas e homicídios.
+D) Diabetes, hipertensão e câncer.
+CORRETA: A
+
+PERGUNTA: estudo Carga Global de Doença (GBD) 2015 para o Brasil analisou os indicadores de saúde, entre 1990 e 2015, que corresponde a grande parte do período de existência do Sistema Único de Saúde (SUS). Apesar das melhorias importantes nas condições de saúde e na ampliação da vida saudável da população brasileira no período analisado, os principais desafios ainda a serem enfrentados pelo SUS são:
+A) A mortalidade materno-infantil, a magnitude da prevalência do tabagismo, das doenças imunopreviníveis e das doenças transmissíveis.
+B) O controle das doenças imunopreviníveis, a expansão da Estratégia de Saúde da Família e do acesso a medicamentos.
+C) As novas epidemias, as doenças negligenciadas, o controle dos vetores, a magnitude das doenças crônicas não transmissíveis e da violência.
+D) A violência interpessoal e as doenças sexualmente transmissíveis, a expansão das ações de emergência e de promoção da saúde.
+CORRETA: C
+
+PERGUNTA: As redes temáticas prioritárias pactuadas em 2011 e 2012 na Comissão Intergestores Tripartite (CIT), a partir dos referenciais da Portaria GM/MS nº 4.279/2010, foram:
+A) Rede Cegonha, Rede de Atenção às Urgências e Emergências (RUE), Rede de Atenção Domiciliar (RAD), Rede de Atenção à População em Situação de Rua, Rede de Saúde Bucal.
+B) Rede Cegonha, Rede de Atenção às Urgências e Emergências (RUE), Rede de Atenção Psicossocial (Raps), Rede de Cuidado à Pessoa com Deficiência, Rede de Atenção à Saúde das Pessoas com Doenças Crônicas.
+C) Rede de Atenção às Urgências e Emergências (RUE), Rede de Atenção Domiciliar (RAD), Rede de Cuidado à Pessoa com Deficiência, Rede de Atenção Integral à Saúde do Trabalhador, Rede de Atenção Psicossocial (Raps).
+D) Rede de Promoção da saúde, Rede Cegonha, Rede de Atenção à Saúde das Pessoas com Doenças Crônicas, Rede de Saúde bucal, Rede de Atenção Integral à Saúde do Trabalhador.
+CORRETA:B
+
+PERGUNTA: Os usuários de serviços de saúde com doenças crônicas exigem um acompanhamento ao longo de muitos anos, além de um forte vínculo com a unidade e os profissionais, para garantir sua adesão ao tratamento e possibilitar a oferta de intervenções de prevenção e de promoção à saúde. No contexto da Atenção Básica, a relação pessoal de longa duração entre os profissionais de saúde e os pacientes em suas unidades de saúde configura
+A) o cuidado simplificado.
+B) a população adscrita.
+C) a longitudinalidade.
+D) a coordenação do cuidado.
+CORRETA: C
+
+PERGUNTA: O Núcleo Ampliado de Saúde da Família e Atenção Básica (Nasf-AB), apresentado pela Política Nacional de Atenção Básica de 2017, deve estabelecer seu processo de trabalho a partir de problemas, demandas e necessidades de saúde de pessoas e grupos sociais em seus territórios, bem como a partir das dificuldades dos profissionais de todos os tipos de equipes que atuam na Atenção Básica em suas análises e manejos. Com relação ao exposto, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir. ( ) O Nasf-AB, após dez anos de existência, possui como alguns de seus grandes desafios a limitada compreensão sobre a metodologia do apoio matricial e as limitações na formação e educação permanente . ( ) Espera-se que o Nasf-AB seja um componente da Atenção Básica, vivendo situações específicas do serviço, trabalhando de forma vertical com as equipes da Atenção Básica. ( ) A denominação Nasf-AB remete ao fato de que os núcleos não dariam mais suporte apenas às equipes de Saúde da Família, mas também às equipes de Atenção Básica, que possuem configuração e atuação limitadas. ( ) Compete à equipe do Nasf-AB planejar ações embasadas nas características do território e socializá-las com as equipes que atuam na Atenção Básica. A sequência correta é
+A) F - V - V - F.
+V) V - F - V - V.
+C) F - V - F - V.
+D) V - F - V - F.
+CORRETA: B
+
+PERGUNTA: Projeto Terapêutico Singular (PTS) se constitui numa ferramenta tecnológica de apoio à atenção em saúde. Trata-se de “um conjunto de propostas de condutas terapêuticas articuladas, para um sujeito individual ou coletivo, resultado da discussão coletiva de uma equipe interdisciplinar, com apoio matricial, se necessário” (BRASIL, 2010, p. 27). Em relação ao PTS, analise as assertivas e identifique com V as verdadeiras e com F as falsas. ( ) O PTS pode ser elaborado para grupos ou famílias, e não só para indivíduos. ( ) O PTS é uma variação da discussão de “caso clínico”, sendo dedicado às situações de menor complexidade. ( ) No momento de reavaliação do PTS, deve ser discutida a evolução do caso e serem feitas as devidas correções dos rumos tomados. ( ) Na definição de metas do PTS, a negociação deve ser feita, preferencialmente, pelo membro da equipe que não tiver vínculos com o usuário.
+A alternativa que contém a sequência correta, de cima para baixo, é
+A) F V F V.
+B) V V F F. 
+C) V F V F.
+D) F V V F. 
+CORRETA: C
+
+PERGUNTA: equipes de Saúde da Família lidam com problemas altamente complexos, do cotidiano das pessoas, da comunidade e do serviço, utilizando tecnologias leves e leves-duras. A Política Nacional de Humanização estimula a reorganização dos processos de trabalho em saúde, de modo a facilitar o enfrentamento dos problemas e a potencializar a produção de saídas criativas e singulares de acordo com os contextos. Entre os dispositivos, previstos na política para melhoria da gestão do cuidado na atenção básica, pode-se citar o:
+A) acolhimento com classificação de risco e a defesa dos direitos do usuário.
+B) projeto de saúde coletiva e a transversalidade.
+C) apoio matricial e o projeto terapêutico singular.
+D) colegiado gestor e a clínica ampliada.
+CORRETA: C
+
+PERGUNTA: O Ministério da Saúde criou os Núcleos de Apoio à Saúde da Família (NASF), mediante a Portaria GM nº 154, de 24 de janeiro de 2008, com o objetivo de apoiar a inserção da Estratégia de Saúde da Família na rede de serviços e ampliar a sua abrangência, a resolutividade, a territorialização, a regionalização, bem como a ampliação das ações da atenção primária à saúde. Em relação aos NASF, é correto afirmar:
+a) O NASF atua utilizando como principais ferramentas o Apoio Matricial, a Clínica Ampliada, o Projeto Terapêutico Singular (PTS), o Projeto de Saúde no Território e a Pactuação do Apoio.
+b) A organização dos processos de trabalho dos NASF tem como foco o território sob sua responsabilidade, priorizando o atendimento direto e individualizado ao usuário.
+c) O NASF funciona, alternativamente, como porta de entrada do SUS para os usuários.
+d) A equipe do NASF tem como uma de suas atribuições atuar como equipe de referência para as famílias do território de abrangência.
+CORRETA: A
+
+PERGUNTA: Segundo a Política Nacional de Atenção Básica (PNAB) vigente, a Atenção Básica é orientada por diretrizes, conforme apresentadas na coluna I. Estabeleça a correta correspondência entre essas diretrizes e os significados/características apresentados. Faça a relação dos números com as afirmativas. 1. Coordenação do cuidado. 2. Longitudinalidade do cuidado. 3. Cuidado Centrado na Pessoa. 4. Participação da Comunidade.( ) Pressupõe a continuidade da relação de cuidado, com construção de vínculo e responsabilização entre profissionais e usuários ao longo do tempo. ( ) Desenvolvimento de ações de cuidado de forma singularizada, que auxilie as pessoas a desenvolverem os conhecimentos, aptidões, competências e a confiança necessária para gerir e tomar decisões embasadas sobre sua própria saúde e seu cuidado de saúde de forma mais efetiva. ( ) Centro de comunicação entre os diversos pontos de atenção, responsabilizando-se pelo cuidado dos usuários em qualquer destes pontos através de uma relação horizontal, contínua e integrada, com o objetivo de produzir a gestão compartilhada da atenção integral. ( ) Estimula a participação das pessoas, a orientação comunitária das ações de saúde na Atenção Básica e a competência cultural no cuidado, como forma de ampliar sua autonomia e capacidade na construção do cuidado à sua saúde e das pessoas e coletividades do território. a sequência correta é:
+A) 3, 1, 2, 4. 
+B) 1, 2, 4, 3. 
+C) 1, 3, 2, 4. 
+D) 2, 3, 1, 4. 
+CORRETA: D
+
+Analise as seguintes afirmativas: I. Equidade está relacionada a ofertar o cuidado, reconhecendo as diferenças nas condições de vida e saúde e de acordo com as necessidades das pessoas, considerando que o direito à saúde passa pelas diferenciações sociais e deve atender à diversidade. II. Territorialização e adstrição fazem parte das diretrizes da Atenção Básica, de forma a permitir o planejamento, a programação descentralizada e o desenvolvimento de ações setoriais e intersetoriais com foco em um território específico, com impacto na situação, nos condicionantes e determinantes da saúde das pessoas e coletividades que constituem aquele espaço. III. População adscrita refere-se à população que está presente no território de um Distrito Sanitário, de forma a estimular o desenvolvimento de relações de vínculo e responsabilização entre as equipes e a população, garantindo a continuidade das ações de saúde e a longitudinalidade do cuidado e com o objetivo de ser referência para o seu cuidado. IV. Longitudinalidade do cuidado pressupõe a continuidade da relação de cuidado, com construção de vínculo e responsabilização entre profissionais e usuários ao longo do tempo e de modo permanente e consistente, acompanhando os efeitos das intervenções em saúde e de outros elementos na vida das pessoas. V. Cuidado Centrado na Pessoa aponta para o desenvolvimento de ações de cuidado de forma singularizada, que auxilie as pessoas a desenvolverem os conhecimentos, as aptidões, as competências e a confiança necessários para gerir e tomar decisões embasadas sobre sua própria saúde e seu cuidado de saúde de forma mais efetiva. Está correto o que se afirma em:
+A) I e III. 
+B) II, III e V. 
+C) II e IV. 
+D) I, II, IV e V. 
+CORRETA: D
+
+PERGUNTA: Política Nacional de Humanização da Atenção e Gestão do SUS aposta na indissociabilidade entre os modos de produzir saúde e os modos de gerir os processos de trabalho, entre
+A) clínica e política, entre equipe multiprofissional e usuários e entre atenção e gestão.
+B) produção de saúde e produção de subjetividade, entre os modos de produção e de circulação de poder e entre clínica e política.
+C) atenção e gestão, entre clínica e política e entre produção de saúde e produção de subjetividade.
+D) equipe multiprofissional e usuários, entre os modos de produção e de circulação de poder e entre atenção e gestão.
+CORRETA: B
+
+PERGUNTA: De acordo com a Lei nº 8.142/1990, que dispõe sobre a participação da comunidade na gestão do SUS e sobre as transferências intergovernamentais de recursos financeiros na área da saúde e dá outras providências, é correto afirmar que:
+A) O Conselho de Saúde, em caráter permanente e consultivo, órgão colegiado composto por representantes do governo, profissionais de saúde e usuários, atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente.
+B) A Conferência de Saúde reunir-se-á a cada quatro anos, com a representação dos vários segmentos sociais, para avaliar a situação de saúde e propor as diretrizes para a formulação da política de saúde nos níveis correspondentes, convocada pelo Poder Legislativo.
+C) O Conselho Nacional de Secretários de Saúde (Conass) e o Conselho Nacional de Secretários Municipais de Saúde (Conasems) terão representação no Conselho Nacional de Saúde.
+D) A representação dos usuários nos Conselhos de Saúde e Conferências será paritária em relação ao conjunto dos profissionais da saúde.
+CORRETA: C
+
+PERGUNTA: A atuação política do gestor do Sistema Único de Saúde (SUS) expressa-se em seu relacionamento constante com diversos grupos e atores sociais, nos diferentes espaços de negociação e decisão existentes, formais e informais. Os objetivos a serem perseguidos na área da saúde exigem a interação do gestor com os demais órgãos governamentais executivos (por exemplo, outros ministérios ou secretarias de governo), com outros poderes (Legislativo e Judiciário), com gestores de outras esferas de governo e com a sociedade civil organizada. A atuação técnica do gestor do SUS, permanentemente permeada por variáveis políticas, consubstancia-se por meio do exercício das funções e das atribuições na saúde, cujo desempenho depende de conhecimentos, habilidades e experiências no campo da gestão pública e da gestão em saúde. Tais funções podem ser definidas como um conjunto articulado de saberes e práticas de gestão, necessários para a condução de políticas na área da saúde. No que concerne ao processo de gestão do SUS, julgue os itens a seguir.
+I -atuação técnica do gestor do SUS, consolida-se mediante o exercício das funções gestoras na saúde, as quais podem ser explicadas como um conjunto estruturado de conhecimentos e ações de gestão, necessários para a implementação de políticas na área de saúde, que devem ser exercidos de modo coerente em relação aos princípios do sistema público de saúde e da gestão pública. II - O processo de implantação do SUS, particularmente a descentralização político administrativa, reconfigura as funções dos gestores das três esferas no sistema de saúde, que não podem ser diversificadas, de acordo com o campo de atenção à população doente. III - A função de formulação de políticas e planejamento é uma atribuição da esfera municipal, em seu âmbito de atuação, sendo uma ação estratégica dos governos federal e estaduais para a redução das desigualdades regionais e locais. IV - A responsabilidade pelo financiamento da saúde, segundo a legislação, deve ser do governo federal. V - Aos estados cabe a coordenação dos processos de regionalização, a regulação e a articulação de sistemas municipais, o apoio à articulação intermunicipal, a coordenação da distribuição dos recursos financeiros federais nos municípios, a implantação de estratégias de regulação da atenção, a avaliação do desempenho dos sistemas municipais nos vários campos e o apoio ao fortalecimento institucional dos municípios. VI - planejamento de ações e serviços necessários nos diversos campos, a organização da oferta de ações e serviços públicos e a contratação de serviços privados, se for preciso, são atribuições municipais na gestão do SUS. Assinale a alternativa que indica apenas os itens corretos.
+A) I, II e VI.
+B) II, IV e V.
+C) I, III, V e VI.
+D) III, IV e VI.
+CORRETA: C
+
+PERGUNTA: Sobre a participação da comunidade na gestão do SUS, assinale a alternativa INCORRETA.
+A) A representação dos vários segmentos sociais se reunirá em Conferência mediante convocação do Poder Executivo a cada quatro anos ou, extraordinariamente, por convocação do Conselho de Saúde.
+B) O Conselho de Saúde é o órgão colegiado que se reúne em caráter permanente e deliberativo, e atua na formulação de estratégias e no controle da execução da política de saúde na instância correspondente.
+C) A representação dos usuários nos Conselhos e Conferências de Saúde deve garantir participação paritária dos usuários em relação ao conjunto dos demais segmentos.
+D) São instâncias colegiadas: o Conselho Federal de Saúde e a Conferência Nacional de Saúde.
+CORRETRA: D
+
+PERGUNTA: Analise as características diferenciais dos sistemas fragmentados e das Redes de Atenção à Saúde descritas abaixo. Marque a opção CORRETA:
+A) I, II e V são verdadeiras. 
+B) I, II e III são verdadeiras.
+C) I, II e IV são verdadeiras. 
+D) III, IV e V são falsas.
+CORRETA: A
+IMAGEM: /imagens/imagemmarilda1.png
+
+PERGUNTA: A imprensa local noticiou que uma idosa identificada como HFB, de 65 anos, com Doença Renal Crônica (DRC), fez hemodiálise e veio a falecer em frente ao Hospital Regional da Baixada Maranhense Dr. Jackson Lago, em Pinheiro, distante 87 km de São Luís. Segundo familiares, ela não foi atendida e a reclamação dos familiares é que houve omissão de socorro. A idosa morreu dentro do ônibus com pacientes que fazem hemodiálise em São Luís.
+A descrição acima é complexa e cada dia mais frequente em nosso meio. A abertura de mais serviços para atender pacientes em hemodiálise é sempre colocada como a solução do problema. A Sociedade Brasileira de Nefrologia mostra que as principais causas de DRC no Brasil e no Maranhão são Hipertensão Arterial e Diabetes. Neste Contexto, a essência do problema em questão envolve vários pontos de atenção à saúde, mais essencialmente voltada a:
+A) Alta Complexidade.
+B) Atenção Primária.
+C) Média Complexidade.
+D) Reabilitação.
+CORRETA: B
+
+PERGUNTA: Uma das estratégias do Sistema Único de Saúde é a Linha de Cuidado que se constitui de
+A) uma forma de articulação de recursos e das práticas de produção de saúde no âmbito da atenção de alta complexidade, como hospitais terciários.
+B) seguimento bem específico de usuários com algumas doenças crônicas selecionadas, sendo a Linha de Cuidado Cardiovascular a mais importante.
+C) ações dedicadas, com exclusividade, aos neonatos prematuros e/ou de baixo peso ao nascer.
+D) um caminho para o alcance da atenção integral que busca articular a produção do cuidado desde a atenção primária até o mais complexo nível de atenção.
+CORRETA: D
+
+PERGUNTA: Considerando a linha de cuidado das pessoas com sobrepeso e obesidade, qual a intervenção mais adequada, pensando na prevenção secundária e terciária e no tratamento dessa morbidade?
+A) O encaminhamento dos pacientes para os serviços de maior complexidade para aumentar as chances de sucesso dos tratamentos disponíveis.
+B) A realização de exames laboratoriais a cada 3 meses para monitoramento das comorbidades associadas ao excesso de peso.
+C) A integração em todos os níveis de atenção à saúde do sistema de saúde regionalizado.
+D) A convocação das pessoas com excesso de peso quando elas se encontram nas fases iniciais de ganho de peso.
+CORRETA: C
+
+PERGUNTA: O Sistema Único de Saúde passou a estimular a organização de redes integradas de atenção à saúde visando garantir a integralidade, a universalidade e equidade da atenção à saúde da população brasileira, considerando o perfil epidemiológico caracterizado por uma tripla carga de doenças. Nesse contexto, qual a melhor conceituação atribuível a uma rede integrada de atenção à saúde (RAS)?
+A) As RAS são arranjos organizativos de ações e serviços de saúde, de diferentes densidades tecnológicas, que integradas por meio de sistemas de apoio técnico, logístico e de gestão, buscam garantir a integralidade do cuidado.
+B) As RAS buscam promover a integração das ações e serviços de saúde, por meio de um cuidado descontínuo, integral, de qualidade, humanístico, com vistas a consolidação dos princípios e diretrizes do SUS.
+C) Para a execução dos objetivos das RAS, faz-se necessário uma composição multiprofissional das equipes de saúde, visando um olhar fragmentado do cuidado e garantindo o compartilhamento e corresponsabilização da prática em saúde.
+D) As RAS do SUS são formadas por pontos de atenção e pelas ligações materiais e imateriais de integração entre os diferentes serviços e apresenta a atenção secundária como ponto estruturante dos fluxos e contra fluxos do cuidado.
+CORRETA: A
+
+PERGUNTA: Assinale a alternativa correta sobre a Rede de Atenção Psicossocial (RAPS) do Sistema Único de Saúde (SUS).
+A) Os centros de atenção psicossocial (CAPS) substituíram os hospitais especializados em psiquiatria.
+B) A RAPS conta com serviços especializados em suicídio, destinados a pessoas com ideação suicida ou que em algum momento tentaram se matar.
+C) A RAPS atende pessoas com transtornos mentais e/ou com problemas decorrentes do uso de álcool, mas não de crack.
+D) Os serviços e ações, dentre outros, que fazem parte do RAPS são: as UBSs, as equipes de consultório na rua e as unidades de referência especializadas em hospital geral.
+CORRETA: D
+
+PERGUNTA: Sobre Linhas de Cuidado, é correto afirmar que:
+A) sua implementação ocorre em Pontos de Atenção secundária e terciária, prioritariamente.
+B) suas ações dispensam o trabalho da equipe de saúde da família e profissionais do Núcleo de Apoio à Saúde da família.
+C) pressupõe ações orientadas pelas necessidades gerais de saúde em detrimento daquelas voltadas para segmentos populacionais, ou ciclos de vida ou, ainda, determinados agravos.
+D) é um modelo organizacional para o atendimento dos problemas de saúde da população que promove equidade e integralidade da atenção.
+CORRETA: D
+
+PERGUNTA: L.Y.I., feminino, 50 anos, acordou com queixa de dor e secreção em um mamilo. Ao realizar o autoexame percebeu um pequeno volume na mama, o que a levou a procurar o mais rápido possível o serviço de saúde do bairro disposta a entender o que estava acontecendo com seu corpo e procurar tratamento adequado. Por quase dois anos, percorreu vários serviços de saúde, dentro e fora da sua cidade, a fim de realizar exames e adotar a terapêutica indicada pelos profissionais de saúde que a acompanhavam, como a cirurgia de retirada do nódulo no seio. Em virtude do diagnóstico precoce de Câncer de Mama, realizou o tratamento adequado ao caso e obteve a cura da patologia. O caso acima relata um percurso terapêutico nas redes de serviços de saúde do Sistema Único de Saúde. Conforme a lei 8.080 de 1990 e seus princípios, por meio de qual princípio do SUS o caso relatado foi resolvido?
+A) Igualdade da assistência à saúde, sem preconceitos ou privilégios de qualquer espécie. 
+B) Divulgação de informações quanto ao potencial dos serviços de saúde e a sua utilização
+pelo usuário. 
+C) Utilização da epidemiologia para o estabelecimento de prioridades, alocação de recursos e
+orientação programática. 
+D) Integralidade de assistência, conjunto articulado e contínuo das ações e serviços
+preventivos e curativos, em todos os níveis de complexidade do sistema.
+CORRETA: D
+
+PERGUNTA: Assinale a alternativa correta sobre as portas de entrada às ações e serviços de saúde nas Redes de Atenção à Saúde (RAS).
+A) Embora somente as Unidades Básicas de Saúde (UBSs) e os serviços de urgência e emergência sejam considerados portas de entrada às ações e serviços de saúde nas RAS, nos locais mais distantes dos centros urbanos, há uma relativização desse conceito.
+B) As UBSs são as portas de entrada prioritárias a todos os usuários do SUS, com exceção de pessoas em situação de rua, que devem ter acesso às ações e serviços nas RAS somente pelos consultórios nas ruas.
+C) Os serviços de atenção psicossocial deixaram de ser porta de entrada às ações e serviços de saúde nas RAS, mantendo-se nessa categoria apenas para os usuários de álcool.
+D) Mediante justificativa técnica e de acordo com o pactuado nas Comissões Intergestores, os entes federativos poderão criar novas portas de entrada às ações e serviços de saúde, considerando as características da Região de Saúde.
+CORRETA: D
+
+PERGUNTA: Durante uma reunião da equipe de APS, a enfermeira relata o caso de um paciente com diabetes não controlado, que frequentemente busca atendimento no pronto--socorro por complicações agudas. A equipe decide discutir como otimizar o cuidado desse paciente e de outros com situação semelhante. Com base no conceito de rede de atenção à saúde, qual seria a estratégia mais eficaz para evitar novas internações e melhorar o controle da doença?
+A) Organizar uma abordagem centralizada na APS, com ênfase em consultas frequentes e acompanhamento
+exclusivo pela sua equipe de forma a abordar os determinantes sociais da saúde.
+B) Garantir que o paciente seja encaminhado para o nível secundário de atenção à saúde, para atendimento
+por um especialista em endocrinologia e melhor manejo medicamentoso do caso.
+C) Estabelecer uma linha de cuidado que coordene e monitore o estado de saúde do paciente, desde a
+atenção primária à saúde até os serviços especializados, quando necessário.
+D) Estabelecer um protocolo clínico que facilite o acesso aos demais níveis da rede de atenção à saúde para
+todos os pacientes com múltiplas internações por complicações agudas.
+CORRETA: C
+
+PERGUNTA: Existem algumas características diferenciais descritas dos sistemas fragmentados e das Redes de Atenção à Saúde (RAS). No que diz respeito à forma de organização/forma de ação do sistema, são características da RAS:
+A) poliarquia/proativa e contínua.
+B) hierarquia/reativa e episódica.
+C) hierarquia/promocional e preventiva.
+D) polissemia/reativa e episódica.
+E) transversalidade/curativa e reabilitadora.
+CORRETA: A
+
+PERGUNTA: A Política Nacional de Atenção Integral à Saúde do Homem tem por objetivo orientar as ações e os serviços de saúde para a população masculina. As diretrizes dessa política foram elaboradas tendo em vista a integralidade, a factibilidade, a coerência e a viabilidade. Neste contexto, a integralidade pode ser compreendida a partir do trânsito do usuário por todos os níveis da atenção, na perspectiva de uma linha de cuidado que estabeleça uma dinâmica de referência e de contrarreferência, bem como de:
+A) implementação desta política diretamente relacionada aos três níveis de gestão e do controle social, a quem se condiciona o comprometimento e a possibilidade da execução das ações fundamentadas nas diretrizes propostas.
+B) compreensão sobre os agravos e sobre a complexidade dos modos de vida e situação social do indivíduo, a fim de promover intervenções sistêmicas que abranjam inclusive as determinações sociais sobre a saúde e a doença.
+C) disponibilidade de recursos, tecnologia, insumos técnico-científicas e estrutura administrativa e gerencial que permita, na prática, a implantação das ações necessárias ao atendimento dessa população.
+D) fundamentação das ações nos princípios da humanização e da qualidade, que implicam na promoção, reconhecimento e respeito à ética e aos direitos do homem, obedecendo às suas peculiaridades socioculturais.
+CORRETA: B
+
+PERGUNTA: Entende-se por vigilância epidemiológica:
+A) um conjunto de ações capaz de eliminar, diminuir ou prevenir riscos à saúde, bem como de intervir nos problemas sanitários decorrentes do meio ambiente, da produção e circulação de bens e da prestação de serviços de interesse da saúde.
+B) um conjunto de ações que proporcionam o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes de saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e controle das doenças ou agravos.
+C) a distribuição e os determinantes dos problemas de saúde (fenômenos e processos associados) em populações humanas.
+D) a difusão e propagação de doenças, sua frequência, seu modo de distribuição, sua evolução e a colocação dos meios necessários à sua prevenção.
+CORRETA: B
+
+PERGUNTA: A vigilância epidemiológica tem o propósito de fornecer orientação técnica permanente aos profissionais de saúde, responsabilizando-se por decidir sobre a execução de ações de prevenção e controle de doenças e agravos. Sobre esse tipo de vigilância, leia as afirmativas abaixo:
+I. Segundo a Lei Orgânica da Saúde (Lei 8080/90), vigilância epidemiológica é um conjunto de ações que proporciona o conhecimento, a detecção ou prevenção de qualquer mudança nos fatores determinantes e condicionantes da saúde individual ou coletiva, com a finalidade de recomendar e adotar as medidas de prevenção e o controle das doenças ou agravos à saúde.
+II. O acompanhamento do comportamento epidemiológico das doenças sob vigilância pode ser considerado o principal objetivo dos sistemas de vigilância em saúde pública.
+III. A magnitude do problema (aferida pela incidência e prevalência), sua gravidade (considerando sua mortalidade e letalidade) são critérios de eleição das doenças alvo de sistema de vigilância em saúde.
+IV. Cada nível do sistema de vigilância em saúde deve recomendar e executar as medidas de controle que julgarem necessárias, independente das normas orientadas pelos níveis hierárquicos.
+Estão CORRETAS
+A) apenas I, II e III.
+B) apenas I, II e IV.
+C) apenas I, III e IV.
+D) apenas III e IV.
+CORRETA: A
+
+PERGUNTA: No campo da saúde, a vigilância está relacionada às práticas de atenção e promoção da saúde dos cidadãos e aos mecanismos adotados para prevenção de doenças. Sobre esse tema, assinale a afirmativa correta.
+A) As ações de vigilância sanitária dirigem-se, geralmente, ao controle de bens, produtos e serviços que oferecem riscos à saúde da população, como alimentos, produtos de limpeza, cosméticos e medicamentos.
+B) A vigilância ambiental só está implantada em alguns municípios, tendo em vista que seu campo de atuação é semelhante à vigilância sanitária, não necessitando, assim, de manter as duas vigilâncias em funcionamento no mesmo local.
+C) A fiscalização de serviços de interesse da saúde, como escolas, hospitais, clubes, academias, parques e centros comerciais, é ação exclusiva da vigilância de saúde do trabalhador que busca averiguar a atuação profissional nesses serviços.
+D) A vigilância epidemiológica reconhece as principais doenças de notificação compulsória e investiga epidemias, contudo, em situações de pandemia, sua atuação é restrita ao acompanhamento dos indicadores, tendo em vista o quantitativo reduzido de suas equipes.
+CORRETA: A
+
+PERGUNTA: A vigilância em saúde está relacionada às práticas de atenção e promoção da saúde para prevenção de doenças, integrando diversas áreas de conhecimento. Assim, as ações de Vigilância em Saúde Ambiental, estruturadas a partir do Sistema Nacional de Vigilância em Saúde Ambiental, estão centradas nos fatores não biológicos do meio ambiente que possam promover riscos à saúde humana, como o relacionado
+A) à participação em estudos do controle dos riscos à saúde existentes no processo de trabalho.
+B) ao controle de amostras de diversos produtos alimentícios expostos ao consumo.
+C) à qualidade da água para consumo humano.
+D) à autorização de licenças sanitárias.
+CORRETA: C
+
+PERGUNTA: Em vigilância epidemiológica, a definição de caso tem a finalidade de uniformizar critérios diagnósticos e realizar a classificação final dos casos. Em geral, esta classificação obedece a critérios que definem os casos como: suspeitos, confirmados, critério clínico-epidemiológico, clínico-laboratorial e descartados (TEIXEIRA; COSTA, 2008). Sobre o critério clínico-epidemiológico da Raiva, é correto afirmar que
+A) se define com a evidência de pessoa que apresenta exame Reação em Cadeia de Polimerase (PCR) positivo para raiva.
+B) serão assim classificados, os casos que não têm o diagnóstico médico disponível, nem exames laboratoriais específicos.
+C) é confirmado após a pessoa acidentada apresentar quadro clínico de encefalite, com antecedentes ou não de exposição à infecção pelo vírus rábico.
+D) o paciente apresenta quadro neurológico agudo, que apresenta formas de hiperatividade, seguidas de síndrome paralítica com progressão para coma, sem confirmação laboratorial, mas com antecedente de exposição a uma provável fonte de infecção.
+CORRETA: D
+
+PERGUNTA: O Programa Nacional de Imunizações é uma ação
+A) ainda ineficaz para vacinar populações em regiões de difícil acesso, pois há necessidade de refrigeração dos insumos.
+B) que proporciona vacinação na rede pública, sem aplicação de soros que está a cargo da iniciativa privada.
+C) de política pública pela qual toda a população brasileira tem acesso gratuito a qualquer vacina aprovada pela Agência Nacional de Vigilância em Saúde.
+D) coordenada do Governo Federal que proporcionou a erradicação da varíola e da poliomielite no solo nacional.
+CORRETA: D
+
+PERGUNTA: A tuberculose é uma doença de notificação compulsória, ou seja, deve ser notificada ao Sistema de Informação e Saúde (SIS). Portanto, todo caso confirmado deve ser comunicado ao Serviço de Vigilância Epidemiológica o mais rapidamente possível. Assinale a opção que informa ao SIS responsável pelas notificações de tuberculose.
+A) SISARBO
+B) SINASC
+C) SIH-SUS
+D) SINAN
+CORRETA: D
+
+PERGUNTA: Ao observar o perfil epidemiológico da população brasileira, verifica-se a coexistência de doenças e agravos bem conhecidos, alguns até evitáveis. Pode-se afirmar, considerando um sistema de controle de doenças e agravos eficiente que:
+A) a vigilância em saúde deve ter atuação independente dos demais níveis de assistência.
+B) deve atuar de forma setorizada considerando as especificidades sanitária, epidemiológica e ambiental.
+C) a Atenção Básica coordena as ações e serviços de vigilância sanitária e ambiental.
+D) as ações de vigilância em saúde devem ser integradas à Atenção Primária à Saúde nos territórios.
+CORRETA: D
+
+PERGUNTA: Uma equipe de saúde da família atua em uma comunidade com alta vulnerabilidade social. Ao revisar o território, observam que uma parcela significativa da população não comparece às consultas agendadas e não adere aos acompanhamentos propostos. A equipe realiza uma reunião para reorganizar suas ações, considerando os princípios e diretrizes da PNAB. Com base nessa situação, qual estratégia abaixo está mais alinhada com os princípios de equidade, responsabilização sanitária e cuidado centrado na pessoa, conforme a PNAB?
+A) Reduzir o número de visitas domiciliares e concentrar o atendimento na unidade, priorizando os usuários que comparecem espontaneamente.
+B) Organizar mutirões de atendimento esporádicos, com foco na realização de exames e procedimentos para toda a comunidade.
+C) Identificar os grupos em maior risco, intensificar a busca ativa e reorganizar o processo de trabalho para garantir vínculo e continuidade do cuidado.
+D) Implantar agendamento exclusivamente digital, incentivando o uso de aplicativos de marcação para aumentar a autonomia do usuário.
+CORRETA: C
+
+PERGUNTA: Durante uma atividade de supervisão, um grupo de estudantes de medicina observa que, em uma UBS localizada em área urbana periférica, os usuários relatam dificuldades para serem atendidos por médicos, afirmando que “só conseguem vaga se chegarem muito cedo”. Ao investigar, os estudantes percebem que a maior parte da agenda médica está ocupada por atendimentos programados de pacientes com doenças crônicas. A equipe reconhece o problema, mas relata que precisa garantir os acompanhamentos exigidos por protocolos. Com base nessa situação, qual seria uma ação mais alinhada com os princípios de acesso, acolhimento e integralidade, conforme as diretrizes da PNAB?
+A) Manter a agenda predominantemente programada para usuários com doenças crônicas, considerando seu risco elevado.
+B) Estabelecer barreiras administrativas para a demanda espontânea, priorizando usuários previamente agendados.
+C) Reservar parte da agenda diária para a demanda espontânea, organizando o acolhimento e a classificação de risco de modo qualificado.
+D) Criar uma fila de espera eletrônica para reorganizar os atendimentos, priorizando quem agendou com maior antecedência.
+CORRETA: C
+
+PERGUNTA: A Portaria nº 2.436/2017 aprova a Política Nacional de Atenção Básica (PNAB), estabelecendo diretrizes para a organização da Atenção Básica no âmbito do Sistema Único de Saúde (SUS). Considerando as diretrizes da PNAB e sua articulação com as Redes de Atenção à Saúde (RAS), analise as afirmativas abaixo:
+I. A Atenção Básica é a principal porta de entrada e centro de comunicação da RAS, coordenadora do cuidado e ordenadora das ações e serviços disponibilizados na rede.
+II. A PNAB tem na Saúde da Família sua estratégia prioritária para expansão e consolidação da Atenção Básica, não sendo reconhecidas outras estratégias de Atenção Básica, ainda que observados os princípios e diretrizes previstos nesta portaria.
+III. A Atenção Básica deve ser ofertada integral e gratuitamente a todas as pessoas, de acordo com suas necessidades e demandas do território, considerando os determinantes e condicionantes de saúde.
+IV. A Atenção Básica consiste no primeiro ponto de atenção do sistema, que deve ordenar os fluxos e contrafluxos de pessoas, produtos e informações em todos os pontos de atenção à saúde.
+Assinale a alternativa que apresenta todas as afirmativas corretas:
+A) I, II e III.
+B) I, III e IV.
+C) II, III e IV.
+D) I, II e IV.
+CORRETA: B
+
+PERGUNTA: Maria, 45 anos, vem à consulta relatando dores generalizadas há mais de oito meses, além de sensação de fadiga e sono não reparador. Ela já foi a vários especialistas e realizou múltiplos exames, os quais trouxe à consulta, todos avaliados como normais, incluindo alguns autoanticorpos e provas de atividade inflamatória. Maria chora e expressa preocupação de que os médicos não estão levando suas queixas a sério. Durante o exame físico, percebe-se que Maria tem sensibilidade dolorosa difusa à palpação muscular e articular, mas não se notam sinais inflamatórios articulares. Ao aplicar o método clínico centrado na pessoa, qual deve ser a primeira abordagem?
+A) Informar à paciente que, apesar de todos os exames normais, os sintomas indicam claramente uma fibromialgia e iniciar o tratamento com antidepressivos tricíclicos e relaxantes musculares.
+B) Explorar detalhadamente os sintomas e solicitar novos exames com perfil completo de autoanticorpos para melhor abordar a preocupação de Maria e confirmar o diagnóstico com segurança.
+C) Investigar como Maria está vivenciando esses sintomas, seus medos, expectativas e impacto na sua rotina de vida e, somente então, discutir possíveis estratégias para manejo conjunto dos sintomas.
+D) Encaminhar a paciente para um especialista em reumatologia, considerando o tempo de duração dos sintomas, o que colabora para a possibilidade de uma condição autoimune não detectada.
+CORRETA: C
+
+PERGUNTA: Sobre o Método Clínico Centrado na Pessoa (MCCP), é correto afirmar que:
+A) a promoção da saúde deve ser realizada coletivamente, resguardando-se a consulta individual ao tratamento de doenças.
+B) o tempo de consulta estruturada no método clínico tradicional é maior que o de uma consulta estruturada no MCCP.
+C) a experiência do adoecimento relaciona-se à doença que aflige a pessoa, ou seja, pessoas acometidas com uma mesma doença sofrerão os mesmos sintomas e disfunções.
+D) o médico e a pessoa consultada precisam elaborar um plano conjunto de manejo, incluindo a priorização de problemas, metas do manejo e papéis dos envolvidos.
+CORRETA: D
+
+PERGUNTA: O Método Clínico Centrado na Pessoa (MCCP) é um dos modelos de abordagem à consulta, sendo considerado um método que engloba e sistematiza diversos aspectos positivos das diferentes formas de abordagem aos problemas de saúde. Quanto ao MCCP, assinale a alternativa correta.
+A) Seu primeiro componente é “sendo realista”, o que pode ser exemplificado pela consciência do médico que seus recursos são limitados e que não será possível resolver todos os problemas que lhe forem apresentados ao longo dos atendimentos.
+B) Um dos seus componentes é “considerar a pessoa como um todo”, ou seja, realizar exame físico completo em todas as consultas sem esquecer qualquer órgão ou sistema.
+C) Trata-se de um checklist a ser realizado a cada consulta, a fim de abarcar todos os componentes e realizar adequada revisão de sintomas e sistemas, bem como os fatores socioeconômicos relacionados ao agravo à saúde.
+D) Seu primeiro componente é “explorando a doença e a experiência da doença”, em que são abordados os sentimentos, ideias, impacto na funcionalidade e quais as expectativas do paciente no processo de adoecimento.
+CORRETA: D
+
+PERGUNTA: Na medicina de família, a abordagem centrada na pessoa visa a um atendimento integral e humanizado. Qual afirmação melhor descreve essa abordagem?
+A) A avaliação deve focar exclusivamente nas queixas físicas apresentadas pelo paciente, dispensando informações sobre o contexto social e familiar que possam interferir no quadro clínico.
+B) O acompanhamento considera tanto os aspectos biológicos quanto os emocionais, sociais e culturais, proporcionando um cuidado integral que respeita a individualidade de cada pessoa.
+C) A abordagem é baseada em protocolos rígidos de diagnóstico e tratamento, sem margem para adaptação conforme as particularidades de cada paciente, garantindo um atendimento padronizado.
+D) A abordagem é centrada em informações quantitativas coletadas pelo profissional de saúde, com pouca ênfase no relato subjetivo do paciente durante as consultas.
+CORRETA: B
+
+PERGUNTA: Sobre o enunciado a seguir “o trabalho em equipe multiprofissional é aquele que envolve ______________ profissionais, que juntos compartilham o senso de _______________ e atuam de maneira ______________ e interdependente para atender às necessidades de saúde”. Escolha a alternativa que melhor preencha as lacunas.
+A) Determinados, grupo profissional, intensiva.
+B) Diferentes, pertencimento, integrada.
+C) Grupos, profissionalidade, especial.
+D) Dois, trabalho em grupo, ética.
+CORRETA: B
+
+PERGUNTA: O trabalho em equipe pode ser definido como um conjunto de pessoas com conhecimentos diversos, mas que se unem em prol de objetivos comuns, negociando e elaborando um plano de ação bem definido, trabalhando em consonância e com comprometimento mútuo, complementando o trabalho com suas habilidades variadas, aumentando a chance de êxito no resultado do trabalho empreendido. Quanto ao trabalho em equipe, considere as sentenças a seguir:
+I- A permanência, por muito tempo, da mesma pessoa na liderança das atividades de uma equipe pode contribuir para a passividade dos demais membros. Portanto, considera-se mais produtivo para a equipe que haja um rodízio na liderança, a fim de evitar o engessamento de posicionamentos.
+II- A equipe agrupamento, onde a especificidade de cada um é preservada, uma pessoa não influencia a outra e observa-se independência do trabalho assistencial e autonomia plena dos atores envolvidos, é considerada ideal para a efetividade de um projeto de ação na Atenção Primária à Saúde.
+III- Interdisciplinaridade é caracterizada por várias disciplinas diferentes e de níveis diversos, trocando experiências de forma integrada e coordenada, com um objetivo comum.
+IV- A estrutura de liderança hierarquizada verticalizada não é mais vista como adequada para obter resultados eficazes.
+Estão corretas apenas as sentenças
+A) I e II.
+B) I e III.
+C) II e IV.
+D) I, III e IV.
+CORRETA: D
+
+PERGUNTA: Ao falarem sobre a necessidade de integração e colaboração no âmbito das equipes e delas com os demais serviços da rede de cuidado, caracteriza-se especialmente, por:
+A) Trabalho coletivo.
+B) Trabalho multiprofissional.
+C) Comunicação efetiva interprofissional.
+D) Organização institucional.
+CORRETA: C
+
+PERGUNTA: O Apoio Matricial, também chamado de matriciamento, propõe um arranjo na organização dos serviços que complementa as equipes de referência. Sendo assim, se constitui em "[...] um modo de realizar a atenção em saúde de forma compartilhada com vistas à integralidade e à resolubilidade da atenção, por meio do trabalho interdisciplinar [...]" (BRASIL,2004, p.1). Em relação ao Apoio Matricial, é correto afirmar que
+A) a organização do Apoio Matricial no âmbito da Atenção Primária à Saúde reduz a capacidade de intervenção sobre os problemas, em termos clínicos e sanitários.
+B) na Atenção Primária em Saúde, o Apoio Matricial pode se conformar através da relação entre equipes de Saúde da Família e as EMulti (antigo NASF).
+C) o modelo proposto pelo Apoio Matricial reúne profissionais de diferentes áreas do conhecimento, embora impeça que estes atuem de modo transdisciplinar.
+D) o modelo de atendimento proposto pelo Apoio Matricial fragiliza a construção de vínculos terapêuticos com os usuários e a responsabilização por parte das equipes.
+CORRETA: B
+
+PERGUNTA: Matriciamento ou apoio matricial é um modo de produzir saúde em que duas ou mais equipes, num processo de construção compartilhada, criam uma proposta de intervenção pedagógico-terapêutica. A respeito do matriciamento ou apoio matricial, pode-se afirmar que
+A) o apoio matricial é definido como o atendimento médico exclusivo realizado pelo especialista dentro de uma unidade de atenção primária tradicional.
+B) o matriciamento decorre de um processo de horizontalização do cuidado em saúde, devendo proporcionar a retaguarda especializada da assistência, assim como um suporte técnico-pedagógico, um vínculo interpessoal e o apoio institucional no processo de construção coletiva de projetos terapêuticos junto à população.
+C) o Projeto terapêutico singular (PTS) é um recurso de clínica ampliada e de humanização em saúde. Entretanto, não é aconselhável que o matriciador utilize do PTS ao abordar algum caso com a equipe de referência, já que o PTS contém informações sigilosas.
+D) a Interconsulta não deve ser utilizada como instrumento do apoio matricial, já que o usuário tem que ser consultado por especialistas médicos separadamente, a fim de ser melhor atendido.
+CORRETA: B
+
+PERGUNTA: “Matriciamento ou apoio matricial é um método de produzir saúde, visando integrar os profissionais da equipe de saúde da família com os profissionais especialistas para aprimorar a discussão de casos e melhorar as intervenções terapêuticas” (BRASIL, 2013). Sobre o matriciamento na Atenção Primária, marque V para as afirmativas verdadeiras e F para as falsas.
+( ) O Matriciamento é um processo dinâmico e permite a expressão dos saberes, troca de experiências, bem como um melhor acompanhamento do processo saúde-doença e intervenção de cada indivíduo.
+( ) Dentre seus objetivos, o Matriciamento propõe a construção de vínculos terapêuticos e a responsabilização (definição de responsabilidades) das equipes.
+( ) As equipes de referências e o apoio matricial são ferramentas indispensáveis para humanização da atenção e da gestão em saúde.
+( ) O apoio matricial é voltado à ampliação da oferta de ações em saúde, diretamente às questões gerenciais, não sendo relacionado ao serviço de acolhimento e escuta do usuário da saúde.
+Assinale a sequência correta.
+A) F, V, F, F.
+B) V, V, V, F.
+C) F, F, V, V.
+D) V, F, F, V.
+CORRETA: B
+
+PERGUNTA: O Serviço de Atenção Domiciliar (SAD) possui a intenção de reduzir a demanda por atendimento hospitalar e/ou reduzir o período de permanência de usuários internados, a humanização da atenção, a desinstitucionalização e a ampliação da autonomia dos usuários, sendo a Atenção Básica a ordenadora da atenção domiciliar. A Atenção Domiciliar é dividida em:
+A) Duas modalidades.
+B) Três modalidades.
+C) Quatro modalidades.
+D) Cinco modalidades.
+CORRETA: B
+
+PERGUNTA: Atenção Domiciliar, dentro do Sistema Único de Saúde, caracteriza-se por:
+A) um conjunto de ações, incluindo promoção à saúde e prevenção de doenças e eventos.
+B) menor humanização da atenção à saúde, em relação àquela prestada nos serviços de saúde.
+C) ações exclusivas para tratamento de doenças e reabilitação prestadas em domicílio para garantia de continuidade.
+D) uma das ações que estão em descontinuidade, dada sua ineficácia já demonstrada em estudos epidemiológicos.
+CORRETA: A
+
+PERGUNTA: Em relação às Equipes Multiprofissionais de Atenção Domiciliar (EMAD) e Equipes Multiprofissionais de Apoio (EMAP) no SUS, qual das seguintes opções descreve uma atribuição específica da EMAP?
+A) Realizar a avaliação inicial do paciente e definir o plano de cuidados.
+B) Executar os cuidados e procedimentos definidos no plano terapêutico.
+C) Oferecer suporte técnico e especializado às equipes da Atenção Primária à Saúde (APS) e EMAD.
+D) Acompanhar pacientes com maior frequência e complexidade de cuidados.
+CORRETA: C
+
+PERGUNTA: Uma paciente de 78 anos, acamada há 6 meses devido a um acidente vascular encefálico (AVE) extenso, apresenta múltiplas comorbidades, incluindo hipertensão arterial sistêmica, diabetes mellitus tipo 2 e disfagia. Ela recebe cuidados diários de sua filha, mas necessita de acompanhamento regular de uma equipe multidisciplinar para manejo da gastrostomia, prevenção de úlceras por pressão e reabilitação motora. Qual a modalidade de Atenção Domiciliar (AD) do SUS mais adequada para essa paciente?
+A) AD1
+B) AD2
+C) AD3
+D) Programa Melhor em Casa
+CORRETA: C
+
+PERGUNTA: Qual das seguintes afirmativas define corretamente a modalidade de Atenção Domiciliar (AD) do SUS denominada AD1?
+A) Destinada a pacientes com necessidade de cuidados de alta complexidade, com frequência diária ou quase diária, realizados por equipe multidisciplinar.
+B) Caracterizada por visitas domiciliares regulares de profissionais de saúde para acompanhamento de pacientes com condições crônicas estáveis e baixa necessidade de intervenção.
+C) Voltada para pacientes com agudização de condições crônicas ou outras situações de saúde que demandem atenção em saúde em seu domicílio, com frequência de atendimento conforme a necessidade.
+D) Consiste em um programa mais amplo que engloba todas as modalidades de AD, oferecendo suporte logístico e de gestão para as equipes.
+CORRETA: B
+

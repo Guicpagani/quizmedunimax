@@ -17,7 +17,9 @@ const quizzes = [
   { title: "SDC", label: "Teste de Chegada SDC" },
   { title: "SFC", label: "Teste de Chegada SFC" },
   { title: "Enfase", label: "Teste de Chegada Ênfase CC" },
-  { title: "Laboratorio", label: "Teste de Chegada Laboratórios" }
+  { title: "Laboratorio", label: "Teste de Chegada Laboratórios" },
+  // Adicione a nova prova aqui
+  { title: "SFC_pmsus", label: "Teste de Chegada SFC_pmsus" } // <-- NOVA LINHA ADICIONADA
 ];
 
 export default function AreaRestrita() {
