@@ -68,8 +68,8 @@ export default function AreaRestrita() {
                 Aproveitamos também para agradecer a compreensão a quem associou seu nome como parte de atrativo utilizados em algumas questões. A proposta foi promover atenção, motivação e leveza diante de um conteúdo denso e desafiador.
               </p>
               <p>
-                {/* PARÁGRAFO ATUALIZADO ABAIXO */}
-                A partir de julho iremos trabalhar no botão "meu dashboard" (já possível visualizar após finalizar o teste de Pmsus) a ideia é você entender qual tópico ainda está deficiente nos estudos. Logo nossa plataforma será aprimorada com mais estabilidade, mais conteúdo e ainda mais cuidado com você.
+                {/* CORREÇÃO: trocado aspas duplas por simples */}
+                A partir de julho iremos trabalhar no botão 'meu dashboard' (já possível visualizar após finalizar o teste de Pmsus) a ideia é você entender qual tópico ainda está deficiente nos estudos. Logo nossa plataforma será aprimorada com mais estabilidade, mais conteúdo e ainda mais cuidado com você.
               </p>
               <p className="font-bold text-gray-700 pt-2">
                 Você não está sozinho. Estamos com você até o fim. Boa prova!
