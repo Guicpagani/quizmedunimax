@@ -52,9 +52,12 @@ export default function AreaRestrita() {
       {/* Modal de Aviso */}
       {isNoticeModalOpen && (
         <div className="fixed inset-0 bg-black bg-opacity-60 flex justify-center items-center z-50 p-4">
-          <div className="bg-white rounded-lg shadow-2xl p-6 sm:p-8 max-w-2xl w-full flex flex-col">
+          {/* MUDANÇA 1: Adicionado max-h-[90vh] para limitar a altura do modal */}
+          <div className="bg-white rounded-lg shadow-2xl p-6 sm:p-8 max-w-2xl w-full flex flex-col max-h-[90vh]">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">Uma mensagem da nossa equipe</h2>
-            <div className="text-gray-600 space-y-4 text-left flex-grow">
+            
+            {/* MUDANÇA 2: Adicionado overflow-y-auto para criar a barra de rolagem APENAS no texto */}
+            <div className="text-gray-600 space-y-4 text-left flex-grow overflow-y-auto pr-4">
               <p>
                 Sabemos que essa reta final exige foco e força, e estamos com você.
               </p>
@@ -68,17 +71,16 @@ export default function AreaRestrita() {
                 Aproveitamos também para agradecer a compreensão a quem associou seu nome como parte de atrativo utilizados em algumas questões. A proposta foi promover atenção, motivação e leveza diante de um conteúdo denso e desafiador.
               </p>
               <p>
-                {/* CORREÇÃO: trocado aspas duplas por simples */}
                 A partir de julho iremos trabalhar no botão meu dashboard (já possível visualizar após finalizar o teste de Pmsus) a ideia é você entender qual tópico ainda está deficiente nos estudos. Logo nossa plataforma será aprimorada com mais estabilidade, mais conteúdo e ainda mais cuidado com você.
               </p>
               <p className="font-bold text-gray-700 pt-2">
-                Você não está sozinho. Estamos com você até o fim. Boa prova.
+                Você não está sozinho. Estamos com você até o fim. Boa prova!
               </p>
             </div>
             <div className="mt-6 text-right font-semibold text-gray-700">
                 <p>– Equipe QuizMadMax 🧠💥</p>
             </div>
-            <div className="mt-4 flex justify-end">
+            <div className="mt-4 flex justify-end pt-4 border-t border-gray-200">
               <button
                 onClick={handleCloseNoticeModal}
                 className="px-6 py-2 bg-blue-600 text-white font-semibold rounded-lg shadow hover:bg-blue-700 transition-colors"
