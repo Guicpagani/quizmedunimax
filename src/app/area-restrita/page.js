@@ -73,8 +73,9 @@ export default function AreaRestrita() {
         </div>
       </div>
 
-      {/* Botão de sair */}
-      <div className="max-w-4xl mx-auto mt-10">
+      {/* Botões de Ação */}
+      <div className="max-w-4xl mx-auto mt-10 flex items-center gap-4">
+        {/* Botão de sair */}
         <button
           className="px-5 py-2 bg-red-500 text-white rounded-lg font-semibold shadow hover:bg-red-700 transition-colors"
           onClick={async () => {
@@ -83,6 +84,14 @@ export default function AreaRestrita() {
           }}
         >
           Sair
+        </button>
+        
+        {/* NOVO BOTÃO DASHBOARD */}
+        <button
+          className="px-5 py-2 bg-green-500 text-white rounded-lg font-semibold shadow hover:bg-green-700 transition-colors"
+          onClick={() => router.push('/area-restrita/dashboard')}
+        >
+          Meu Dashboard
         </button>
       </div>
     </div>

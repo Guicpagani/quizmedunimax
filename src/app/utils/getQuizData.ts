@@ -3,18 +3,21 @@ import SDC from '../data/SDC.json';
 import SFC from '../data/SFC.json';
 import Enfase from '../data/Enfase.json';
 import Laboratorio from '../data/Laboratorio.json';
-import SFC_pmsus from '../data/SFC_pmsus.json'; // <--- ADICIONE ESTA LINHA PARA IMPORTAR O NOVO QUIZ
+import SFC_pmsus from '../data/SFC_pmsus.json';
 
 const quizzes = [
-  { title: 'SDC', data: SDC },
-  { title: 'SFC', data: SFC },
-  { title: 'Enfase', data: Enfase },
-  { title: 'Laboratorio', data: Laboratorio },
-  { title: 'SFC_pmsus', data: SFC_pmsus }, // <--- E ADICIONE ESTE OBJETO AO ARRAY
+  // AQUI É ONDE PRECISAMOS MUDAR:
+  // Queremos que `data` contenha o ARRAY de questões, que está em `SDC.data` (SDC é o objeto JSON completo)
+  { title: 'SDC', data: SDC.data }, // <--- CORRIGIDO
+  { title: 'SFC', data: SFC.data }, // <--- CORRIGIDO
+  { title: 'Enfase', data: Enfase.data }, // <--- CORRIGIDO
+  { title: 'Laboratorio', data: Laboratorio.data }, // <--- CORRIGIDO
+  { title: 'SFC_pmsus', data: SFC_pmsus.data }, // <--- CORRIGIDO
 ];
 
 export function getQuizByTitle(title: string) {
   if (!title) return undefined;
+  // AQUI NÃO MEXEMOS MAIS, POIS O ARRAY JÁ ESTARÁ NA PROPRIEDADE `data`
   return quizzes.find(
     (q) => q.title && q.title.toLowerCase() === title.toLowerCase()
   );

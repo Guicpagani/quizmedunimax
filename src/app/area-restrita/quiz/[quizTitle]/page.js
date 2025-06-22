@@ -1,9 +1,12 @@
+// src/app/area-restrita/quiz/[quizTitle]/page.js
 'use client';
 
 import { use } from 'react';
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
-import Quiz from '../../Quiz';
+// --- CAMINHO CORRIGIDO AQUI ---
+// De `src/app/area-restrita/quiz/[quizTitle]/page.js` para `src/app/area-restrita/Quiz.tsx`
+import Quiz from '../../Quiz'; // <--- ESTE É O CAMINHO CORRETO
 
 export default function QuizPage(props) {
   const { quizTitle } = use(props.params);
@@ -56,6 +59,7 @@ export default function QuizPage(props) {
           ← Voltar para o menu principal
         </button>
 
+        {/* Renderiza o componente Quiz, passando o quizTitle */}
         <Quiz quizTitle={quizTitle} />
       </div>
     </div>

@@ -1,9 +1,13 @@
+// src/app/area-restrita/Quiz.tsx
 'use client';
 
 import React, { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
-import { getQuizByTitle } from "../utils/getQuizData";
-import { Questao } from "../types/types";
+// --- CAMINHOS CORRIGIDOS AQUI ---
+// De `src/app/area-restrita/Quiz.tsx` para `src/app/utils/getQuizData.ts`
+import { getQuizByTitle } from "../utils/getQuizData"; // <--- CORRETO: Sobe um nível para 'app' e desce para 'utils'
+// De `src/app/area-restrita/Quiz.tsx` para `src/app/types/types.ts`
+import { Questao } from "../types/types"; // <--- CORRETO: Sobe um nível para 'app' e desce para 'types'
 
 // A função de embaralhar está correta, não precisa mexer nela.
 function shuffleArray(array: any[]) {
@@ -17,7 +21,8 @@ function shuffleArray(array: any[]) {
 
 export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const quizDataWrapper = getQuizByTitle(quizTitle);
-  const originalData: Questao[] | undefined = quizDataWrapper?.data?.data;
+  // --- Acesso correto aos dados dentro do JSON ---
+  const originalData: Questao[] | undefined = quizDataWrapper?.data; 
 
   const router = useRouter();
 
@@ -32,21 +37,25 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const [explanation, setExplanation] = useState("");
   const [isLoadingExplanation, setIsLoadingExplanation] = useState(false);
 
+  const [userAnswers, setUserAnswers] = useState<{ questionIndex: number, selectedOption: number, correct: boolean }[]>([]);
+
   useEffect(() => {
     if (originalData && originalData.length > 0) {
-      // --- CORREÇÃO APLICADA AQUI ---
-      // Mantemos a ordem original das alternativas e apenas embaralhamos as questões.
       const shuffledQuestions = shuffleArray(originalData); 
-
       const limit = 150;
       const selecionadas = shuffledQuestions.slice(0, Math.min(limit, shuffledQuestions.length));
       setQuizData(selecionadas);
+    } else {
+      console.log("OriginalData é vazio ou indefinido. Verifique o JSON ou getQuizByTitle.", { quizTitle, quizDataWrapper, originalData });
     }
-  }, [originalData]);
+  }, [originalData, quizTitle, quizDataWrapper]);
 
   const currentQuestion = quizData[currentQuestionIndex];
 
+  const letras = ['A', 'B', 'C', 'D', 'E']; 
+
   if (!currentQuestion) {
+    console.log("Problema ao carregar a questão atual. quizData:", quizData, "originalData:", originalData);
     return (
       <div className="bg-white p-8 rounded-xl shadow text-center text-lg">
         Carregando quiz...
@@ -59,6 +68,16 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
 
     setSelectedOption(index);
     const isCorrect = index === currentQuestion.correta;
+
+    setUserAnswers(prevAnswers => [
+      ...prevAnswers,
+      {
+        questionIndex: currentQuestionIndex,
+        selectedOption: index,
+        correct: isCorrect
+      }
+    ]);
+
     setRespostaPainel(
       isCorrect
         ? "✅ Resposta correta!"
@@ -70,6 +89,31 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
     setCanAdvance(true);
   };
 
+  const saveQuizResults = () => {
+    let errorsByTopic: { [key: string]: number } = {};
+
+    userAnswers.forEach(answer => {
+      if (!answer.correct) {
+        const question = quizData[answer.questionIndex];
+        if (question && question.topicos) {
+          question.topicos.forEach(topic => {
+            errorsByTopic[topic] = (errorsByTopic[topic] || 0) + 1;
+          });
+        }
+      }
+    });
+
+    const storedResultsJson = localStorage.getItem('quizErrorsByTopic');
+    const storedResults = storedResultsJson ? JSON.parse(storedResultsJson) : {};
+
+    for (const topic in errorsByTopic) {
+      storedResults[topic] = (storedResults[topic] || 0) + errorsByTopic[topic];
+    }
+
+    localStorage.setItem('quizErrorsByTopic', JSON.stringify(storedResults));
+  };
+
+
   const handleNextQuestion = () => {
     const nextQuestion = currentQuestionIndex + 1;
     if (nextQuestion < quizData.length) {
@@ -79,6 +123,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
       setCanAdvance(false);
       setExplanation("");
     } else {
+      saveQuizResults(); 
       setShowScore(true);
     }
   };
@@ -126,7 +171,7 @@ export default function Quiz({ quizTitle }: { quizTitle: string }) {
   const percentualAcerto = total > 0 ? Math.round((acertos / total) * 100) : 0;
   const percentualErro = 100 - percentualAcerto;
   const status = percentualAcerto >= 60 ? "✅ Aprovado" : "❌ Reprovado";
-  const letras = ['A', 'B', 'C', 'D'];
+
 
   return (
     <div className="relative bg-white p-6 pb-20 rounded-xl shadow-lg w-full max-w-[95rem] mx-auto px-4 sm:px-8">
