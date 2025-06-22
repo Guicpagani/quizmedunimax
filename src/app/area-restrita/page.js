@@ -74,17 +74,17 @@ export default function AreaRestrita() {
                 Mas nem tudo são glicoses normais: um bug técnico (ainda sob análise por um comitê de ornitorrincos altamente treinados) impediu a liberação completa das questões de Clínica Cirúrgica e algumas específicas de rastreamento e AR infantil. Pedimos desculpas por isso — sabemos que faz falta, mas não teremos tempo o suficiente para solucionar, com tudo, confiamos no seu potencial.
               </p>
                <p>
-                Aproveitamos também para agradecer a compreensão a quem associou seu nome como parte de atrativo utilizados em algumas questões. A proposta foi promover atenção, motivação e leveza diante de um conteúdo denso e desafiador.
+                Aproveitamos também para agradecer a compreensão a quem associou seu nome como atrativo e que foram utilizados em algumas questões. A proposta foi promover foco, atenção, motivação e leveza diante de um conteúdo denso.
               </p>
               <p>
-                A partir de julho, nossa plataforma será aprimorada com mais estabilidade, mais conteúdo e ainda mais cuidado com você.
+                A partir de julho iremos trabalhar no botão dashboard (já possível de visualizar após visualizar o teste Pmsus). Logo nossa plataforma será aprimorada com mais estabilidade, mais conteúdo e ainda mais cuidado com você.
               </p>
               <p className="font-bold text-gray-700 pt-2">
                 Você não está sozinho. Estamos com você até o fim. Boa prova!
               </p>
             </div>
             <div className="mt-6 text-right font-semibold text-gray-700">
-                <p>– Equipe QuizMadMax 🧠💥</p>
+                <p>– Equipe QuizMedMax 🧠💥</p>
             </div>
             <div className="mt-4 flex justify-end">
               <button
