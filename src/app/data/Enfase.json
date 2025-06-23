@@ -617,6 +617,322 @@
         "O estresse cirúrgico resulta em alterações no metabolismo proteico corporal total, caracterizado por um aumento no catabolismo proteico, balanço negativo de nitrogênio e aumento do \"turnover\" proteico"
       ],
       "correta": 0
+    },
+    {
+      "pergunta": "Paciente feminina, 43 anos, com história de 6 meses de dor epigástrica inespecífica, vômitos, saciedade precoce e perda ponderal. Apresenta diagnóstico de hipotireoidismo e nega cirurgias prévias, tabagismo ou etilismo. Refere que sua mãe é portadora de diabetes e o pai é falecido por tromboembolismo pulmonar. Realizou endoscopia digestiva alta com diagnóstico de adenocarcinoma gástrico bem diferenciado no antro gástrico. O estadiamento clínico não revela comprometimento linfonodal ou metástase à distância. Considerando o tratamento e os cuidados perioperatórios para a paciente do caso acima, assinale a afirmativa correta.",
+      "alternativas": [
+        "Deve-se preparar a paciente para gastrectomia total com linfadenectomia D2 em caráter curativo.",
+        "Para o estadiamento oncológico pré-operatório é mandatória a realização de PET-CT.",
+        "Há indicação de profilaxia farmacológica de tromboembolismo venoso profundo no pós-operatório, a ser realizada de preferência com heparina de baixo peso molecular.",
+        "Na antibioticoprofilaxia deve-se incluir cobertura para germes anaeróbios."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sobre o manejo da hemorragia digestiva baixa (HDB) em adultos, assinale a alternativa correta.",
+      "alternativas": [
+        "A doença diverticular dos cólons é a principal causa de HDB, sendo que, na maioria dos casos, ocorre resolução espontânea do sangramento.",
+        "A angiografia dos vasos mesentéricos pode ser indicada nos casos de HDB, contudo há a desvantagem de não serem possíveis as intervenções terapêuticas durante o exame.",
+        "O exame de escolha para o diagnóstico topográfico e etiológico da HDB em pacientes hemodinamicamente estáveis é a cintilografia com hemácias marcadas.",
+        "Em pacientes com enterorragia volumosa não está indicada a endoscopia digestiva alta, já que essa é a apresentação clínica típica dos sangramentos colônicos."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Qual das seguintes afirmações é correta a respeito da indicação para colecistectomia profilática em pacientes com cálculos biliares assintomáticos?",
+      "alternativas": [
+        "A colecistectomia profilática é indicada universalmente em pacientes assintomáticos com cálculos biliares para evitar complicações futuras.",
+        "A colecistectomia profilática deve ser considerada em pacientes assintomáticos que se submetem a cirurgia bariátrica, devido ao risco de colangite ascendente e dificuldades técnicas para a CPRE pós-operatória.",
+        "Pacientes com vesícula em porcelana e cálculos volumosos (> 2,5 cm) não possuem risco aumentado de carcinoma e, portanto, não necessitam de colecistectomia profilática.",
+        "Pacientes imunocompetentes com cálculos biliares assintomáticos e sem outros fatores de risco devem sempre ser submetidos à colecistectomia profilática antes de qualquer cirurgia planejada.",
+        "A presença de cálculos biliares assintomáticos em pacientes com anemia hemolítica não aumenta o risco de complicações, portanto, a colecistectomia profilática não e necessária."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Em relação ao câncer gástrico, analise o texto a seguir. Na classificação de Lauren subtipo intestinal é o mais comum no Brasil, acomete principalmente e apresenta disseminação hematogênica e o subtipo difuso ocorre principalmente em o tipo de pior prognóstico e presença de é um tumor bem é um tumor pouco diferenciado, tem disseminação linfática e. A alternativa que preenche CORRETAMENTE as lacunas é:",
+      "alternativas": [
+        "Homens idosos diferenciado - mulheres jovens células anel de sinete",
+        "Mulheres jovens - indiferenciado - homens idosos - metaplasia de célula caliciformes",
+        "Homens jovens diferenciado mulheres idosas tumor de Krukemberg",
+        "Homens idosos - indiferenciado - mulheres idosas displasia amiloidal"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em relação à resposta orgânica ao estresse, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "A hiperglicemia é promovida pela gliconeogênese hepática secundária à liberação de catecolaminas e por estimulação direta",
+        "A hiperglicemia é proporcional à gravidade do estresse em pacientes com trauma",
+        "Na fase hipermetabólica, ainda que envolva ambos os processos catabólicos e anabólicos, o resultado final é caracterizado por balanço nitrogenado positivo",
+        "Os níveis séricos de T3 encontram-se diminuídos, enquanto os de T4 e de T SH aumentam nas primeiras horas após o trauma cirúrgico"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Uma mulher de 34 anos com doença de Crohn procura o médico devido a uma história de 4 semanas de náusea, distensão abdominal e dor epigástrica que ocorre após as refeições e se irradia para o ombro direito. Há quatro meses, ela foi submetida a ressecção ileocecal por obstrução intestinal aguda. Uma ultrassonografia do abdome mostra múltiplos focos ecogênicos com sombras acústicas na vesícula biliar. Qual dos seguintes mecanismos provavelmente contribuiu para a apresentação atual deste paciente?",
+      "alternativas": [
+        "Aumento da produção de bilirrubinas.",
+        "Aumento da enzima B-glucuronidase.",
+        "Redução da concentração de ácidos biliares.",
+        "Redução na absorção de gordura."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Com relação à classificação de FORREST, utilizada nas hemorragias digestivas altas, assinale a afirmativa incorreta.",
+      "alternativas": [
+        "Forrest II representa sinais de hemorragia recente, sendo a presença de coágulo aderido considerada llb, com risco de ressangramento em torno de 30%.",
+        "Forrest III representa ausência de sinais de sangramento recente.",
+        "Forrest I representa hemorragia ativa, com risco de ressangramento sempre alto, em torno de 90%.",
+        "Forrest III C representa úlceras cicatrizadas."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Em relação à resposta endocrinometabólica ao trauma cirúrgico, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "Os ácidos graxos livres são fontes primárias de energia após o trauma, a lipólise é acelerada no período inicial devido ao aumento na liberação do hormônio adrenocorticotrófico, cortisol, catecolaminas, glucagon, hormônio do crescimento e níveis séricos de insulina.",
+        "A resposta metabólica ao estresse é mediada por hormônios catabólicos como o glucagon, catecolaminas e corticosteroides e pela resistência insulínica, bem como por citocinas, radicais livres de oxigênio e outros mediadores locais que também estão envolvidos nesse processo.",
+        "A principal alteração metabólica que surge em resposta à injúria traumática é o aumento no efeito anabólico da insulina acompanhado de resistência insulínica nos tecidos periféricos.",
+        "O estresse cirúrgico resulta em alterações no metabolismo proteico corporal total, caracterizado por um aumento no catabolismo proteico, balanço negativo de nitrogênio e aumento do \"turnover\" proteico"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Sobre as doenças pleuro-pulmonares, assinale a alternativa correta.",
+      "alternativas": [
+        "O pneumotórax traumático é uma complicação frequente dos traumas torácicos. Mais comumente causados no trauma contuso, laceração do parênquima pulmonar por costela fraturada, desaceleração ou barotrauma. O pneumotórax hipertensivo constitui-se numa situação de alto risco de vida, caracterizado por fluxo aéreo para o espaço pleural em um mecanismo de válvula, impedindo o retorno deste ar, gerando aumento da pressão intra-pleural, colapso pulmonar, deslocamento de mediastino e colapso cardiovascular, podendo levar o indivíduo a óbito se não ocorrer uma intervenção rápida.",
+        "O empiema pleural é definido como a presença de pus em espaço neoformado, com 3 fases evolutivas e características peculiares. Tem na drenagem cirúrgica o seu método terapêutico de escolha. Remover o pus, reexpandir o pulmão, obliterar o espaço pleural, reestabelecer a mobilidade diafragmática são alguns dos objetivos primordiais no manuseio do empiema pleural.",
+        "O abcesso pulmonar é a necrose do parênquima pulmonar causada por infecção. Nesta definição, incluem-se os espaços pré-existentes como cisto e bolhas pulmonares, que, ao se infectarem, apresentam quadro clinico semelhante e com manejo terapêutico similar. Os abcessos podem ser classificados em agudos e crônicos, baseados na sintomatologia e na duração.",
+        "Hemoptise é definida como expectoração de sangue com eliminação a partir de 100 ml. O pulmão é a principal fonte de sangramento, porém o sangramento da nasofaringe e gastrointestinal também são causas de hemoptise. Micobacterioses e micetomas são também causas de hemoptise.",
+        "Pectus excavatum, conhecido como peito de sapateiro ou síndrome de Poland, é uma deformidade por depressão do esterno e das cartilagens costais inferiores, eventualmente acompanhada de deformidade da extremidade anterior das costelas na sua articulação com as cartilagens costais."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Pode-se afirmar que o procedimento endoscópico com indicação de antibioticoprofilaxia é:",
+      "alternativas": [
+        "confecção de gastrostomia endoscópica",
+        "punção por agulha fina de lesão sólida de trato gastrointestinal via ecoendoscopia",
+        "endoscopia digestiva alta diagnóstica em pacientes com cirrose hepática",
+        "colonoscopia em pacientes com valvulopatia mitral"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Sobre o manejo da hemorragia digestiva baixa (HDB) em adultos, assinale a alternativa correta.",
+      "alternativas": [
+        "A doença diverticular dos cólons é a principal causa de HDB, sendo que, na maioria dos casos, ocorre resolução espontânea do sangramento.",
+        "A angiografia dos vasos mesentéricos pode ser indicada nos casos de HDB, contudo há a desvantagem de não serem possíveis as intervenções terapêuticas durante o exame.",
+        "O exame de escolha para o diagnóstico topográfico e etiológico da HDB em pacientes hemodinamicamente estáveis é a cintilografia com hemácias marcadas.",
+        "Em pacientes com enterorragia volumosa não está indicada a endoscopia digestiva alta, já que essa é a apresentação clínica típica dos sangramentos colônicos."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Assinale a alternativa que apresenta a correta correlação entre o tumor e seu respectivo marcador.",
+      "alternativas": [
+        "Mieloma múltiplo e calcitonina.",
+        "Mama e CA 125.",
+        "Esôfago e CA 19-9.",
+        "Pâncreas/vias biliares e alfafetoproteína.",
+        "Colorretais e antígeno carcinoembrionário."
+      ],
+      "correta": 4
+    },
+    {
+      "pergunta": "Em relação à resposta endocrinometabólica ao trauma cirúrgico, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "Os ácidos graxos livres são fontes primárias de energia após o trauma, a lipólise é acelerada no período inicial devido ao aumento na liberação do hormônio adrenocorticotrófico, cortisol, catecolaminas, glucagon, hormônio do crescimento e níveis séricos de insulina.",
+        "A resposta metabólica ao estresse é mediada por hormônios catabólicos como o glucagon, catecolaminas e corticosteroides e pela resistência insulínica, bem como por citocinas, radicais livres de oxigênio e outros mediadores locais que também estão envolvidos nesse processo.",
+        "A principal alteração metabólica que surge em resposta à injúria traumática é o aumento no efeito anabólico da insulina acompanhado de resistência insulínica nos tecidos periféricos.",
+        "O estresse cirúrgico resulta em alterações no metabolismo proteico corporal total, caracterizado por um aumento no catabolismo proteico, balanço negativo de nitrogênio e aumento do \"turnover\" proteico"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A respeito do câncer colorretal, analise as afirmativas. I. A causa mais comum de metástases à distância é a via linfática. II. Tumores do cólon direito geralmente se manifestam com hematoquezia e alteração do hábito intestinal. III. O antígeno carcinoembrionário (CEA) é utilizado no diagnóstico, no estadiamento e no seguimento do câncer de cólon. IV. A pesquisa de sangue oculto nas fezes, por ser um exame de baixa sensibilidade e especificidade, não é mais recomendada como método de rastreamento populacional. Estão corretas as afirmativas",
+      "alternativas": [
+        "I e II, apenas.",
+        "I e III, apenas.",
+        "II e IV, apenas.",
+        "Nenhuma afirmativa está correta."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "A respeito da diferenciação entre transudatos e exsudatos para o correto manejo de pacientes com derrame pleural, analise as afirmativas. 1. Os transudatos são, em sua maior parte, bilaterais; já os exsudatos se apresentam, na maioria das vezes, de forma unilateral. II. Os critérios de Light são parâmetros clínicos utilizados na diferenciação entre transudatos e exsudatos. III. A etiologia mais frequente de derrame pleural do tipo transudato é a insuficiência renal. IV. O derrame pleural secundário à tuberculose é normalmente do tipo exsudativo com valores de adenosina deaminase acima de 40 Ul/L. Estão corretas as afirmativas",
+      "alternativas": [
+        "I e IV, apenas.",
+        "II e III, apenas.",
+        "I, II e III, apenas.",
+        "II, III e IV, apenas."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "No atendimento ao traumatizado, além de todas as medidas que devem ser realizadas, é importante se evitar a \"triade letal\", formada por:",
+      "alternativas": [
+        "hipotensão, taquicardia, e diminuição do débito urinário",
+        "acidose, hipotermia e coagulopatia",
+        "hipoxemia, hipóxia cerebral e hipoventilação",
+        "coma, sangramento abdominal e alcalose respiratória"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Dentre as alternativas a seguir, assinale a patologia MAIS encontrada com a enteroscopia intraoperatória nos sangramentos do intestino delgado.",
+      "alternativas": [
+        "Tumor.",
+        "Pólipo.",
+        "Ectasia vascular.",
+        "Divertículo de jejuno."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente feminina, de 50 anos, com 90 kg de peso e 169 cm de altura, apresentou quadro de dor no abdômen superior. Exames laboratoriais indicaram lipase de 3.000 U/I, ALT de 300 U/l, hemoglobina de 11 g/d e leucograma com 12.000 leucocitos/mm³, sem desvio. Ultrassonografia abdominal mostrou múltiplos cálculos na vesícula biliar com colédoco medindo 5 mm. Assinale a assertiva que contempla a conduta mais adequada.",
+      "alternativas": [
+        "Indicar hidratação vigorosa com ringer lactato (bolo de 20 ml/kg em 2 horas seguido de 3 ml/kg/hora,.",
+        "Realizar tomografia computadorizada abdominal com contraste para diagnóstico.",
+        "Realizar colangiografia endoscópica por suspeita de coledocolitíase.",
+        "Realizar colecistectomia videolaparoscópica com colangiografia na mesma internação"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Paciente, 45 anos, apresenta quadro de hematêmese e melena. Endoscopia digestiva alta realizada na urgência identifica tumor de, aproximadamente, 3 cm, recoberto por mucosa normal, com umbilicação central, em fundo gástrico, com sinais de sangramento recente. Não foi realizada biópsia. Em face do exposto, assinale a alternativa correta.",
+      "alternativas": [
+        "O paciente deve ser submetido à gastrectomia com linfadenectomia a D2, na urgência, considerando a alta probabilidade de câncer gástrico.",
+        "Deve-se encaminhar o paciente para radioterapia, para realizar radioterapia hemostática.",
+        "Paciente jovem, com suspeita de câncer gástrico. Deve-se suspeitar de síndrome de Lynch.",
+        "Biópsia da superfície do nódulo pode resultar em falso negativo, uma vez que a lesão pode ser subepitelial."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Em relação às doenças inflamatórias intestinais, avalie as afirmativas e assinale a alternativa CORRETA. I. Fatores genéticos e ambientais estão envolvidos em sua patogênese. II. Sangramento retal e envolvimento perianal são mais comuns na doença de Crohn. III. Estão associadas ao aumento do risco de neoplasia intestinal.",
+      "alternativas": [
+        "Apenas a afirmativa I está correta.",
+        "Apenas as afirmativas I e III estão corretas.",
+        "Apenas as afirmativas II e III estão corretas.",
+        "Todas as afirmativas estão corretas."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Na avaliação pré-anestésica do paciente que vai se submeter a uma cirurgia não cardíaca, usam-se normas baseadas nas orientações do American College of Cardiology e da American Heart Association. No que se refere às recomendações dessas entidades para a avaliação complementar pré-operatória de pacientes que realizarão cirurgia não cardíaca, pode-se",
+      "alternativas": [
+        "dispensar o eletrocardiograma de 12 derivações de rotina em pacientes assintomáticos que vão se submeter a procedimento cirúrgico de baixo risco.",
+        "recomendar a investigação com angiografia de coronária de rotina nos pacientes com risco elevado e insatisfatória capacidade funcional.",
+        "evitar o rastreio de rotina por meio de provas de esforço cardiopulmonar em pacientes que vão se submeter a procedimento cirúrgico de alto risco.",
+        "indicar a avaliação da função do ventrículo esquerdo nos pacientes com risco elevado e excelente capacidade funcional."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Durante a resposta metabólica ao trauma cirúrgico, o organismo utiliza a glicogenólise hepática para ofertar glicose aos órgãos vitais. Esse mecanismo é fugaz e dura por 48h. Em seguida, a gliconeogênese converte não carboidratos em glicose. Qual das substâncias abaixo NÃO pode se transformar em glicose através da gliconeogênese?",
+      "alternativas": [
+        "Glicerol",
+        "Lactato",
+        "Ácidos graxos",
+        "Alanina",
+        "Prolina"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Paciente, 40 anos, sem comorbidades, sem histórico de cirurgias prévias, nega tabagismo e etilismo. O mesmo foi submetido a colecistectomia por videplaparoscopia, cuja indicação foi pólipo em vesícula biliar. A cirurgia transcorreu conforme o esperado. Baseado no caso supracitado, qual seria a tromboprofilaxia indicada:",
+      "alternativas": [
+        "Heparina de baixo peso molecular.",
+        "Heparina não fracionada.",
+        "Fisioterapia.",
+        "Deambular.",
+        "Uso de meia compressiva."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Sobre as doenças pleuro-pulmonares, assinale a alternativa correta.",
+      "alternativas": [
+        "O pneumotórax traumático é uma complicação frequente dos traumas torácicos. Mais comumente causados no trauma contuso, laceração do parênquima pulmonar por costela fraturada, desaceleração ou barotrauma. O pneumotórax hipertensivo constitui-se numa situação de alto risco de vida, caracterizado por fluxo aéreo para o espaço pleural em um mecanismo de válvula, impedindo o retorno deste ar, gerando aumento da pressão intra-pleural, colapso pulmonar, deslocamento de mediastino e colapso cardiovascular, podendo levar o indivíduo a óbito se não ocorrer uma intervenção rápida.",
+        "O empiema pleural é definido como a presença de pus em espaço neoformado, com 3 fases evolutivas e características peculiares. Tem na drenagem cirúrgica o seu método terapêutico de escolha. Remover o pus, reexpandir o pulmão, obliterar o espaço pleural, reestabelecer a mobilidade diafragmática são alguns dos objetivos primordiais no manuseio do empiema pleural.",
+        "O abcesso pulmonar é a necrose do parênquima pulmonar causada por infecção. Nesta definição, incluem-se os espaços pré-existentes como cisto e bolhas pulmonares, que, ao se infectarem, apresentam quadro clinico semelhante e com manejo terapêutico similar. Os abcessos podem ser classificados em agudos e crônicos, baseados na sintomatologia e na duração.",
+        "Hemoptise é definida como expectoração de sangue com eliminação a partir de 100 ml. O pulmão é a principal fonte de sangramento, porém o sangramento da nasofaringe e gastrointestinal também são causas de hemoptise. Micobacterioses e micetomas são também causas de hemoptise.",
+        "Pectus excavatum, conhecido como peito de sapateiro ou síndrome de Poland, é uma deformidade por depressão do esterno e das cartilagens costais inferiores, eventualmente acompanhada de deformidade da extremidade anterior das costelas na sua articulação com as cartilagens costais."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Em relação à resposta hormonal ao estresse cirúrgico, é INCORRETO afirmar que:",
+      "alternativas": [
+        "A drenagem de cortisol está aumentada.",
+        "A drenagem de insulina está aumentada.",
+        "A drenagem de aldosterona está aumentada.",
+        "A drenagem de glucagon está aumentada."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Homem, 62 anos, com diagnóstico prévio de cirrose hepática secundária ao vírus da hepatite B, com endoscopia prévia que evidenciava varizes esofageanas, deu entrada no pronto atendimento com quadro de hematêmese. Ao exame encontra-se em regular estado geral, ictérico +/4+, hipocorado +/4+. afebril, taquicardico (FC 110 bpm) e com PA de 100 x 60 mmHg. Ausculta cardíaca e respiratórias normais. Abdome ascítico. Além das medidas de estabilização clínica, quais fármacos são melhor recomendados enquanto aguarda a realização de endoscopia digestiva alta?",
+      "alternativas": [
+        "Octreotide e propranolol",
+        "Vasopressina e albumina",
+        "Noradrenalina e lactulose",
+        "Terlipressina e ceftriaxone"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Uma mulher de 37 anos, sem comorbidades, realizou ultrassonografia abdominal para avaliação de dor pélvica bem localizada e mal caracterizada. O exame revelou cisto ovariano de médio tamanho, sem sinais de complicação/gravidade e colecistolitíase (cálculo único de 3cm), sem dilatação de vias biliares intra e extra-hepática. Sem outras queixas e achados relevantes ao exame físico. Em relação ao caso clínico acima, assinale a alternativa CORRETA:",
+      "alternativas": [
+        "Considerando que a sintomatologia deve se referir ao cisto ovariano, paciente só deve ser orientada em relação a este achado ecográfico.",
+        "Mesmo sendo a paciente jovem e assintomática, está formalmente indicada litotripsia extracorpórea no tratamento da litíase biliar.",
+        "Paciente deve ser orientada em relação à história natural da litíase biliar e, aos benefícios e riscos da colecistectomia videolaparoscópica.",
+        "Para se definir a melhor conduta, neste caso, é imprescindível a paciente realizar previamente colangiorressonância ou ecoendoscopia."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Acerca da profilaxia de tromboembolismo venoso (TEV) em pacientes internados, assinale a alternativa correta.",
+      "alternativas": [
+        "A profilaxia mecânica é mais eficaz do que a farmacológica em pacientes com alto risco de sangramento.",
+        "A enoxaparina deve ser administrada apenas em pacientes cirúrgicos de alto risco.",
+        "A profilaxia com heparina de baixo peso molecular reduz significativamente a mortalidade hospitalar em pacientes clínicos.",
+        "Pacientes com insuficiência renal grave devem receber heparina de baixo peso molecular em dose ajustada."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "O sistema de classificação de Borrmann para câncer gástrico foi descrito em 1926 e é utilizado para dividir o carcinoma gástrico em 05(cinco) tipos conforme sua característica macroscópica. A figura a seguir representa:",
+      "alternativas": [
+        "Tipo I",
+        "Tipo II",
+        "Tipo III",
+        "Tipo IV",
+        "Tipo v"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Uma paciente de 48 anos chega ao hospital com relato de vômitos frequentes há 1 dia, progredindo para dor intensa em região subesternal nas últimas horas. Com base no caso clínico e nos conhecimentos médicos correlacionados, julgue o item a seguir. Uma das hipóteses diagnósticas para essa paciente é a de ruptura esofágica associada à síndrome de Mallory-Weiss.",
+      "alternativas": [
+        "Certo.",
+        "Errado."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Uma paciente de 85 anos, cujas únicas comorbidades são diabetes e hipertensão arterial leves, procura o médico para consulta de rotina. Qual das medidas abaixo seria adequada para o caso?",
+      "alternativas": [
+        "Solicitar colonoscopia para screening de câncer colorretal",
+        "Solicitar mamografia para screening de câncer de mama",
+        "Manter níveis de HbAlc abaixo de 6,5%",
+        "Manter níveis pressóricos abaixo de 130x80 mmHg",
+        "Solicitar densitometria óssea para rastreio de osteoporose"
+      ],
+      "correta": 4
     }
   ]
 }
