@@ -310,6 +310,313 @@
         "Artéria umbilical"
       ],
       "correta": 1
+    },
+    {
+      "pergunta": "A resposta orgânica ao trauma, também conhecida como REMIT (Resposta Endócrino, Metabólica e Imunológica ao Trauma), é um conjunto de reações que o organismo desenvolve para manter a homeostasia. Na fase inicial da REMIT ocorrem várias alterações metabólicas e imunológicas e, portanto, é CORRETO afirmar:",
+      "alternativas": [
+        "A excreção de potássio na urina está reduzida devido à liberação aumentada de aldosterona.",
+        "A liberação do hormônio do crescimento está aumentada.",
+        "O lactato produzido perifericamente é convertido em glicose devido ao processo de glicogênese.",
+        "Observa-se aumento da síntese da albumina."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Paciente do sexo masculino de 20 anos de idade sofre acidente de moto e é levado ao pronto socorro. Foi constatado que ele sofreu um trauma cranioencefálico grave e foi intubado. Também foi diagnosticada uma fratura fechada na coxa e perna direita. Neste paciente, qual hormônio deverá estar com sua ação diminuída após algumas horas do acidente?",
+      "alternativas": [
+        "Insulina",
+        "Prostaglandinas",
+        "Cortisol",
+        "Aldosterona"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A citocina abaixo, que induz febre, promove a maturação e diferenciação de células B, estimula o eixo hipotalâmico-hipofisário-adrenal e induz síntese hepática de proteínas de fase aguda é denominada:",
+      "alternativas": [
+        "interleucina 2;",
+        "interleucina 3;",
+        "interleucina 4;",
+        "interleucina 5;",
+        "interleucina 6."
+      ],
+      "correta": 4
+    },
+    {
+      "pergunta": "Um paciente de 35 anos de idade foi admitido no pronto-socorro após um acidente automobilístico grave. Ele apresenta múltiplas fraturas, contusões e lacerações. O paciente está hemodinamicamente estável e consciente, mas exibe sinais evidentes de estresse metabólico. Na admissão, os sinais vitais apresentavam PA=110 mmHgx70 mmHg, FC=100 bpm, FR=22 irpm e temperatura =38,5°C. Ele realizou exames laboratoriais, os quais demonstraram hemograma com leucocitose, glicemia =200 mg/dL cortisol sérico elevado e insulina reduzida. Considerando a resposta endócrina e metabólica ao trauma apresentada, pelo paciente, qual é o principal mecanismo responsável pela elevação da glicemia?",
+      "alternativas": [
+        "Hiperinsulinemia secundária ao estresse",
+        "Aumento da sensibilidade à insulina",
+        "Liberação de catecolaminas e cortisol",
+        "Supressão da produção hepática de glicose"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A respeito das implicações imunológicas referentes ao caso de um paciente politraumatizado de 60 anos, hipertenso e diabético, que evoluiu com pneumonia, infecção e óbito, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "Há disfunção endotelial relacionada ao trauma e perda sanguínea, com liberação de fatores moleculares associados ao trauma (DAMPs) que resultam em ativação do complemento e do sistema imune celular, resultando em grande produção de citocinas, inflamação sistêmica e lesão tecidual à distância.",
+        "O ácido tranexâmico, frequentemente indicado em pacientes em estado de choque hemorrágico por trauma, parece ter efeito imunomodulador pela inibição da fibrinólise e menor ativação do complemento.",
+        "Durante a SIRS, caso se compensem as comorbidades existentes, o idoso traumatizado passa a ter o mesmo prognóstico de pacientes jovens expostos a trauma e perda sanguínea.",
+        "Antibioticoprofilaxia, evitar o uso de colóides sintéticos à base de amido na ressuscitação volêmica e o uso restritivo de concentrado de hemácias provavelmente diminuiriam os efeitos da SIRS neste paciente."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A Resposta Endócrino, Metabólica e Imunológica ao Trauma (REMIT) refere-se ao conjunto de reações desenvolvidas pelo organismo para tentar manter a homeostasia em circunstâncias relacionadas, como traumas de etiologias diversas, e desencadeadas por vários componentes, tais como perda sanguinea, lesão tecidual, ansiedade e dor. Considerando tal contexto, assinale a alternativa que apresente uma alteração esperada na fase aguda da REMIT.",
+      "alternativas": [
+        "aumento do sódio urinário",
+        "redução da aldosterona",
+        "aumento da secreção de GH (growth hormone)",
+        "aumento da secreção de insulina"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A resposta inflamatória ao trauma se traduz como um mecanismo decisivo para a sobrevivência em situações de estresse metabólico. Envolve a interrelação entre o sistema nervoso, imunológico, endócrino e circulatório. Classicamente esta resposta é dividida em 2 fases. Sobre tais fases, é correto afirmar que",
+      "alternativas": [
+        "na primeira fase, denominada \"Flow Fase\", as alterações do metabolismo decorrem do aumento da secreção e atividade de interleucinas, catecolaminas, corticosteroides e hormônios do crescimento.",
+        "a segunda fase, denominada \"Shock Fase\", apresenta como marco laboratorial a hipoinsulinemia.",
+        "na chamada \"Ebb Fase\" ocorre redução do consumo de O2 e a necessidade nutricional é baixa. Ela corresponde a primeira fase pós-trauma.",
+        "próximo ao terceiro dia pós-trauma, observa-se neutrofilia transitória provavelmente pela migração de neutrófilos para os tecidos lesados.",
+        "o processo de migração dos neutrófilos obedecem a seguinte ordem: adesão, rolamento e extravasamento."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Em relação à resposta endócrina e metabólica ao trauma, assinale a alternativa correta.",
+      "alternativas": [
+        "O hormônio antidiurético (ADH) diminui nos estágios iniciais do trauma, contribuindo para a retenção de água e redução da diurese.",
+        "A concentração de insulina no sangue tende a aumentar após o trauma, promovendo o catabolismo de glicose para garantir um suprimento contínuo de energia.",
+        "A produção de hormônio do crescimento (GH) diminui após o trauma, reduzindo a síntese de proteínas e o crescimento celular.",
+        "O hormônio tireoidiano (T3 e T4) permanece inalterado durante o trauma, uma vez que não é afetado por respostas ao estresse.",
+        "O hormônio cortisol é liberado em resposta ao trauma, ajudando a mobilizar energia através da gliconeogênese e da lipólise."
+      ],
+      "correta": 4
+    },
+    {
+      "pergunta": "O estresse metabólico, ao qual qualquer indivíduo é submetido em todo contexto de insulto, seja ele traumático ou cirúrgico, respeita um padrão de resposta fisiológico. No contexto do trauma, entende-se que a resposta ao estresse é, em sua maioria, dividida em diferentes fases de elevada importância. Em paciente vítima de esmagamento dos membros inferiores por acidente automobilístico é CORRETO afirmar:",
+      "alternativas": [
+        "A fase de refluxo (ebb) inicia-se precocemente, onde podemos observar um quadro hipodinâmico.",
+        "A liberação do hormônio do crescimento durante o início da fase de fluxo (Flow) irá aumentar a síntese protéica.",
+        "Aminoácidos glicogênicos como a leucina e lisina serão liberados pelos músculos para participarem da gliconeogênese.",
+        "Ocorre liberação imediata de interleucina-10 que tem potente ação inflamatória"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Durante uma cirurgia de emergência, um paciente apresenta uma lesão perfurante no estômago. Após a realização da sutura da lesão, observa-se que o paciente apresenta uma elevação da glicemia e uma diminuição da lipólise em relação ao estado basal préoperatório. Essa resposta fisiológica pode ser explicada pela liberação do seguinte hormônio:",
+      "alternativas": [
+        "Insulina.",
+        "Glucagon.",
+        "Epinefrina.",
+        "Cortisol."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Durante a visita a um paciente que está no primeiro pós-operatório de uma gastrectomia parcial, nota se que o paciente encontra se sonolento e pouco comunicativo. Está com sonda vesical e nasogástrica com drenagem considerável. O médico assistente, informa aos familiares que provavelmente o paciente encontra se no período pós-operatório e que trata se de uma resposta do organismo ao trauma cirúrgico. Provavelmente, este paciente encontra se em:",
+      "alternativas": [
+        "Fase anabólica e a sonolência é causada pela ação duradoura dos anestésicos endovenosos;",
+        "Fase catabólica e a sonolência é causada pela ação dos hormônios tiroidianos e somatostatina;",
+        "Fase anabólica e a sonolência é causada pela ação dos opioides e hidratação no intra-operatório.",
+        "Fase catabólica e a sonolência é causada pela ação do hormônio antidiurético e sistema renina-angiotensina-aldosterona;"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Em relação à resposta hormonal ao estresse cirúrgico, é INCORRETO afirmar que:",
+      "alternativas": [
+        "A drenagem de cortisol está aumentada.",
+        "A drenagem de insulina está aumentada.",
+        "A drenagem de aldosterona está aumentada.",
+        "A drenagem de glucagon está aumentada."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Um paciente de 14 anos, submetido à uma laparatomia exploradora devido à apendicite aguda fase 4, evoluiu no primeiro pós-operatório com intensa resposta inflamatória sistêmica. Nesse caso, quais citocinas pró-inflamatórias estarão elevadas durante esta resposta?",
+      "alternativas": [
+        "TNF-alfa, Interleucina-1 e Interleucina-6.",
+        "TNF-beta, Interleucina-4 e Interleucina-10.",
+        "Interferon-gama, TNF-beta e Interleucina-4.",
+        "Fator transformador de crescimento Beta, Interleucina-5 e Interleucina-10.",
+        "PDGF, FGF, TNF-alfa."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Quais as alterações esperadas para um paciente vítima de acidente automobilístico, com trauma torácico e contusão pulmonar, associado a trauma hepático grau III e esplênico grau IV, considerando a resposta endócrino metabólica secundária ao trauma, especificamente na fase \"flow precoce\"?",
+      "alternativas": [
+        "Poliúria, com alta densidade urinária excreção aumentada de potássio e retenção de sódio.",
+        "Poliúria, com baixa densidade urinária, excreção aumentada de cloro e retenção de magnésio.",
+        "Poliúria, com alta densidade urinária, excreção aumentada de sódio, retenção de potássio.",
+        "Oligúria, com alta densidade urinária, excreção aumentada de potássio e hidrogênio e retenção de sódio.",
+        "Oligúria, com baixa densidade urinária, retenção de potássio e de sódio."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Sobre a resposta endócrino-metabólica observada após uma injúria cirúrgica, é correto afirmar, exceto:",
+      "alternativas": [
+        "As lesões teciduais resultam em acúmulo de mediadores químicos e celulares, no local da injúria, e em estímulos nociceptivos, que deflagram impulsos neuronais aferentes, sendo ambos responsáveis pela ativação do sistema nervoso simpático, aumento da secreção de hormônios hipofisários e produção de citocinas pró-inflamatórias.",
+        "As mudanças na secreção de hormônios e mediadores humorais, em resposta à injúria, geram alterações secundárias na secreção de outros mediadores em órgãos-alvo, como adrenais, pâncreas, rins e fígado.",
+        "Embora a resposta orgânica seja essencial para garantir a homeostase após o trauma cirúrgico, reações exacerbadas podem levar a complicações pós-operatórias, tempo prolongado de recuperação e óbito.",
+        "A modulação da resposta metabólica ao trauma cirúrgico é fundamental para minimizar complicações pós-operatórias e garantir a adequada recuperação dos pacientes.",
+        "Programas estabelecidos, visando rápida recuperação pós-operatória de pacientes submetidos a cirurgias eletivas, combinam o uso de anestesia inalatória, técnicas cirúrgicas minimamente invasivas, adequado controle da dor, suporte nutricional e deambulação precoce."
+      ],
+      "correta": 4
+    },
+    {
+      "pergunta": "Os mecanismos endócrinos, metabólicos e imunológicos usados pelo organismo são importantes para a resposta à lesão tecidual, porém essa mesma resposta, se desregulada, pode levar a morbidade e complicações potencialmente fatais. O conhecimento sobre o equilíbrio entre fatores anabólicos e catabólicos e seus processos reguladores são de fundamental importância para obter bons resultados clínicos em pacientes cirúrgicos. Acerca do tema, é correto afirmar que:",
+      "alternativas": [
+        "A resposta inflamatória à injúria traumática é caracterizada inicialmente por aumento da permeabilidade vascular, edema e resposta celular em que predomina a ação de neutrófilos.",
+        "A resposta hipotalâmica ao trauma implica em supressão do eixo renina-angiotensinaaldosterona:",
+        "Com o intuito de aumentar o efeito anabólico para reparo tecidual nas fases iniciais, ocorre aumento da ação da insulina e, por conseguinte, hipoglicemia.",
+        "A ação anti-inflamatória de citocinas como IL-1 e TNF-alfa são observadas mais tardiamente na resposta imune ao trauma"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Um senhor de 45 anos está no primeiro pós-operatório de gastrectomia total por uma lesão neoplásica, sem acometimento de outros órgãos. Durante a visita, encontra se sonolento, pouco atento ao meio externo. A sonda nasogástrica drenou 250 ml e possui apenas um débito de 800 ml na sonda vesical, com diurese concentrada. Com relação às fases do pós-operatório, podemos afirmar que este paciente encontra se em:",
+      "alternativas": [
+        "Fase Anabólica e estas alterações acontecem em função da ação do Hormônio Antidiurético e Sistema Renina-Angiotensina",
+        "Fase Catabólica e estas alterações acontecem em função da ação do Hormônio Antidiurético e Sistema Renina-Angiotensina",
+        "Fase Catabólica e as alterações são decorrentes da ação do Cortisol e diminuição da concentração da Insulina",
+        "Fase Anabólica e as alterações são decorrentes da ação do Cortisol e Aumento da concentração da Insulina"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Mulher, 58 anos, submetida à gastrectomia total por adenocarcinoma de fundo gástrico. No pós-operatório imediato, foi encaminhada para a UTI e coletados os seguintes exames laboratoriais: Leucograma 10400, Hb 9,7, Ht 32%, pH 7,21, pCO2 27, HCOs 14, LAC 2,4. No primeiro dia de pós-operatório, encontrava-se consciente, orientada, eupneica, corada, sem dor abdominal, diurese 1,1ml/kg/h, balanço hídrico +1700ml e com os seguintes exames laboratoriais: Leucograma 16500 Hb 7,8 HT 23,4% pH 7,37 pCO2 31 HCO3 21 LAC 1,1. Assinale a alternativa CORRETA sobre a paciente em questão.",
+      "alternativas": [
+        "A queda de hematócrito e hemoglobina sem repercussão clínica pode ser explicada pelo balanço hídrico positivo e redistribuição sanguínea. Não significa hemorragia ativa",
+        "Como o bicarbonato era abaixo de 15 no pós-operatório imediato, havia indicação de reposição.",
+        "O leucograma aumentado no primeiro dia de pós-operatório significa um processo infeccioso incipiente.",
+        "Uma vez que o paciente apresenta acidose respiratória no pós-operatório imediato, é necessário instituir ventilação não invasiva.",
+        "O clearance do lactato é de extrema importância para o manejo pós-operatório adequado, devendo ser alcançado nas primeiras 12h, sobretudo em cirurgias hepáticas."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "A resposta inflamatória ocorre após a invasão por bactérias com lesão direta ou em resposta ao estresse sistêmico. Múltiplas vias celulares funcionam simultaneamente na tentativa de limitar mais lesões e levar à cura. Há uma célula que é um potente mediador da inflamação aguda e, frequentemente, é a primeira a ser recrutada em resposta à lesão e infecção. Essa célula chama-se:",
+      "alternativas": [
+        "célula B",
+        "célula T",
+        "neutrófilo",
+        "macrófago"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "O fator de necrose tumoral é uma das citocinas liberadas no trauma. Um de seus efeitos sistêmicos é o(a):",
+      "alternativas": [
+        "hipertensão arterial",
+        "hipocortisolemia",
+        "hipotermia",
+        "anorexia"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Durante a resposta metabólica ao trauma cirúrgico, o organismo utiliza a glicogenólise hepática para ofertar glicose aos órgãos vitais. Esse mecanismo é fugaz e dura por 48h. Em seguida, a gliconeogênese converte não carboidratos em glicose. Qual das substâncias abaixo NÃO pode se transformar em glicose através da gliconeogênese?",
+      "alternativas": [
+        "Glicerol",
+        "Lactato",
+        "Ácidos graxos",
+        "Alanina",
+        "Prolina"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "A REMIT (Resposta Metabólica e Imunológica ao Trauma) é uma tentativa de manutenção da homeostase corpórea frente a um traumatismo orgânico sistêmico. No que diz respeito a essa condição, é correto afirmar:",
+      "alternativas": [
+        "os hormônios que promovem o catabolismo estão com níveis séricos aumentados, com destaque para a insulina.",
+        "o cortisol apresenta-se aumentado, com consequente anabolismo proteico incrementado.",
+        "o ADH pode se elevar até 50 vezes de seu valor basal e atua na reabsorção de água e vasoconstricção esplâncnica.",
+        "essa condição gera expressivo aumento de citocinas anti-inflamatórias e consequente diminuição de citocinas pró-inflamatórias.",
+        "REMIT é uma resposta a grandes insultos, como cirurgias de grande porte, politraumatismos e grandes queimaduras, não sendo recomendada a reposição volêmica inicial."
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Sobre a resposta metabólica ao trauma, marcar C para as afirmativas Certas, E para as Erradas e, após, assinalar a alternativa que apresenta a sequência CORRETA: () O corpo humano responde ao trauma cirúrgico e à doença crítica de uma maneira complexa, com o objetivo de prover energia para os reparos, proteger o organismo de infecções e preservar funções vitais. () As reservas de glicose, via glicogênio, são consumidas nas primeiras 24 horas em pacientes críticos; por isso, o organismo utiliza aminoácidos, lactato e piruvato para produzir glicose, através da glicogenólise. () A insulina está diminuída nessas condições, e existe uma resistência à insulina periférica mediada, principalmente, por epinefrina e glicocorticoides.",
+      "alternativas": [
+        "C - E - C",
+        "E - C - C",
+        "C - C - E",
+        "C - E - E"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Durante a visita na enfermaria cirúrgica, o médico assistente está diante de um paciente que se encontra no primeiro pós-operatório de uma colectomia parcial por um tumor carcinoide. O paciente encontra-se apático e pouco comunicativo. Com baixa diurese e ruídos hidroaéreos ausentes. Diante destes achados, podemos afirmar que:",
+      "alternativas": [
+        "O paciente encontra-se na fase anabólica e os achados clínicos estão relacionados com o aumento do hormônio Cortisol.",
+        "O paciente encontra-se na fase catabólica e os achados clínicos correspondem ao aumento dos hormônios ADH, Renina e Angiotensina.",
+        "O paciente encontra-se na fase catabólica e os achados clínicos estão relacionados ao aumento do Glucagon e diminuição da Insulina.",
+        "O paciente encontra-se na fase anabólica e os achados clínicos estão relacionados ao aumento do hormônio ACTH, Glucagon e Cortisol."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Várias alterações endócrino-metabólicas ocorrem imediatamente após o trauma cirúrgico. Em paciente submetido a cirurgia de grande porte, prolongada e com grande perda sanguínea, assinale a alternativa que apresenta CORRETAMENTE a alteração metabólica esperada:",
+      "alternativas": [
+        "Excreção urinária de nitrogênio em torno de 5 gramas ao dia.",
+        "Hiperglicemia decorrente principalmente, da liberação de aminoácidos cetogênicos.",
+        "Liberação aumentada de ácidos graxos livres que serão utilizados na gliconeogênese.",
+        "Redução da produção de proteínas de fase aguda como a albumina."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "No estado de pós-operatório, o paciente apresenta alterações hormonais referentes à resposta endócrino metabólica e imunológica ao trauma (REMIT). Entre elas, estão a elevação do glucagon, ACTH e cortisol e a redução da insulina, o que torna os pacientes em pós-operatório com controles glicêmicos mais elevados.",
+      "alternativas": [
+        "Certo.",
+        "Errado."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Num pós-operatório de uma cirurgia de grande porte, faz parte da resposta metabólica ao trauma:",
+      "alternativas": [
+        "Aumento do cortisol circulante.",
+        "Hipoglicemia.",
+        "Aumento da tiroxina.",
+        "Redução da secreção de Hormônio antidiurético."
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Inicia-se uma colectomia direita por neoplasia de ceco, com acesso por laparotomia, numa paciente de 50 kg. A previsão é que a operação dure 3 horas. O valor estimado de cristaloide que deve ser infundido para repor as perdas insensíveis intraoperatórias é de",
+      "alternativas": [
+        "1.000 mL.",
+        "750 mL.",
+        "500 mL.",
+        "250 mL."
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Dado o evento desencadeante da resposta metabólica, inicia-se uma série de alterações () com a ativação do eixo (). A partir daí, ocorre o estímulo ou a inibição à produção de determinados (), cujos objetivos finais serão o aumento da oferta de() e a",
+      "alternativas": [
+        "Neurológicas / suprarrenal/hormônios / glicose / vasoconstrição.",
+        "Endócrinas / hipotalâmico / nutrientes / sangue / vasodilatação.",
+        "Sistêmicas / hipotalâmico-hipofisário-suprarrenal/nutrientes / sangue / vasodilatação.",
+        "Neuroendócrinas / hipotalâmico-hipofisário-suprarrenal / hormônios / nutrientes / vasoconstrição."
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Em relação à resposta endocrinometabólica ao trauma cirúrgico, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        "Os ácidos graxos livres são fontes primárias de energia após o trauma, a lipólise é acelerada no período inicial devido ao aumento na liberação do hormônio adrenocorticotrófico, cortisol, catecolaminas, glucagon, hormônio do crescimento e níveis séricos de insulina.",
+        "A resposta metabólica ao estresse é mediada por hormônios catabólicos como o glucagon, catecolaminas e corticosteroides e pela resistência insulínica, bem como por citocinas, radicais livres de oxigênio e outros mediadores locais que também estão envolvidos nesse processo.",
+        "A principal alteração metabólica que surge em resposta à injúria traumática é o aumento no efeito anabólico da insulina acompanhado de resistência insulínica nos tecidos periféricos.",
+        "O estresse cirúrgico resulta em alterações no metabolismo proteico corporal total, caracterizado por um aumento no catabolismo proteico, balanço negativo de nitrogênio e aumento do \"turnover\" proteico"
+      ],
+      "correta": 0
     }
   ]
 }
